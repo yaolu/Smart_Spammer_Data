@@ -1,0 +1,161 @@
+inline assembly
+#assembly# fpu
+分享 FictionJunction YUUKA 的单曲《荒野流転 (full Sizu Mix)》（来自豆瓣FM-#創聖のアクエリオン(オープニングテーマ) MHz#） （分享自 @豆瓣FM） http://t.cn/RvmfT5L
+Extended ASM format
+#resteasy# #logger# RESTEasy目前支持三种Logger：JUL, LOG4J, SLF4J
+#resteasy# RESTEasy用于判定运行环境中所使用的Logger的方法
+RESTEasy的Logger Type在启动时确定，具体代码位于ConfigurationBootstrap#createDeployment
+Bashの擬似シグナルを使ったデバッグ方法 http://t.cn/RvuB54p
+#bash# Trap, ERR, and echoing the error line http://t.cn/RvuBS0b
+#bash# 使用ERR信号及trap来捕捉所有非正常返回。
+分享 Herbert von Karajan 的单曲《B. Smetana - The Moldau from 'My Fatherland'》（来自豆瓣FM-#回音壁※终章 MHz#） （分享自 @豆瓣FM） http://t.cn/RvuDOlK
+How to make bash scripts print out every command before it executes? http://t.cn/zOF4ZNb
+分享 James Last 的单曲《A Morning In Cornwall》（来自豆瓣FM-#回音壁※终章 MHz#） （分享自 @豆瓣FM） http://t.cn/Rv1cSqS
+分享 Julio Iglesias 的单曲《La Paloma》（来自豆瓣FM-#回音壁※终章 MHz#） （分享自 @豆瓣FM） http://t.cn/Rv1cjJm
+分享 Simon & Garfunkel 的单曲《El Condor Pasa》（来自豆瓣FM-#回音壁※终章 MHz#） （分享自 @豆瓣FM） http://t.cn/Rv1f3IX
+Tomcat的JMX接口 http://t.cn/Rv1O1iA
+MBeans and Tomcat: A HOWTO Guide for Managing YOUR Application http://t.cn/htbJlv
+#tomcat# storeconfig通过StoreConfigLifecycleListener把自己注册进Tomcat的MBeanServer当中。
+JMX試す(4) コンソールアプリを監視する http://t.cn/Rv1QU1s
+#tomcat# 一些MBean的入口
+#java# 使用jad来快速查看class文件的源代码很方便。
+#tomcat# 在StandardServer中有使用StoreConfig的代码。
+#tomcat# 在Tomcat中注册storeconfig：1. lib中添加相关jar 2. server.xml中注册Listener 3. jconsole中调用
+#tomcat# 触发storeconfig方法后: 1. runtime配置写入server.xml 2. 旧的serverl.xml被保存 3. 服务器重启
+#tomcat# 触发storeconfig方法后: 1. runtime配置写入server.xml 2. 旧的serverl.xml被保存 3. 服务器重启
+#ruby# 使用String#unpack来做16进制数据的辅助分析真的很方便。
+在bugzilla上有人问起debuginfo的使用方法，于是做了解答。
+NULL POINTER空指针安全漏洞 - 排骨藕汤 - ITeye技术网站 http://t.cn/RvBgMgh
+分享 London Symphony Orchestra / James Homer 的单曲《A Gift of a Thistle》（来自豆瓣FM-#回音壁※终章 MHz#） （分享自 @豆瓣FM） http://t.cn/Rvr2fsG
+分享 Johnny Cash 的单曲《Personal Jesus》（来自豆瓣FM-#回音壁※终章 MHz#） （分享自 @豆瓣FM） http://t.cn/RvrxFjb
+suid
+分享 Modern Talking 的歌曲《You're My Heart, You're My Soul》http://t.cn/hDHOJt（分享自 @虾米音乐） http://t.cn/RvrrDfS
+左脚青春 右脚时尚——致我们终将买到的滑板鞋  (豆瓣乐评 - 关于专辑《我的滑板鞋》) http://t.cn/Rv1OnnW
+lseek failed if the file is smaller than eight bytes. http://t.cn/RvdEwUt
+32bit下正常工作的代码到了64bit下编译出来的代码不正确。好多函数移植后都有了"64"的后缀。比如lseek必须用lseek64来替换，否则就会如strace中看到的这样，一个负数变成了超大的正数。
+ftp://gcc.gnu.org/pub/gcc/summit/2003/Porting%20to%2064%20bit.pdf Porting to 64-bit GNU/Linux Systems
+我上传了“Porting to 64 bit.pdf”文件到#新浪微盘# http://t.cn/Rvd1NAY Porting to 64-bit GNU/Linux Systems
+glibc里面各平台的汇编代码是很好的学习素材。
+#macos# MacOS的aio通过xnu kernel thread来实现。详见xnu代码：http://t.cn/Rvd13LF xnu简介：http://t.cn/aO8Qqv
+分享 Ordo Funebris 的单曲《A Witches Song》（来自豆瓣FM-#Of A Might Divine MHz#） （分享自 @豆瓣FM） http://t.cn/RvgiKe2
+Module Compatible Classloading Guide http://t.cn/Rvgp2vS
+#java# ServiceLoader is a simple service-provider loading facility. http://t.cn/8kub6fW
+分享 Blackmore's Night 的单曲《Streets Of London》（来自豆瓣FM-#Of A Might Divine MHz#） （分享自 @豆瓣FM） http://t.cn/RvgWiua
+分享 Faun 的单曲《Andro》（来自豆瓣FM-#Of A Might Divine MHz#） （分享自 @豆瓣FM） http://t.cn/RvgjYrD
+Concurrent Ajax http://t.cn/RveopCS
+分享 Empyrium 的单曲《Waldpoesie》（来自豆瓣FM-#Andro MHz#） （分享自 @豆瓣FM） http://t.cn/RvDzAV7
+#wildfly# WildFly中支持RESTEasy Spring的代码为JaxrsSpringProcessor http://t.cn/RvDexDW 其中使用了不少JBoss VFS相关的东西。有关WildFly与Spring框架的解决方案，可以关注JBoss Snowdrop这个项目：http://t.cn/RvDexD0
+#resteasy# RESTEasy的各种Value Injector
+分享 Ulver 的单曲《Utreise》（来自豆瓣FM-#Of A Might Divine MHz#） （分享自 @豆瓣FM） http://t.cn/RvstnHp
+#resteasy# RESTEasy用来匹配URL的一套Class
+#resteasy# ClassExpression把Resource Class对应的@Path转换成所需regexp。
+#resteasy# SegmentNode中的match方法将用户请求匹配至相关的ResourceInvoker
+#resteasy# ResteasyUriInfo 用于保存路径匹配相关信息。
+#resteasy# PathSegment代表匹配到的路径信息，保存在ResteasyUriInfo当中。
+#resteasy# ResourceClass代表用户写的WebService资源类，封装在ResourceFactory中。ResourceClass由ResourceBuilder创建。
+#resteasy# 在ResteasyMethodRegistry中，通过register方法做两件事：1. 将Path匹配至ResourceClass的相关Method 2. 为输入输出的不同类型绑定相关的Injector。
+#resteasy# ResourceBuilder这一族工具就是用来把用户写的Class给封装成ResourceClass。ResourceClass及相关meta类用于描述用户的Class。
+#resteasy# ResourceBuilder这一族工具就是用来把用户写的Class给封装成ResourceClass。ResourceClass及相关meta类用于描述用户的Class。 http://t.cn/Rvs14OH
+The AccessibleObject class is the base class for Field, Method and Constructor objects. http://t.cn/RvsrthM
+#java# AccessibleObject 及其一族的反射类
+Reified Generics for Java http://t.cn/RPv4cXI
+java type erasure vs. Field#getGenericType and Method#getGenericReturnType http://t.cn/RPvbn6f
+java type erasure vs. Field.getGenericType and Method.getGenericReturnType http://t.cn/RPvbn6f
+A Guide to Developing OSGi applications with Osmorc in IntelliJ IDEA http://t.cn/RPvmeFp
+IntelliJ中配置OSGi开发环境：1. 下载Apache Felix 2. 配置进IntelliJ 3. 在项目的Runtime Configuration中使用。
+IntelliJ中配置OSGi开发环境：1. 下载Apache Felix 2. 配置进IntelliJ 3. 在项目的Runtime Configuration中使用。
+IntelliJ中配置OSGi开发环境：1. 下载Apache Felix 2. 配置进IntelliJ 3. 在项目的Runtime Configuration中使用。
+#java# InputStream的available方法是一个比较经典的坑 http://t.cn/RPhhWbC ”The available method for class InputStream always returns 0.”
+Creating patch from GitHub pull request http://t.cn/RPhVCq1
+#resteasy# DataSourceProvider用于接受用户传入的File，亮点是它借用javax.activation.DataSource来实现数据处理。
+分享 Alondra Bentley 的单曲《Giants Are Windmills》（来自豆瓣FM-#Alondra Bentley 系 MHz#） （分享自 @豆瓣FM） http://t.cn/RP7IoJI
+分享 Mary Hopkin 的单曲《The Fields Of St. Etienne》（来自豆瓣FM-#Alondra Bentley 系 MHz#） （分享自 @豆瓣FM） http://t.cn/RP7ITGq
+#resteasy# DataSourceProvider#readDataSource / RESTEasy读入文件的方法就是零存整取，读进来的部分存进临时文件，接收完后服务端保存一份完整的临时文件后续处理。
+#resteasy# 为ResourceMethod注册ValueInjector的流程
+#resteasy# ServerResponse返回数据流程
+#resteasy# HttpServletDispatcher是RESTEasy的servlet容器入口
+#resteasy# org.jboss.resteasy.core.ServerResponse.writeTo(HttpRequest, HttpResponse, ResteasyProviderFactory).jpg http://t.cn/RP78fBJ
+#resteasy# HttpContextBuilder.bind方法是resteasy sun jdk httpserver的入口。
+分享 Estatic Fear 的单曲《Chapter I》（来自豆瓣FM-#私人兆赫#） （分享自 @豆瓣FM） http://t.cn/8spUCnp
+org.jboss.resteasy.spi.ResteasyDeployment.start() 是RESTEasy本身的入口，可接入各种容器如Servlet容器Tomcat，Netty或是sun jdk httpserver（3.x中新加入了对Undertow的接入）。http://t.cn/RP7ErL8
+RESTEasy容器核心Class：ResteasyDeployment，ResteasyProviderFactory，Dispatcher, Registry
+RESTEasy容器核心Class：ResteasyDeployment，ResteasyProviderFactory，Dispatcher, Registry http://t.cn/RP7mh64
+这种放大招bug基本上能影响一大片的开源项目：HTTPCLIENT-1340 Connection re-used in a inconsistent state despite 'Connection: close' after successful authentication http://t.cn/RP7kLOw
+分享暗号大老爷的节目 《loop》（来自豆瓣音乐） http://t.cn/RPzMUmL
+日本怀旧动漫-名人故事 http://t.cn/RPzJYoI
+Apacheでユーザー認証を行うには（Digest認証編） http://t.cn/RPzKUHk
+Make emacs run in console mode (-nw) by default http://t.cn/RPzKcH7
+AuthDigestFileって無くなったんですよね？ http://t.cn/RPzKYWV
+Testing basic http authenticaation with digest using curl http://t.cn/RPz9vad
+HTTP Digest
+New Mac Pros support AMD's CrossFire GPU teaming, but currently only within Windows http://t.cn/RPz96bi
+HTTP Digest: Client reply
+#intellij# #osgi# 1. 下载Apache Felix 2. 在IntelliJ中配置OSGi Framewor 3. 添加osgi项目本身做为bundle 4. 在IntelliJ中运行bundle。
+#osgi# #felix# Felix#registerService 实现 BundleContext.registerService() 其中Felix的Util#loadClassUsingClass比较有趣。 http://t.cn/RPZafJq
+#osgi# #felix# Felix.registerService 实现 BundleContext.registerService() 其中Felix的Util类可以看看。 http://t.cn/RPZafJq
+好友 @薜萝衣  的新书《临水照花人》 (来自豆瓣) http://t.cn/RPZJuHR
+-bash: /bin/rm: Argument list too long と言われる場合は xargs を使う http://t.cn/RPZa38C
+"Argument list too long": Beyond Arguments and Limitations http://t.cn/75uhp
+rfc1847 Security Multiparts for MIME: Multipart/Signed and Multipart/Encrypted http://t.cn/RPZSa2G
+#osgi# Felix的容器设计得很简洁 http://t.cn/RPZoAQ0
+#http# 一条完整的smime请求数据。
+Java Security: Illegal key size or default parameters? http://t.cn/zlo3pdT
+Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 7 Download http://t.cn/RPZWzAB 只有安装了这个包，才可以做高强度加密。
+分享 阿牛 的单曲《星星亮了》（来自豆瓣FM-#私人兆赫#） （分享自 @豆瓣FM） http://t.cn/RPZW2D1
+分享 林志炫 的单曲《只为你唱》（来自豆瓣FM-#星星亮了 MHz#） （分享自 @豆瓣FM） http://t.cn/RPwL4dV
+分享 纪如璟 的单曲《一江水》（来自豆瓣FM-#星星亮了 MHz#） （分享自 @豆瓣FM） http://t.cn/RPwMENW
+httpcomponents的版本依赖关系有点奇葩
+这两个补丁造成Wildfly的test suite过不去，找时间fix一下：[HTTPCLIENT-1349] SSLSocketFactory incorrectly identifies key passed with keystore as the keystore password. / [HTTPCLIENT-1346] Ensure propagation of SSL handshake exceptions.
+#wildfly# 这个patch虽然最后很简单，但解决过程却是一波三折：http://t.cn/RPA5nFg
+Wildfly用的测试证书以及相关密码：http://t.cn/RPAtpQD
+#wildfly# testsuite/integration/basic/src/test/resources/security/server.keystore 默认密码'changeit'。这个密码有点像“打死我也不说”。
+#wildfly# auditlog/client.keystore 的密码是123456
+GSSAPI http://t.cn/RPAJNUC SPNEGO http://t.cn/hdJwNg
+JAX-RS chunked input
+喜欢星际穿越的可以看看这三部
+分享 Hans Zimmer 的专辑《Interstellar (Original Motion Picture Soundtrack)》 （分享自 @虾米音乐） http://t.cn/RzzniBD
+The ``Clockwise/Spiral Rule'' http://t.cn/amr13e #langc#
+kill -CONT / -STOP #langc#
+strsignal() #langc# #linux#
+sigsuspend #langc# #linux#
+Bug 438170 - strsignal generates segmentation fault on x86_64 (edit) http://t.cn/RzbEboW
+blocked signal #linux# #langc#
+mvn help:active-profiles
+声音＋视频转发。
+rfc5234只有16页，读起来很快。
+ListLogPlot #mathematica#
+#bash#
+#aria2c#
+#aria2c#
+wget的return code没有aria2设计得合理
+http://t.cn/RzCAth0 #bash#
+#bash#
+PatchELF is a simple utility for modifing existing ELF executables and libraries http://t.cn/RzT8deS
+#patchelf#
+#readlink#
+chrpath和patchelf都可以修改rpath。此外，$ORIGIN挺实用的
+分享图片
+#bash#
+karabiner可以进一步让macos的快捷键设置更方便。
+#python# Pygment
+#linker#
+分享 手嶌葵 的歌曲《The Rose》  http://t.cn/R7bmNOZ（分享自 @虾米音乐）
+分享 手嶌葵 的歌曲《What Is A Youth》  http://t.cn/R7V0kZA（分享自 @虾米音乐）
+#color#
+#fhs#
+#ed#
+分享图片
+#vpath#
+#autoscan#
+#systemd# default targets
+#bash#
+#bash# noclobber
+#ed#
+#linux# system-switch-displaymanager
+分享图片
+awk script generated by config.status
+http://t.cn/RZ2Vbit Augmented BNF for Syntax Specifications: ABNF 写得很好的一篇RFC文档。
+与自己和解，范晓萱的每一个“当下” http://t.cn/RZhQU8m
+喜欢kde，简简单单就好
+#automake# distcheck
+なるほど

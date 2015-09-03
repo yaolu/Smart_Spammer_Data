@@ -1,0 +1,161 @@
+《使用libgdx开发Android游戏（1）：一天内创建工作原型》在本文中，我会间接的讲解构建一个游戏引擎和组件的模块，而且我将演示如何使用libgdx库快速开发一个游戏原型。http://t.cn/Rv8w9ka （@鲁猛-lum 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《Layout Inflation不能这么用》LayoutInflater这个对象在Android的SDK中很常见，但是你绝对没想到竟然能够找到一个使用误区。说不定你的App里就是这么用的！http://t.cn/Rv8H2n9 （@yflai01110111 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《使用libgdx开发Android游戏（2）——动画》我们之前已经做了一个最基本的游戏世界，并且在这个世界里可以通过方向键和触摸动作来控制Bob前进后退。这篇文章我们为这个角色的移动增加一些更真实的动画和动作。http://t.cn/Rvnx4si （zerob13 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《谷歌禁止厂商定制Android汽车和手表平台》谷歌很久以前就丧失了Android智能手机系统的界面控制权，所以他们此次吸取教训，不再允许OEM厂商对可穿戴设备、娱乐设备和车载设备的Android系统进行定制。http://t.cn/Rvnpp7X
+《Android开发贴士集合（5）》近期的项目中本人已经每天发表一个关于Android的类和方法的小贴士，很多读者要求整理出这些小贴士的链接归档，所以每隔几周我都会总结一下。本文是系列的最后一篇。http://t.cn/Rvut17G （JerrySher 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《Android每周热点第二十一期》Android热点回顾第二十一期。每期的Android热点回顾包括：文章、教程、函数库、代码和新闻。http://t.cn/Rvut1jV （@bournechen 翻译整理，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《如何在Android中实现悬浮Activity》通常来说，为一款已经优化过的手机APP开发平板的版本也不是很难。最近遇到一个项目就没有这么简单了。看看我遇到了什么难题，然后又是如何解决的。http://t.cn/Rv3wZ8q （@yflai01110111 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《如何让你的iOS与Android应用与众不同》我们现在仍能看到很多的Android应用程序是直接从其他平台（即iOS）迁移过来的。这里有一些设计UI的简单方法，可以让你的Android应用看起来很地道。http://t.cn/Rv3w4Cg （@鲁猛-lum 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+【赠书活动】规则：关注@安卓应用频道，并转发本条微博。通过第三方抽奖平台，随机抽取 10 位粉丝，给每位抽中粉丝送一本@Monkey陳曄曄 的新书《大话移动——Android与iOS应用测试指南》。该书已可预购，京东：http://t.cn/RvgOTGA，当当：http://t.cn/Rv1an7P 。活动截止时间：2014年7月14日17:00。
+《在Fragment中使用安卓Camera SurfaceView》文章提供了可以工作的实例，介绍了在应用中使用安卓Camera SurfaceView拍照的实现细节。http://t.cn/Rv3w4Cg （黄瓜 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《在Fragment中使用安卓Camera SurfaceView》文章提供了可以工作的实例，介绍了在应用中使用安卓Camera SurfaceView拍照的实现细节。http://t.cn/Rvg29ZM （黄瓜 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《Android每周热点第二十二期》Android热点回顾第二十二期。每期的Android热点回顾包括：文章、教程、函数库、代码和新闻。http://t.cn/RvgPjW7（@bournechen 翻译整理，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《在Android Studio中利用List Fragments创建相册Gallery》本文讲解了在 Android Studio 中如何通过 List Fragments 创建一个以缩略图整列展示设备中图片的相册应用。http://t.cn/RvDbpwC （zerob13 翻译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《Android中提取表单模型》我一直追求从Android活动中分离代码。在最近的一个项目中，我成功的实现了传统的”Form Model”模式，想在此分享我的感想。http://t.cn/RvktpOJ （@鲁猛-lum 翻译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《在Android Studio中利用List Fragments创建相册Gallery》本文讲解了在 Android Studio 中如何通过 List Fragments 创建一个以缩略图整列展示设备中图片的相册应用。http://t.cn/RvDbpwC （zerob13 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+感谢技术小黑屋的博主 @Android月 分享多篇技术文章！《Android扫描多媒体文件剖析》http://t.cn/RPvoE6M 《Android中检测当前是否为主线程》http://t.cn/RPvoE6I 《Android中程序实现自己管理数据清理工作》http://t.cn/RPvoE6f 更多安卓技术文章 -> http://t.cn/Rv156a5
+《Android线程和Handler基础入门》如果你想让你的APP既可以承受一些繁杂的工作而又不影响用户体验的话，那么必须把任务并行执行。在Android上，我们使用线程。http://t.cn/RvFxzEK （@yflai01110111 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《大话移动——Android与iOS应用测试指南》赠书活动抽奖结果：@羊毛和包子党新闻发言人@蓝色鲁米诺@Chao_懒狐狸@Ex_航@嘿大石碎胸口@游荡的坎德人@sppp小彭@小乖_孩儿@刘_春_利@real汪昭 （第三方抽奖结果：http://t.cn/RPPsm6x，请这些朋友直接把快递信息（姓名\地址\电话\邮编）【直接私信给我】
+《Android每周热点第二十三期》Android热点回顾第二十三期。每期的Android热点回顾包括：文章、教程、函数库、代码和新闻。http://t.cn/RPhj5Pb （@bournechen 翻译整理，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《Android L的API变化》无论如何，Android L 开发者预览版差异报告已经随着javaDoc一起发布了。我经常回顾这份资料，想看看这和Google I/O上呈现出的有多大差别。Android L 其实有不少很有意义的改变。http://t.cn/RP7Cu4o （@yflai01110111 译，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+《安卓中如何实现无限滚动列表》使用列表和网格的一个基本要求是，当用户向下滚动时可以动态加载数据支持无限滚动。这篇博客将教你如何在自己的应用中实现这个特性。http://t.cn/RPzlCj2 （黄瓜 翻译整理，欢迎加入Android技术翻译小组 http://t.cn/z88jCPM）
+@Android月 分享的多篇技术文章：《Android支持动态申请权限么》http://t.cn/RPzQ2Kg 《你造么,Android中程序的停止状态》http://t.cn/RPzQ2KD 《自定义控件进阶:declare-styleable重用attr》http://t.cn/RPzQ2Ke 你在写技术文章吗？欢迎投递到伯乐头条： http://t.cn/Rvxu7lF
+《Android Gradle Plugin官方指南》Google发布了新的Android开发工具Android Studio。与Eclipse的ADT构建系统Ant不同，新的开发工具使用Gradle构建系统，其优势也是明显的！http://t.cn/RP2IFUe （@琴弦第七 投递分享）
+《实现知乎 Android 客户端启动页视差滚动效果》视差动画独有的层次感能带来极为逼真的视觉体验，iOS、Android Launcher、Website都将视差动画作为提升用户视觉愉悦度的不二选择。本文就知乎Android客户端启动页面为例，教你如何实现视差滚动效果。http://t.cn/RP28HCj （@ryanho_o 投递分享）
+《5个关于Android L的有趣事实》谷歌在一个月前的I/O大会上正式发布了新一代 Android 系统 Android L。尽管正式版 Android L 目前尚未发布，不过开发者预览版 Android L 已经向人们清楚地展示出了新版 Android 系统究竟是什么样子。http://t.cn/RP4qS4c
+《Android中的RecyclerView: 基础知识》Android L引入的新东西为我们带来了很多新东西，RecyclerView就是其中之一。它确实是一个强大的视图，为开发者提供了无限的扩展能力，但学习曲线可能会非常陡峭。本文是作者初次涉猎RecyclerView的心得，不可错过哦。http://t.cn/RPbrqDa @鲁猛-lum 译
+《Paginize：一个轻量级的Android应用框架》如果你在使用Fragment，可以看看Paginize~ 或许有些东西吸引你。http://t.cn/RPGzzFh neevek 投递分享，来自安卓开发话题：http://t.cn/RP2xaPy
+《Android SQLite调试》让系统打印SQLite执行的Log，当数据库出现问题时，不用再自己加Log跟流程及判断Sql语句的正确性。http://t.cn/RPqq0oB @angeldevil17 投递分享，来自安卓开发话题：http://t.cn/RP2xaPy
+《Android不规则图形（1）》前段时间有人问我关于怎么绘制不规则图形的问题。比如，如何像whatsApp那样绘制的聊天气泡图形。在这个系列文章中我们主要来关注一下如何实现不规则图形效果。http://t.cn/RPtIUDW @yflai01110111 译
+《Android属性动画：动画流控制》在本文中，我将会带你体验整个动画流的控制，并且通过一些函数方法来让你能够观察到动画的状态。http://t.cn/RPcTPY2 zerob13 译
+《安卓中如何实现滑动导航》好的导航可以让一款应用更加易用并且让用户快速上手。在本博客中，我们将经过必要的几步来实现应用内的横向滑动导航。http://t.cn/RPf73lN 黄瓜 译
+《Android每周热点第二十四期》Android热点回顾第二十四期。每期的Android热点回顾包括：文章、教程、函数库、代码和新闻。http://t.cn/RPIfjbA @bournechen 翻译整理
+《Android NDK 更新正式支持 64 位 ABI》继 Google I/O 宣布新系统 Android L 带来 64 位支持后，Android NDK 日前正式推出 Revision 10 更新，添加 ARM、x86 和 MISP 架构芯片的 64 位 ABI 支持。http://t.cn/RPM008q
+《在Android系统上使用Google Analytics API V4》对于Android平台的Google Analytics API V4，Google已经将其移动到了Google play Services，同时将EasyTracker类从中移除。但您能得到一个相对简单的“自动”跟中和小的消耗。下面我将介绍它的使用方法。http://t.cn/RPMG9CX liutl 译
+《Android每周热点第二十五期》Android热点回顾第二十五期。每期的Android热点回顾包括：文章、教程、函数库、代码和新闻。http://t.cn/RPiuIat @bournechen 翻译整理
+《安卓：工具之道》当你打算踏入安卓领域并着手开发你的第一款安卓程序的时候，很容易就会被一大堆的开发工具所困扰。但事实上，直接下载Android官方提供的开发环境是最快的方式。http://t.cn/RP0p903 @yflai01110111 译
+《Android每周热点第二十七期》这期的热点回顾包括：《设计富有意义的手势》，《安卓：工具之道》，《Android L最新文档》，《深入研究Material Design设计语言》…… 更多文章、教程、函数库、代码和资讯：http://t.cn/RPHOdai @bournechen 翻译整理
+《修正Android摄像头API》我一直都认为Android的API很糟糕，所以我打算重新构造它。我把重构后的代码放在GitHub上( EasyCamera），在这篇文章中列出了我改的地方，还有修改的理由。http://t.cn/RPjZHDl @yflai01110111 译
+《低功耗蓝牙（2）》这是低功耗蓝牙系列的第2篇。这篇文章中，我们将要定义将要使用的Service、Activity结构来确保蓝牙操作与界面分离。http://t.cn/RPODUTq 云海之巅 译
+《GreenDAO：一个安卓平台上的轻量极速的ORM解决方案》GreenDAO可以帮助Android开发者快速将Java对象映射到SQLite数据库，通过使用一个简单的面向对象API，开发者可以对Java对象进行存储、更新、删除和查询。http://t.cn/RPljITA @sunbiao将军 整理，更多Android开发资源：http://t.cn/8FEdxEn
+《Android++：为Android App开发而生的Visual Studio的原生扩展》Android++ 是一个免费的Visual Studio扩展，同时关联了MSBuild脚本，使Visual Studio支持Android App开发。http://t.cn/8FYGi5C 更多Android开发资源：http://t.cn/8FEdxEn
+《低功耗蓝牙（3）》这是低功耗蓝牙系列的第3篇。在今天的文章里，我们将更深入的探讨BLE的技术细节，并且实现BLE下的“设备发现”功能。http://t.cn/RPlyqnX @zerob13 译
+《ActionBarSherlock：消除兼容性问题的ActionBar的框架》ActionBarSherlock是一个ActionBar的框架，利用ActionBarSherlock可以消除不同的android版本下带来的ActionBar的体验问题。http://t.cn/RP8gcl9 @sunbiao将军 推荐，更多Android开发资源：http://t.cn/8FEdxEn
+《Spring for Android：用于Android开发的Spring组件》Spring项目包括很多组件，Spring for Android就是其中之一，它用于Android App开发。和所有Spring项目一样，Spring for Android的强大之处在于易扩展性。http://t.cn/RPlnYwF 更多Android开发资源：http://t.cn/8FEdxEn
+《Fragment Transactions和Activity状态丢失》在安卓应用开发过程中会经常遇到java.lang.IllegalStateException。这篇博客将会解释，这个异常在什么时候发生以及为什么会发生？并且提供几种方法让这种异常不会发生在你的应用中。http://t.cn/RP8y8DE 独孤昊天 译
+《Android响应式布局》制作App需要考虑同时适配手机和平板，如何构建可适应所有屏幕尺寸的布局方法成为了必须要解决的问题。本文讨论了如何使用安卓响应式布局解决屏幕适配难题。http://t.cn/RPnjIvq @yflai01110111 译
+《Android SharedPreference最佳实践》Android提供多种方式保存应用数据，其中一种方式是SharedPreferences。本文介绍了Android SharedPreference开发的最佳实践。http://t.cn/RPn4532 @fhdis 译
+《做一个懒惰高效的Android程序员（5）》欢迎阅读“做一个懒惰高效的Android程序员”系列第五篇，如果你想偷懒，想找一个图片加载库来处理图片异步加载，而不编写下载、缓存等逻辑代码，那么这篇文章很适合你。http://t.cn/RPuJ2bD @yflai01110111 译
+《SlidingMenu：主界面左右滑时，出现菜单选项的效果框架》SlidingMenu的是一种比较新的设置界面或配置界面效果，在主界面左滑或者右滑出现设置界面，能方便的进行各种操作。目前有大量的应用都在使用这一效果。http://t.cn/Rv0Ar0x @sunbiao将军 推荐。更多Android工具资源：http://t.cn/8FEdxEn
+《Android模糊图像教程（5）》到目前为止，在本系列中已经讲述了一些帧频的方法和尽可能保持我们帧频的断言。这篇文章我们将一起研究如何计量帧频，并且探索布局和视图的改变会对帧频产生哪些影响。http://t.cn/RPrEheF liutl 译
+《GitHub开源的Android客户端》GitHub开源的Android客户端，支持Issues、Gists，并集成了新闻Feed，能够让你及时跟进组织及关注的开发者、库等。http://t.cn/RPHrM7g @sunbiao将军 推荐。更多Android工具资源：http://t.cn/8FEdxEn
+《libgdx：一个跨平台的2D/3D的游戏开发框架》libgdx是一个跨平台的2D/3D的游戏开发框架，它由Java/C/C++语言编写而成。ibgdx兼容大多数微机平台与Android平台。http://t.cn/RvptTIR @sunbiao将军 推荐。更多Android工具资源：http://t.cn/8FEdxEn
+《Android: 在真实设备上调试》在本教程中，我们将学到如何在真实设备上调试和运行Android应用程序。这在Android开发者中是个热门的话题。http://t.cn/RPgAXCp @鲁猛-lum 译
+当一个Android应用功能越来越多的时候，保证应用的各个部分之间高效的通信将变得越来越困难。如何优雅地解决这个问题？这时候，就需要使用到EventBus   http://t.cn/Rhvucft   @sunbiao将军 翻译 http://t.cn/RhvuQfS
+Android-ViewPagerIndicator：兼容ViewPager的分页指标小部件。http://t.cn/RPlU6b5 @sunbiao将军 推荐。更多Android工具资源：http://t.cn/8FEdxEn
+《Android-Async-HTTP：安卓的异步HTTP库》Android中网络请求一般使用Apache HTTP Client或者采用HttpURLConnect，但是直接使用这两个类库需要写大量的代码才能完成网络post和get请求，而使用android-async-http这个库可以大大的简化操作。http://t.cn/RPjd7Nw @sunbiao将军 推荐
+《Android-PullToRefresh：安卓的下拉更新UI组件》Android-pulltorefresh是一个一个滑动刷新的ListView，用户将内容下滑，就会有新的结果呈现，而且可以呈现反弹效果，非常cool。http://t.cn/RPlNDqC @sunbiao将军 推荐。更多Android工具资源：http://t.cn/8FEdxEn
+《AndroidAnnotations：让你的Android代码更加简洁的框架》AndroidAnnotations是一个利用注解方式来简化代码结构，提高开发效率的开源框架。另外，针对REST的使用，框架提供了类似Spring IOC的机制，非常方便。http://t.cn/RPlEpww @sunbiao将军 推荐。更多Android工具资源：http://t.cn/8FEdxEn
+《大而全的开源项目资源合集》TheCodePath这个项目是为了提供一个开源的资源的列表，上面集中提供完整的最新的Android开源的项目。无论你是初学者，中级开发者，还是高级开发着，在这里你都能找到你想要的。http://t.cn/RPEPivj @sunbiao将军 推荐。更多Android工具资源：http://t.cn/8FEdxEn
+StickyListHeaders 是一个在listview中可以轻松的把headers添加到列表视图中，类似于Android4.0 的手机通讯录的效果。很多IOS 也用这种效果，这个框架也可以用在不动的列表之中.   http://t.cn/Rhwn478 @sunbiao将军 译
+回顾一下上周分享的热门安卓开发资源：《GitHub开源的Android客户端》http://t.cn/RPHrM7g 、《Android-Async-HTTP：安卓的异步HTTP库》http://t.cn/RPjd7Nw 、《AndroidAnnotations：让你的Android代码更加简洁的框架》http://t.cn/RPlEpww 、《大而全的开源项目资源合集》http://t.cn/RPEPivj
+《低功耗蓝牙（5）》在这系列中的前几篇文章里，我们探索了低耗蓝牙传感器并学习了如何建立连接。剩下的问题就是如何从传感器中获得一些确切的数据，但这并不是像看起来那样直接。在这篇文章里，我们继续探讨GATT特征并学习它是如何在主机和传感器之间进行数据交换的。http://t.cn/RhhFARZ
+《Picasso：一个强大的图片下载和缓存库》在你的Android应用程序如果想要显示大量图片,而且视觉效果丰富,高效稳定,需要大量的基础工作。Picasso可以帮你完成这些工作,通常只需要一行代码! http://t.cn/RPlEXU6 @sunbiao将军 推荐。更多Android工具资源：http://t.cn/8FEdxEn
+《做一个懒惰高效的Android程序员（8）》到目前为止，我们介绍了很多Android的类库和开发工具。可以大大节省开发时间，减少无用代码，还能保持Android的代码规范，让app的运行和测试更加快速等。这次我们来说说Android的线框图和原型设计，这是开发app的开始。http://t.cn/Rh2HKeu @yflai01110111 译
+《Retrofit：Android 的REST 接口封装类库》Retrofit 和Java领域的ORM概念类似， ORM把结构化数据转换为Java对象，而Retrofit 把REST API返回的数据转化为Java对象方便操作。同时还封装了网络代码的调用。http://t.cn/RPlR3A7 @sunbiao将军 分享，更多Android工具资源：http://t.cn/8FEdxEn
+《GreenDroid：使你的Android UI设计更简单》GreenDroid是一个Android的UI开发类库，能够使你的Android开发更加简便和快捷。http://t.cn/RPlEXqV @sunbiao将军 分享，更多Android工具资源：http://t.cn/8FEdxEn
+《AndEngine：Android 2D OpenGL游戏引擎》AndEngine是一款以OpenGLES方式进行画面渲染的2D游戏引擎，可以运行在支持Android 1.6及以上版本的系统当中。http://t.cn/RPEGIjI @sunbiao将军 分享，更多Android工具资源：http://t.cn/8FEdxEn
+《Dagger: 极速的Java和Android依赖注入库》Dagger 是一种Android平台的依赖注入框架，是有一家专注于移动支付的公司，Square公司推出的库。http://t.cn/RPlEcvQ @sunbiao将军 分享，更多Android工具资源：http://t.cn/8FEdxEn
+《给安卓初学者的12篇教程》之前我们推荐过关于安卓开发的书籍、教程、工具和各种干货，这篇将专注初学者的推荐教程。内容同样精彩哦。http://t.cn/RhUqNJX 黄瓜 译
+《支持多行多列且可变尺寸的阶梯形网格视图的开源库》AndroidStaggeredGrid是etsy实现的一个Android瀑布流控件，没有继承ListView和Gridview，而是从更深层的AbsListVew着手实现。@sunbiao将军 分享，更多Android工具资源：http://t.cn/8FEdxEn
+《支持多行多列且可变尺寸的阶梯形网格视图的开源库》AndroidStaggeredGrid是etsy实现的一个Android瀑布流控件，没有继承ListView和Gridview，而是从更深层的AbsListVew着手实现。http://t.cn/RPj0cHt @sunbiao将军 分享，更多Android工具资源：http://t.cn/8FEdxEn
+《RoboGuice：轻量级的依赖注入框架》Google Guice提供了Java平台上一个轻量级的依赖注入框架，并可以支持开发Android应用。http://t.cn/RPQbJFU @sunbiao将军 分享，更多Android工具资源：http://t.cn/8FEdxEn
+《eventBus：安卓组件间高效通信的安卓开发库》  当一个Android应用功能越来越多的时候，保证应用的各个部分之间高效的通信将变得越来越困难。如何优雅地解决这个问题？这时候，就需要使用到EventBus。 http://t.cn/Rhvucft @sunbiao将军 译 更多Android工具资源：http://t.cn/8FEdxEn
+《 Memory Analyzer：Java堆分析工具》 Eclipse上的Memory Analyzer（MAT）是一个快速且功能丰富的Java堆分析工具，它可以帮助你找出内存泄露并减少内存的开销。 http://t.cn/Rh2Poab @aoi翻译
+《 Robotium：安卓测试框架》 Robotium是一个测试框架，它可以简单地为安卓应用写出一个强大且健壮的自动黑箱测试容器   http://t.cn/Rh2h5l3  由  @aoi翻译
+《   Crouton:安卓上上下文敏感的通知组件  》 Crouton是Android上的一个可以让开发者对环境中的Toast进行替换的类，以一个应用程序窗口的方式显示，而其显示位置则由开发者自己决定。 http://t.cn/Rh5d5YE  由@sunbiao将军 翻译整理  更多Android工具资源：http://t.cn/8FEdxEn
+《 Android Button Maker：在线生成按钮代码的工具》 Android Button Maker是一个可以在线生成按钮代码的工具。Android API提供了XML文件定义的几何形状的Drawable资源，包括颜色、边界和梯度。 http://t.cn/Rh2axPZ 由aoi推荐
+《Android Button Maker：在线生成按钮代码的工具》 Android Button Maker是一个可以在线生成按钮代码的工具。Android API提供了XML文件定义的几何形状的Drawable资源，包括颜色、边界和梯度。 http://t.cn/Rh2axPZ  由aoi整理分享 更多Android工具资源：http://t.cn/8FEdxEn
+《Android++：为Android App开发而生的Visual Studio的原生扩展 》 Android++ 是一个免费的Visual Studio扩展，同时关联了MSBuild脚本，使Visual Studio支持Android App开发。 http://t.cn/8FYGi5C  更多Android工具资源：http://t.cn/8FEdxEn
+《Android每周热点第二十八期 》 每期的Android热点回顾包括：文章、教程、函数库、代码和新闻。 http://t.cn/Rhc8H8j 由 @bournechen整理分享
+《Android每周热点第二十八期 》 每期的Android热点回顾包括：文章、教程、函数库、代码和新闻。 http://t.cn/Rhc8H8j 由 @bournechen    整理分享
+《给初学者的12骗篇教程》 之前我们推荐过关于安卓开发的书籍、教程、工具和各种干货，这篇将专注初学者的推荐教程。内容同样精彩哦  http://t.cn/RhUqNJX   由黄瓜整理分享
+《 Android 自动化测试框架calabash-android 》calabash 旨在一套测试脚本，同时运行在多手机平台上，目前良好支持的有iOS和Android。 http://t.cn/Rhcy9xr 由doubleJ_2011整理分享 更多头条尽在 http://t.cn/Rv156a5
+《Spring for Android：用于Android开发的Spring组件 》   Spring项目包括很多组件，Spring for Android就是其中之一，它用于Android App开发。Spring for Android的强大之处在于易扩展性。 http://t.cn/RPlnYwF   更多Android工具资源：http://t.cn/8FEdxEn
+《Android Wear计时器开发（1）》智能手表的App，让用户可以在足球比赛中记录停表时间。随着Android Wear的问世，在可穿戴设备中开发一款这样的App确实是个很不错的想法，带领大家进入Android Wear的世界。 http://t.cn/RhINuSq  由 @yflai01110111  整理分享
+《 安卓插件化和动态化管理》Android 插件化和动态升级是每个 App 最终必然走上的道路，淘宝、微信、微博都已经或者正在实践的路上。 http://t.cn/Rhfca8Q  由Trivea分享整理
+《android在真实机器上调试》 在本教程中，我们将学到如何在真实设备上调试和运行Android应用程序。http://t.cn/RPgAXCp  由         @lumen689分享整理
+《android 在真实机器上调试》 在本教程中，我们将学到如何在真实设备上调试和运行Android应用程序。这在Android开发者中是个热门的话题。在开发Android应用时模拟器是一个非常重要的组成部分。但在真实设备使用应用的体验也是非常重要的。 http://t.cn/RPgAXCp  由lumeng689整理分享
+《安卓:工具之道》 当你打算踏入安卓领域并着手开发你的第一款安卓程序的时候，很容易就会被一大堆的开发工具所困扰。本文会揭示开发Android程序所需要用到的主要开发工具。 http://t.cn/RP0p903   由 @yflai01110111  整理分享
+《Open Science Map：开源Android地图项目》 该项目由地图数据服务器，矢量数据和高速客户端三部分组成，可以帮助用户在移动设备上展现纯矢量地图， 并且渲染效率很高。 http://t.cn/RhIwSf0  由黄小非整理分享，更多资源尽在 http://t.cn/RhIwSf0
+《Open Science Map：开源Android地图项目》 该项目由地图数据服务器，矢量数据和高速客户端三部分组成，可以帮助用户在移动设备上展现纯矢量地图， 并且渲染效率很高。 http://t.cn/RhIwSf0  由黄小非整理分享，更多资源尽在 http://t.cn/8FEdxEn
+《 AndroidKickStartR：快速地建立一个配置好的安卓应用》 AndroidKickstartR使用最流行的函数库帮助你快速地建立一个配置好的安卓应用。 http://t.cn/Rh2L759  由aoi整理翻译
+《butterknife：Android 的视图注入库》 android的视图注入库使用注释为你生成那些模板式的重复代码  http://t.cn/RhipYLQ  由  @sunbiaobiao将军整理分享  更多资源尽在 http://t.cn/8FEdxEn
+《butterknife：Android 的视图注入库》 android的视图注入库使用注释为你生成那些模板式的重复代码  http://t.cn/RhipYLQ  由  @sunbiaobiao将军   整理分享  更多资源尽在 http://t.cn/8FEdxEn
+《butterknife：Android 的视图注入库》 android的视图注入库使用注释为你生成那些模板式的重复代码  http://t.cn/RhipYLQ  由  @sunbiao将军   整理分享  更多资源尽在 http://t.cn/8FEdxEn
+《Android根据资源名获取资源ID》 接触过Android开发的同学们都知道在Android中访问程序资源基本都是通过资源ID来访问。但是有时候我们不知道资源id，这篇文章会告诉你怎么通过资源名获得资源id。 http://t.cn/RhM9CAP
+《Android根据资源名获取资源ID》 接触过Android开发的同学们都知道在Android中访问程序资源基本都是通过资源ID来访问。但是有时候我们不知道资源id，这篇文章会告诉你怎么通过资源名获得资源id。 http://t.cn/RhM9CAP    由 androidyue整理分享
+《每周一脚本：过滤单个Android程序日志》在Android软件开发中，增加日志的作用很重要，便于我们了解程序的执行情况和数据。Eclipse开发工具会提供了可视化的工具，但是还是感觉终端效率会高一些，自己写了一个python的脚本来通过包名来过滤某一程序的日志。 http://t.cn/Rh6JoyR  整理分享
+《装饰者模式在Android View中的应用》 在Android设计中，大量运用了装饰者模式。本文通过示例，一步一步地建立Android项目并说明装饰者模式在其中的应用。 http://t.cn/Rh6eqZR  由唐由华整理分享  更多安卓头条尽在 http://t.cn/Rv156a5
+《Android L动画入门》 Android L带来了许多新特性，其中就包括了大量的动画效果，你可以在自己的应用中使用。本文中我将详解这些动画和如何在应用中使用。本文中的所有代码可以在github上找到。 http://t.cn/Rh6oMMA  更多博客尽在  http://t.cn/8FjWWVW
+《Android数据库高手秘籍(一)：SQLite命令》 要想熟练地操作任何一个数据库，最最基本的要求就是要懂SQL语言，这也是每个程序员都应该掌握的技能。虽说SQL博大精深，要想精通确实很难，但最基本的一些建表命令，增删改查，大家还是必须要学会的。 http://t.cn/RhaHLSG  作者郭霖
+《Android数据库高手秘籍(二)：创建表和LitePal的基本用法 》本文介绍了如何在Android程序当中去操作SQLite数据库， http://t.cn/RhS3DDZ   作者郭霖
+《AndroidSlidingUpPanel：android的滑到上层的组件托盘》 这个库可以让你快速创建一个可以滑到上层的托盘组件  由 @sunbiao将军  整理分享，更多安卓资源 http://t.cn/8FEdxEn
+《AndroidSlidingUpPanel：android的滑到上层的组件托盘》 这个库可以让你快速创建一个可以滑到上层的托盘组件   http://t.cn/RhoVisU   @sunbiao将军  整理分享，更多安卓资源 http://t.cn/8FEdxEn
+《做一个懒惰高效的Android程序员（6）》 欢迎回到“做一个懒惰高效的Android程序员”系列文章的第六部分。 如果你是一个懒惰的Android开发人员，正在寻找一个库用于在你的Android应用中呈现Staggered GridView，那么你应该会对这篇文章感兴趣。 http://t.cn/RhfGwcx  由hdfis整理翻译
+《coursera-android：coursera的安卓教程例子源码》 一个android教程类项目，基本上囊括了android所有知识点，如果你想把android方面的知识系统地整理一遍，可以果断也把它fork下来，一个一个开始练习，总共有100多个例子。 coursera-android：coursera的安卓教程例子源码  由@sunbiao将军  整理翻译
+《coursera-android：coursera的安卓教程例子源码》 一个android教程类项目，基本上囊括了android所有知识点，如果你想把android方面的知识系统地整理一遍，可以果断也把它fork下来，一个一个开始练习，总共有100多个例子。 http://t.cn/Rh9sFPI 由@sunbiao将军  整理翻译
+《DragSortListView：可以实现拖动排序的listview控件》 DragSortListView是一个可以实现拖动排序的listview控件，是我看到的交互较为复杂的开源代码中不管是代码质量还是流畅性都最好的。 http://t.cn/RhCPolM   由sunbiao将军  整理分享
+《DragSortListView：可以实现拖动排序的listview控件》 DragSortListView是一个可以实现拖动排序的listview控件，是我看到的交互较为复杂的开源代码中不管是代码质量还是流畅性都最好的。 http://t.cn/RhCPolM   由 @sunbiao将军  整理分享
+《安卓每周热点第二十九期》这期包括：《Android Wear计时器开发》，《做一个懒惰高效的Android程序员》，《431个Material Design设计语言的自定义形状图标格式》，《Android可穿戴设备：从电池中获得数据》…… 更多文章、教程、函数库、代码和资讯：http://t.cn/Rhiie4R @bournechen 翻译整理
+《RoboSpice：android异步网络库》 android的开源网络库 RoboSpice， RoboSpice是一个使你建立异步的长时间的运行任务异常轻松的一个网络库，在网络请求，缓存支持，和提供开箱即用的rest请求方面尤为强大， RoboSpice：android异步网络库  由sunbiao将军  整理分享
+《RoboSpice：android异步网络库》 android的开源网络库 RoboSpice， RoboSpice是一个使你建立异步的长时间的运行任务异常轻松的一个网络库，在网络请求，缓存支持，和提供开箱即用的rest请求方面尤为强大， http://t.cn/RhOrdUO  @sunbiao将军  整理分享
+《Android Wear计时器开发（2）》上一篇文章（ http://t.cn/RhINuSq ）中我们解释了为什么要在Android Wear重写这个计时器app，这篇文章里我们就来看看代码实现。http://t.cn/RhOzgCQ @yflai01110111 译
+《otto:专为支持android的基于Guava的事件通讯 》 Otto 是一个使你的程序各个模块减少耦合确依然高效通讯的组件，从Guava Fork过来的，本身Guava就是一个高效的事件通讯组件，otto在此基础上针对android平台又做了优化 http://t.cn/RhlCrVX   由sunbiao将军  整理分享
+《Android Wear计时器开发（2）》 中我们解释了为什么要在Android Wear重写这个计时器app（因为之前已经在“I’m Watch”里面开发过了），这一次让我们从代码的角度分析分析 http://t.cn/RhOzgCQ  由chris整理分享
+《免费课程：高仿微信5.2.1主界面及消息提醒》 这门课程从无到有实现微信的整体界面和ViewPager指示器跟随手指拖动的动画效果。包含ViewPager与FragmentPagerAdapter的使用，通过分析OnPageChangeListener手动控制指示器的动画效果，以及如何将BadgeView作为消息通知用于项目中。http://t.cn/Rhldpzf
+《免费课程：高仿微/信5.2.1主界面及消息提醒》 这门课程从无到有实现微信的整体界面和ViewPager指示器跟随手指拖动的动画效果。包含ViewPager与FragmentPagerAdapter的使用，通过分析OnPageChangeListener手动控制指示器的动画效果，以及如何将BadgeView作为消息通知用于项目中。http://t.cn/Rhldpzf
+《免费课程：高仿微/信5.2.1主界面及消息提醒》 这门课程从无到有实现微/信的整体界面和ViewPager指示器跟随手指拖动的动画效果。包含ViewPager与FragmentPagerAdapter的使用，通过分析OnPageChangeListener手动控制指示器的动画效果，以及如何将BadgeView作为消息通知用于项目中。http://t.cn/Rhldpzf
+《Android数据库高手秘籍(三)——使用LitePal升级表 》 在上一篇文章中，我们学习了LitePal的基本用法，然而创建表只是数据库操作中最基本的一步而已，我们在一开始创建的表结构，随着需求的变更，后期需要修改的。 http://t.cn/RhWGyWO   http://t.cn/RhWGyWO  出自郭霖的博客
+《Eclipse，到了说再见的时候了——Android Studio最全解析》 去年的Google大会上，Google带给我们一个小玩具——Android Studio，界面过时，操作不流畅，效率也不高，现在的Android Studio已经今非昔比，用了一段时间，简直爱不释手  http://t.cn/RhjgLly   出自 eclipse_xu 的博客
+《Android开发实践：使用Service还是Thread》 Service是Android的四大组件之一，被用来执行长时间的后台任务，同样，线程也可以实现在后台执行任务，它们的区别在哪呢？何时使用Service何时使用Thread呢？今天我也来说说我的理解和总结。 http://t.cn/RhYgYxJ   出自 tickTick的博客
+《安卓开发基础教程（1）：架构总览》 本视频翻译自 Youtube 上的热门视频，共 3 集，Mike 在第一集中向大家介绍了 Android 系统的架构。 http://t.cn/zOerI6v  架构总览  由  @唐尤华  整理分享
+《安卓开发基础教程（1）：架构总览》 本视频翻译自 Youtube 上的热门视频，共 3 集，Mike 在第一集中向大家介绍了 Android 系统的架构。 http://t.cn/RhHVtpy  由  @唐尤华  整理分享
+《NineOldAndroids：让你在各个版本android平台使用 Honeycomb (Android 3.0) animation API的库》 你可以使用同样的api来创建各种动画效果，在各个早于Honeycomb平台上支持旋转，translation，alpha，缩放等效果  http://t.cn/RhYaaKw  由 @sunbiao将军    整理分享
+《Fries：使用HTML_CSS_JS创建android原生UI》 Fries 是一个HTML-CSS-JS框架用于创建类似于Android原生UI的框架。可以实际项目或项目原型创建中使用。 http://t.cn/RhE1L7X  由 @sunbiao将军   整理分享
+《Android运行时ART加载OAT文件的过程分析》 在前面一文中，我们介绍了Android运行时ART，它的核心是OAT文件。OAT文件是一种Android私有ELF文件格式，它不仅包含有从DEX文件翻译而来的本地机器指令，还包含有原来的DEX文件内容。 http://t.cn/RhnMFKY  出自罗升阳的博客
+《AndroidAsync ：一个基于nio的异步socket ，http（客户端服务器端），websocket，socket.io库》 AndroidAsync 是一个基于nio的异步socket ，http（客户端服务器端），websocket，socket.io库。 http://t.cn/Rhn7UbF  由 @sunbiao将军   整理分享
+《ActiveAndroid：一个活性的记录的风格ORM（对象关系映射）》 ActiveAndroid是一个活性的记录的风格ORM（对象关系映射）。ActiveAndroid允许你保存和检索SQLite数据库记录，而无需编写一个单独的SQL语句。 http://t.cn/RhnAhe1  由 @sunbiao将军      整理分享
+《AndroidSwipeLayout：最强大的 Swipe Layout 》 AndroidSwipeLayout是一个很强大的 Swipe Layout，和SwipeListView相比， 它不局限于ListView， http://t.cn/RhnAhe1  由 @sunbiao将军  整理分享
+《Ruboto :一个完全用 Ruby 语言来构建 Android 应用程序的框架》 Ruboto 是一个完全用 Ruby 语言来构建 Android 应用程序的框架，包含支持的程序库，也可以生成创建项目，类，测试类。你在Ruby中可以使用所有Android ，Java和Ruby的 API。 http://t.cn/RhgjP4P  由 @sunbiao将军  整理分享
+《ActiveAndroid：一个活性的记录的风格ORM（对象关系映射）》 ActiveAndroid是一个活性的记录的风格ORM（对象关系映射）。ActiveAndroid允许你保存和检索SQLite数据库记录，而无需编写一个单独的SQL语句。  http://t.cn/RhnwMXP  @sunbiao将军      整理分享
+《FadingActionBar:一个实现action bar淡入淡出的效果的组件库》 FadingActionBar是一个实现action bar淡入淡出的效果的组件库，  http://t.cn/RhgYyDy  由 @sunbiao将军  整理分享
+《免费课程：Android root与安全》这门课程介绍了Android 产业链中地上和地下的故事以及Android系统内核和挖掘漏洞所需的工作和相关技术。另外还深入探究了Android内核的安全问题，安卓手机Root的多种方法。最后对Android L或者更高版本的手机root的可能性进行展望。http://t.cn/R75tPJo
+《免费课程：Android App 开发环境搭建和配置》这门课程介绍了Android App开发环境搭建和配置。包括很详细的基础入门讲解，上手Android开发的第一课。http://t.cn/R7Qt7ts
+《@白瓦力 : 正确使用Android性能分析工具——TraceView》因为要解决列表滑动的卡顿问题，就必须要找到导致卡顿现象的原因，我在StackOverFlow上找着别人零散的回答慢慢琢磨这个工具的使用方法。现在我学会了，至少能看懂每个指标什么意思，最后发现这个工具实在太强大了！！！http://t.cn/R7apdzj
+《Android Wear计时器开发（3）》在本系列前几篇文章中，我们介绍了Android Wear计时器app，对设计思路和app的结构进行了分析。这一篇将讲解如何定时唤醒程序提醒用户。http://t.cn/Rzb9C4O （@yflai01110111 译，欢迎加入翻译小组：http://t.cn/z8cOI8w ）
+《免费课程：超快的Android模拟器Genymotion》这门课程介绍了Android平台下的一款最快的、最流行的Android模拟器，以及如何安装Genymotion模拟器，并对eclipse和Intillj等开发工具进行配置。http://t.cn/RzVLkfy
+《找出安卓手机耗电元凶》每个使用袖珍式电脑的人都处理着各种各样的电池问题。其中很多已经被写在了电池保护的话题上。但是这里依然有一个比较重要的话题困扰着人们：应用程序把电量耗尽了。http://t.cn/RzGjoyH（@酒肉和尚--进林 译，欢迎加入翻译小组：http://t.cn/z8cOI8w ）
+《Gradle入门系列（4）：创建二进制发布版本》在创建了一个实用的应用程序之后，我们可能想将其与他人分享。其中一种方式就是创建一个可以从网站上下载的二进制文件。这篇教程描述了如何创建一个二进制发布版本。http://t.cn/RzGHNQS（@微风12345678 译，欢迎加入翻译小组：http://t.cn/z8cOI8w ）
+《ProgressWheel:android开源圆环进度条》这是一个自定义Android组件，用于代替标准进度条组件。实现各种进度条样式，包括圆环，扫描等。http://t.cn/RzxJ215
+《AndroidJUnit4: 让 JUnit 4 可以直接运行在 Android 设备上的开源命令行工具》AndroidJUnit4 是一个让 JUnit 4 可以直接运行在 Android 设备上的开源工具。http://t.cn/R7LdsIj 由 @sunbiao将军 整理分享
+《Appium：原生和轻量移动应用的自动化测试工具》Appium 是一个开源、跨平台的自动化测试工具，用于测试原生和轻量移动应用，支持 iOS, Android 和 FirefoxOS 平台。http://t.cn/R7LgZwP 由 @sunbiao将军 整理分享
+《Calabash-android：基于Cucumber 的 Android 的功能自动化测试框架。》calabash-android 是一个基于 Cucumber 的 Android 的功能自动化测试框架。Calabash 允许你写和执行，是开源的自动化移动应用测试工具，支持 Android 和 iOS 原生应用。http://t.cn/R7Lg6pk 由 @sunbiao将军 整理分享
+《NumberProgressBar：漂亮的Android进度条》NumberProgressBar是一个简约性感的数字进度条，该控件虽然也叫ProgressBar，但是和sdk中的ProgressBar控件没有任何继承关系，直接继承子view。http://t.cn/Rzxi0AT由 @sunbiao将军 整理分享
+《Calligraphy：Android 自定义字体库》Calligraphy是android 自定义字体库http://t.cn/RzIOf7D由 @sunbiao将军 整理分享
+《android-betterpickers：外观很不错的自定义数字输入面板》外观很不错的自定义数字输入面板，可以输入数字、时间、日期等等跟数字有关的内容。http://t.cn/Rzq9qWh由 @sunbiao将军 整理分享
+《android-process-button：内置进度条功能的安卓自定义按纽》android-process-button是一个内置进度条功能的Android自定义按纽http://t.cn/RzqGnih由 @sunbiao将军 整理分享
+《android-priority-jobqueue:android后台任务队列类库》Android Priority Job Queue是一款专门为Android平台编写，实现了Job Queue的后台任务队列类库，能够轻松的在后台执行定时任务，提高用户体验和应用的稳定性。http://t.cn/RzTRWME由 @sunbiao将军 整理分享
+《android-ui:一个 android UI库 安装》android-ui是一个 android UI库http://t.cn/RzR04HK（由 @sunbiao将军 整理分享）
+《android-ui:一个 android UI库 安装》android-ui是一个 android UI库http://t.cn/RzR04HK（由 @sunbiao将军 整理分享）
+《GifView:Android显示GIF动画》GifView 是一个为了解决android中现在没有直接显示gif的view,只能通过mediaplay来显示这个问题的项目，其用法和 ImageView一样，支持gif图片http://t.cn/RzROSKC（由 @sunbiao将军 整理分享）
+《Mobi Pick :一个 Android 风格的 jQuery Mobile 的日期选择组件》Mobi Pick 是一个 Android 风格的 jQuery Mobile 的日期选择组件http://t.cn/RzR0zvp（由 @sunbiao将军 整理分享）
+《Facebook工程师是如何改进他们Android客户端的》作为世界上最大的社交网络，Facebook的Android客户端面临着各种各样的使用环境（地理环境、Android设备以及移动网络等环境的差异）http://t.cn/Rzuq3p1
+《OSMDroid :一个设计用于完全替换 Android 内部的 MapView 类库》OSMDroid 设计用于完全替换 Android 内部的 MapView 类，包含一个模块化的地图拼图，支持在线和离线地图以及覆盖地图，支持标注图标、位置跟踪和绘制形状。http://t.cn/RzR1QsZ
+《OSMDroid :一个设计用于完全替换 Android 内部的 MapView 类库》OSMDroid 设计用于完全替换 Android 内部的 MapView 类，包含一个模块化的地图拼图，支持在线和离线地图以及覆盖地图，支持标注图标、位置跟踪和绘制形状。http://t.cn/RzR1QsZ（由 @sunbiao将军 整理分享）
+《RoboBinding:一个实现了数据绑定 Presentation Model(MVVM) 模式的Android开源框架》他移除了如addXXListener()，findViewById()这些不必要的代码，连如BufferKnife那样的InjectView都不需要，因为你的代码一般不需要依赖于这些界面组件信息。http://t.cn/RzR04iK（由 @sunbiao将军 整理分享）
+《AValidations : 一个免费的、开源的、简易的、遵循Apache Licence 2.0开源协议发布，超级容易扩展的android表单验证的小框架》http://t.cn/RzRSRWD （由 @sunbiao将军 整理分享）
+《安卓Material Design（2）》在这篇文章里，我们将设计应用了material design原则的app，同时也尝试使用appcompat包来让它向后兼容。http://t.cn/RzDkgoZ（@Zer0Black 译，欢迎加入翻译小组：http://t.cn/z8cOI8w ）
+《RippleEffect:一个Material Design的涟漪效果的组件》RippleEffect是一个Material Design的涟漪效果的组件http://t.cn/RzRSA9m
+《Android-SwipeToDismiss:实现划动删除（消除）某个View的功能的android类库》Androidl类库，实现划动删除（消除）某个View的功能。可以划动删除任意的View（比如按钮），或者列表（ListView）上的某一行。http://t.cn/RZvQgtY
+《PathButton:仿Path按钮动画效果的android类库》PathButton是一个仿Path按钮动画效果的android类库http://t.cn/RZv8jmF（由 @sunbiao将军 整理分享）

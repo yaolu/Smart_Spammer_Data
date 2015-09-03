@@ -1,0 +1,230 @@
+Struts 2.x remote command execution POC（稳定通用的Payload），赞：http://t.cn/RhpePSH
+Struts 2.x remote command execution POC（稳定通用的Payload），赞：http://t.cn/RhpePSH
+test
+test
+Struts 2.x remote command execution POC（稳定通用的Payload），赞：http://t.cn/RhpePSH
+test
+Struts 2.x remote command execution POC（稳定通用的Payload，赞！）：http://t.cn/RhpePSH
+目前已经收到多封POC样例邮件申请，加油：）
+#又到周一# http://t.cn/RhpePSH
+http://t.cn/RhpePSH
+昨天新浪竟然把我认成僵尸用户，禁止我发带链接的微博！所以只好今天发下昨天有趣的POC了~某大牛提交的Struts 2.x remote command execution【http://t.cn/RhpePSH】（通用、稳定Payload也是蛮拼的）[给力]
+c99 webshell 2.0 Login Bypass POC：【http://t.cn/RhO1SmG 】，绕过你的WEBSHELL [偷笑]
+eYou v5 /em/controller/action/help.class.php SQL Injection POC 【http://t.cn/RhWxPu0】
+这两天深夜收到不少邮件，小伙伴们辛苦了，早点休息[给力]
+WordPress Acento Theme Arbitrary File Download POC 【http://t.cn/Rhl5od6】
+[话筒]收到tmp小伙的私信，建立了关于BB2的讨论交流QQ群，欢迎各位Beeman的加入：392100673 @FF0000TeAm @FF0000_Owl
+SVN information disclosure POC 【http://t.cn/Rhldv7c】，今天有人提出svn poc需求，因为我们刚起步，所以很多POC/EXP我们是空隙状态，但不出两个小时马上就有小伙提交了SVN信息泄漏的POC，支持这种社区精神！[赞]
+ElasticSearch 远程代码执行漏洞 POC：http://t.cn/RhHI7vB
+Sphider 1.3.6 /admin.php 代码执行漏洞 POC：http://t.cn/RhQmuak
+Wordpress Persuasion Theme 2.x 任意文件下载 POC：http://t.cn/RhQ1uhX
+PHPWeb 2.0.5 伪静态 SQL注入 POC：http://t.cn/RhR0kSd
+有推的赶紧专注起来~ [抱抱]BB2 Twitter：http://t.cn/RhRj0nt
+Bug小伙很给力！后台还有一大堆待审核的POC~【EcShop v2.7.3 /flow.php SQL注入漏洞 EXP：http://t.cn/RhEr5bc】、【Southidc南方数据 v11.0 /NewsType.asp SQL注入漏洞 EXP：http://t.cn/RhEr5b5】[得意地笑]
+十月一持续优化社区系统，欢迎更多的黑客与开发者加入这个大家庭~
+08cms 3.1 /include/paygate/alipay/pays.php SQL注入漏洞 EXP：http://t.cn/RhmE7yn
+Zoomla /API/GetPageHtml.aspx 任意文件下载漏洞 POC & Exploit：http://t.cn/RhmE7uL
+shopxp v7.4 /textbox2.asp SQL注入漏洞 EXP：http://t.cn/RhmEzHo
+ShopEx /api.php SQL注入漏洞 EXP：http://t.cn/RhmEIQq
+ShopV8 10.48 /admin/pinglun.asp SQL注入漏洞 EXP：http://t.cn/Rh3WvlX
+Discuz x3.0 /static/image/common/mp3player.swf 跨站脚本漏洞 POC：http://t.cn/Rh3Wwcj
+tmp附言称：“XDSEC中某道题用到了这个漏洞，随手写一下。” — phpok 4.0.556 /api.php SQL注入漏洞 POC & Exploit：http://t.cn/Rh1Ubtn
+十一假期小伙伴们都在哪儿晒肚皮呢~ 我们可是没有时间享清福，BB2内部人员连夜搞定了几个需求，详情可见2014-10-04 Update：http://t.cn/Rhr93Vo ~  随后主页君代替“好多好多人”感谢每一位Beeman的支持，共享社区与开源让我们相遇，你们就是社区走下去的动力！
+PHPB2B 5.0 /install/install.php 信息泄漏漏洞 POC：http://t.cn/RhrprRo
+WordPress 3.8.1 /xmlrpc.php 拒绝服务漏洞 POC：http://t.cn/Rhr0BEB
+Startbbs 1.1.5.2 /themes/default/search.php SQL注入漏洞 POC & Exploit | Beebeeto - 群蜂筑巢的力量 http://t.cn/RhdLZBO
+EasyTalk 2.4 /Home/Lib/Action/ApiAction.class.php SQL注入漏洞 POC | Beebeeto - 群蜂筑巢的力量 http://t.cn/RhdqPwY
+BEESCMS 3.4 /admin/admin.php 登录绕过漏洞 POC | Beebeeto - 群蜂筑巢的力量 http://t.cn/RhdtK86
+Discuz 敏感文件备份导致uc_key泄露GETSHELL POC http://t.cn/Rhdi9M3
+MongoDB 2.2.4 nativeHelper 远程代码执行漏洞 POC http://t.cn/RhdCs1E
+eYou v4 /storage_explore.php 命令执行漏洞 POC & Exploit http://t.cn/RhdnPYU
+Mango Blog 1.4.1 /archives.cfm/search XSS跨站脚本漏洞 POC： http://t.cn/RhkzH0x
+我们发现好多Beeman编写的POC/EXP经常会存在误报的问题，于是batchtest就诞生啦~ 他能够帮助Beeman批量的进行站点的误报测试，让编写者自己感受真实环境下的测试效果，具体使用：http://t.cn/Rhk2p2J | GITHUB：http://t.cn/Rhk2p26 [抱抱] @FF0000TeAm
+Discuz! x3.0 /static/image/common/flvplayer.swf 跨站脚本漏洞 POC： http://t.cn/RhFvoAZ
+OSA运维管理系统前台 /index.php GETSHELL POC & Exploit： http://t.cn/RhFZGHe
+phpwind 9.0 /res/images/uploader.swf 跨站脚本漏洞 POC： http://t.cn/RhFfPZx
+PHPMyAdmin 3.5.2.2 /server-sync.php Backdoor POC ： http://t.cn/RhFd2kR
+phpwind 9.0 /res/js/dev/util_libs/syntaxHihglighter/scripts/clipboard.swf 跨站脚本漏洞 POC : http://t.cn/R7vMJs1
+waikuCMD /index.php/Search.html 代码执行漏洞 POC : http://t.cn/R7PYd5U
+CmsEasy 5.5 /demo.php 跨站脚本漏洞 POC : http://t.cn/R7PYeLF
+齐博CMS B2B /news/js.php SQL注入漏洞 POC & Exploit : http://t.cn/R7hReqf
+DedeCMS 5.7 /plus/recommend.php SQL注入漏洞 POC : http://t.cn/R7hEvcv
+Tipask 2.0 /control/question.php SQL注入漏洞 POC | Beebeeto : http://t.cn/R7Z7wY3
+Tipask 2.0 /control/question.php SQL注入漏洞 POC : http://t.cn/R7Z7LmQ
+MacCMS 8.0 /index.php SQL注入漏洞 POC : http://t.cn/R7wEuiQ
+FengCms 1.19 /admin.php 登录绕过漏洞 POC : http://t.cn/R72crFA
+Drupal 7.31 pre Auth SQL Injection Vulnerability: http://t.cn/R7LAqic
+[话筒]Drupal 7.31 node SQL注入漏洞 Exploit：http://t.cn/R7L4efZ
+Drupal 7.0-7.31 node SQL注入漏洞 POC & Exploit : http://t.cn/R7yUdt1
+DedeCMS 5.7 /images/swfupload/swfupload.swf 跨站脚本漏洞 POC : http://t.cn/R7yUkla
+DedeCMS 5.7 /wap.php SQL注入漏洞 POC : http://t.cn/R7y4vfI
+齐博CMS v7整站系统 /index.php SQL注入漏洞 POC & Exploit : http://t.cn/R7UtWm4
+Zoomla 2.0 /User/UserZone/School/Download.aspx 任意文件下载漏洞 Exploit : http://t.cn/R747881
+jsict /MockLogin.aspx 后门漏洞 POC : http://t.cn/R74ihad
+Discuz X2.5 full Path Disclosure Vulnerability POC : http://t.cn/R74izZm
+utils新增forgeheaders, payload并持续保持更新：）【http://t.cn/R7bzW2y】
+Discuz x2 /source/function/function_connect.php 泄漏服务器物理路径 POC : http://t.cn/R7baxw3
+Dedecms 5.7 /plus/search.php SQL注入漏洞 Exploit | Beebeeto - 群蜂筑巢的力量 http://t.cn/R7baWGx
+PHPOK 4.2 /framework/www/project_control.php SQL注入漏洞 POC : http://t.cn/R7baHwM
+CmsEasy 5.5 /celive/live/header.php SQL注入漏洞 POC & Exploit : http://t.cn/R7ba8K6
+Discuz x3.1 /utility/convert/index.php 代码执行漏洞 POC & Exploit : http://t.cn/R7G2iQt
+EasyTalk 2.5 /Home/Lib/Action/IndexAction.class.php SQL注入漏洞 POC : http://t.cn/R7G2lCt
+Beebeeto社区新增回复通知、@等功能：http://t.cn/R7Gd0x2
+Discuz x2.5 /source/plugin/myrepeats/table/table_myrepeats.php 泄漏服务器物理路径 POC : http://t.cn/R75Uqvp
+Dedecms v5.5 full Path Disclosure Vulnerability POC : http://t.cn/R75Ufjo
+phpmyadmin /themes/darkblue_orange/layout.inc.php 泄漏服务器物理路径 POC : http://t.cn/R75UIrk
+Piwik 0.4.5 /core/cookie.php 代码执行漏洞 POC & Exploit : http://t.cn/R75U6xq
+【Beebeeto独家发布】Drupal 7.x GETSHELL Exploit：http://t.cn/R7tkHiP (via@Ricter想要一台时尚的挖掘机 )
+Ecshop 2.7.3 /flow.php 登录绕过漏洞 POC : http://t.cn/R7cwhBQ
+PHPDisk 2.5 /phpdisk_del_process.php 代码执行漏洞 POC & Exploit : http://t.cn/R7cwz1c
+JEECMS /download.jspx Arbitrary File Download POC : http://t.cn/R7cwA6F
+Joomla 4.x com_youtubegallery SQL Injection POC : http://t.cn/R7cw28X
+D-Link DSR-1000 v1.08B77 Authentication Bypass POC : http://t.cn/R7cwyq2
+Bacula Web 5.2.10 /joblogs.php SQL Injection POC : http://t.cn/R7cwKs0
+Ecshop 2.7.2 /category.php SQL注入漏洞 POC : http://t.cn/R7cASjY
+74cms V3.4 /plus/ajax_officebuilding.php SQL注入漏洞 POC & Exploit : http://t.cn/R7cAofD
+TaoCMS 2.5 /index.php SQL注入漏洞 POC : http://t.cn/R7cAKVc
+74cms V3.4 /plus/ajax_common.php SQL注入漏洞 POC & Exploit : http://t.cn/R7cA9xA
+Ecmall 2.0 /index.php SQL注入漏洞 Exploit : http://t.cn/R7cACoB
+eYou v3 /user/send_queue/listCollege.php 路径泄漏漏洞 POC : http://t.cn/R7cAOaw
+xampp 1.7.3 /xampp/showcode.php 任意文件下载漏洞 POC : http://t.cn/R7cAWiR
+Wordpress 3.3.1 /wp-includes/js/swfupload/swfupload.swf 跨站脚本漏洞 POC : http://t.cn/R7cAlVl
+Drupal 7.31 GetShell via /includes/database/database.inc SQL Injection Exploit : http://t.cn/R7cAjMn
+phpok 4.0.315 /framework/ajax/admin_opt.php SQL注入漏洞 POC : http://t.cn/R7VdMMD
+Typecho 0.9(13.12.12) CSRF修改管理员密码漏洞 Exploit : http://t.cn/R7VdJHf
+Emlog 5.3.1 /include/lib/js/uploadify/uploadify.swf 跨站脚本漏洞 POC : http://t.cn/R7VdagB
+Typecho 0.9 HelloWorld Plugin CSRF&XSS&Getshell Exploit : http://t.cn/R7Vdosu
+Shopex 4.8.5.45144 /core/include_v5/crontab.php 代码执行漏洞 POC & Exploit ： http://t.cn/R7x4U6l
+U-Mail /webmail/client/option/index.php SQL注入漏洞 Exploit： http://t.cn/R7x4bfS
+U-Mail /webmail/userapply.php 路径泄漏 POC ： http://t.cn/R7x4Gbs
+Finecms 2.3.0 /models/search_model.php SQL注入漏洞 POC： http://t.cn/R7x4qph
+Joomla Spider Form Maker http://t.cn/R7x4B2Q
+Hanweb jcms /opr_import_discussion.jsp 任意文件上传漏洞 POC： http://t.cn/R7xbqOz
+校无忧School建站系统 /search.asp SQL注入漏洞 POC ： http://t.cn/R7xb5HX
+CacheGuard-OS 5.7.7 /gui/password-wadmin.apl CSRF Exploit : http://t.cn/R7Jet2w
+PHPCMS 9.5.3 /phpcms/modules/vote/classes/vote_tag.class.php SQL注入漏洞 POC : http://t.cn/R76kaKp
+PHPCMS 9.5.3 /phpcms/modules/content/classes/content_tag.class.php SQL注入漏洞 POC : http://t.cn/R76kos5
+PHPCMS 2008 /preview.php SQL注入漏洞 POC : http://t.cn/R76k9Oq
+PHPCMS v9 /phpsso_server Infomation Disclosure POC : http://t.cn/R7aT9QL
+PHPCMS v9 /index.php 任意文件读取漏洞 POC & Exploit : http://t.cn/R7aTpQa
+CMSEasy v5.5 /celive/live/header.php SQL注入漏洞 POC & Exploit : http://t.cn/R7aT0rZ
+CmsEasy 5.5 <=20140718 /index.php SQL注入漏洞 POC : http://t.cn/R7aTWeV
+Wordpress and Joomla Creative Contact Form 0.9.7 文件上传漏洞 Exploits : http://t.cn/R7oS3hu
+大汉JCMS内容管理系统 /jcms/m_5_9/sendreport/downfile.jsp 任意文件下载漏洞 Exploit : http://t.cn/R7oS32e
+dtcms 3.0 /scripts/swfupload/swfupload.swf 跨站脚本漏洞 POC : http://t.cn/R7oS1eW
+CSDJCMS 3.5 /app/controllers/dance.php SQL注入漏洞 POC & Exploit : http://t.cn/R7oSBPX
+MacOS X 10.10 & FreeBSD10 ftp Remote Comand Execution: http://t.cn/R7Kvv5k
+Discuz! 6.0 /viewthread.php 跨站脚本漏洞 POC : http://t.cn/R794wZq
+Joomla BeaconDecode 跨站脚本漏洞 POC : http://t.cn/R7942on
+Joomla Multi Calendar 4.0.2 跨站脚本漏洞 POC : http://t.cn/R794ySK
+Dedecms /plus/download.php URL Redirect POC : http://t.cn/R7CjjUa
+Shopex /svinfo.php phpinfo信息泄露漏洞 POC : http://t.cn/R7CjjXs
+Espcms /search.php SQL注入漏洞 POC : http://t.cn/R7CjjEk
+TRS wcm系统 /wcm/app/system/read_image.jsp 任意文件下载漏洞 POC : http://t.cn/R7pg1kq
+fckeditor 2.6.8  %00 截断任意文件上传漏洞 Exploit : http://t.cn/R7pgBXl
+Espcms /search.php SQL注入漏洞 POC : http://t.cn/R7pggBB
+Wordpress full Path Disclosure Vulnerability POC : http://t.cn/R7l5nAh
+Cmstop 1.0 /apps/system/view/template/edit.php Path Disclosure POC : http://t.cn/R7l5nVh
+QiboCMS v7 /inc/splitword.php 后门漏洞 POC : http://t.cn/R7Ybklu
+QiboCMS v7 /inc/splitword.php 后门漏洞 POC : http://t.cn/R7YSzi0
+BB2-QQ群：392100673 [江南style][江南style][江南style]
+Esotalk topic xss vulnerability POC : http://t.cn/R78VArm
+URP综合教务系统 /lwUpLoad_action.jsp 任意文件上传漏洞 POC : http://t.cn/R7EfJFz
+LiteCart 1.1.2.1 /search.php 跨站脚本漏洞 POC : http://t.cn/R7Efah5
+phpok 4.0.556 /data.php SQL注入漏洞 POC : http://t.cn/R7mgqwf
+SePortal 2.4 /poll.php SQL注入漏洞 POC & Exploit : http://t.cn/R7mgV0F
+IP.Board <= 3.4.7 /ipsconnect.php SQL Injection POC & Exploit ：http://t.cn/R73lRWm
+Discuz 7.x /include/discuzcode.func.php 代码执行漏洞 POC & Exploit : http://t.cn/R7gXGYI
+Internet Explorer OLE Automation Array 远程代码执行 POC : http://t.cn/R7k3cMP
+MyBB 1.8.1 /report.php?type 跨站脚本漏洞 POC : http://t.cn/RzPrmcm
+WebsiteBaker : http://t.cn/Rzz5bjZ
+Wordpress /?author & title 用户遍历 POC : http://t.cn/Rzz5qAX
+Safari 8.0 / OS X 10.10 - Crash POC : http://t.cn/Rzz55ET
+D-Link DCS-2103 /cgi-bin/sddownload.cgi 任意文件下载漏洞 Exploit : http://t.cn/RzZtaip
+TCCMS v9.0 /system/core/controller.class.php SQL注入漏洞 POC & Exploit : http://t.cn/RzZtoDB
+我们用了1个月到达了100个，目前为止不到两个月到达了150个，这么优秀的结果是大家共同的结晶，群蜂筑巢，感谢所有一路走来的Beeman，明天会更精彩：）[威武][给力][心]
+金龙卡金融化一卡通校园卡查询系统任意文件上传 漏洞 POC : http://t.cn/RzZpG5e
+百度杀毒 20141010 chkdsk taskkill主进程 POC : http://t.cn/RzwMVYZ
+360安全卫士安装非默认路径 chkdsk taskkill主进程 POC : http://t.cn/RzwMIiK
+WordPress CM Download Manager 2.0.0 代码执行漏洞 POC & Exploit : http://t.cn/RzAYQNc
+Hikvision /Server/logs/error.log 文件包含导致GETSHELL漏洞 POC & Exploit : http://t.cn/Rz2eCAX
+eYou /sysinfo.html 信息泄漏漏洞 POC : http://t.cn/Rz2ephV
+Beebeeto-Framework今日新增/payload/webshell/ Utils，方便Beeman编写文件上传等类型的POC/EXP的过程中调用各类型webshell。utils：http://t.cn/RzLyGVy
+MyBB 1.8.2 /inc/class_core.php 代码执行漏洞 POC & Exploit : http://t.cn/RzL184Y
+Zabbix 2.4 /chart_bar.php 前台SQL注入漏洞 Exploit : http://t.cn/RzL1RPw
+Mybb <= 1.8.2 代码执行漏洞 POC & Exploit: http://t.cn/Rzb4hLY
+Piwigo <= v2.6.0 /piwigo/include/functions_rate.inc.php SQL注入漏洞 POC & Exploit : http://t.cn/Rzb4zdu
+phpstat 1.0 /download.php 任意文件下载 POC : http://t.cn/Rzb4w7u
+北京希尔自动化OA管理系统/数据库系统 /bnuoa/info/infoShowAction.do 任意文件下载漏洞 Exploit : http://t.cn/RzqyDlW
+U-Mail 20141124 /api/api.php 敏感信息泄漏 POC : http://t.cn/RzqTw50
+U-Mail /webmail/userapply.php 物理路径泄漏漏洞 POC : http://t.cn/RzqTAGJ
+WordPress HTML 5 MP3 Player with Playlist 插件泄漏服务器物理路径 POC : http://t.cn/Rztypis
+[ Wordpress 3.9.2 /wp-includes/formatting.php XSS漏洞 POC : http://t.cn/Rztisr9 ] 我们好像慢了那么一点儿呢~ [泪]
+PHPMyAdmin 4.2.12 /libraries/gis/pma_gis_factory.php 本地文件包含漏洞 POC : http://t.cn/RzVxcks
+PHPMyAdmin 4.2.12 /libraries/gis/pma_gis_factory.php 本地文件包含漏洞 POC : http://t.cn/RzVnYVy
+xEpan CMS 1.0.1 CSRF Add Admin Exploit : http://t.cn/RzM5Ns0
+PHPCMS 2007 /digg_add.php SQL注入漏洞 POC : http://t.cn/RzM5NyG
+Joomla Component com_departments插件 SQL注入漏洞 POC : http://t.cn/RzM50LV
+笑哭了 http://t.cn/Rzxgt6g [拜拜][拜拜][拜拜]
+Yidacms v3.2 /Yidacms/user/user.asp 信息泄漏漏洞 POC : http://t.cn/RzSikL6
+Discuz 6.0 /my.php SQL注入漏洞 POC & Exploit : http://t.cn/RzS6vfC
+Wordpress Google Document Embedder 2.5.16 ~view.php SQL Injection POC & Exploit : http://t.cn/RzKc4PC
+歪酷CMS /search.html?keyword 任意代码执行漏洞 POC & Exploit : http://t.cn/RzKcGb1
+忍不住泄漏了，不要打我 [泪] @FF0000TeAm @Demon写Demo @Evi1m0 @FF0000_Owl
+WordPress Sexy Squeeze Pages Plugin XSS漏洞 POC : http://t.cn/Rz0Lr5k
+关心Beebeeto、Exploit、POC、最新漏洞等讨论的往这看：QQ群392100673 [呵呵]
+Emlog <4.2.1 /content/cache/user 信息泄漏漏洞 POC : http://t.cn/RzOmHRa
+易想团购 v1.4 /ajax.php check_field参数 SQL注入漏洞 POC : http://t.cn/RzOm85x
+易想团购 v1.4 /link.php SQL注入漏洞 POC & Exploit : http://t.cn/RzOmRIu
+易想团购 v1.4 /vote.php dovote参数 SQL注入漏洞 POC : http://t.cn/RzOmEhL
+易想团购 v1.4 /subscribe.php unsubscribe参数 SQL注入漏洞 POC : http://t.cn/RzOmEJt
+易想团购 v1.4.7 /sms.php do_unsubscribe_verify参数 SQL注入漏洞 POC : http://t.cn/RzOmEu4
+易想团购 v1.4.7 /sms.php do_unsubscribe_verify参数 SQL注入漏洞 POC : http://t.cn/RzOubFk
+Emlog 5.0.1 /xmlrpc.php 后门漏洞 POC : http://t.cn/RzOulFB
+【StartBBS v1.1.5 有趣的泄露任意用户邮箱漏洞 POC : http://t.cn/Rzl74XZ】 哈哈哈 看到这个笑死了，另外POC好像也不错（虽然看不懂，但要装作很懂的样子）[偷笑]
+Zblog 1.8 /search.asp XSS漏洞 POC : http://t.cn/RzlgjD3
+PJBLOG /Action.asp 修改任意用户密码 Exploit : http://t.cn/RzlgTwS
+DomPHP <= 0.83 /indexdate.php SQL注入漏洞 POC & Exploit : http://t.cn/RzlgHqC
+PJBlog 3.0.6.170 /Getarticle.asp XSS漏洞 POC : http://t.cn/Rzlg8s4
+PJBlog 3.0.6.170 /Action.asp XSS漏洞 POC : http://t.cn/RzlgEqD
+YaBB.pl ?board=news&action=display&num= 任意文件读取漏洞 Exploit : http://t.cn/RzlgmzP
+CMSimple 3.54 /whizzywig/wb.php XSS漏洞 POC : http://t.cn/RzlguRr
+StartBBS v1.1.3 物理路径泄漏 POC : http://t.cn/Rzlg3HN
+StartBBS v1.1.3 物理路径泄漏 POC : http://t.cn/RzlgBeg
+LotusCMS 3.0 /core/lib/router.php 代码执行漏洞 POC & Exploit : http://t.cn/RzjOiM9
+Mongodb 配置不当导致未授权访问漏洞 POC : http://t.cn/RzjOiDY
+Startbbs 1.1.5.2 /themes/default/search.php SQL注入漏洞 POC & Exploit : http://t.cn/RzjOS28
+WordPress DZS-VideoGallery /ajax.php XSS漏洞 POC : http://t.cn/RzjOa9u
+phpwind 8.3 /apps/group/admin/manage.php SQL注入漏洞 POC : http://t.cn/RzY7ZLv
+phpwind 9.0 /res/images/uploader.swf 跨站脚本漏洞 POC : http://t.cn/RzY7Lxk
+phpwind 9.0 /res/js/dev/util_libs/swfupload/Flash/swfupload.swf 跨站脚本漏洞 POC : http://t.cn/RzY7yny
+phpwind 9.0 貝塔 反射XSS漏洞 POC : http://t.cn/RzY742H
+phpwind 9.0 /res/js/dev/util_libs/jPlayer/Jplayer.swf 跨站脚本漏洞 POC : http://t.cn/RzY7bqk
+围观tmp的大爆发 : D 各位beeman加油啦↖(^ω^)↗
+phpwind 8.3 /apps/group/admin/manage.php SQL注入漏洞 POC : http://t.cn/RzY7NTq
+万户OA ezOffice /defaultroot/public/jsp/download.jsp 任意文件下载漏洞 Exploit : http://t.cn/RzHUY8u
+相当好用的《PHPWind 9.0 /src/windid/service/user/srv/WindidUserService.php 远程密码修改漏洞 POC & Exploit》：http://t.cn/RzQS63Q [得意地笑]
+Easytalk 2.4 /Home/Lib/Action/ImAction.class.php SQL注入漏洞 POC : http://t.cn/RzRZ283
+Espcms v5.0 /wap/index.php SQL注入漏洞 POC : http://t.cn/Rzmtauq
+NS-ASG /commonplugin-Download.php 任意文件下载漏洞 POC : http://t.cn/RzmtS5w
+Espcms v5.0 /index.php SQL注入漏洞 POC : http://t.cn/RzmtoFb
+WordPress DB-Backup Plugin 4.5 /download.php 任意文件下载漏洞 Exploit : http://t.cn/Rz3x7Sj
+什么时候Beebeeto POC页面上加了圣诞老人，好萌~~~
+pigcms v3.1 /index.php SQL注入漏洞 POC : http://t.cn/Rz3pXGe
+eYou v4 /php/report/include/config.inc 信息泄露漏洞 POC : http://t.cn/Rz15qmX
+密文：八字点比比兔
+方维团购 v4.3 /app/source/goods_list.php SQL注入漏洞 POC : http://t.cn/Rzgz6o8
+Wordpress Ajax Store Locator <= 1.2 /sl_file_download.php 任意文件下载漏洞 POC : http://t.cn/RzgzXpn
+拌面团SCTF Writeup：http://t.cn/RzgFBW3
+CVE-2014-9222 - 厄运cookie（Misfortune Cookie）：http://t.cn/RzgFs0t
+Misfortune Cookie(CVE-2014-9222) POC：http://t.cn/RzejQPO
+下雪了下雪了~~~~~~
+万户OA \defaultroot\information_manager\informationmanager_upload.jsp 任意文件上传漏洞 POC & Exploit : http://t.cn/Rzscp6L
+看见BeeBeeto上飘舞的雪花了吗？平安夜快乐！圣诞快乐！🎅🎅🎅
+Yidacms v3.2 /Yidacms/user/user.asp 远程密码修改漏洞 Exploit : http://t.cn/RZZaDD3
+Yidacms v3.2 /Yidacms/admin/admin_fso.asp 任意文件读取漏洞 POC : http://t.cn/RZZasgV
+Qibo Information V1 /search.php 跨站脚本漏洞 POC : http://t.cn/RZZShqT
+PHPMPS v2.3 /search.php SQL注入漏洞 POC & Exploit : http://t.cn/RZZSzeK
+Piwigo <= v2.7.1 /functions_rate.inc.php SQL注入漏洞 POC : http://t.cn/RZwVzcW
+WordPress Multiple themes /download.php Arbitrary File Download POC : http://t.cn/RZAusx6
+phpweb 1.3.18-1.4.3 /company.php SQL Injection POC : http://t.cn/RZy0Sh7

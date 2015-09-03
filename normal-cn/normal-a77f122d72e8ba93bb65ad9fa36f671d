@@ -1,0 +1,257 @@
+zoonooz/ZFRippleButton http://t.cn/RvmjcRI : Swift语言版Google Material设计风格的按钮。程序不复杂，就一个实现类。有兴趣的可以看看实现思路。或许对于Google Material控的产品在iOS 8上要有一套同样几格的实现类库。[可爱]
+zoonooz/ZFRippleButton http://t.cn/RvmjcRI : Swift语言版Google Material设计风格的按钮。程序不复杂，就一个实现类。有兴趣的可以看看实现思路。或许对于Google Material控的产品在iOS 8上要有一套类似风格的实现类库。[可爱]
+zoonooz/ZFRippleButton http://t.cn/RvmjcRI : Swift语言版Google Material设计风格的按钮。程序不复杂，就一个实现类。有兴趣的可以看看实现思路。或许对于Google Material控的产品在iOS 8上要有一套类似风格的实现类库。[可爱] 扩展阅读《 Google 设计师谈论 Material Design》http://t.cn/RvnbXjZ
+果然很新鲜，有用！[赞] 扩展阅读《google-styleguide 》http://t.cn/zOmmCBL //@Swiftist:http://t.cn/RvumQ63 赶紧转起来~ 写程序就像写文章，乱缩进、乱命名只会一团糟，尤其在多人协作的时候~ 现在《Swift 编程风格指南》中文版来啦，每个Swift程序员都需要通读一遍!
+对于一门全新语言，归纳永远不会嫌多，站在不同的角度可以有不同的解读，从而，开发者可以更全面的认识它。《Swift最酷炫的七大功能-CSDN.NET》 http://t.cn/RvrwJs6
+《Strings in Swift》http://t.cn/Rvg98QS  了解使用String的更高级技巧（尤其在Unicode的使用上）。文章中作者附上了示列代码在Playground项目中，似乎Swift开发者们已经慢慢地习惯了结合playground讲授Swift使用小技巧及语言特性。
+《Strings in Swift》http://t.cn/Rvg98QS 了解使用String的更高级技巧（尤其在Unicode的使用上）。文章中作者附上了示列代码在Playground项目中，似乎Swift开发者们已经慢慢地习惯了结合playground讲授Swift使用小技巧及语言特性。[嘻嘻]
+没有参加苹果开发者计划的同学可以先预览一下《Xcode 6 Beta 3中的重要更改和已解决问题》http://t.cn/RvefqWQ 。对于一门全新语言，在未正式发布前根据开发者反馈及建议，做一些适当调整或小的修订，不用大惊小怪。[嘻嘻]
+好吧。让我们跟随这位九零后大三学生、技术发烧友兼杰出的开源协作翻译组织者一起"编程无捷径，实践出真知"。[偷笑] @梁杰_numbbbbb《大快所有人心的大好事！》 http://t.cn/Rve9bvF
+《Swift语言指南》http://t.cn/RvpWS77 更新：1. Strings in Swift 2. Swift编程风格指南 3. 《The Swift Programming Language》读簿 4. The Swift Programming Language: Solutions to Experiments 5. VirtualGS教程及示例 6.『Swift Weather APP』视频教程 7. 『lingoer/GRequest』HTTP请求实用库
+practicalswift/Pythonic.swift http://t.cn/RveAZ53 : 用Swift语言实现Python标准库的一部分。然后，用Swift写一段Python风格的程序，这是Python程序员想要的吗？相信这不过是一个实验，以此说明Swift语言的多变性、动态性的能力。
+"@王轲_IndieBros：Appcoda.com http://t.cn/RvFzHss 质量很高的一个iOS开发教程站，其中iOS Programming Course http://t.cn/zjOhloK 这个专题很适合刚接触iOS开发的新手学习。" 感谢王轲亲自递交到《Swift语言指南》http://t.cn/RvEWPp1 。期待更多朋友维护、分享，受益更多初学爱好者。[笑哈哈]
+"@wall2flower：Appcoda.com http://t.cn/RvFzHss 质量很高的一个iOS开发教程站，其中iOS Programming Course http://t.cn/zjOhloK 这个专题很适合刚接触iOS开发的新手学习。" 感谢罗韬亲自递交到《Swift语言指南》http://t.cn/RvEWPp1 。期待更多朋友维护、分享，受益更多初学爱好者。[笑哈哈]
+MVVM相较于MVC未必更轻量化，不过它达成了View Controller的轻量化。界面层逻辑(View Model)的抽象，不仅有利于理清View/Controller逻辑的粘连不清，对于单元测度也更容易了。 来自objc.io 译者@nixzhu《MVVM 介绍》http://t.cn/RvXjClg P.S.文章若基于Swift就更好了。 @onevcat
+ksm/SwiftInFlux http://t.cn/RvsrBy9 : 作者(Karol Mazur)将Apple Developer Forums上有关Swift特性及变更讨论(包括beta 3)分类汇总并更新到Github，从而，具有极强的可读性。其中，不乏有Chris Lattner的讨论文章。 已收入《Swift语言指南》http://t.cn/Rv98FrP
+ksm/SwiftInFlux http://t.cn/RvsrBy9 :作者将Apple Developer Forums上有关Swift特性、缺陷及变更讨论分类汇总并更新到Github，具有很好的可读性。从中可以一窥Swift缺陷及未来潜在地变化。最关键地是有Chris Lattner及核心团队答疑解惑。已收入《Swift语言指南》http://t.cn/Rv98FrP
+ksm/SwiftInFlux http://t.cn/RvsrBy9 :作者将Apple Developer Forums上有关Swift特性、缺陷及变更讨论分类汇总并更新到Github，具有很好的可读性。从中可以一窥Swift缺陷及未来潜在地变化。最关键地是有Chris Lattner及核心团队答疑解惑。[嘻嘻] 已收入《Swift语言指南》http://t.cn/RvpWS77
+《Swift语言指南》http://t.cn/RvpWS77 更新快报：1. 官方Swift论坛变更讨论汇总SwiftInFlux 2. 官方Swift博客 3. 官方Xcode 6 beta 3开放下载 4. 详解 iOS 8 的动作扩展 5. 按钮创新特效hamburger-button 6. Swift模拟实现Python标准库Pythonic.swift 7. MVVM 介绍 8. 官方Swift进阶教程视频翻译
+认识iBeacon！"当你走进卧室的时候，手机告诉你最近睡眠严重不足，请尽早睡觉；当你靠近冰箱的时候，手机告诉你牛奶要喝完了，去超市的话顺便买一些吧，如果你同意的话，可以现在就在网上直接买一些；当你走进厨房的时候，手机告诉你这月的水费还没交，可以直接在线交一下……" http://t.cn/RPhXNLl
+AshRobinson/GoogleWearAlert http://t.cn/RPhdavX : Swift语言实现模拟Google Wear风格Alert窗口。P.S. 随着苹果生态的不断开放，有理由相信，与Android生态平滑互通互联是必然趋势。显然，iBeacon可以是比较明显的生态互通案例。
+《连线：为什么苹果Swift语言将会迅速普及》http://t.cn/RP7Lwua ：为苹果硬件开发了15年软件产品的麦克·艾什（Mike Ash）相信，苹果最终会将Swift开源，而且他也相信该语言会在苹果的控制之外发展壮大——因为该语言的开发者拉特纳有着很深的开源情节。“有他在掌舵，我觉得他会做出正确的选择”。
+《Swift语言指南》http://t.cn/RvpWS77 本周收录：1.XPC介绍 2.苹果iBeacon让智能家居走进现实 3.Realm mobile database 4.开源字体Noto Sans CJK简介 5.为什么苹果Swift语言将会迅速普及 6.Android L/iOS8/WP8.1到底谁抄了谁 7.中文iOS/Mac开发博客列表 8.AshRobinson/GoogleWearAlert [可爱]
+《Swift语言指南》http://t.cn/RvpWS77 本周收录快报：1.XPC介绍 2.苹果iBeacon让智能家居走进现实 3.Realm mobile database 4.开源字体Noto Sans CJK简介 5.为什么苹果Swift语言将会迅速普及 6.Android L/iOS8/WP8.1到底谁抄了谁 7.中文iOS/Mac开发博客列表 8.AshRobinson/GoogleWearAlert [可爱]
+Xcode 6 beta 4 release notes: 1. Swift Enables Access Control(private, internal, public)  改代码是必须的了 2.  New stride() Functions 3. iOS 7 and OS X 10.9 minimum deployment target 终于有限制了 ... 详细变更请参考附件 http://t.cn/RPyGkBz
+fastred/HamburgerButton http://t.cn/RPyCvSJ : 一个更漂亮、实用的Hamburger Button，实现详解：http://t.cn/RPyCvSx 。另外，快速浏览了作者的博客，感觉他对iOS Animation编程非常有经验，推荐关注。已收入《Swift语言指南》http://t.cn/Rv98FrP
+android1989/CharacterText http://t.cn/RPG7Uz5 文本飘入飘出及动态显示效果，相比lexrus/LTMorphingLabel http://t.cn/Rv8EUe7 的各种酷炫效果，这个版本比较简单实用。已收入《Swift语言指南》http://t.cn/Rv98FrP
+《Swift语言指南》http://t.cn/RvpWS77 上周收录快报：1. fastred/HamburgerButton 2. android1989/CharacterText 3. 和Swift亲密接触的这半个月 4.我不懂 Swift 语言 5. Session 403视频翻译A002.02。[可爱]
+《The Swift Language Programming》最新章节Access Control中文翻译http://t.cn/RPc6h1f 译者JaceFu: http://t.cn/RPc6h1V @Swift中文翻译组 余温尚存[偷笑]
+《The Swift Programming Language》最新章节Access Control中文翻译http://t.cn/RPc6h1f 译者JaceFu: http://t.cn/RPc6h1V @Swift中文翻译组 余温尚存[偷笑] 。 P.S. @梁杰_numbbbbb 有新译文最好公告一下吗[嘻嘻]
+《The Swift Programming Language》最新章节Access Control中文翻译http://t.cn/RPc6h1f 译者JaceFu: http://t.cn/RPc6h1V @Swift中文翻译组 余温尚存[偷笑] 。 P.S. @梁杰_numbbbbb 有新译文最好公告一下吗。[嘻嘻]
+《The Swift Programming Language》最新章节Access Control中文翻译http://t.cn/RPc6h1f 译者JaceFu: http://t.cn/RPc6h1V @Swift中文翻译组 余温尚存[偷笑] 。 P.S. 有新译文最好公告一下吗。@梁杰_numbbbbb [嘻嘻]
+《The Swift Programming Language》最新章节Access Control中文翻译http://t.cn/RPc6h1f 译者JaceFu: http://t.cn/RPc6h1V @Swift中文翻译组 余温尚存[偷笑] 。 @梁杰_numbbbbb 有新译文最好公告一下吗。[嘻嘻]
+《The Swift Programming Language》最新章节Access Control中文翻译http://t.cn/RPc6h1f 译者JaceFu: http://t.cn/RPc6h1V @Swift中文翻译组 余温尚存[偷笑] 。 @梁杰_numbbbbb 有新译文公告一下吗。[嘻嘻]
+railsware/Sleipnir http://t.cn/RPfBPAE 一个基于Swift的行为驱动开发框架(BDD-style framework)。API安装，示例及说明相对比较齐全。感兴趣或有过BDD经验的同学可以用用看，用过后能给点反馈就更好了。[可爱]
+railsware/Sleipnir http://t.cn/RPfBPAE 一个基于Swift的行为驱动开发框架(BDD-style framework)。API安装，示例及说明相对比较齐全。感兴趣或有过BDD经验的同学可以用用看，用过后能给点心得就更好了。[可爱]
+这款Xcode插件实用性只有赞。只有程序员自己知道缺什么，更重要的一点是还要付诸于行动。//@onevcat：花了一点时间把 VVDocumenter做了Swift适配，欢迎大家试用加星-。-...如果对文档注释不太熟悉或者不知道 VVDocumenter 的童鞋可以看看这篇简介 http://t.cn/RvL0N0M Github地址:http://t.cn/zQtWRQs
+《Swift语言指南》http://t.cn/RvpWS77 本周收录快报：1. iOS界面开发的大一统 by @onevcat 2. Alamofire/Alamofire by mattt 3. railsware/Sleipnir 4. onevcat/VVDocumenter-Xcode 5. learnswift.tips 6. iOS Developer Tips
+aschuch/AwesomeCache http://t.cn/RPXFwku Swift语言写的高效能缓存对象存储及管理，定义及使用简单、易于理解。支持为每个Cache对象设定缓存有效期。[推荐] 已收入《Swift语言指南》http://t.cn/RPXFwk3
+hubertr/Swell http://t.cn/RPaJtD1 : 同时支持Swift和OBJC的Log实用类。喜欢Log4j风格日志管理类的同学可以收入。已收入《Swift语言指南》http://t.cn/RPXFwk3
+ShinobiControls/iOS8-day-by-day http://t.cn/RPSOYFI 追剧iOS 8开发，文章几乎篇篇带示例项目。iOS 8开发者进阶必备！[推荐]
+《Swift语言指南》http://t.cn/RvpWS77 本周收录快报：1. Swift Blog - Apple Developer中文镜像(已收入4篇中译文) 2. App Extension Programming Guide中文镜像(已收入1篇中译文) 3. An analysis of sorts between Objective-C and Swift 4. ShinobiControls/iOS8-day-by-day 5. aschuch/AwesomeCache
+《Swift语言指南》http://t.cn/RvpWS77 本周收录快报：1. Swift Blog - Apple Developer中文镜像(已收入4篇中译文) 2. App Extension Programming Guide中文镜像(已收入1篇中译文) 3. Swift到底比Objective-C快多少？4. ShinobiControls/iOS8-day-by-day 5. aschuch/AwesomeCache 6. Swift进阶A002.03
+译文为WWDC 2014大会中大炮气球演示示例（译者已将博文及代码文档合并翻译了）。P.S. 通过该项目，可以发现通过配置Playground中对应的代码及文档，项目看上去也像是文档，很赞！//@DevTalking：8月9日#Swift#官方博客新文：《Balloons》 原文地址：http://t.cn/RvsIhsA 译文地址：http://t.cn/RPCXIBh
+ochococo/Design-Patterns-In-Swift http://t.cn/RPpjdcn 这个项目分享了Swift编程中如何使用常用设计模式。作者提供的Playground示例及常用设计模式的简单介绍。很赞！[赞]
+mattt/Euler http://t.cn/RPYA7AM mattt大神用Swift新写的自定义数学逻辑运算符，充分发挥Swift的优势特性。这样写是否很数学、很逻辑？ ~0⊻1, ∛27÷3±5, ∑[3,1,2]×2 , [1,2,3] ⋅ [4,3,3] ∌ 8, ∛27 ≤ 4 [嘻嘻]
+《Swift语言指南》http://t.cn/RvpWS77 本周收录快报：1. 苹果官方博文Balloons中译文 2. ochococo/Design-Patterns-In-Swift 3. App Extension Programming Guide - Creating an App Extension 中译文 4. Nil Coalescing Operator解读 5. Swift Operators (mattt/Euler )
+Xcode 6 beta 6发布！除了通过官网Release Notes查看Swift的BUG修复及变更外http://t.cn/RvsXltW ，@DevTalking额外推荐了一篇《Changes in the Swift Standard Library in Beta 6》http://t.cn/RP8fzHf 。
+Xcode beta 6发布！除了通过官网Release Notes查看Swift的BUG修复及变更外http://t.cn/RvsXltW ，@DevTalking额外推荐了一篇《Changes in the Swift Standard Library in Beta 6》http://t.cn/RP8fzHf 。
+Xcode beta 6发布！除了通过苹果官网Release Notes查看Swift的BUG修复及变更外http://t.cn/RvsXltW ，@DevTalking额外推荐了一篇《Changes in the Swift Standard Library in Beta 6》http://t.cn/RP8fzHf 。
+Xcode 6 beta 6发布！除了通过苹果官网Release Notes查看Swift变更外http://t.cn/RvsXltW ，@DevTalking额外推荐了一篇《Changes in the Swift Standard Library in Beta 6》http://t.cn/RP8fzHf 。
+Xcode beta 6发布！除了通过苹果官网查看针对Swift变更外 http://t.cn/RvsXltW ，@DevTalking额外推荐了一篇《Changes in the Swift Standard Library in Beta 6》 http://t.cn/RP8MPvo
+Xcode Beta 6发布！查看苹果官方Swift变更http://t.cn/RP8axbx ，@DevTalking额外推荐了一篇《Changes in the Swift Standard Library in Beta 6》http://t.cn/RP8fzHf
+Xcode Beta 6发布！查看苹果官方Swift变更http://t.cn/RP8axbx ，还有这里《Changes in the Swift Standard Library in Beta 6》http://t.cn/RP8fzHf
+有罪推论，并煽动族群对立行为很恶劣。还科普一片纯净蓝天。 (评论给 美国如何管理转基因--百度百家 http://t.cn/RP8NSf0 )
+如果你需要如此http://t.cn/RPECM4j 功能的Swift网络API，可以考虑使用AshFurrow/Moya http://t.cn/RPECM4l ，它基于Alamofire, swfitz等优秀开源类实现。
+gemtot/iBeacon http://t.cn/RPmyjUZ Swift版iBeacon简单项目（支持最新Beta 6编译）。感兴趣的同学可以学习一下。有关于Passbook应用及Passkit框架编程知识这里有一篇网友较早发布的《iOS 6 - PassKit编程指南》http://t.cn/RPmyjUw
+mattt/Surge http://t.cn/RPrkuZs mattt继发布Euler自定义操作符后，又出一套基于苹果Accelerate高性能计算框架的Swift封装库。计算效率提升惊人，附图性能比较。
+《Swift语言指南》http://t.cn/RvpWS77 上周收录快报：1. Access Control and protected中译文 2. 初学者视频A002.04, A002.05 3. 基于Alamofire开发的网络API AshFurrow/Moya 4. Swift版iBeacon示例项目gemtot/iBeacon 5. 浏览ZIP文件的iOS 8 Action扩展项目indragiek/Unzip P.S. 有好资源记得抄送我
+《Swift语言指南》http://t.cn/RvpWS77 上周收录快报：1. Access Control and protected中译文 2. 初学者视频A002.04, A002.05 3. 基于Alamofire开发的网络API AshFurrow/Moya 4. Swift版iBeacon示例项目gemtot/iBeacon 5. 浏览ZIP文件的iOS 8 Action扩展项目indragiek/Unzip P.S. 有好资源记得抄送我
+mattt/Literally http://t.cn/RhwYrh9 值得你项目收入实用工具类。有意思的是，今天GitHub上Swift语言版块，排名前三的Swift开源项目全部出自Mattt，Swift程序员要努力啊。[挤眼]
+Swift语言指南http://t.cn/RvpwRsi 上周更新快报: 1. 实用类库 a. mattt/Surge b. mattt/Literally 2. 中译文 a. Handling Common Scenarios, b. Optionals Case Study: valuesForKeys c. How To Make a Custom Control in Swift d. UIKit Dynamics Tutorial in Swift 3. 推荐网站: devtalking.com
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报: 1. 实用类库 a. mattt/Surge b. mattt/Literally 2. 中译文 a. Handling Common Scenarios, b. Optionals Case Study: valuesForKeys c. How To Make a Custom Control in Swift d. UIKit Dynamics Tutorial in Swift 3. 推荐网站: devtalking.com
+Some ideas for projects in Swift http://t.cn/Rh26Yek 来自objc.io发起人Chris Eidhof的博客
+随着作者的持续更新，该项目(ochococo/Design-Patterns-In-Swift http://t.cn/RPpjdcn )再一次在GitHub中跃居Swift语言类关注度今日之首。不赶急的同学可以耐下心来学习一下Design Patterns是如何在Swift语言中表述的。[嘻嘻]
+JamalK/Swift-String-Tools http://t.cn/RhyAHRn ：虽然主要是基于现有API封装的扩展类。不过，看看所附截图中封装好的API列表，你就能知道这个String扩展是多么有用。强烈推荐收入！[笑哈哈] 轮子又来了@developerWorks [嘻嘻]
+evnaz/ENSwiftSideMenu http://t.cn/Rh4lSdJ 一个简单的Slide侧拉菜单实现。使用很方便：sideMenu = SideMenu(sourceView: self.view, menuData: ["UIDynamics", "UIGestures", "UIBlurEffect"])
+喜欢带瑞士手表的人，功能性对他们来说是次要的；而喜欢iWatch的人，心态更年轻，更愿意接受变化，有时还视其为时尚和酷。所以，是两种不同品味的人，与身份没关（真土豪们或许不这么认为）。[嘻嘻] (评论给  http://t.cn/RhbwmgP )
+iluuu1994/Pathfinder http://t.cn/Rh5l8Vt ：一个有趣的算法类项目。虽然目前只是个演示项目，不过，作者有计划加入更多算法优化程序，同时，也有计划支持3D地图。关注一下。
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报：1. 示例项目 a. evnaz/ENSwiftSideMenu b. iluuu1994/Pathfinder 2. 推荐文章：a. Some ideas for projects in Swift b. 在Swift中自定义下标
+这篇译文漏转了。已收入http://t.cn/Rv98FrP 。对于苹果官方博客每一篇都值得细细品味。附上@DevTalking 同学已翻译镜像列表截图。[可爱] //@DevTalking：9月3日 #Swift#官方博客新文：《Patterns Playground》 原文地址：http://t.cn/Rh5Q3VV 译文地址：http://t.cn/Rh5QKx3
+iPhone 6 = 4.7寸, 1334 X 750, 6.9mm; iPhone 6+ = 5.5寸, 1920 X 1080, 7.1mm; iPhone 5s = 4寸, 1136 X 640, 7.6mm
+iPhone 6 = 1080p摄影+30fps / 1080p慢镜头+240fps
+Apple Pay的确很强大、很安全。在中国大陆谁会跟进呢？[思考]
+One more thing... 库克好激动... iWatch!
+One more thing... 库克好激动... Apple Watch! 样子很莱卡，有没有。
+由于过小屏幕，因此，重新定义了交互模式，小旋钮非常精致！Apple Watch工业设计美爆了！
+Apple Watch表链设计适合不同场合及品味需求。足够颠覆手表业。相比来讲moto 360弱爆了。
+无论硬件还是全新设计的软件。尽管无比惊艳，然而，戴在手腕上毫不扎眼。这才是苹果这次对Watch的重新定义。坦率地讲，这次苹果真正地超出了我的预期。小伙伴们怎么看？
+$349 差不多2100人民币，明年春天！
+iPhone 6 Plus/iPhone 6/iPhone 5s/iPhone 5c机型参数比较（中文版）：http://t.cn/z895iF2
+昨晚发布会Watch信息量太大了。重新浏览官方http://t.cn/RhcNheC 对细节介绍后，发现其精到之处的确非常周全。比如：运动款更轻的7000系铝合金表壳加超强韧的Lon-X玻璃表面；普通款的百搭钢表壳加蓝宝石表面；以及收藏级Edition款18K金表壳，尽显时尚尊贵。各款型独立设计的表带则是点睛之笔。
+昨晚发布会Watch信息量太大了。重新浏览官方http://t.cn/RhcNheC 对细节介绍后，发现其精到之处的确方方面面。比如：运动款更轻的7000系铝合金表壳加超强韧的Lon-X玻璃表面；普通款的百搭钢表壳加蓝宝石表面；以及收藏级Edition款18K金表壳，尽显时尚尊贵。各款型独立设计的表带则是点睛之笔。美爆了！
+昨晚发布会Watch信息量太大了。重新浏览官方http://t.cn/RhcNheC 对细节介绍后，发现其精到之处的确方方面面。比如：运动款更轻的7000系铝合金表壳加超强韧的Lon-X玻璃表面；普通款的百搭钢表壳加蓝宝石表面；以及收藏级Edition款18K金表壳时尚尊贵。各款型独立设计的表带则是点睛之笔。美爆了！
+苹果发布会后，Swif也迎来了1.0 GM版。相应的官方博文http://t.cn/Rhcuy6q 加以说明。你现在已经可以递交应用，不过，由于并非最终版，因此，正式版发布前仍不排除新特性的加入及语法的优化。更稳定完善的版本你可以期待Xcode 6.1。
+苹果发布会后，Swift也迎来了1.0 GM版。相应的官方博文http://t.cn/Rhcuy6q 加以说明。你现在已经可以递交应用，不过，由于并非最终版，因此，正式版发布前仍不排除新特性的加入及语法的优化。更稳定完善的版本你可以期待Xcode 6.1。
+aleclarson/emitter-kit http://t.cn/RhVN5CZ 用EmitterKit代替NSNotificationCenter。这个库貌似短小、精悍、实用的样子。更重要是语法精练。
+当很多人还在质疑 Watch还不够创新、还不够颠覆、还不够威胁瑞士的时候。对于已经开始欣赏它妙美的我们，不必纠缠于此，市场可证；对于开发者，则可以投入更多的时间考虑能为它做什么？与第一代iPhone发布时一样，苹果并没有交待开发者怎么做。然而，整整三年的研发，只给了开发者三个月时间来消化。
+当很多人还在质疑 Watch还不够创新、还不够颠覆、还不够威胁瑞士的时候。对于已经开始欣赏它惊艳地我们，不必纠缠于此，市场可证；对于开发者，则可以投入更多的时间考虑能为它做什么？与第一代iPhone发布时一样，苹果并没有交待开发者怎么做。然而，整整三年的研发，只给了开发者三个月时间来消化。
+与手机不同，手表并非现代生活的必需品，消费习惯左右着个人观感，很多人天生不喜欢戴手表，改变习惯更需要时间及对产品的重新定义。因此，在没有真实地体验及市场数据反馈前，很难说服异见者。这与第一代iPhone出现的声音类似，当时，也并非很多人能接受纯触屏手机（Nokia才是智能手机的主流标准）。
+正在犹豫是否入手苹果电脑开始一段Swift编程旅程的同学们，或仅仅为了试验一段简单Swift代码又懒得打开Xcode，可以试试这款Web版Swift编译环境RunSwift http://t.cn/RhGkCqB [可爱] @CodingTogether
+BjornRuud/Swiftache http://t.cn/RhMPEVf ：Mustache的Swift语言实现版本。基于Swift的轮子越来越丰富了。[笑哈哈]
+通过Xcode完整的开发步聚介绍了动画过渡 Transitions in Swift I http://t.cn/RhxP3gj , II http://t.cn/RhxP3gY
+结合Xcode开发步聚介绍如何开发动画过渡 Transitions in Swift Part I http://t.cn/RhxP3gj , Part II http://t.cn/RhxP3gY
+结合Xcode开发步聚介绍如何开发动画过渡 Transitions in Swift Part I http://t.cn/RhxP3gj , Part II http://t.cn/RhxP3gY
+结合Xcode开发步聚介绍如何开发动画过渡。Transitions in Swift Part I http://t.cn/RhxP3gj , Part II http://t.cn/RhxP3gY
+结合Xcode开发步聚介绍如何开发动画过渡。Transitions in Swift Part I http://t.cn/RhxP3gj , Part II http://t.cn/RhxP3gY
+结合Xcode开发步聚介绍如何开发动画切换效果。Transitions in Swift Part I http://t.cn/RhxP3gj , Part II http://t.cn/RhxP3gY
+结合Xcode开发步聚介绍如何开发动画过渡Transition in Swift Part I: http://t.cn/RhxP3gj , Part II: http://t.cn/RhxP3gY
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报：1. 实用类库：a. BjornRuud/Swiftache b. aleclarson/emitter-kit 2. objc.io - Swift篇章及两篇中译文(The Power of Swift, Functional APIs with Swift) 3.示例项目及教程 Transition in Swift (Part1,Part2) 4. 开发工具：在线运行Swift - RunSwift
+CodaFi/Swift-Extras http://t.cn/RhaW9l9 ：这个实用类库支持范围很宽范，封装主要以简化及方便调用系统API为主，使程序代码看上去更优雅。遗憾地是，目前作者并没有提供API文档或示例代码，对于初学者使用会额外带来一点点学习成本。
+上午升级到iOS 8, 剩余空间瞬间增加了6.1G。感谢苹果，感谢16G，以后会多用原生，少用第三方。[偷笑]
+Tim Cook: "几年以前，使用互联网服务的用户开始意识到，当一项在线服务免费时，你就不再是消费者，反而成为被消费的对象。但在 Apple，我们坚信出色的用户体验，不应以牺牲你的隐私为代价。我们的商业模式非常直接：就是销售出色的产品。" http://t.cn/z8LbLXI －－拒绝被消费，拥抱好产品！
+Tim Cook: "几年以前，使用互联网服务的用户开始意识到，当一项在线服务免费时，你就不再是消费者，反而成为被消费的对象。但在 Apple，我们坚信出色的用户体验，不应以牺牲你的隐私为代价。我们的商业模式非常直接：就是销售出色的产品。" http://t.cn/z8LbLXI －－拒绝被消费，拥抱好产品！
+Tim Cook: "几年以前，使用互联网服务的用户开始意识到，当一项在线服务免费时，你就不再是消费者，反而成为被消费的对象。但在 Apple，我们坚信出色的用户体验，不应以牺牲你的隐私为代价。我们的商业模式非常直接：就是销售出色的产品。" http://t.cn/z8LbLXI －－拒绝被消费，拥抱好产品！
+Tim Cook: "几年以前，使用互联网服务的用户开始意识到，当一项在线服务免费时，你就不再是消费者，反而成为被消费的对象。但在 Apple，我们坚信出色的用户体验，不应以牺牲你的隐私为代价。我们的商业模式非常直接：就是销售出色的产品。" http://t.cn/z8LbLXI－－拒绝被消费，拥抱好产品！
+nerdyc/Squeal http://t.cn/RhKe9Ec ：一套非常完善的SQLite数据库访问API，无论建库，建表，CRUD等常用数据库操作命令都进行了很好的封装，另外，版本管理、事务管理、并发管理、命令执行及Prepare Statement等都提供相应支持。它是一套不可多得的SQLite管理访问库。
+Haneke/HanekeSwift http://t.cn/RhCcXnM ：貌似这个轻量地带缓存图片组件还不错。主要功能包括图片二级缓存、异步加载、后台执行、自动缩放等。感兴趣的同学可以试用一下。
+这么好的译文@Onetaway 同学译好后为何不微博分享一下呢？[嘻嘻]《结构体和值类型》 http://t.cn/RhC8ijv
+佷好的归纳。建议新手脑补一下这部分知识。//@小雪-Joanna：看到一篇很好的关于iPhone6屏幕渲染的文章，翻译了一下，戳这里 http://t.cn/RhJdzFe查看~[喵喵][喵喵]
+佷好的归纳。建议新手脑补一下这部分知识。//@小雪-Joanna：看到一篇很好的关于iPhone6屏幕渲染的文章，翻译了一下，戳这里：http://t.cn/RhJdzFe 查看~[喵喵][喵喵]
+关于iPhone6屏幕渲染的归纳。建议新手脑补一下这部分知识。译文：http://t.cn/RhJdzFe By @小雪-Joanna 原文：http://t.cn/RhIbEp1
+Swift专题五篇译文分别为：1. Swift 的强大之处http://t.cn/RhJUzhJ 2. 结构体和值类型http://t.cn/RhC8ijv 3. Swift方法的多面性http://t.cn/RhNIB1n 4. Swift的函数式 API http://t.cn/RhJRvBJ 5. Playground快速原型制http://t.cn/RhNIB11 //@onevcat：#objc中国#第16期有关Swift的话题已经全部完成
+本微博遵循原则：1. 不拷贝他人微博内容，能找到原始出处的均以转发为主；2. 遵循第1条基础上，分享他人文章时，使用原出处，注明作者；3. 《Swift语言指南》为本微博镜像，内容仅收录标题、原链接及微博评论，不做文章拷贝，不加友链，无广告。－－洁净内容及版权意识从点滴开始，请大家监督。[可爱]
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报：1. 类库 a. typelift/Basis（工具类） b. nerdyc/Squeal（SQLite） c. Haneke/HanekeSwift（图片） 2. 教程 a. 在Playground中添加说明文档 b. iOS8 Day-by-Day :: Day2 :: 分享应用扩展 3. 译文 a. #objc中国#Swift专题文章 b. iPhone 6 屏幕揭秘
+ariok/BWWalkthrough http://t.cn/Rhp0YYS ：让你的页面切换动起来，示例效果杠杠的。作者还提供了比较完整的开发文档及示例解说，希望对你有用。
+inamiy/SwiftTask http://t.cn/RhOa2xE ： 一个很标准的任务及其生命周期管理类库。作者还附上了一个基于Alamofire库完成的网络文件下载的任务管理示例。
+SugarRecord/SugarRecord http://t.cn/RhYLS4n ：相对于SQL，CoreData可以更方便、高效存储数据，而SugarRecord类库可以让你更方便的使用CoreData，同时作者已经封装好iCloud，使你的应用开发更如虎添翼。不要犹豫收入吧。
+vandadnp/iOS-8-Swift-Programming-Cookbook http://t.cn/RhYixpw ：来自《 O'Reilly's iOS 8 Swift Programming Cookbook》的配套示例。书买不买另说，如此即时、完整、丰富的新书示例项目真不多见。悟性好的同学，开发时参考一下示例是不是就不用买书了？[偷笑]
+jcavar/refresher http://t.cn/RhYdYJG ：一个常用的下拉即刷新列表工具类，提供开放接口定制刷新动态变换效果。需要用到此功能的同学就收了这个”轮子”吧！[嘻嘻]
+jcavar/refresher http://t.cn/RhYdYJG ：一个常用的下拉即刷新列表工具类，提供开放接口定制刷新动态变换效果。需要用到此功能的同学就收了这个”轮子”吧！ [嘻嘻]
+gfx/Swift-JsonSerializer http://t.cn/RhTmNvw ：JSON解析又多了一种选择。另外两个解析类分别是：lingoer/SwiftyJSON http://t.cn/RvlBNv4 ，owensd/json-swift http://t.cn/RvTfV0B 。如何选用可按个人喜欢。
+Swift语言指南http://t.cn/RvpwRsi 本周收录快报1.类库: refresher, SugarRecord, BWWalkthrough, SwiftTask, SwiftState, Swift-JsonSerializer 2.教程: Getting Your App Ready in iOS8, VectorPDFSupportTest, Swift-Programming-Cookbook 3.译文: 如何创建Action扩展, 必须要知道的iOS8的十个变化
+daltoniam/starscream http://t.cn/RhE8P2J ：Swift版本WebSocket客户端类库，支持iOS/OS X 。 使用方便，跨平台开发不可或缺的"轮子"。推荐收入！
+daltoniam/Skeets http://t.cn/RhrqB6D ：网络图片的获取、缓存及显示类库，支持缓存的清理及时效性管理。网络图片的获取采用了之前已经推荐过的该作者开发的daltoniam/SwiftHTTP http://t.cn/RhrqB6e
+http://t.cn/RheS0oR colemancda/NetworkObjects ：基于Swift的轻量版HttpServer框架，可以做为iOS/OS X分布式对象的一个跨平台选择。可惜缺少演示或示例代码。
+colemancda/NetworkObjects http://t.cn/RheS0oR ：基于Swift的轻量版HttpServer框架，可以做为iOS/OS X分布式对象的一个跨平台选择。可惜缺少演示或示例代码。
+colemancda/NetworkObjects http://t.cn/RheS0oR ：基于Swift的轻量版HttpServer框架，可以做为iOS/OS X分布式对象的替代。可惜缺少演示或示例代码。
+SQLite.swift http://t.cn/RhFPDIC ：简单、轻量，或是使用上最SQL的SQLite封装库。附上次推荐的另一个比较偏重量级的SQLite封装库是nerdyc/Squeal http://t.cn/RhKe9Ec 。可以根据自己的喜欢及需求选择使用。
+stephencelis/SQLite.swift http://t.cn/RhFPDIC ：简单、轻量，或是使用上最SQL的SQLite封装库。附上前一次推荐的另一个相比偏重量级的SQLite封装库nerdyc/Squeal http://t.cn/RhKe9Ec 。可以根据自己的喜欢及需求选择使用。
+地图及位置服务封装库（默认支持Google和Apple地图服务）。有需发的同学可以收了。地图管理（varshylmobile/MapManager）：http://t.cn/RhsQexI 位置管理（varshylmobile/LocationManager）：http://t.cn/RhsQexM
+地图及位置服务封装库（默认支持Google和Apple地图服务）。有需发的同学可以收了。地图管理（varshylmobile/MapManager）：http://t.cn/RhsQexI ，位置管理（varshylmobile/LocationManager）：http://t.cn/RhsQexM
+地图及位置服务封装库（默认支持Google和Apple地图服务）。有需要的同学可以收了。地图管理（varshylmobile/MapManager）：http://t.cn/RhsQexI ，位置管理（varshylmobile/LocationManager）：http://t.cn/RhsQexM
+《Swift实现Touch ID验证 》 http://t.cn/R7vLqC3  来自 @小红星闪啊闪  ：站在程序员的角度，一步一步介绍如何在项目中使用Touch ID验证。[赞] 审美吐槽：若能去除与主题无关的Swift基础点的说明，并将注解移入示例代码内可读性会更好。当然，最好附上示例项目完整代码。[挤眼]
+@DevTalking 同学的译文不能漏http://t.cn/R7PcPAU 。[笑哈哈] P.S. 苹果在开发工具能力上的创新一刻都不曾停，Xcode 6以来更甚。哪一天不写代码开发一款功能上佳的应用不是不可能。当然，或许很多人仍然在吐槽着Xcode易用性，相信会好起来的。
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 教程：官方开发视频教程，自适应布局指南，虚化效果指南，林永坚开发实战视频 2. 类库：SQLite.swift, Skeets, NetworkObjects, MapManager, LocationManage, SwiftSSL, 3. 其它：10款不能错过的开源项目，Xcode警告及语义对照表，新版速查表。
+小伙伴们，快来围观！我已经升级为V6新版微博，简洁的界面带来更流畅的体验。准备好了吗？和我们一起发现新的世界吧！升级猛戳:http://t.cn/R7vgnNI http://t.cn/R7PW0Ng
+新版微博吐槽：1. 卡片太多让人晕；2. 搜索及设置仍然旧版风格，使得响应式设计使用受限；3. 为适应圆形头像，很多用户要重新设计头像；4. 简介移到了主页封面位置显示，使得不少用户的封面要更换；5. 首页左侧透明导航栏，使得不少用户的背景要换；6. 访问好友主页弹出新窗口，不少用户可能会不习惯。
+KhaosT/HomeKit-Demo http://t.cn/R7Z7eUH ：HomeKit演示项目，可以与HomeKit模拟器协同工作。由此进一步思考：HomeKit配合iBeacon、蓝牙，甚至更具DIY潜力的树莓派(Raspberry Pi)组成未来家居智控中心，这个方向上的开发潜力巨大。感兴趣的同学可以关注一下。
+优秀开源项目robb/Cartography解读http://t.cn/R7ZsChi ："这篇文章需要读者至少看过它的使用介绍。要读懂这篇文章，最好是看着它的代码听着我的解说会更容易一些。" 感谢@世上有多少神奇昵称任我改 同学主动认领并完成解读。P.S. 在还没有iOS自动布局相关开发经验之前，建议首先了解相关基础知识。
+robb/Cartography解读 http://t.cn/R7ZsChi ：要读懂此文，需要先阅读该项目在Github(http://t.cn/R7w0YZo )中的使用介绍，然后，对照着代码看解读会更容易理解一些。感谢@世上有多少神奇昵称任我改 同学主动认领并完成解读。友情提示：在没有iOS自动布局相关开发经验之前，建议首先了解相关知识。
+SwiftyJSON/Alamofire-SwiftyJSON http://t.cn/R7AHxqh ：简单地整合Alamofire和SwiftyJSON后，远程JSON使用方便了。下附使用示例。
+《iOS 8 App Extension Development Tips》http://t.cn/R7PAe5f ：这篇文章比较全面的概括了iOS扩展开发小技巧。借此，再推荐一篇更深入开发细节的类似文章《Problems With Building a Today Extension in iOS 8》 http://t.cn/R7AFtwx 。以上推荐来自iosdevweekly.com
+Swift System Version Checking http://t.cn/Rhkc90t ：介绍使用Swift语言检测操作系统版本的方法。作者：Mattt Thompson
+应用扩展编程指南http://t.cn/R7LZuAQ Extension Programming Guide ：这是苹果官方文档《App Extension Programming Guide》http://t.cn/R7LZuAT 的非官方中文镜像译文完整版。这里仅记录了文章链接。译文均来自网友翻译。译者：@DevTalking , @寂幻森林 , @CocoaChina 等。
+应用扩展编程指南http://t.cn/R7LZDh0 ：这是苹果官方文档《App Extension Programming Guide》http://t.cn/R7LZuAT 的非官方中文镜像译文完整版。这里仅记录了文章链接。译文均来自网友翻译。译者：@DevTalking , @寂幻森林 , @CocoaChina 等。
+用了一天的Yosemite体会：交互细节更讲究了；一切iOS化了；通知栏越发实用了；Dashboard格格不入。当然，最喜欢的还是iCloud Drive。[嘻嘻]
+ortuman/SwiftForms http://t.cn/R7Gimnf ：这个表单递交库简单实用，支持主要数据类型及定制。快速开发利器。
+ortuman/SwiftForms http://t.cn/R7Gimnf ：这个表单递交库简单实用，支持主要数据类型及定制。快速开发利器。[推荐]
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 教程：人机界面指南, 如何用Swift写UIDynamic，Swift System Version Checking, Problems With Building a Today Extension, 应用扩展中译, 应用扩展开发技巧 2. 类库：Alamofire-SwiftyJSON, SwiftForms 3. 其它：Cartography解读, HomeKit-Demo
+Hearst-DD/ObjectMapper http://t.cn/R7q1sYl ：对象与JSON互转实用类库。需要的同学可以收一下。
+Mou迎来了久违地更新（Beta 0.87）。作者罗晨近期也组建了公司25.io计划全职Mou开发。为了尽快发布1.0版本，他通过IndieGoGo众筹$20,000 USD，用于1.0版本开发所需。支持他的同学可以去这里：http://t.cn/RhnO3Vq
+为iPhone6设计自适应布局（一）http://t.cn/R7LgRNR （二）http://t.cn/R7UNDVw ："当你们学习完这篇文章后，你们应该会比较自如的使用 storyboard、constaints、size classes 这三个Apple在Xcode里提供的工具，去探索和构建巧妙的自适应布局。" 译者：@DevTalking 原文：http://t.cn/RhTghER
+为iPhone6设计自适应布局（一）http://t.cn/R7LgRNR （二）http://t.cn/R7UNDVw ："当你们学习完这篇文章后，你们应该会比较自如的使用 storyboard、constaints、size classes 这三个Apple在Xcode里提供的工具，去探索和构建巧妙的自适应布局。" 译者：@DevTalking 原文：http://t.cn/RhTghER
+tnantoka/edhita http://t.cn/R7tlFXU ：edhita是一款用Swift重写并完全开源的文本编辑器。AppStore上已经有更新版下载。试用后感觉还不错。它甚至支持Markdown, HTML等文件编辑后的所见即所得显示。
+tnantoka/edhita http://t.cn/R7tlFXU ：edhita是一款用Swift重写并完全开源的文本编辑器。AppStore上已经有更新版下载。试用后感觉还不错。它甚至支持Markdown, HTML等文件编辑后的预览显示。[赞]
+iPhone 6以后，手机体验正式由拇指转向一块屏幕的战争，食指则当仁不让的夺回老大的地位。[嘻嘻]
+google/material-design-icons http://t.cn/R74Cc0s ：对于喜欢 Material Design风格的同学，这是难得好资源。Google提供了极为完整的各种图标（包含iOS各种精度及SVG）设计资源。
+DaveWoodCom/XCGLogger http://t.cn/R7fEhgZ ： 这是一款功能比较健全日志输出框架（Log4Swift）。之前推荐过一款类似的 hubertr/Swell，但它的功能明显没有这款强大。
+isair/JSONHelper http://t.cn/R7isMC1 ：又一款JSON转对象类库，算上，lingoer/SwiftyJSON，owensd/json-swift，gfx/Swift-JsonSerializer，已经有四款了。同学们根据喜好及需求，择优使用吧。[嘻嘻]
+michaelarmstrong/SuperRecord http://t.cn/R7Ji9Ou ： Swift版CoreData框架扩展类库。相比对于SugarRecord/SugarRecord http://t.cn/RhYLS4n ，SuperRecord要简单、轻量得多。很棒的快速开发类库。[推荐]
+michaelarmstrong/SuperRecord http://t.cn/R7Ji9Ou ： Swift版CoreData框架扩展类库。相对于同类型CoreData框架库SugarRecord/SugarRecord http://t.cn/RhYLS4n ，SuperRecord要简单、轻量得多。很棒的快速开发类库。[推荐]
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报：其中类库4个，项目2个，教程6份，技巧3篇。更新内容详见《2014-10-27收录周报》http://t.cn/R7ahGAR
+kylef/Stencil http://t.cn/R7aAHbI ：通过在模板中支持if, for, ifnot 等语法标签，实现更强大、更灵活的数据及格式输出。这种形式你喜欢吗？[疑问]
+kentya6/KYCircularProgress http://t.cn/R7KqKZN ：这个进程条类库实现及使用都很简单，支持进程路径的定制，灵活方便。
+《CMDevice​Motion》http://t.cn/R79zCjk ：一篇关于CMDevice​Motion类解读及使用方法的文章。对于iPhone三轴陀螺仪和加速感应器，以及M7/M8协处理器，核心运动框架（The Core Motion framework）提供了完整的API支持。然而文章更重要的意义是启发开发者重视感应器，并结合场景开发新颖好玩的应用。
+kylef/PathKit http://t.cn/R79FMoG ： 简单、实用的文件路径操作类，常用功能一个也不少。推荐收入！
+《iOS 5+ 设备一览》http://t.cn/R701ugn ：作者的意图是通过这样一张直观的图，指导选择相对合理的设备组合进行开发和测试。PDF版本：http://t.cn/R701ugu
+Masonry/Snappy http://t.cn/R7WK9rj ：一个基于AutoLayout封装，语法简洁的轻量级布局框架。当然，用代码还是storyboard，全凭开发者喜好。若偏好可视化自动布局，@DevTalking 的两篇译文值得参考《Swift自适应布局教程》http://t.cn/R7PcPAU ，《为iPhone6设计自适应布局》http://t.cn/R7LgRNR
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 类库：kylef/PathKit, kylef/Stencil, kentya6/KYCircularProgress, Masonry/Snappy；2. 教程2份；3. 文档5篇；4. 技巧1篇。更新内容详见《2014-11-3收录周报》http://t.cn/R7l1VZK 03.md
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 类库：kylef/PathKit, kylef/Stencil, kentya6/KYCircularProgress, Masonry/Snappy；2. 教程2份；3. 文档5篇；4. 技巧1篇。更新内容详见《2014-11-3收录周报》http://t.cn/R7l1VZK 03.md
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 类库：kylef/PathKit, kylef/Stencil, kentya6/KYCircularProgress, Masonry/Snappy；2. 教程2份；3. 文档5篇；4. 技巧1篇。更新内容详见《2014-11-3收录周报》http://t.cn/R7l1HOd
+kevinzhow/PNChart-Swift http://t.cn/RvMCPv6 ：PNChart的Swift版实现。PNChart http://t.cn/zRWXJCZ 是饼图、折线图、柱状图等常用可视化图表工具类库。
+kevinzhow/PNChart-Swift http://t.cn/RvMCPv6 ：PNChart的Swift版实现。PNChart http://t.cn/zRWXJCZ 是饼图、折线图、柱状图等常用可视化图表工具类库。开发者：@周楷雯Kevin
+aubrey/SwiftPagingNav http://t.cn/R7YQdqg：一个简单的页面切换代码示例。虽然，代码过于流水，不过，从学习性及功能性来说，对于初学者有用。
+kaishin/ImageScout http://t.cn/R7HoX5F ：最小网络代价获得图片大小（宽和高）及类型，它对于很多场合，比如：布局和排版都有积极作用。非常实用的Swift类库。[推荐]
+thoughtbot/Argo http://t.cn/R7HFsbp ：一个带有实战说明的JSON解析方案及类库。
+我也开通了@网易LOFTER，以后会在这里写写文章、发发图。 我的LOFTER地址：http://t.cn/R7Qfv4m（下载LOFTER客户端：http://t.cn/RPa1mnh）
+Wolg/awesome-swift http://t.cn/R7Rhw01 ：一位俄罗斯朋友分类整理的Swift学习资源列表（有持续更新）。
+Wolg/awesome-swift http://t.cn/R7Rhw01 ：一位俄罗斯朋友分类整理的Swift资源列表（有持续更新）。
+coolbeet/CBStoreHouseRefreshControl http://t.cn/R7HCWAa ：这个下拉刷新库，提供完全可定制进度变换效果，且极具艺术感。建议有能力的同学把Objective-C版本改写为Swift版本。
+jurre/TravisToday http://t.cn/R7EJ0VR ：一个功能相对完整的服务于Travis CI系统的OS X应用扩展Today项目案例。
+有关Native应用和Web应用，最近争论渐少，原因应该有两点：1. 无论Apple还是Google，Native应用才是其生态的基础，过于激进推动，将损害其固有商业利益。而微软的话语权严重受阻其移动系统的发展；2. 基于Web View的混合应用基本满足应用跨平台性 。这里有篇新鲜文章论述较全面：http://t.cn/R7mxg9d
+有关Native应用和Web应用，最近争论渐少，原因应该有两点：1. 无论Apple还是Google，Native应用才是其生态的基础，过于激进推动，将损害其固有商业利益。而微软的话语权严重受阻于移动系统的发展；2. 基于Web View的混合应用基本满足应用跨平台性 。这里有篇新鲜文章论述较全面：http://t.cn/R7mxg9d
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 类库：kaishin/ImageScout, kaishin/gifu, coolbeet/CBStoreHouseRefreshControl, kevinzhow/PNChart-Swift, thoughtbot/Argo；2. 项目1个；3. 教程1份；4. 文档2篇；5. 技巧1篇。更新内容详见《2014-11-10收录周报》http://t.cn/R733jxs
+jpsim/PeerKit http://t.cn/R71eyZD ：基于事件驱动的多端对等连接开源框架。作者提供了该组件使用案例jpsim/CardsAgainst http://t.cn/R71eyZF，具体引用代码详见 http://t.cn/R71eyZk
+Swift语言指南http://t.cn/RvpWS77：几乎收录了Swift发布以来最重要的免费学习资源及开源项目，几乎涵盖了最完整的中文学习资源及文档。相信它是您学习Swift不可或缺的参考指南。今天有意截了个屏，让您感受一下！[嘻嘻]
+Swift语言指南http://t.cn/RvpWS77：几乎收录了Swift发布以来最重要的免费学习资源及开源项目，几乎涵盖了最完整的中文学习资源及文档。相信它是您学习Swift不可或缺的参考指南。今天有意截了个屏，一起感受一下！[嘻嘻]
+Swift语言指南http://t.cn/RvpWS77：几乎收录了Swift发布以来最重要的免费学习资源及开源项目，几乎涵盖了最完整的中文学习资源及文档。相信它是您学习Swift不可或缺的参考指南。今天有意截了个屏，一起感受一下！[嘻嘻]
+codestergit/SweetAlert-iOS http://t.cn/R7gkyhE ：该弹窗控件设计简单直接，功能完整，动画效果恰如其分。实在不可多得，必须收录。
+Core Location in i​OS 8 http://t.cn/R7rv1ji ：有关iOS 8核心位置服务介绍。文章从权限、室内位置跟踪、CLVisit等角度做了较全面的介绍。P.S. 可惜NSHipster中译进度近期不给力。@NSHipster [挤眼]
+Quick/Nimble http://t.cn/R7jRmTb ：功能更强于Xcode自带测试框架（XCTest）的测试类库。
+shuoli84/SocketIOCocoa http://t.cn/R7sex0c ：又一款WebSocket实用客户端类库，作者提供了详细的测试用例可以做为示例代码使用。参见：http://t.cn/RzvK1uk 。 P.S. 另一款推荐过的WebSocket类库daltoniam/starscream http://t.cn/RhE8P2J
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 类库：codestergit/SweetAlert-iOS, jpsim/PeerKit, shuoli84/SocketIOCocoa, Quick/Nimble. 2. 快速入门3篇；3. 文档3篇。更新内容详见《2014-11-17收录周报》http://t.cn/RzPWQGw ter/weekly/2014-11-17.md
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 类库：codestergit/SweetAlert-iOS, jpsim/PeerKit, shuoli84/SocketIOCocoa, Quick/Nimble. 2. 快速入门3篇；3. 文档3篇。更新内容详见《2014-11-17收录周报》http://t.cn/RzPWEs6
+UIPrint​Interaction​Controller http://t.cn/Rz7yw1R ：文章介绍了如何格式化打印内容及相关打印定制技巧或控制技术。或许，在如今移动及数子化时代，打印已经被许多人所忽视。无论如何，对于传统行业，需求仍然是切实存在的，因此，这是一篇难得好文章。
+投巧和高级"山寨"分别用在小米和魅族身上合适吗？[偷笑]
+nghialv/MaterialKit  http://t.cn/RzZluCc ：Swift版Google Material Design组件库。虽然个人并不推荐在iOS平台上使用非iOS风格界面，不过，对于Android强迫症“患者”，多一种选择也是友好的。[挤眼]  BTW, 附上Google提供的开源Material Design图标集 http://t.cn/R74Cc0s ，可以一起收入。
+ide/UIVisualEffects http://t.cn/RzwlBXN ：Swift实现模糊化等视觉效果示例代码。代码详见：http://t.cn/RzwlBXC
+Ahmed-Ali/JSONExport http://t.cn/RzAPrE5 ：一款实用工具，可以将JSON转换并输出为Swift语言类模型（也支持Android上的Java），支持简单的定制。
+对于很多同学来讲，本周WatchKit的发布是那么的重要，以至于拼尽全力、如火如荼地写代码，撰写或翻译文章。借此，也来单列一份合集吧，《Apple Watch指南》http://t.cn/Rz2X441 Watch  ，且一并收录于《Swift语言指南》http://t.cn/Rv98FrP 。[嘻嘻]
+对于很多同学来讲，本周WatchKit的发布是那么的重要，以至于拼尽全力、如火如荼地写代码，撰写或翻译文章。借此，也来单列一份合集吧，《Apple Watch指南》http://t.cn/Rz2X441 Watch ，且一并收录于《Swift语言指南》http://t.cn/Rv98FrP [嘻嘻]
+对于很多同学来讲，本周WatchKit的发布是那么的重要，以至于拼尽全力、如火如荼地写代码，撰写或翻译文章。借此，也来单列一份合集吧，《Apple Watch指南》http://t.cn/Rz2XiT3 ，且一并收录于《Swift语言指南》http://t.cn/Rv98FrP 。[嘻嘻]
+对于很多同学来讲，本周WatchKit的发布是那么的重要，以至于拼尽全力、如火如荼地写代码、撰写或翻译文章。借此，也来单列一份合集吧，《Apple Watch指南》http://t.cn/Rz2XiT3 ，且一并收录于《Swift语言指南》http://t.cn/Rv98FrP 。[嘻嘻]
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 特别推荐《Apple Watch指南》http://t.cn/Rz2XiT3 ；2. 类库：nghialv/MaterialKit,  Ahmed-Ali/JSONExport；3. 示例代码1份；4. 教程3篇。更新内容详见《2014-11-24收录周报》http://t.cn/RzUNCQ4
+为了便于大家阅读，今天为《Swift语言指南》http://t.cn/RvpwRsi 添加了目录导引。[嘻嘻]
+《使用WatchKit前需要先了解的几件事》 http://t.cn/RzbKkqy 和《如何新建一个“Hello World” WatchKit应用》http://t.cn/RzyT853 。两篇文章一起组成WatchKit应用快速开发入门参考。来源：iOSDevWeekly.com
+dongri/OAuthSwift http://t.cn/Rzbet3u ：Swift版OAuth(1/2)授权类库。对于作者提供的API，看着舒服，用着方便。[嘻嘻]
+stakes/Frameless http://t.cn/RzGp75G ：一款基于WKWebView的最小化全屏浏览器，主要功能是方便开发者采用HTML5做原型设计或App发布。对于测试工程师或喜欢极简、全屏浏览用户，可以直接在AppStore下载使用 http://t.cn/RzGp75q 。
+Natasha The Robot http://t.cn/RzGeXLm ： 时髦码农不容错过的Swift开发实战教程类网站。为了简化学习复杂性，每一篇文章涵盖技术点单一又独立，配以开发步骤、运行结果以及代码等标准方式教授。难能可贵的是，它往往出品"追剧式"（最新开发特性或API跟进式）教程，实在是开发者必藏精品网站。
+Natasha The Robot http://t.cn/RzGeXLm： 时髦码农不容错过的Swift开发实战教程类网站。为了简化学习复杂性，每一篇文章涵盖技术点单一又独立，配以开发步骤、运行结果以及代码等标准方式教授。难能可贵的是，它往往出品"追剧式"（最新开发特性或API跟进式）教程，实在是开发者必藏精品网站。[推荐]
+Ramotion/animated-tab-bar http://t.cn/RztZV0f ：一款灵动的动画标签栏类库。可在storyboard中直接使用，非常方便。Demo效果非常漂亮。递交仅一周时间，今天即在GitHub上以122颗星极速跃居到Swift分类第一的位置。
+Ramotion/animated-tab-bar http://t.cn/RztZV0f ：一款灵动的动画标签栏类库。可在storyboard中直接使用，非常方便。Demo效果非常漂亮。递交仅一周时间，今天即在GitHub上以122颗星极速跃居到Swift分类第一的位置。
+《WatchKit编程指南 － 通知 》中译（By @星夜暮晨）：1. 有关通知的一些要点 http://t.cn/RzcoR0x ；2. 自定义通知界面 http://t.cn/RzcoR0J 。 已经更新至《Apple Watch指南》http://t.cn/Rz2XiT3
+Swift语言指南http://t.cn/RvpwRsi 上周收录快报。1. 特别推荐教程网站：NatashaTheRobot http://t.cn/RzGeXLm；2. 类库：animated-tab-bar, Flipbook, OAuthSwift；3. 项目2个；4. 教程及文档6篇。更新详见《2014-11-30收录周报》http://t.cn/RzMwY2W 。（顺附PDF版本指南http://t.cn/Rv9Rz7L）
+johnno1962/WatchkitCurrency http://t.cn/RzIeNEN ： 用WatchKit做的币制转换示例（尽管UI设计很丑[偷笑]）。或许这类小而实用的功能是第一代Apple Watch需要的。
+Ramotion/paper-switch http://t.cn/Rzx10J3：类库实现了当Switch组件开/关切换时，平滑过渡到父视图的变换效果功能（核心类继承了UISwitch）。P.S. 该开发者也是这几天热门项目 Ramotion/animated-tab-bar 的作者。
+evermeer/EVCloudKitDao http://t.cn/Rz6VB5N ：一套使用CloudKit简单封装库。作者还提供了示例项目及程序供开发者参考使用。
+Mattt Thompson - Watch​Kit http://t.cn/RzJG8LX ： 官方开发资源（尤其『视频Getting Started』，文档《Apple Watch人机交互指南》和《WatchKit编程指南》，以及示例代码）毫无意外做为文章优先推荐。当然，做为经验丰富的开发者，他还额外给出了WatchKit和UIKit惊人相似的对照表及核心API说明。
+Mattt Thompson - Watch​Kit http://t.cn/RzJG8LX ：官方开发资源（尤其『视频Getting Started』，文档《Apple Watch人机交互指南》和《WatchKit编程指南》，以及「示例代码」）毫无意外做为文章优先推荐。当然，做为经验丰富的开发者，他还额外给出了WatchKit和UIKit惊人相似的对照表及核心API说明。
+p2/OAuth2 http://t.cn/Rz6OU2z ：独立又纯粹的OAuth2认证授权类库，作者所提供的示例及流程说明清晰又简洁。
+进阶版也出了，够给力！//@星夜暮晨："Alamofire"教程系列第二弹 -《Alamofire网络库进阶教程》翻译出炉http://t.cn/Rz6aLP1。Alamofire项目是Mattt为其著名的AFNetworking采用Swift语言重写的网络基础库开源项目。原文来自 Ray Wenderlich - Intermediate Alamofire Tutorial http://t.cn/Rz6aLPm
+进阶版中译也出了，够给力！//@星夜暮晨："Alamofire"教程系列第二弹 -《Alamofire网络库进阶教程》翻译出炉http://t.cn/Rz6aLP1。Alamofire项目是Mattt为其著名的AFNetworking采用Swift语言重写的网络基础库开源项目。原文来自 Ray Wenderlich - Intermediate Alamofire Tutorial http://t.cn/Rz6aLPm
+FahimF/FloatLabelFields http://t.cn/RzaDOdd ： 基于"Float Label Pattern"的内嵌浮动标签输入效果Swift版类库实现。有关"Float Label Pattern"介绍可以参见http://t.cn/zRCt9wG
+FahimF/FloatLabelFields http://t.cn/RzaDOdd ： 基于"Float Label Pattern"的内嵌浮动标签输入效果Swift版实现类库。有关"Float Label Pattern"介绍可以参见http://t.cn/zRCt9wG
+根据常用与否，动态显示应用图标大小及位置，似乎更人性化。现在也已经有为越狱后iPhone后开发了Apple Watch风格交互界面的应用（http://t.cn/RzoT8iL）。那么，缺点会是什么，苹果未来也会用上吗？
+根据常用与否，动态显示应用图标大小及位置，似乎更人性化。已有为越狱后iPhone开发的仿Apple Watch风格交互界面的应用（http://t.cn/RzoT8iL）。那么，缺点是什么，苹果也会用到iOS上吗？目前的界面及布局风格已经太多年，早有审美疲劳之感，是时候有一套全新交互界面了。当然，按压也不能缺。[嘻嘻]
+cemolcay/ReorderableGridView-Swift http://t.cn/Rzo86ao ：可以拖拽排列Grid框格的UI组件。功能说明完整，使用方便，应该是一个不错的UI"轮子"。
+Swift语言指南http://t.cn/RvpwRsi 本周收录快报：1. 特别推荐：Alamofire基础/进阶教程；2. 类库：paper-switch, FloatLabelFields, AsyncDisplayKit, ReorderableGridView, OAuth2, EVCloudKitDao；2. 教程及文档8份；3. 项目1个；4. 网站1个。更新详见《2014-12-7收录周报》http://t.cn/RzCFzI6
+Swift语言指南http://t.cn/RvpwRsi 本周收录快报：1. 特别推荐：Alamofire基础/进阶教程；2. 类库：paper-switch, FloatLabelFields, AsyncDisplayKit, ReorderableGridView, OAuth2, EVCloudKitDao；3. 教程及文档8份；4. 项目1个；5. 网站1个。更新详见《2014-12-7收录周报》http://t.cn/RzCFzI6
+觉知性，Apple Watch的杀手级特性：“随时随地以最小的成本提供觉知性。对时间的觉知，对自己健康状况的觉知，对朋友和爱人即时状况的觉知，对将来由开发者们带来的无论什么东西的觉知” http://t.cn/RzNrRfn 来源 @BeForWeb 译者@C7210 原文 http://t.cn/RzUdS8K P.S. 赞翻译 Awareness -> 觉知性
+觉知性，Apple Watch的杀手级特性：“随时随地以最小的成本提供觉知性。对时间的觉知，对自己健康状况的觉知，对朋友和爱人即时状况的觉知，对将来由开发者们带来的无论什么东西的觉知” http://t.cn/RzNrRfn 来源: @BeForWeb 译者: @C7210 原文: http://t.cn/RzUdS8K P.S. 赞翻译 Awareness -> 觉知性
+tadija/AEXML http://t.cn/RzOv8VW：简单又易于使用的XML解析类。作者提供了完整的示例程序。
+NSHipster - Apple Pay http://t.cn/RzOX4OQ：继上一期WatchKit后，本期NSHipster专栏给了Apple Pay。分别从以下几个章节阐述：1. 获得商户ID；2. 开发第一个收费程序；3. PKPaymentAuthorizationViewControllerDelegate；4. 动态的物流方式及定价。
+NSHipster - Apple Pay http://t.cn/RzOX4OQ：继上一期WatchKit后，本期NSHipster专栏给了Apple Pay。分别从以下几个主题阐述：1. 获得商户ID；2. 开发第一个收费程序；3. PKPaymentAuthorizationViewControllerDelegate；4. 动态的物流方式及定价。
+dimsemenov/PhotoSwipe http://t.cn/RzOl1ba：Swift阵营外这套适配移动及桌面端（支持基本的手势操作）、不依赖任何框架、且运行极其流畅的图片浏览JS库，或许可以让你眼前一亮。演示：http://t.cn/R7fSJOk
+dimsemenov/PhotoSwipe http://t.cn/RzOl1ba：Swift阵营外这套适配移动及桌面端（支持基本的手势操作）、不依赖任何框架、且运行极其流畅的图片浏览JS库，或许可以让你眼前一亮。演示：http://t.cn/R7fSJOk
+WatchKit Beta 2 http://t.cn/RzQfTPz：苹果新发布的Xcode 6.2 Beta 2更新了WatchKit通讯功能。新的特性允许Watch App启动它的宿主iPhone中的iOS应用。Natasha The Robot网站上提供了详细的示例教程供参考：http://t.cn/RzQfH7o 。以上信息来源：iosdevweekly.com
+WatchKit Beta 2 http://t.cn/RzQfTPz：苹果新发布的Xcode 6.2 Beta 2更新了WatchKit通讯功能。新的特性允许Watch App启动它的宿主iPhone中的iOS应用。Natasha The Robot网站上提供了详细的示例教程供参考：http://t.cn/RzQfH7o 。信息来源：iosdevweekly.com
+mutualmobile/MMWormhole http://t.cn/RzQMMHf ：提供了iOS应用与扩展之间的消息传递，其最有价值之处当属iPhone与Watch间的消息传递，从而实现相互操控的功能。
+Swift语言指南http://t.cn/RvpwRsi 本周收录快报：1. 特别推荐：中译版Apple Watch人机界面指南 By @BeForWeb；2. 类库：mutualmobile/MMWormhole, tadija/AEXML；3. 教程6篇，4. 官网译文1份。更新详见《2014-12-14收录周报》http://t.cn/Rz8T99q
+Swift语言指南http://t.cn/RvpwRsi 本周收录快报：1. 特别推荐：中译版Apple Watch人机界面指南 By @BeForWeb；2. 类库：mutualmobile/MMWormhole, tadija/AEXML；3. 教程6篇；4. 官网译文1份。更新详见《2014-12-14收录周报》http://t.cn/Rz8T99q
+NSHipster - NSUndo​Manager http://t.cn/RzuISw8：本文分别结合Swift/Objective-C代码示例讲解UndoManager的使用。
+Natasha The Robot - WatchKit: A Quick Reply http://t.cn/Rz3VkWG：这是娜塔莎网站上提供的一篇iOS与WatchKit简单通讯及相互控制教程。供学习参考。
+Introduction To SceneKit Part I http://t.cn/RzrUuwJ , Part 2 http://t.cn/RzrUuwi : 从最简单的示例引导式介绍SceneKit的使用及更高级功能编程实战。这是一篇非常用心、专业的SceneKit教程。P.S. SceneKit是官方提供给开发者编写3D游戏及3D互动应用功能强大的编程框架及类库。
+lexrus/VPNOn http://t.cn/RzmwvvO ：一款驻在通知中心内的基于Today扩展的VPN开关应用。非常方便，作者真是太有爱了。[嘻嘻]
+Swift语言指南http://t.cn/RvpwRsi 本周收录快报：1. 特别推荐：Introduction To SceneKit；2. 项目：lexrus/VPNOn；3. 教程4篇；4. 官博译文1篇。5. 评测1篇；6. 网站1个。更新详见《2014-12-21收录周报》http://t.cn/RzePpOk
+iSame7/Panoramic http://t.cn/RzeHlPp ：该项目通过Core Motion实现了变换角度移动手机时，使图片显示产生对应位置及角度的变换。从而达到了具有现场感的图片浏览功能。
+jquave/EasyCast http://t.cn/RzDZVUM ：这是一个自动强制转换操作符左右类型及常用数学函数参数类型无障碍使用的类库。P.S. 虽然@onevcat 几个月前写过类似功能库 onevcat/Easy-Cal-Swift http://t.cn/RzDZ5Z1 ，不过，停滞更新很久了。喜欢这它的同学可以转到jquave/EasyCast。[嘻嘻]
+Natasha The Robot - Holiday Reading: Functional Programming http://t.cn/RzsyLqS : 考虑到在写Swift代码时，越来越多的使用函数式编程思想，圣诞节期间，娜塔莎网站特意精选了一份可以更深入理解函数式编程的阅读书单。书单主要以有函数式编程语言著称的Haskel为主要参考。
+indragiek/DominantColor http://t.cn/RZvoa2U：采用YUV色域编码规则及K均值聚类算法提取图片代表色开源项目。很实用，很赞！
+duemunk/Async http://t.cn/RZh2Hbr：一个后台执行代码封装库，它可以让你的后台代码封装语法更简洁。
+大杂碎版《Swift语言指南》http://t.cn/Rv98FrP GitHub星数也过1000了，得瑟一次，以示勉励。在此，感谢同学们的学习热情。顺祝大家技有所涨，来年工资涨涨涨。[嘻嘻]
+大杂碎版《Swift语言指南》http://t.cn/Rv98FrP GitHub星数也过1000了，得瑟一次，以示勉励。在此，感谢同学们的学习热情。顺祝大家技有所涨，来年工资涨涨涨。[嘻嘻]
+大杂碎版《Swift语言指南》http://t.cn/Rv98FrP GitHub星数也过1000了，得瑟一次，以示勉励。在此感谢同学们的学习热情。顺祝大家技有所涨，来年工资涨涨涨。[嘻嘻]
+Swift语言指南http://t.cn/RvpwRsi 本周收录快报：1. 特别推荐：盘点开发者最喜爱的Swift技巧；2. 项目：indragiek/DominantColor, iSame7/Panoramic, duemunk/Async, jquave/EasyCast；3. 开发技巧2篇；4. 相关文档2篇。更新详见《2014-12-28收录周报》http://t.cn/RzPWQGw
+Swift语言指南http://t.cn/RvpwRsi 本周收录快报：1. 特别推荐：盘点开发者最喜爱的Swift技巧；2. 项目：indragiek/DominantColor, iSame7/Panoramic, duemunk/Async, jquave/EasyCast；3. 开发技巧2篇；4. 相关文档2篇。更新详见《2014-12-28收录周报》http://t.cn/RZZCFGr
+victor/whereami http://t.cn/RZUJq8D ：一款用Swift语言写的通过命令行获得当前设备地理位置程序。虽然很简单，不过，实用性及学习性俱佳。

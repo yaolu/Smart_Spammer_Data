@@ -1,0 +1,197 @@
+【视频：网络爆红演讲——金语俊：我只要当下的幸福！】 （分享自 @优酷） http://t.cn/Rv35Z8s
+发现 #github#代码页面的显示bug了。该显示的，不出来了。
+#TJ Holowaychuk#大神转投#go#了，会像对#nodejs#一样犀利？有些期待 http://t.cn/z8iU9wc
+知道 #libngx# http://t.cn/RvB3NBI 和 #sundial# http://t.cn/RvB3NBx 没？求围观。
+从估值一亿到一夜分家：一个曾经存在过的教育产品的故事 （分享自 @36氪） http://t.cn/RvBQmrn
+你早已被窃听：小心身边不起眼的东西 http://t.cn/RvhTMk4
+窃听风云：生活中无处不在的间谍设备 http://t.cn/Rvrp65x
+植物也是老精灵了：我正在看#BBC纪录片生命# 第九集：植物 @腾讯视频 http://t.cn/Rv2LpxF
+有人在推荐 #searchcode.com# http://t.cn/RP7bPvv ，其实也一般
+高级数据结构 Advanced-Data-structures http://t.cn/Rv69cfV
+福音： #Adobe 联合 Google 发布开源字体「思源黑体」# http://t.cn/RPz25JP http://t.cn/RPZoaM9 http://t.cn/Rv3zZVA http://t.cn/RPhoreo http://t.cn/RP7lh3e http://t.cn/S66stD
+感觉#rebol#的开源有点失败，Carl几乎都没有规划和活动了。#red#吧，也是慢如蜗牛的。@蔡学镛 你怎么看？
+#云南省高考录取查询# http://t.cn/RPPUY0M
+我一直用#组织#归类#github#上的项目，其实 #memect.com# http://t.cn/RPLo2dV 更合适
+树莓Pi上的春天 http://t.cn/RPLKVKV
+#swig# http://t.cn/RPLpRaq
+如今我们老了，平凡得如同路边的树木。虽然不再呼喊奔跑，却默默生出许多根，记住许多事，刻下年轮...每个人都会被原谅。 http://t.cn/RPywyaq
+DPL教程 http://t.cn/zTbJaUs
+Nanocubes: fast visualization of large spatiotemporal datasets http://t.cn/8F776lj
+#gn#貌似很nb，不过小项目就没必要用了（否则，就是用复杂的方案解决本来就非常简单的问题） http://t.cn/RPboBpJ
+还真有不少项目使用#re2c# http://t.cn/zOIz2XY 工具（将正则表达式编译为c代码），其中出了名的就有#php#， #chromium#的系统构建工具#ninja#http://t.cn/zO7f0YE 等等
+哈哈，暴米花【视频：暴走漫画手机“暴米花”发布会】 http://t.cn/RPbgO64
+#侣行#【视频：[侣行II] “虎穴”阿莱芒  0724】 http://t.cn/RPUNeeG
+看那些文艺范，其实全都是213。
+#chromium#是个小胖墩，裸体769.7M，不过其中有很多好玩的东东，各种高质量的代码。人家为了快速、高效的编译代码，就开发了 gyp（太复杂）、ninja，现在准备上架gn了……都是被逼的呀 http://t.cn/RPqt6Ti
+旁边有个文艺范配镜 1400 + 1200度，真tm吓人了。我400多度，这次还降了50+，好开心哦。
+#蓝翔#果然故事多-- 解码蓝翔技校：曾与军方合作 官网常遇外国黑客 http://t.cn/RPqak07
+仔细研究了一番#ninja# http://t.cn/zH8hzOp，感觉还是不错，但不推荐C/C++小项目使用（规矩点，还是用make吧）。作为一个轻亮级#元构建系统#，比make和cmake，要灵活些。支持增量编译等，执行速度更快……不过，个人比较讨厌其对#python#的依赖（不像#gyp#全部由python实现），当然此部分很易替换掉
+# Build System Rules and Algorithms# http://t.cn/RP5xKnS http://t.cn/zjiKehU
+说干就干了，已将#ninja# http://t.cn/RP594bI 痛打一遍了，目前不用#python#，直接 #make#就可以编译了。当然如果要使用#ninja编译自己#（./configure.py 生成buid.ninja文件）以及使用 #ninja -t browse#，还是要python支持。其实，这一块也容易替换掉（写个脚步即可）。
+杀鸡敬猴
+如果你正开发、维护大型C/C++项目，代码编译较慢，如果优化了各种"include"和相关设计也没有很好的收效，那么建议试一下Ninja吧，一个为Chromium这个小胖墩（源码快700M了）而生的构建系统。 [Ninja - chromium核心构建工具](http://t.cn/RPfTveA
+Ninja - chromium核心构建工具 http://t.cn/RPfT1GI
+凯文·凯利：未来十年的趋势 http://t.cn/RPIHLTJ
+也来玩 C BDD http://t.cn/RPMHXjm
+#chromium#的#gn#（下一代构建工具，要配合#gyp#或#ninja#一起使用）也被我砍出来了 http://t.cn/RPMQqhS （那个build.ninja只针对Linux）。仅限玩一下，自己根本用不上。
+#danga# http://t.cn/RPxLhnM 曾经存在的小公司，开发出 #memcached# #MogileFS# #Gearman# #OpenID#等，真牛逼。
+#Go Language Resources# http://t.cn/hgUD2f
+什么节操？#mariadb#放一个#tokudb#存储引擎就 104M 大小了，差不多整个代码的 1/3 了。
+【视频：锤子手机Smartisan T1评测消费者报告——by FView消费观】 （分享自 @优酷） http://t.cn/RPxZVl3
+#Lua#发布#5.3.0#的#alpha#版本了， http://t.cn/RPJ28Pv 离正式版不远了 @开源中国
+#37signals员工的办公环境# http://t.cn/zT7IrD3
+【视频：[拍客]实拍云南鲁甸6.5级地震房屋倒塌救援被埋人员现场】 （分享自 @优酷） http://t.cn/RPipyNf
+一周过3个生日（而且有两天是相连的），连续老3岁呀！你一定不知道的秘密。
+不翻墙，照样google。不能自暴自弃！——评论【句读】「Google等域名屏蔽解决办法」http://t.cn/RvjVYOo
+当然还可以进一步尝试换用别的更快、更高效的构建系统，如 #Ninja# http://t.cn/RP594bI 等——评论【句读】「优化C++代码编译速度的方法」http://t.cn/8Ff4T1m
+【视频：地球无限 第一部 第一集 两极之间】 http://t.cn/zOWwohC
+# Extract## text from any document; no muss, no fuss. # http://t.cn/RPiQALM http://t.cn/RPSLlae
+【视频：暴走大事件第三季07 唐鸡儒-我们只做包容的鸡】 （分享自 @优酷） http://t.cn/RPoIjKn
+【视频：【猫眼三分钟】Android L预览版开放下载 FDD试商用获批 140628】 （分享自 @优酷） http://t.cn/RvRtcUK
+一听可乐 10.1克 碳水化合物， 一听 加多宝 含 9.1 克……这些都是碳酸饮料，最好少喝
+#软件发布#之一：c语言BDD测试库 #libcspec# http://t.cn/RPMHXjm
+#软件发布#之二：#sundial# 开源数据结构c库 http://t.cn/RvB3NBx
+#软件发布#之三：#libngx# 以静态库的形式打包nginx http://t.cn/RvB3NBI
+#PostgreSQL 9.4 Beta 2 Released# http://t.cn/RPGLmbi
+一个手册，3000+页，真坑爹的。其实，可以缩减到1/5或更少的。
+#Performance evaluation of MariaDB 10.1 and MySQL 5.7.4-labs-tplc# http://t.cn/RPNIpsQ
+开源？不错呀。但是……源码在哪里？（逛了一圈网站，没找到）http://t.cn/RP04EM7
+#go1.3.1#发布了，翻不了墙的同学可以到 #fossies.org# 下载 http://t.cn/RPlSX7s
+在Fedora x86_64上编译32位的#mysql-3.23.49#确实是件小折腾的事。不过，修改各种问题之后，还是把她搞得妥妥的了。建议 @姜承尧 下次出书，还是以#mysql-5.+#的版本比较好点。
+在Fedora x86_64上编译32位的#mysql-3.23.49#确实是件小折腾的事。不过，修改各种问题之后，还是把她搞得妥妥的了。建议 @姜承尧 下次出书，还是以#mysql-5.+#的版本为研究对象比较好。
+#世界大学学术500强# 这个排名不科学嘛。哈哈！  http://t.cn/RPYkCyf
+通过@微盘 下载了@蔡学镛 分享的"蔡学镛架构设计方法-2014-8-17.pdf"，推荐给大家！ http://t.cn/RPTF6Ls
+弱弱的问一句，有人在用#re2c# + #lemon# 编写线程安全的编译器、工具或DSL不？（单个用的倒是不少。比如，#PHP#、#ninja#等就用了re2c，而#SQLite#、#lighttpd#等使用了lemon）
+#侣行#【视频：[侣行II] 探秘白人贫民窟 0820】 （分享自 @优酷） http://t.cn/RPEyufa
+赶紧出来，我准备重新定义事实万物了！
+提前中秋，嘉华鲜花饼甩起了哦，还是那个味道，真不错。
+没事就翻墙 http://t.cn/RvnDzSG http://t.cn/RPWcZX3
+看来 #StarUML# http://t.cn/RPDPEAo 还是不错的工具
+NB 【视频：实拍：以色列铁穹拦截系统一次拦截15枚火箭】 （分享自 @优酷） http://t.cn/RPDW93I
+看了 锤子 感觉还不错，最弱就是发热，果断退订了，论战就不管了
+这果然是#丢人#的国度
+我分享了@池建强 的文章 我为什么不希望苹果公司倒掉？http://t.cn/RhPIf80
+外来的咖啡“好念经”，漫咖啡韩国创始人告诉你咖啡赚钱的秘密 - 案例 - i黑马网 http://t.cn/RhZfddi
+#国内餐馆不能说的秘密 厨师下馆子不点的3道菜# http://t.cn/RhZsCkF , 还是自己做安心点。
+#职业的形成如何让普通人散失能力# —— Ivan IIIich (《简单法则》 前田约翰)
+Reading List of #Berkeley CS286: Implementation of Database Systems, Fall 2014‎ > ‎# http://t.cn/Rh7J7C2
+我分享了@创业最前线 的文章 4人公司年赚7000万，绝对震撼你的商业模式！http://t.cn/Rhwk8ns
+#Add Vector Icons to Your Website# fontastic.me http://t.cn/zHBSRXY
+又一次证明#iphone才是手机#，其他都是叫“手机”的东西或“像iphone的，叫手机的东西”……马蛋
+百度发布BaiduEye、筷搜等智能硬件：基于大数据，瞄准商业化 （分享自 @36氪） http://t.cn/Rhy0gE1
+#glic#实现的比较糟糕，可读性非常差
+#侣行#【视频：[侣行II]马达加斯加之与狐猴共舞 0904】 （分享自 @优酷） http://t.cn/RhyLBNj
+#If programming languages were weapons# http://t.cn/Rh4Apbs lisp又亮了 http://t.cn/RhyzcIy
+#感觉刚才有震了#
+我在 @知乎 回答了【tao.ai这个域名怎么样？】：.ai 域名大家都在国外哪家注册的？（靠谱点的）我之前的域名都在 GoDaddy 注册的，没有ai域名。 http://t.cn/Rhc2u7h
+人件，件人……伤不起……
+【视频：性能强大的军警用机器人 iRobot 710 Kobra™ Robotic System】 （分享自 @优酷） http://t.cn/RhtOuHc
+#popkey# http://t.cn/RhJfTji Introducing the world's firstanimated GIF keyboard.
+#sip# http://t.cn/RhJfRPU
+我们高中军训，大学军训，印象深刻。大学，还被武警后勤基地训练，差点和人家的政委等干架了（真事），后来被平息了。（军队和土匪一样，只需换一下着装就可以了。那是的感觉。哈哈）。
+#侣行#【视频：[侣行II]寻找食人鱼 0918】 （分享自 @优酷） http://t.cn/RhaOmZS
+通过@微盘 下载了@fishermen 分享的"新浪微博redis优化历程 .pdf"，推荐给大家！ http://t.cn/RhoEv0Z
+今夜，又是#土豪#盛宴，没钱，那就看人家抢着吃#baba#吧！
+#Category:Sorting algorithms# http://t.cn/Rh9LvnT
+刚看完#人件#，感触很深，不愧是30多年的经典，推荐给每一位和我一样#有理想#的年轻#件人#。准备写篇文章，记录一下自己的心得体会，以此共勉。
+#一些搞基#的设计 #// This file is here just to make the go tool happy.#
+好工具，不容错过。——评论【句读】http://t.cn/RhSXGpJ
+研究早期版本mysql的不容错过[哈哈]——评论【句读】http://t.cn/RPBPeeQ
+【视频：《鸿观》第五集 美国借制裁朝鲜整中国20140925】 （分享自 @优酷） http://t.cn/RhYNjC4
+34摄氏度，热死了，这是只有夏天的地方。
+dv 和 照片都是旅游的副产品，也是各类应用的好素材
+南海真美，日出更壮观
+涠洲水榭，海风阵阵
+分享图片
+玩过西藏，游过内蒙，身处涠洲…在帝都生活很多年…一句话: 还是我大理最美，最适宜人居。
+香港都沦陷好多年了，还集会？没门了。
+#一位Adobe中国区遭裁员工的“陈述”# http://t.cn/Rhnn4oh 印度人显然已经占领了硅谷，中国区裁员不断……
+#涠洲日出-走出去才能遇上美丽风景# - 原始图片太大，convert了一下只保留了60%的质量
+#野渡无人舟自横# 走出去，放空自己，轻装上阵
+#去大理，心花路放#，还是我的家乡美！
+又去影院看了一部#黄渤#的电影，台湾的片子也不错，向欧美看齐了
+给大家分享《TED演讲集:偶像们》,详细资料在这里 http://t.cn/zjcjLqQ
+#疯狂来往#事件，应该可以整死#阿里游戏#了，如果ZF狠一点的话？
+据说#北京#已有#登革热#了，大家一定注意灭蚊子了。
+#How Clay.Io Built Their 10x Architecture Using AWS, Docker, HAProxy, And Lots More# http://t.cn/RhkU1Sn
+【视频：车神Danny Macaskill山区骑行攀爬 人车合一如诗如画】 （分享自 @优酷） http://t.cn/RhkwYax
+#侣行#【视频：[侣行II] 探秘食人族（下）1009】 （分享自 @优酷） http://t.cn/RhD3Hz9
+【视频：【CC讲坛】魏飞：架起通往太空的天梯】 （分享自 @优酷） http://t.cn/Rv5LIQy
+【视频：【CC讲坛】张春成：创新源于需求】 （分享自 @优酷） http://t.cn/RhGmWqE
+#Adobe公司又出神器！设计师们全都疯了~# http://t.cn/R7vFWBQ
+#请为你的健康进行单元测试#
+#刚拆了两个苹果4，外表很光纤，但是内部还是一般的“黑”#，拿肾换苹果，那是真傻B了
+#我的算法学习之路# http://t.cn/8sBr0jT
+#北京办理入台证-北京办理台湾个人游入台许可证服务及相关费用# http://t.cn/zlgl1ei
+无购买，无杀戮【视频：  血腥的象牙贸易】 （分享自 @优酷） http://t.cn/R7P5wpf
+scrum 、lean 和 xp ，你们更倾向于哪一种？
+【视频：  一次投篮穿越24部电影　好强的3分钟弹跳！】 （分享自 @优酷） http://t.cn/R7yb0i6
+发现很多人被#ORM#搞残了，直接把这一层包装和实际的数据库都搞混了
+手机还是只有#苹果#及#其他#两种，看看#iphone 6x#预订量，很牛逼了
+#只转不评：112家IT公司薪水一览表# http://t.cn/R7PGABv
+想看 #How Google Works# http://t.cn/R7U3yoI
+#苹果的野心：SIM卡将死# http://t.cn/R74QbhE
+2014软件阵亡速度比以往更快一些！
+今天你关注自己的隐私了吗？ #隐私大爆炸# http://t.cn/RP2D2ZY 这个总结的很好，推荐阅读，多注意个人隐私保护。你可以很NB，但不要让自己成为无辜的那个。
+我觉得马克同学的中文还是很棒的，继续加油哦。萌达达 【视频：  扎克伯格清华访谈字幕版】 （分享自 @优酷） http://t.cn/R7ILTaI
+圡，同“土”。戏称“土到掉渣”。
+#How to Start a Startup# http://t.cn/RhXsWjZ
+TMCK，原来也是断臂的，这个世界很疯狂。
+go 1.4beta 1 目录结构都大调整了 http://t.cn/RvOtliz
+太牛叉了 【I Won't Let You Down超清mv大首播！】 http://t.cn/R7aCkNE
+# Recommender Systems# http://t.cn/R7WtFwj http://t.cn/R7WOMtc
+#Social Media Mining# http://t.cn/R7lzXDd
+#Apple Open Source# http://t.cn/hb1yeJ
+#What’s New in MySQL 5.7? (So Far)# http://t.cn/R7Y28Jk
+爱生活，爱新鲜空气 (评论给 科技这么发达，能不能给点新鲜空气？ - 爱范儿 · Beats of Bits http://t.cn/R7QUAPm )
+[1/2] 我觉得嘛。在自己的开源项目中，借鉴/使用其他开源项目代码是可以的，但要在README中陈述清楚（包括授权），以表示尊重。另外，整个项目的授权，也需要在README中说清楚，并在根目录放置对应的License或COPYRIGHT文件。
+[2/2] 至于代码文件中的License处理方式，各种协议要求不一，每个项目团队的做法也不一样。我更偏向于Google系的做法，可以参考golang、leveldb、re2等项目。对于开源项目，License其实是最敏感的部分，马虎不得。
+新的方向：斯凯拉·蒂比茨：4D打印机的诞生 http://t.cn/R7bl5qo
+@互动出版网china-pub 今天收到在互动购买的《数学之美 第二版》了，很棒的书，值得一读。等等……发生灵异事件了，第12、13和14章严重错页了，不知道已装订的是否都存在这个问题？请核对一下。@吴军博士 @人民邮电出版社-信息技术分社
+我在宇宙中心听到炮响了，APEC的领导们准备“双11”去剁手了呀
+#成功的公司背后必定有一个“亮瞎眼”的办公环境# http://t.cn/R7r6gRo
+做一件事情最好的时间，是10年前，或者就是现在。 －－－－水木山人
+习惯ThinkPad的人，使用MBP时，还是时不时的 上下左右 乱按键。
+去大理，回到我的家园，面朝洱海，春暖花开！
+# AWS CodeDeploy# 很NB的样子，efficient, reliable, and repeatable software updates。Automated deployments是生产力，是大规模软件开发、维护的未来。如果你已上贼船，值得一试。http://t.cn/R7D1J8v http://t.cn/R7sQx4p 原来 amazon 也这么N了，可惜AWS的服务费还是非常贵的。
+#梁冬：其实身体不需要那么多东西# http://t.cn/RzvNp5S
+#极简范儿音控音乐播放器"乐流"：其实，我可以更懂你# http://t.cn/R7sMmcG
+#《西游记》重播3000次申报吉尼斯#, 《还珠格格》也快了……”为人民服“也该申请记录了……可爱的可笑的可悲的中国人
+#终极 Shell# http://t.cn/zQVkceM
+#oh-my-zsh# http://t.cn/Rvtq6Ws http://t.cn/aoQRHg
+OSChina 周一乱弹 —— 薯哥儿，你约吗？: 周一了，周末大家都去哪儿了？ @iconsider  ：嗯，开源农庄 吃了啥？ @blu10ph  ：论泡面杯的正确使用姿势~ 干了啥？不会去卖银了吧？ @blindcat  : 接到一江西吉安电... http://t.cn/RzPjfJ4
+#Netflix#的#dynomite# http://t.cn/R7TiENn 其实就是#twitter#的 #Twemproxy# http://t.cn/zOUSrJM 的一个增强版本
+#Show and Tell: A Neural Image Caption Generator# http://t.cn/Rz7CNfy
+【视频：  【佳访】“轴人”崔永元（上）】 （分享自 @优酷） http://t.cn/RzAh7Hi
+安装了GCC 4.6.2、4.7.2、4.8.2 和 clang 3.0，完了，磁盘剩下4G空间……
+#运营商如何打造有竞争力的开放平台# http://t.cn/8k0AlEB
+#好美的败类#，其实效果不够好
+刚去看《星际穿越》了，那画面太美，有些晕了。物理前沿科学的普及，可惜知道五维空间。相对论、虫洞、黑洞、扭曲的时空……四维、五维空间……，可惜超玄理论、十维，统一场到现在还是无法解释清楚的。看些日子买了本《超越时空》，所涉内容甚广，可以好好补一下了。
+刚去看《星际穿越》了，那画面太美，有些晕了。物理学前沿科学的普及，可惜只到五维空间。相对论、虫洞、黑洞、扭曲的时空……四维、五维空间……，可惜超玄理论、十维，统一场等等到现在还是无法解释清楚的。前些日子买了本《超越时空》，所涉内容甚广，可以好好补一下了。
+就是要 #自己扳倒自己#， 否则别人没机会……哈哈
+不错的文章# Optimizing Disk IO and Memory for Big Data Vector Analysis # http://t.cn/Rzzyztg
+那个 少爷肉夹馍 就在五道口，去商场购物经常路过，竟没有一丝丝吃的欲望……这就是任性，不是我的菜，到嘴边依然会扔出去的。
+什么飞猪？ (评论给 揭穿90后总裁余佳文真面目：三本毕业，超级课程表月入最高5.5k（2）_新芽NewSeed http://t.cn/RztD4dV )
+【购买 Mac 有什么必备的配件也需要同时购买？】@Riobard：Air 没有有线网络接口，最好买苹果那个 USB 网卡转接头 [1]，以备不时之需。或者买个小巧的无线路由 [2] 随身携带。不是所有地方都有 Wi-Fi；也不是所有有 Wi-Fi … http://t.cn/RzfQkrz（分享自 @知乎）
+AI很热，#New Startup Sets Out to Bring Google-Style AI to the Masses# http://t.cn/RzKkWDl http://t.cn/RzKkWDY
+#Perl#的源码安装是最SB的方式了，好几十个配置项目，每个都有默认值，还要人去选……哗哗的一路按下去，讨厌了。用一套默认值就好了，需要定制（很少一部分）的人自己去定制那多好啊。
+快来 star # go # http://t.cn/RzpkmD8 ，统一到 github 了，不需要国内的代理了
+rsc 大神 一共 4900个commit 威武 http://t.cn/Rz0AhcZ
+# We DO NOT accept pull requests.# 这就是任性啊 http://t.cn/Rz0xfAA
+Go 1.4 很快就要报到了，“Go 1.4 release article”出来了 http://t.cn/Rzj8sEU @ASTA谢 @无闻Unknown
+#Go 1.4 is released# github上见 http://t.cn/RzYz8o3
+#The Case Against Third Party Libraries# http://t.cn/RznKYHi
+#CTO这点事# http://t.cn/RzKxKSN
+#年终总结 & 算法数据的思考 & 结尾彩蛋# http://t.cn/Rz3cmmK
+好文章，推荐一读。如果你有Kindle DXG也可以越狱一下。——评论【句读】「Kindle DXG越狱、升级和汉化」http://t.cn/Rz3nLL7
+赞一个，go起来。——评论【句读】「用glyph可视化go package之间的依赖关系」http://t.cn/Rz3nL1A
+代码的美味，垂手可得。——评论【句读】http://t.cn/Rz3nyHZ
+#go#http://t.cn/RzpkmD8虽然迁到github了，不过还有不少内容改的不够彻底，上周末我就ru了自己的一个tools版本，有代码真好，开源真好……
+打算花个$200，买一个#OmniGraffle# http://t.cn/zWS7Tpk 了。
+#我读书少，别想骗我# http://t.cn/RzB8zyt
+#排水专业毕业#的#王石#都那么成功，所以很多同学都是有机会的。
+纳兰容若 + 仓央嘉措 = 纳兰嘉措
+#C++ Has Become More Pythonic# http://t.cn/Rz0Q8W4
+2014 水费涨了，燃气费涨了，地铁公交费涨了……，只有坐等涨薪了！
+#The GHTorrent project#是个有趣的项目 http://t.cn/RZUPjWF
+挥一挥手，作别2014，此刻展望2015的曙光
