@@ -1,0 +1,194 @@
+怀念12年前第一部手机3310,省吃俭用一个半月工资.
+ORACLE 12C的in-memory可能会使表在传统的buffer cache和in memory area中各存在一份,对于不同的需求,optimizer会自动使用不同的数据来源.
+XX大食堂好菜单:黄豆芽炒肥肠.
+使用mysql二进制的安装方式最为常见，我总结了被人经常问的一些问题,MySQL二进制安装常见问题处理,http://t.cn/RvBrNFS
+MySQL服务器选型攻略,例举了服务器选型的主要因素.http://t.cn/RvBeVl5
+上半场5:0,巴西是中国附身啊.
+看好阿根廷，不过好像状态还不是很好啊，加油!
+12C在实现了IMDB后，optimizer会增加一个hint来决定是否手动在语句中启用imdb特性.INMEMORY和NO_INMEMORY.
+Corosync和pacemaker安装,http://t.cn/RvF5kdw
+每种监控工具至少具备三个基功:数据收集，数据处理和响应动作.
+国内的各种去"IOE"运动，以及新兴的nosql和newsql,好像都在对传统数据库发起挑战. 关系数据库到现在已经有几十年的历史，理论已经比较成熟了.每个企业都有适合自己的业务架构，没有谁能 取代谁一说,根据业务特点，选择合适的数据库产品,这才是王道,绝不仅是简单的替代.
+MySQL的命名方式确实比较坑爹,比如创建表的时候，定义表的 属性engine=innodb character set=utf8 row_format=compact, 三个属性三种命名方式，比如两个单词的属性统一做成A_B或是A B这样 不是更好么.貌似开源软件都有命名很让人不习惯的特点.
+虽然阿根廷有梅西这样的杰出球员，不过从整体来看德国实力应该更强，今晚我看好德国队夺冠.
+这年代到处都是“大数据”，连卖饭的，造家电的都到处宣扬要做"大数据",无“大数据”不欢啊。 三句话要是不说“大数据”都不好意思说自己是地球人.
+很多朋友都问有没有mysql各种内幕资料，其实我想说的是对于绝大部分人来说只要把mysql 官方文档吃透就已经很了不起了，潜下心来看官方文档才是最基础的.对于各种高大上的文档， 且用且再学习.
+mysql流行的原因是其简单，快.开源界也有pg这样杰出的数据库, 不过pg太过最求功能完善，反而影响的了性能，很多功能都用不上. 相比oracle这种商业的数据库，在复杂sql，支持和稳定性都要差. 特别是复杂sql的优化能力和执行速度，可以很明显感觉mysql做得不好.
+德国队雄起了，果然我看好德国队.
+日耳曼战车把阿根廷压得粉碎!2014世界杯冠军德国队.
+我在itpub上参加了"ITPUB 2014年第二季度“技术新星” 投票，感谢puber对我的支持。 http://t.cn/RPhdHcA
+恢复正常模式.GO AHEAD WITH FULL SPEAD!
+如果非要用mysql和oracle比较的话，可以把oracle看成波音747,mysql看成丰田汔车.
+mysql 的processlist中state为lock表示会话当前等待锁资源.主要是针对myisam引擎 。 对于innodb的行锁等待，并不会显示为lock.需要借助IS.innodb_lock_waits来进行分析.
+从oracle 11.2开始rman的增量备份，不限于以前的增量差异和增量累积, oracle还提供了手工指定一个scn,可以备份该scn以后的所有数据块.
+mysql innodb的数据更改是一条一条去实现的，比如一个update语句，更新了二条，当更新第二条时发现 有问题，这时候第二条记录的更改不会执行，第一条的更新会正常执行,不会回滚整条语句的的更改.
+mysql binlog server功能，slave只从该binlog server上挖日志。如果主库和一级slave通过 semi-repl来复制，二级slave全部从一级slave上读binlog不是也可以实现类似的功能么.
+mysql的状态变量com_commits，只有sql显式提交时，该变量才会增加，如果使用的 autocommit模式，com_commits不会增加.
+ORACLE 12C ASM的FILE DIR的位置已经存放到au number 10中了(从0号AU算起，物理上是第11个AU),以前的版本是存放在au number在2的位置.
+asm的1号文件极为重要，记录了存放在asm的所有数据文件元信息.http://t.cn/RPZXMol
+使用ASSM后，对段的数据insert是在多个块上同时进行的，而不是单个块， 这样可以避免单个块的热点争用.
+如果以事务响应时间为目标，肯定单机会更好，但是单机在某个吞吐临界点上事务响应时间开始变慢. 而对于RAC，可以在响应时间一定的情况下，吞吐量持续增加.所以rac不会提高性能，只会增加吞吐量.
+如何去分析一个oracle systemdump 256? 求明灯.
+ORACLE SYSTEMDUMP分析,http://t.cn/RPAXr07
+一句话概适RAC的CACHE FUSION功能：在多个节点之间提供一致性的块访问!
+ORACLE项目测试分为三个阶段:部署之前的测试;部署后的测试和应用程序压力测试.
+在使用orion压io的时候，尽量要多个进程一起测，经常看到有 有使用纯oltp的负载，但是要考虑到纯oltp的实现场景还会有 lgwr的写和arch的写，需要混合负载压力测试 。
+MySQL的Innodb doublewrite buffer来龙去脉 ,http://t.cn/RP2Idtw
+一个技术很久不了解了，又生了，又得从头开始。难怪每次一放长假，回来上班后我又只会五笔打字了.
+如果不懂一个参数的含义就不要去改动，使用原来的默认的值就可以了.
+这次决定不再玩票!
+Oracle database 12.1.0.2 发布了,其中包含了大家很期待的IMO,不过价格和RAC差不多同级别.
+12C的IMO版本可以直接从OTN下载，现在只提供了linux 64位和solaris的版本.其他平台的版本估计后续才会放出.
+Exadata上的compute node只能运行orace enterprise linux,而cell node上才有可能先oracle solaris x86.
+做一个有“情怀”的IT民工!
+oracle 12C的in-memory总算出来了，ORACLE 12C IN-MEMORY初体验,http://t.cn/RPbqk3t
+希捷8TB硬盘出货客户 大胆预测新技术，看来传统的硬盘存储厂商不会坐以待毙的。
+成功优化SQL一个后，就有点像小时候做对一道数学题一样，小伙伴们乐呆了.
+12C的in_memory对数据库性能的提升，会吓人一跳.
+不看不知道，一看吓一跳,感受ORACLE 12C IN_MEMORY性能威力,http://t.cn/RPGndsw
+oracle 12C 非IN-MEMORY 的列处理并不能使用in-memory功能. 详情请见.http://t.cn/RPqe19a
+<感受ORACLE 12C IN_MEMORY性能威力>一文被推存到itpub首页,感谢各种TV.http://www.itpub.net/forum.php?mod=viewthread&tid=1880165&page=1#pid22512879
+还有<ORACLE 12C IN-MEMORY初体验>,http://t.cn/RPVyz2T 再次感谢各种TV!
+【甲骨文亚太区高层折兵】据新浪科技，甲骨文 (Oracle) 大中华区两位高管喻思成和刘松加入阿里云，于近期入职。喻思成是原甲骨文全球副总裁兼大中华区技术总经理，现担任阿里巴巴副总裁、阿里云技术业务总经理。刘松是原甲骨文产品战略部高级总监，现负责阿里云金融云业务。据信这是去IOE的侧面绩。 SO
+不知不觉个人技术博客访问量超过50万了，记录一下.http://t.cn/8kUUxD5
+配置MySQL使用huge pages,http://t.cn/RPIeSEe
+今天的DBA并不是真正的数据库管理员，而是更多的扮演数据库架构 师的角色，如果想要做一个成功的DBA,需要比过去有更多的技能。
+数据库处于HOT BACKUP的REDO产生 ，http://t.cn/RPM4egK
+锁对于任何一个数据库产品来说都是一个很关健的组件，对于锁实现的好坏，直接影响了数据库产品的吞吐能力。
+为ORACLE RAC增加第二个网络的SCAN,http://t.cn/RPxXbbI
+当努力去做一件事的时候，很容易走神。这是年纪大的缘故么，求解救.
+mysql 社区版5.6.20发布了,主要的特性有安全性提高,某些参数和以前的版本不一样，性能增去强,分区,PS，优化器。好像每个版本都是这些玩意.
+mysql和memcached集成，http://t.cn/RPiomYJ
+看完<变形金刚4>，总觉得后面部都有点扯了，没有第一部那么好看了。
+即使只有一个人做一个事都要有IT项目的观念!
+时间过得飞快,平静的日子，会让人减少危机感， 会让人贪图享乐。处在IT行业，还是未雨绸缪吧!
+Exadata上的HCC压缩和标准的块压缩不一样，而是由多个块组成一个压缩单元，称之为compression unit.而标准的块压缩是在块内实现的.
+Mysql的MYISAM存储引擎还有几个人在用？为什么要使用MYISAM?
+搭建ORACLE 12C RAC到单实例的DATAGUARD，http://t.cn/RPKAkdp
+有多少电子书放在硬盘里面发霉了!
+DBA同行啊,还有第二职业.
+DG,RAC到单实例SWITCHOVER,http://t.cn/RPNapm0
+oracle的LGWR进程一定在一个redo group的每一个成员时才会返回提交成功信息给前台进程，因此一个redo group有多个成员时，需要注意"木桶效应".
+温水煮青蛙，可怜的青蛙自已还不知道！
+解决ORACLE的ORA-07217,http://t.cn/RPpduqC
+#微博桌面美图#DRBD部署实践，http://t.cn/RPWzDH1
+DRBD部署实践，http://t.cn/RPWzDH1
+梦想做一名情怀的DBA.
+排查问题的时候，需要像狄仁杰破案一样,找各方面的线索，抽丝剥茧，找出真凶.元芳，你怎么看?
+使用stack信息处理Mysql问题一则，http://t.cn/RPjwj5w
+配置了N级Mysql复制，各种复制技术，看着数据由一个地方向另一个地方流动，有点意思.
+MySQL Cluster Manager 1.3.2,已经发布了!下载地址.http://t.cn/RPHV0yF
+12C的IM暂时还是静态的，而不能动态收缩和增加.这可能是一下步要实现的功能. 特别是不能收缩，当分配IM过多的内存的时候，很容易造成浪费.
+oracle 12.1.0.2直接提供了了 enable_goldengate_replication初始化参数来对goldengate提供支持.
+再次看完<当幸福来敲门>,其中有一句很经典的台词:当您有梦想时，一定要去捍卫它!
+ORACLE 12C Flex ASM转换,http://t.cn/RPEERpN
+MySQL Proxy看起来是美好，而真正用的人却很少，正所谓“理想丰满，现实骨感".
+ORACLE 12C引入了Transaction Guard的东东，每个事务会生成一个logical transaction ID.
+存储的好处在于有大容量的CACHE,且提供掉电时CACHE中的 数据不被丢失的功能.当主机在发生很多随机写的时候，可以在CACHE 中做一次合并，把随机写变为相对更加顺序的写,从而使传统的磁盘 IOPS对外大幅提高.CACHE的优化算法也是衡量一个存储产品的重要 指标之一.
+在ORACLE 11G以后的ASM中，不管是否设置了 MEMORY_TARGET,都会启用AMM,默认是1536M,在某些情况下可能不足够 在内存白菜价的年代，还要去纠结多分配几个G么!
+任何试图叫我解决1+1=4而中间还有+2不告诉的这种问题本质和耍流氓差不多.
+在semi-repl中，只要从库接收到这个事件，且写到自己的relay log中，即向主库返回确认信息，而不需等待从库本身执行完这个事务.
+mysql使用GTID的好处究竟在哪里?
+一本书只有要一个很低级的错误就不想再看了.
+OOW 2014就要开始了，可以通过OOW了解最新的技术热点,即使我们不能亲自参加，也可以从中发现一些技术走向.http://t.cn/RPMD0RC
+Mysql test数据库是一个很特殊的数据库，当新建一个用户时 ，即使不给用户授予任何权限，但用户还是对test数据库是有读写 权限，所以在部署mysql服务器时，果断删掉.
+SID,数据库和服务名这三者没有什么必然的联系， 三个名称都是表示不同的事物.只是 我们一直都约定的这样,所以经常相互混称了.
+只要有INDEX就会有CLUSTER FACTOR这个因素存在，在Exadata上的STORAGE INDEX的特性上也不例外.
+ORACLE 12C新特性之ROW ARCHIVE,http://t.cn/RhzuipE
+今天看到有人在发加州大学伯克利分校的数据库课程，瞬间惊呆了，天朝的小伙伴路还很远啊，且行且努力吧.http://t.cn/Rh7J7C2
+MySQL的索引可讲的东西感觉很少，不像oracle里面，有CF,还有直方图的这些玩意，对于选择正确的执行计划，这都是非常重要的因素.
+oracle 12.1.0.2引了一个新概念叫作BIG TABLE CACHE.可以用来设定big table的cache特征.
+在做CRS停止时，如果有很多个节点需要停，尽量不要同时去停，要一个一个去停止，防止多个停止请求产生GRD相关的锁等待。
+通过@微盘 下载了@南非蜘蛛 分享的"Zabbix介绍2014-v1.2.pdf"，推荐给大家！不错. http://t.cn/Rh4PJpy
+MySQL Binlog文件损坏处理一则，http://t.cn/Rh4A1Tu
+在开发sql时，不要依赖于正式环境执行速度快，而认为锁会很快被释放,结果往往为变得更糟.
+在pdb模式下，当root db在打开时，不会对pdb的数据文件做任何校验，因为pdb在这个时候也是处于mount阶段.所以root db在打开时不会报任何异常.
+来怀咖啡，享受一下快乐的时光.
+一般看新版本的Oracle对于某些功能的提升，基本上是个版本做得不太好，有些是拿用户来当测试.
+Cell Offload Processing是Exadata机器上的技术核心，很多特性基本上是以这个技术作为核心来展开的,比如smart scan,fast datafile initialization,rman offload和hcc等等.
+Mysql的binlog ignore和replicate ignore/do一定要小心使用，很多在网上看来的所谓最佳实践，在不了解应用怎么写的情况下，直接上来就给用，使从库的数据根本就达不到一致.
+oracle各版本参数总和列表,10.2.0.1的参数总和是1381,11.1.0.7的参数总和是2048,12.1.0.2的参数总和是3978.
+RTT(Round-Trip Time): 往返时延，在计算机网络中它也是一个重要的性能指标，它表示从发送端发送数据开始，到发送端收到来自接收端的确认（接收端收到数据后便立即发送确认），总共经历的时延
+Mysql的优化器还需要改进很多，经常有索引不能正确被选择，导致不得不在SQL中强行指定索引使用.
+如何对log file sync排错 ，http://t.cn/RhM2vJT
+oracle 11g的后的版本中，可以一次drop多个分区，而update index只需要做一次就可以了，而在以前的版本中每次只能drop一个分区，同时又要去update index,多个分区同时操作，明显提高效率.
+干货分享，MySQL MHA参考文档中译版,点这里http://t.cn/Rhx0lfw或http://t.cn/Rhx0lfA
+zabbix的监控功能十分强大,通过key，结合os的命令返回结果，出图可方便了.
+使用PUPPET启动和停止服务,mysql运维利器.http://t.cn/RhJrGcY
+Mysql经常因为有了order by子句后，选择了错误的索引，导致执行计划发生变化.小心不要掉进去了.
+percona的zabbix mysql plugin比较坑爹，需要在被监控的服务器上安装 php和mysqli，这样的前提估计没几个人愿意在mysql服务器上去安装。通 过shell脚本，尽量做最小改动.
+我更新了微博iPad客户端V3.6.0啦！全新支持iOS8~①新增会员购买功能；②新增综合搜索功能；③新增小清新背景图。快来和我一起体验吧！App store下载地址：http://t.cn/h98rBI
+重返Internet。
+Mysql的复制主从可以版本不一致，但是在某些情况可能会出错，比如数据类型定义不一致等，所以尽量先进行测试。
+干货分享，MySQL安装需要更改的十大性能变量 ,http://t.cn/R72JYje
+RAC节点删除，资源没有正常被删除，RAC资源清除一例,http://t.cn/R7L3R08
+MySQL的information_schema是一个虚拟的用户接口，新建一个用户时，就可以对其中的部分内 容进行访问，无法限制.
+如何计算mysql数据库大小,http://t.cn/R7UKv0w
+对于DBA来说，经常需要不断去部署oracle database软件，设置一些环境变量或是系统 参数感觉十分枯燥，通过脚本来实现可以减少很多重复的工作 http://t.cn/R7U3slu
+睡的不够晚，起的不够早!
+ORACLE 12C PDB的PITR恢复,http://t.cn/R7b9EY8
+等了这么久，总算来了!
+oracle 12C的官档集中多了一本sql tuning guide,把原来的sql tuning部分从performance tuning guide分离出来了， 形成了一本专门的文档，干货更多.
+RMAN的压缩的特点是在于对HWM上下的空块都有压缩，在HWM以上的叫unused block compression,在HWM以下的叫null block compression.
+使用sysbench做压力测试的时候，在某些时候QPS已经上不去了,mysql 5.5的最大处理能力也就只能用到24核,所以高配的服务器又有何用呢?!
+老是注意力不集中，难道真是人到中年的原因么?求解决方案.
+数据类型转换和PARTITION PURGE,http://t.cn/R7otWPt
+Streams在12C中被正式放弃了，坑爹。
+Oracle Streams is deprecated in Oracle Database 12c and may be desupported and unavailable in a later Oracle Database release. Use Oracle GoldenGate to replace all replication features of Oracle Streams.
+ORACLE 12C的 FORCE FULL DATABASE CACHING，http://t.cn/R7pausr
+一扯到"情怀",逼格瞬间指数上升了.
+关系型数据库的长处在于有效地存和取数据，对于在SQL里面需要做很多计算 的操作，尽量不要放到数据库服务器中做而是放到应用程序里面去实现， 应用服务器的扩展要比数据库服务器扩展容易得多.每个部分都做自己最擅长的 事.
+数据库执行效率的对比测试,http://t.cn/R7lZUUO
+编写ORACLE性能报告的九大注意事项, http://t.cn/R7TVU99
+ORACLE很多范围操作有UNTIL关健字，但是UNTIL后面的值是不包括在内的.比如 until sequence 5,这样5是不包括在操作的范围内.
+Mysql Bind on TCP/IP port异常处理一则,http://t.cn/R7HilOr
+MySQL Fabric是mysql下一代推的重点产品，对于HA的需求，可以在当前master失败后,自动提升其中的一个slave作为 master.对于scaling,根据应用程序提供的sharding key自动路由请求到不同的服务器上.
+2014年11月份数据库产品热度，可以看到oracle,mysql,mssql继续占据前三,mongodb和redis上升的趋势很明显.
+Mysql只使用了很轻量的YACC的SQL解析器,每次代价都是一样, 没有ORACLE的硬解析和软解析之分,也没有SHARED POOL的概念. 结果就是导致Mysql对于复杂的SQL优化效果相当差.
+MySQL性能常见原因分析PDF,干货，百度网盘:http://t.cn/R73GU0G
+看一本好的技术书籍，会让人热血沸腾.
+RMAN对ARCHVELOG的备份两个选项 ,http://t.cn/R7dyQp6
+使用HAProxy路由MySQL读请求,http://t.cn/R7g1B2B
+MySQL水平SHARDING的两种方法及不足,http://t.cn/R7gsqYb
+在Mysql的数据库中，应用程序在设计一开始就要考虑只读数据源, 对于某些时间不敏感的查询，可以切到只读数据源上，即使在初期 都配置同一个数据源也要这样去做，方便后期的扩展.
+微软.net平台扛不住了，开始支持三大操作系统了.
+使用KeepAlived实现HAProxy高可用,http://t.cn/R7DfZ2Q
+经常和别人讨论Exadata的适应性问题,我的一点看法,EXADATA平台适用性,http://t.cn/R7F5J4f
+我们每个人要树立一个遥不可及的目标，把自己扔过去，然后在自己没有达到的时候，等着看自己 笑话。
+存储虚拟化对于初期的成本可能会相当高,如果虚拟化平台性能跟不上，导致后续的扩容十分困难.
+MySQL索引知识分享,百度网盘地址 http://t.cn/RzA7sCw
+MySQL索引知识分享,百度网盘地址 http://t.cn/RzA7sCw
+RHEL 7的风格也在走苹果路线，扁平化的风格
+MySQL Galera系列之一 (MySQL Galera 集群的安装过程) http://t.cn/RzU5LIb
+MySQL Galera系列之二(MySQL Galera集群和ORACLE RAC的实现原理比较),http://t.cn/RzUFvxl
+log_archive_dest_state_N参数其中有一个DEFER的取值，明明是禁止的这个dest生效，可是搞个defer，让人还以为是延迟呢，引发岐义，直接是disable不是更好么。
+Oracle DataGuard Far Sync Instance配置 http://t.cn/RztMGVu
+使用Puppet部署软件包,http://t.cn/RzcC2QK
+MySQL的活动会话,http://t.cn/Rzf09Go
+ORACLE 12C中对于CTAS或是INSERT INTO SELECT操作会自动收集对像统计信息，再也不用手动收集了。
+有说法是在PERFORMANCE SCHEMA打开后会一定的性能损失，我使用5.6.14的版本 实测并没有任何性能损失.
+业精于勤，荒于嬉!
+oracle中程序中输入有&字符,通过改||可以实现，但是比较麻烦，无奈之下试了同时输两个&&,竟然得到一个& 字符，点个赞。
+mysql备份和常用方法, 百度盘地址 http://t.cn/RzXRTYQ
+DB engine发布了2014年12月数据库的排名.
+整体数据库的状态统计可以统过AWR看出来;单个运行中的会话，可以通过tanel的snapper工具; 针对一个特定的sql可以通过v$sql或是autotrace.
+Mutex到现在资料还是那么少，江湖各种传说.总结了一下Curosr相关的Mutex等待事件,http://t.cn/RzKJakX 估计有很多错，大牛们指正.
+从OS角度观察ORACLE实例进程是如何启动 ,http://t.cn/Rz9rs36
+比你聪明的人都在努力!
+12C中的DG进行switchover的方式和以前版本中命令不一样了，变得更加简单.中间增加了一个很有意思的选项verify,先检查检查看会不会犯错.
+利益链
+我比较赞成把redis当成数据结构服务器一说.以前放在程序里 面的变量，现在可以放到一台单独的服务器上了.
+一个不错的电子书格转换网站,http://t.cn/hpnNL
+又到年尾了，发现自己年初定的书单，还有好多没有看完.加把劲啊!
+为什么%XXX%不能走索引,http://t.cn/RzHABKx
+solaris的界面比那些年好看多了.
+任何一个可调整的参数没有百分百适合，只是在某些特定场景有下效。 对于一个在场景A可以提高性能的参数，在场景B可能是有害的.
+不知道从什么时候开始有一股传言总是认为myiam的查询执行要比innodb快。上次听@叶金荣,@吴炳锡，讲事实不是这样的。今天和别人在谈这个问题，测了一下，果然传言有误. http://t.cn/RzBt7nk
+不知道从什么时候开始有一股传言总是认为myisam的查询执行要比innodb快。上次听@叶金荣,@吴炳锡，讲事实不是这样的。今天和别人在谈这个问题，测了一下，果然传言有误. http://t.cn/RzBt7nk
+Exadata上每个storage server的PCIe卡容量就达到了3.2T,这也太恐布了.
+现在各行各业都在炒创新，中午吃的冬瓜炒虾，这个做法应该属于完全创新,拥有自主知识产权.
+开发的同事会自动加班，不需要上层主动要求,这难道是职业习惯使然么?
+从问题的繁查线索中，找到事件的主因，再对事件的主因进行深入的 分析，反复迭代，直最问题最根本点.
+公有云，私有云，混合云，社区云，我也晕了.
+MySQL主从复制性能优化 http://t.cn/RZAz3iB
+2014年过去了该总结一下了，2015年就是继续干2014年计划的事.

@@ -1,0 +1,161 @@
+富文本编辑器中粘贴图片时，chrome可以得到e.clipBoardData.items并从中获取二进制数据，以便ajax上传到后台，实现粘贴图片的功能。firefox中items为undefined，可选的方案：1将base64原样上传到后台进行文件存储替换，2将内容清空，待粘贴完毕后取图片src，再恢复现场 http://t.cn/RveI2iT
+《未来必热：SVG Sprite技术介绍》 @张鑫旭 大大的文章，推荐阅读 http://t.cn/RvkdTRi
+《从Code Review谈如何做技术》http://t.cn/8sC3wr6 ——远不止Code Review，值得一读。
+http://t.cn/8sacRUn Node-Webkit的全局快捷键注册终于合并进主干了，有更多东西可以玩了。
+幼儿园的题目，请原谅我解不出来，最后我是写代码遍历出答案的……
+尼玛，这么多年了，终于被@basecss3 赞了一回。
+http://t.cn/8kIhSlk js多行字符串的书写方式
+多谢大漠 @w3cplus ，盼了好多天终于收到啦，昨天晚上看了一下，写得非常详细，值得拥有。[嘻嘻]
+我在@SegmentFault 回答了问题【如何理解git的分布式 分支】「把一个场景推到极端是不好的论证方法。 首先，提交的目的是什么，如果只是为了同步代码给别人，那git真没什么亮点，甚至离线提交还会让人误解，算是个缺点。 我个人认为提交的目的，一是暂存代码（版本...」传送门：http://t.cn/RPy4zKY
+做内容分享的插件，发现facebook不允许在用户分享时带上预先填好的文字。满满的节操。
+@ZAKER 你们真的觉得把“网友爆料领导干部培训场所腐败”这种新闻当成“突发新闻”推送给我合适吗？我本来对真的突发新闻还是有点兴趣的，比如没事掉个飞机啥的。难道一定要关掉所有的推送才能安安静静的么？
+在富文本中粘图又发现新情况：safari粘进去的图url以webkit-fake-url://开头，不允许脚本获取图像数据，意味着粘的图只有自己能看到，不确定是否有flash降级方案，即使有的话，safari默认不带flash播放器，还是得呵呵。http://t.cn/RPVI4Bx
+好像很少有人评价微信朋友圈的这个小圆圈，我觉得这是一个非常精妙的设计。一来功能完整，反馈清晰，下拉时出来，松手时加载，加载完再溜回去。二来交互清晰，下来、停留、回去都暗示得很明白，没有疑惑。三来不喧闹，安安静静的。四来有趣味性，比如转动方向和速度会根据下拉方向和速度来确定，好玩。
+docker似乎还不能正确处理在MacOS和Windows下以client/server模式运行时的文件映射，这么大的缺陷，有人有比较好的解决方案么？如果解决不了为啥还会觉得玩得这么high？
+发现微信中打开网页时，UA会带上网络信息，挺简单粗暴但是有效的做法，也不用去控制什么API，Native、WebView通信神马的。思路值得留意学习。
+做了一年的Grunt可视化工具http://t.cn/RPig3FX，设想是美好的：不依赖系统Node.js/grunt-cli/npm，多任务同时运行，常用任务（合并压缩之类）可视化生成配置，项目无关任务（如livereload）不侵入项目文件独立运行。但困难重重，进度缓慢，有点迷茫。大家觉得这样的项目会有吸引力么？
+http://t.cn/RP6Z5uV Atom-Shell进化得很快啊，全局快捷键已经上来了。期待获取代理地址的功能，这样就可以考虑彻底抛弃Node-Webkit了。
+@支付宝 你们这个界面的提示这么丑……是临时工干的么？@吕耿敏 @前端工程师
+http://t.cn/RPSo1ZO 使用web audio检测音乐（节奏）速度。一直想玩玩web audio，也想过做这种demo，但是一直没有行动，惭愧。
+恒大冰泉在销量不济情况下，应采取什么应对策略？ http://t.cn/RPXXQxZ（分享自 @知乎）
+今天遇到一个诡异的bug，一搜才知道，原来页面上的&nbsp;的ASCII码是160(0xF0)，而不是36(0x20)，也就是说它和我们打的空格并不是同一个字符。维基百科表示它叫“Non-breaking space”，即不换行的空格，又涨知识了。http://t.cn/zOcQZHJ
+有人研究过contenteditable的元素中输入的性能问题吗？发现当文章稍微长一点的时候就会性能跟不上，尤其是在中文输入法下，打字上屏差不多要半秒了，基本已经没法玩了。
+网易188邮箱左下角，感受下眼瞎的感觉……
+http://t.cn/RPKdSpS window.find真的是很……又爱又恨……爱的是用起来太简单了，恨的是又臭又硬，几乎没法hack。不好用的地方：1，不能指定要查找的容器，2，选中文本时的range比较特殊，无法collapse取消选中，无法让别的元素通过focus()聚焦。做个“指定容器中搜索文本”要写几吨各种hack。
+嵌套的列表写样式写得想吐，加上hover态之后吐完了还写不出来。li > 本级文字 + 下级ul 这种结构，下级li根本没法独立应用hover样式嘛，父级也没法在不影响子级元素的情况下应用hover样式。
+Github的贴心之处：搜索copy时，也会搜索含有copies的内容。
+似乎所有人提到Git都要讲分布式，但真正操作过分布式的人并不多，甚至有人将分布式与离线提交混为一谈。Git中的P2P操作是这样的：假设小A目录为git/project，切到git目录，运行git daemon --export-all --base-path=.，然后小B git加入源git://A电脑IP/project，即可fetch/pull，该操作只读。
+吓尿了，这是要提前扁平的节奏啊。
+好像经常在百度看到这样的东西，感觉像在说“快来帮帮我们吧，你看，我们真的很缺前端”……@Aki_konata [哈哈]
+@王自如ZEALER 锤子评测视频中科普的这个体验设计理论不错啊。用户感知从上往下，产品设计从下往上。
+这个写在中文文档里会不会被骂……
+如果你买的房子短期内房价降了，你会找开发商吗？ http://t.cn/RPjCx94（分享自 @知乎） ——三观不正的人比我想象的要多得多得多得多得多
+朋友在群里发的微信升级中的某个界面，这个经典的问题要不要纠结那么久那么久……
+http://t.cn/RPjmKZ2 没错，这条链接是个广告。但是如果进去看一眼这家服务的话会有惊喜。git托管 + 项目管理(todo、讨论) + 文档(文件)管理 + 代码部署运行(类似heroku) + 代码质量分析，让人很有想用起来的欲望。
+#十大未解代码之谜#之首：三个空格或者七个空格的缩进到底是什么软件在什么情况下出现的……每次看到都想找个豆腐撞一下。
+http://t.cn/RPTIiC8 @SegmentFault 你们不能只有鼓励机制啊，还得有负向的惩罚机制，要不然就不是一套有效的内容质量控制机制。看看这个问题，下面的答案都是什么乱七八糟的，但一个个都答那么欢，根本没有纠错机制，甚至连板聊的答案都来了。这样下去根本就没法看了好吗？
+【用中国话说颜色】——很久以前在人人见过，今天群里有人问起来，又在豆瓣找回来了。 http://t.cn/zOOa8g7
+http://t.cn/RPR6b24 惊闻 @快盘 个人业务要出售，又一声叹息。作为内测用户，其实非常看好它的同步功能和办公场景应用，在学校的时候也给社团规划了一套基于快盘的文件存储分享方案，至今仍运转良好。但后来大家都开始做网盘做分享，快盘也就渐渐迷失了方向，不知道自己到底想要做什么了。
+http://t.cn/RPECJBe Atom-Shell上的一个需求被实现了。从提出issue，到提交代码，16天，比很多商业软件还要快，真是惊奇。@笨小猫猫 太让人崇拜了。[爱你]
+开始尝试整理一些代码片段。刚写的这个，一个“异步池”，有点类似数据库连接池的概念。适用于逻辑为异步操作，但是想限制同时运行的连接数的场景。比如根据一个数组发起一堆ajax连接，但保证只同时发起3个连接。示例中有3个“线程”，每次从数组中读1个数，每个操作耗时1秒。结果就是每秒输出3个数。
+我在@SegmentFault 回答了问题【js中，位操作符的用处？】「之所以很少被用到，是因为很多人不会用。当然还有一部分人是会用的，但是一旦涉及到代码可读性，位运算往往首当其冲被批判，原因还是因为很多人不会用，所以看不懂。 位运算的用处是很多的，可以参见http:...」传送门：http://t.cn/RPmShDE
+微盘
+http://t.cn/8sa71P8 Node-Webkit终于可以用child_process.fork了，这个issue历经21个月才被close掉。
+http://t.cn/RPdmzFg Grunt.js作者写的《Grunt的现状和未来》，比较清楚地写了Grunt.js的优势劣势以及未来的目标。
+如何评价「女孩子只要嫁得好就很好，那么拼干嘛」的说法？ http://t.cn/Rvtos3w（分享自 @知乎）
+看来以后找女朋友的考验三观的标准又多了一条“是否支持老罗”，我是不支持的，看了一半看不下去，人太恶心了。
+收到@Coding 的月饼，看起来不错的样子。[哈哈]
+@Coding 家的抱枕。
+最近写了好几个项目，也在公司项目中写了一些东西，非常强烈地感受到了从demo变成产品的艰辛。我很喜欢写demo，不喜欢麿产品，经历了这些之后觉得，从技术人变成产品人可能最大的转变就是把可行性变成可用性。打算抽空写写这些项目中的细细磨过的棱角。（如图，也只是audio和contenteditable而已。）
+人长大后就一定要变得很功利很现实吗？ http://t.cn/Rvh5qTD（分享自 @知乎）
+踩了个underscore模板的坑，这样写HTML模板，用jQuery的.html()取模板时会包含开头的换行符，而underscore的template方法在解析模板时会保留这个换行符，导致模板引擎渲染的html带有开头的换行符，jQuery解析这种代码报错。印象中doT，jQuery tmpl，artTemplate等都不存在类似问题。
+http://t.cn/Rhy09g5 神人。今天把在床底下呆了几个月的touch越狱了，开了ssh，然后想看看有没有LAMP的方案，结果真的有（web服务器是lighttpd），然后蛋疼地搜了一下，居然还有Node.js，然后就找到了上面的这家伙，还有像node-ios http://t.cn/Rhy09gt ，node-itunes之类的东东。
+接上一条，碉堡了！
+@sofish staticfile.org的搜索挂了。
+How I Built The One Page Scroll Plugin http://t.cn/RPdRhzh
+http://t.cn/asNqTA javascript图像处理库，碉堡了。
+@basecss3 正在写送书抽奖的算法，于是我在测试环节又中奖了。永远测试中奖正式不中的命…… @吕耿敏
+被@basecss3 的书砸中，鉴于已经有一本了，故这本再拿出来抽奖，此外我自己再加一本。完整的信息：下周一9月15日前关注@TooBug 并转发本微博，抽出2本《AngularJS权威教程》（书籍来源、是否包邮和是否由译者@basecss3 签名后续看具体情况确定[呵呵] ）。9月15日上午10点公布结果。
+http://t.cn/RvFYRAb 忘了今天在哪看的了，解析ajax页面SEO不好的利器。（遵守Google提出来的fragment做法，国内搜索引擎支持情况未知。）
+多看的web版阅读器太NB了，居然是整页SVG，一字一个元素，惊呆了。
+http://t.cn/RvD8bHy 一些sketch插件推荐，光是看着就醉了。
+用了一段时间清歌输入法，感觉还不错，但就是符号输入很不爽。不知道为啥今天一级简码都给调后面去了，这个有点不能忍。顺便求推荐Mac上的五笔输入法，要求词库量合理（不要超大的），词序合理（比如fcu如果不是“去”我会抓狂）即可。
+@支付宝客户中心 @支付宝 好像上次推广告没被骂够？看起来道歉很诚恳，还是一样不老实嘛。再发一次就卸掉你。
+试用了一把browserstack和crossbrowsertesting，发现所谓的云测试其实根本没法用。局域网远程调试都觉得效率很低，这种走公网的就更没法用了。果然还是webdriver是王道，附一篇简要教程，讲得很简单但步骤很清楚。http://t.cn/RhobUu0
+原来IE7/8不支持background-size，于是做retina背景图还是得用1x/2x两张图。（其实可以用zoom来做，但是IE8的hack\9其实对IE9也有效，麻烦。）
+http://t.cn/RhpKMac 终于逮到机会给 @朴灵 大大的代码贡献PR啦，虽然当不成土豪，偶尔抱抱大腿什么的还是要的。[哈哈]
+神注释…………为啥我就一点简写的欲望都没有，client我都会老实地拼出来。好像这个也跟语言背景有关？是不是有些语言中特别喜欢把单词简写一下？
+Using the tabindex attribute http://t.cn/RhYwTPF
+http://t.cn/RhYSadK 移动端的meta真多……感谢QQ群里key大分享。
+http://t.cn/hFwtr 中国证券业协会的网站真奇葩，明明chrome下功能都正常，非得用js阻止非IE用户登录神马的，帮人查个成绩，表格都在HTML上显示出来了，还加个visibility:hidden。
+city——一款用于生成行政区划联动数据的小工具 http://t.cn/RhnBvVt 在@basecss3 的作品上狗尾续貂了一把，就这么慌慌张张地发布吧。
+好东东一枚 http://t.cn/Rhg6fc3
+http://t.cn/RhDNODH 我觉得可以分享一下咱们这个吹水群的福利了。这个群没啥特色，就是吹吹水，偶尔发个链接神马的，结果就有一帮可爱的小伙伴把这些链接都收集起来了，棒呆了。 @basecss3 @Keystion @ellyLiang-Lcm
+@SegmentFault 家的杯子！
+想随意找个.mp4文件做测试，搜索了一下就发现了@朴灵 wechat模块中的图片和视频了，这算是彩蛋吗？[哈哈]
+巧用 RequireJS Optimizer 给传统的前端项目打包 http://t.cn/zTzrG2H --from pocket, powered by ifttt
+如何判断用户是否访问过某个网址 http://t.cn/zQH8sHv --from pocket, powered by ifttt
+ifttt遇上微博，好玩！
+bash代码注入的安全漏洞 http://t.cn/Rh8eSfB --from pocket, powered by ifttt
+CSS3中border-image属性详解 http://t.cn/zYTvcG4 --from pocket, powered by ifttt
+关于Unicode和URL encoding入门的一切以及注意事项 http://t.cn/zQjKQy7 --from pocket, powered by ifttt
+letter-spacing first-letter实现按钮文字隐藏 http://t.cn/RhsTKBs按钮文字隐藏/ --from pocket, powered …
+升级到了10.10 GM1，安装过程很顺利，但随后的软件还是挺折腾的。首先是nginx启不动，手工建临时文件夹完事。然后是php的扩展mcrypt和redis没有了，打算用brew安装，结果brew/xcode/xcode command line tool都要升级，这一圈下来，终于可以用brew了，安装的时候又装了一把php，才发现我用的php是自带的
+我在乐视网发现很多好剧哦，<<马向阳下乡记>><<爷们儿>><<甄嬛传>><<奇葩一家亲>><<收获的季节>>，大家快来追剧吧，还有消息提醒呢~http://t.cn/RhdV0K4
+How to create an advanced HTML5 placeholder polyfill http://t.cn/R7hxKKc --from pocket, powered by ifttt
+博客访问量极低，但是还是能看到前端界的一丢丢趋势，上半年都还一堆人在搜索模板引擎什么的，到现在全部在搜shadow dom和generator了。
+[置顶] 互联网全站HTTPS的时代已经到来 http://t.cn/RhDSXpi --from pocket, powered by ifttt
+Lightweight ES6 Features That Pack A Punch http://t.cn/R7wazFL --from pocket, powered by ifttt
+Numbers in JavaScript http://t.cn/RvegZow --from pocket, powered by ifttt
+创建无障碍的对话框进步博客 : 进步博客 http://t.cn/zY9bvbe --from pocket, powered by ifttt
+脑补了icon.png icon@2x.png icon @3x.png  icon@4x.png。svg还不崛起更待何时？
+看到iPad air 2变成4x屏了，如果直接使用svg最好不过了，如果不能，用sketch也可以秒杀ps了。GIF动图，点开查看。另外渣浪的同学不要杀我，把你家LOGO山寨坏了。
+#手记#git diff {start verion}..{end version} {path} > {patchfile}生成补丁。打补丁git apply {patchfile}。.rej文件的产生是因为补丁中描述的改变在代码中找不到对应的行，一种场景是“补丁覆盖的版本比代码差的版本要大”，这种情况.rej可以直接删除。
+iWork套件升级之后.pages/.numbers/.key都不再是一个文件夹，而是一个实打实的文件，sketch也做了升级，.sketch也从文件夹变成了文件。大快人心。
+Mac升级到Yosemite后感觉非常卡的朋友可以试试用磁盘工具检查一下硬盘。我的就检查出严重的错误，重启按Command+R进入Recovery HD用磁盘工具修复一下，然后就又快如闪电了。（如果是错觉，明天发微博修正。^o^）
+http://t.cn/Rv3bZdy 如何为angular路由中的每个视图指定CSS
+最近翻译做得少了，也在反思翻译的价值。有能力的开发者基本都能独立完成英文文档和文章的阅读，而只读中文的开发者往往读完仍然不知所以。不知道“懂技术但真的不懂英文”的开发者到底有多少呢？ 感谢@basecss3 的成长路径给了我很多很多不同的想法。
+http://t.cn/R72h1vV JavaScript的生与死，双语字幕，非常不错，推荐
+我经常不写文档的么？@basecss3
+其实IE有的地方花的心思还挺多的，只是它不告诉你，所以猜得很累。比如像这样嵌入flash，在HTTPS的页面中，它就会为一个没有发生的请求而告警。
+@中国电信客服 @中国电信 315才过去半年就又开始推广告了？http://t.cn/zYrkDHc http://t.cn/zYrkDHc 不给个满意的解释立马投诉到工信部。
+招人，详情见图。公司网址http://t.cn/zROfCuM 有兴趣的简历来一发？toobug@futu5.com
+微信公众平台将停止支持使用SSL2.0/3.0发出的请求，需要尽快切到TLS，周知。
+手机 QQ 的一键消除红点功能是怎么想出来的？ http://t.cn/R7ofgUC（分享自 @知乎）——设计和开发是下了苦功的，但是确实缺少从产品层面的考虑，参见非第一的几个答案，很有参考价值。要多从产品本质出发想问题，太过关注表象是不对的。
+http://t.cn/a1FNf0 证实了困扰多时的猜想，jQuery在检测到是AMD环境的情况下仍然会全局暴露$和jQuery。之前做多版本共存的时候就发现这个问题，只是一直不敢确证jQuery会真的这么玩。另外jQuery.noConflict也有点迷惑，不传参数或者传false只会返回jQuery对象，传true才会移除全局暴露的变量。
+http://t.cn/a1FNf0 证实了困扰多时的猜想，jQuery在检测到是AMD环境的情况下仍然会全局暴露$和jQuery。之前做多版本共存的时候就发现这个问题，只是一直不敢确证jQuery会真的这么玩。另外jQuery.noConflict也有点迷惑，不传参数或者传false只会返回jQuery对象，传true才会移除全局暴露的变量。
+yosemite的Finder是不是有内存泄露？这个占用量有点大。
+svn的patch无法包含二进制文件，但是git的可以，使用的是差分编码。又多一个抛弃svn的理由。http://t.cn/Rhsaluf
+http://t.cn/R7NVJat 这种头像居然也是有名字和算法的！
+如果你还在为Dash的8秒倒计时而烦恼，那么来试试另一种方案吧。http://t.cn/zR6U0Wt，再加Fluid.app，分分钟搞定。
+团队正式切到Git，并且基于Git发布了第一个版本，一切顺利。有的时候改变只需要一点点勇气，一旦开始之后，接下来连滚带爬的几步路才是关键，在开始之前预设的很多的问题和解决方案都作用不大。
+SSLStrip 的未来 —— HTTPS 前端劫持 http://t.cn/R7wx7Dh --from pocket, powered by ifttt
+iPhone 6 / 6 Plus 出现后，如何改进工作流以实现一份设计稿支持多个尺寸？ http://t.cn/RhMaCQp（分享自 @知乎）
+OS X好搞笑，.workflow的预览中的代码是镜像的……我一开始还以为是随便弄的一张图片，仔细看才发现是代码镜像（上下）过来了……
+Facebook React 和 Web Components（Polymer）对比优势和劣势 http://t.cn/R7WWM9E --from pocket, powered by ifttt
+Why ContentEditable is Terrible — Medium Engineering — Medium http://t.cn/R7YV4by --from pocket, powered by ifttt
+http://t.cn/R78y4qy Github的幽默感……
+晚上又跟@basecss3 探讨了一下最近实践的一些模块化方案，还是感觉AMD的方式写起来不够自然，可能是因为受限于“不编译可以在浏览器中跑”这一前提。相较而言，browserify写起来要舒服得多。另外打包方面好像也是browserify门槛要低一点，这块还待仔细学习。
+Why and how I ditched icon fonts in favor of inline SVG http://t.cn/R7jxjvS --from pocket, powered by ifttt
+Building single page apps using web components http://t.cn/R7Euiiv --from pocket, powered by ifttt
+The Top 10 Mistakes AngularJS Developers Make http://t.cn/RhBNeXD --from pocket, powered by ifttt
+CSS学习21：使用HTML、CSS写好一个输入框 http://t.cn/R7vauJb --from pocket, powered by ifttt
+The Power Of Getters http://t.cn/R7ErNuM --from pocket, powered by ifttt
+这个圈子中吵得最凶的往往都不是代码的人。今后不炒概念，不参加吵架，安安静静地码代码、做技术实践、看书看文档、总结分享。就这样，立此自勉。
+这个圈子中吵架和炒作最凶的往往都不是认真实践的人。以后不参与吵架，不炒作概念，只安安静静地看书、码代码、做技术实践、做总结分享。就这样，立此自勉。
+Angular.js这个设定有点不太自然啊。不是可以重载属性么，为何一定要用户来加引号呢？还是说src中还有什么可以产生混淆的用法？
+取消关注@fibjs 太叽叽歪歪，不解释。
+微博把广告做到了下拉刷新中，有点意思。
+已经下线一个多月的代码还在打补丁，专业精神。@oceansong_f2er
+Git版本控制软件结合GitHub从入门到精通常用命令学习手册 – 爱分享 http://t.cn/RPggRMZ --from pocket, powered by ifttt
+#截图留念#以后看到这个图标基本上就能确定用户的flash player安装了但是有问题。
+gulp的生态圈还是有问题啊。折腾个require.js的打包压缩硬是搞了一天，最后还是自己写插件完事。当然也有可能是我太笨了，十几个插件摆在面前，一个一个试下来都没找到批量打包的办法。http://t.cn/R7DjZ1H
+http://t.cn/RPlqrPz @ECharts 文档还是太单薄了，很多东西都要靠猜。比如这个color根本没说明如何分别指定多个指标的颜色，也不支持传数组，查看示例发现是要传个函数，而函数的参数是什么意义又没有说明。
+看了这个题的答案，为祖国的前端同学们担心啊。【在IE678下用什么方法解决伪类last-child？】分享自 @SegmentFault，问题传送门： http://t.cn/R7D4Lrh
+用PM2部署网站真的很方便。
+发现IE一个很诡异的bug，如果：1、全局变量使用window.xxx定义，2、定义和引用在不同的<script>标签中；则引用不到全局变量。因此使用require.js时，提前写的配置项要用var require而不能用window.require来定义。——纪念一晚上加一上午的时光，附一篇@johnhax 的诊断结论：IE有人格分裂。
+收到@图灵教育 的样书，第一次把名字印到书上，感觉很奇妙。感谢@李松峰 老师引荐，感谢@图灵岳新欣 认真负责的全程跟进。[嘻嘻]
+为祖国的密码学也要担忧一下了，md5成了非对称加密……【如何根据一段 md5 得到原始的内容？】分享自 @SegmentFault，问题传送门： http://t.cn/RzwfrkD
+25岁了，如何在30岁前实现经济自由呢？ http://t.cn/RzAa2Wj（分享自 @知乎）
+大概了解了一下传说中的非欧几何。欧几里德提出五条公理，第五条是平行公理，几千年来一直有人试图证明或证否之，结果发现它无法证明，但是也无法证否，在对这条公理结论做变化之后，新的几何体系也是严密的，这就是非欧几何。比如罗氏几何、黎曼几何。http://t.cn/hmhXZ非欧几里得几何
+有的代码能毁掉一天的好心情，看完觉得人生都灰暗了。[抓狂]
+http://t.cn/Rz2ki1c 浴火重生的Angular @民工精髓V 大作
+IE全局变量的Dissociative Identity Disorder（人格分裂症） http://t.cn/SZjEUh --from pocket, powered by ifttt
+@basecss3 立此存证。
+虽然websql是一个被废弃的标准，但是从浏览器支持上来看，一点都不比indexedDB差啊，甚至在移动端表现会更好？
+今天试了一把用gulp编译browerify，20行搞定，只能说插件跟插件真的是有区别的。require.js没有成型的规范，引入了一堆概念把自己做死了，那一堆编译插件也没一个把这些概念全部覆盖到的。
+以后再也不用为网页编辑器糟糕的体验而捉急了。http://t.cn/Rz5IT0g chrome插件+sublime text插件，实现在sulbime text中实时编辑网页编辑器中的文本。
+这两天在用Atom，现在的版本终于可以让我连续用两天并且不想切回sublime text了。换seti主题后跟st的外观几乎完全一样，加上快捷键也几乎一样，完全没有成本。不爽的几个点：没有sublimeGit这样的神器，缺少块注释且相关插件不好用，偶尔会出现删除文字后选中态不消失的问题，极偶尔中文输入不进去。
+http://t.cn/Rz6u67P 顺手翻译了will-change的MDN文档。原来MDN不需要审核的。
+“无效的用户名或密码”：这种设计真的糟透了 http://t.cn/Rz66YNO
+http://t.cn/RhdYTIk 如果你想玩一下短信通道但是找不到靠谱的，可以考虑看看这个，拿自己的Android机当短信通道，试用了一天非常不错。花了一个小时封装了Node.js的SDK http://t.cn/Rz0L5dI 由于官方的API实在太好懂了，我就手一滑又没写文档，参考官方文档和PHP示例，完全一一对应。
+【努力就可以上清华北大吗？如果可以，怎样做？】小隐于小林：进清华以后第一节社会学概论课上，老师让我们每个人填了一张问卷。 上面有两个问题是：“你父母亲的职业？”和“你上大学以前到过最远的地方是哪里？” 问卷收上去以后，老师对我们说：“在座… http://t.cn/RzpKFiU（分享自 @知乎）
+@ECharts 能出个用require.js加载单文件的文档不？不要页面引入echarts.js的。用你们的dist目录的文件，结果还依赖components和util目录，实在是搞不懂要怎么用。
+玩转AMD - 应用实践 http://t.cn/RzlyilT --from pocket, powered by ifttt
+互联网黑市分析：社工库的传说 http://t.cn/RzYbg2s --from pocket, powered by ifttt
+支付宝转到银行卡的记录在web上查不到完整的卡号，也无法再次转账，被迫装了手机客户端，上来就在登录界面卡死两分钟。看看魅族市场中的评价，一片骂声。懒得问为什么手机能看到卡号web不能以及为什么这么卡了，好不容易登录上去赶紧转账完卸载。
+现在的五笔开发者都在搞什么啊？因为用户量少所以只要“我们有”就行了吗？
+Introducing the JavaScript Internationalization API http://t.cn/RzTqlzh --from pocket, powered by ifttt
+http://t.cn/RZAeA5o 一个逆天的polyfill集合。
+发布了个小模块，离线查询手机归属地。体积小，性能好，数据全，欢迎围观。 http://t.cn/RZ2s4vo
+http://t.cn/RZL3Owc http://t.cn/RZL3Owt 发现node-canvas貌似是跑不过自己的单元测试的，瞬间石化。

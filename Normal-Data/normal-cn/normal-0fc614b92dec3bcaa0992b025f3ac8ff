@@ -1,0 +1,198 @@
+雅虎异地登录时出现的动态飘荡的验证码， 给跪了没有 ？ 神马图像识别的OCR的破验证码都不灵了
+#俗话解读技术#Docker是基于Linux容器(Container)机制的轻量级虚拟化管理工具; CoreOS是专为集群管理定制的Linux,利用Docker做到应用和操作系统分离，其中etcd相当于集群共享的/etc，fleet相当于调度器决定应用在哪里跑；Vagrant是个虚拟机管理工具，通过命令行和配置文件快速在单机上玩虚拟机群。
+瑞士自驾游1300km，关键Tips: 淘宝上740元的Garmin导航仪超级好用;带个煲粥的锅善待中国胃;俄航公务舱靠谱服务好可平躺，转机欧洲性价比高;Swisscom电话卡给力,不限流量2CHF一天;登山必买半价卡(Swiss half-fare card),免费赠家庭卡(family card),随行小孩交通和登山免费；随便一拍都是明信片。
+标新立异才是选秀王道，如果没有嘶吼唱法，不会四个导师都转，即使是科班出身也没用。其实常规唱法的盛夏光年比五月天版好听 http://t.cn/RPxiSuP
+如果你觉得 exo, f(x), 小时代, tfboys...的粉丝疯狂和不可思议，只能说明一点，你老了...
+看过的印度阿三电影中最精彩的一部 http://t.cn/RPixCJv
+#绣春刀# , 武侠电影的诚意之作，剧情围绕小人物在混乱时代的求生选择之路，节奏紧凑，动作无花哨无威亚冷血近乎血腥，主角张震酷帅，刘诗诗柔美，配角个个出彩，故事结局勉强算是好结局，竟然有影评说结局里张震赚到了两个女眷（在苏州）。
+Boom, #go语言#编写的替代apache bench (AB)的HTTP 测试工具，http://t.cn/8FtSdVK
+FlatBuffers，Google出品的比大名鼎鼎的ProtocolBuffer更好的远程RPC数据传递协议， http://t.cn/RvpzFvD 作为一个序列化/反序列化工具库, 无需编写解析代码，无需重新定义数据结构，充分适应数据格式的版本变化，支持C++/JAVA/GO语言。
+搞大数据被人鄙视被人黑？ 先从小数据开始吧，快速玩转小数据的方法是用R语言，推荐两本实例型入门书，http://t.cn/Rv26P19 和 http://t.cn/RPHiE5j
+EMBD, #go语言#上的嵌入式系统开发框架，简化树莓派、BeagleBoard、CubieTruck等嵌入系统的底层开发，例如两条语句 embd.InitLED() embd.ToggleLED(3) 就让树莓派上的LED灯闪烁3次，http://t.cn/RPRxH4I
+四年前开始用git和github，今天github已成为程序员脑门上标签的代名词了，有高手用#go语言#写了一个完全替代git的跨平台命令行工具gh (g+h=github)，专门为快速访问github而做，http://t.cn/RPRiP2m
+8个值得深入研究的Hadoop上的SQL框架, Hive / Impala / Presto / Shark / Drill / Pivotal / BigSQL / Phenix / Tajo, http://t.cn/RvCgVWU
+Google Trends提供的大数据表明，苹果公司在新款手机出品后，有意降低老手机的运行速度... WTF...有同感的举手，换5s后感觉原来的4s跑起来像砖。
+想生成一个酷酷的单词云吗？ 像配图的那样，这里的开源程序可以帮到你，WordSwarm, http://t.cn/RPRXCFi
+有人发过吗 ？ Github上整理的#大数据#相关的所有重要开放源码项目和论文的大合集，确实awesome ! http://t.cn/RPIJuWA
+桌面应用程序开发的神器在哪里？ QT， Tcl/Tk， GTK都是跨平台的GUI框架，#Go语言#也有对应的binding，例如 基于QT的qml http://t.cn/8sFlSij ，Tcl/Tk的Gothic http://t.cn/RPEjim9 Go-GTK http://t.cn/RPEjimK 。 然而，真正的神器是Node-webkit，http://t.cn/RPEjimo
+#存档#Node-Webkit，包括支持HTML 5 的Chromium浏览器核心，可调用本地资源的NodeJS，支持用HTML和JS编写Win / Linux/ Mac上的桌面应用，你看到的那些酷炫的桌面应用实际说不定是Web. 地址: http://t.cn/zOKQquk 。 中文介绍 http://t.cn/8kSezuO 以及 http://t.cn/8FJktBO
+程序员Rinat Abdullin在博客直播了8个月，关于自己如何同3个人的团队一起改造瑞典最大的约会网站HappyPancake ，涉及从设计、研发到测试的诸多经验，值得一看，http://t.cn/RPuIW6W
+#庞贝末日#，角斗士+Titanic混合体，凑合吧，豆瓣和时光评分不高，但电影就是消遣何必较真，男主角怎么看怎么像曹格， 结局无语，看3D效果的话还是找imax屏幕并且前排就座比较好。
+刚刚拿到融资的Wecash，经过试用鉴定就是打着大数据的幌子骗个人资料的，没有银行体系或者交易体系的硬流水数据支撑，是无法通过互联网神马的数据（SNS关系、博客微博微信朋友圈...）评估个人信用的。
+还在担心找不到#前端#美工？担心网站做不好？担心程序员没有美术细胞？ 两个高端大气免费的可视化页面制作工具，Runway: http://t.cn/RPdAmjR 和 Wix: http://t.cn/hxnCG ， 做出来的网站绝对亮瞎你的眼。
+如果现在还在用word写项目文档，就out了。#Markdown#，让在线文档变得易读易写，既不像html啰嗦，又不像纯文本没有排版，在写作和版式之间均衡，较wiki语法更加简单。 语法说明: http://t.cn/z0DGvNe 在线编辑器很多，比较好的离线编辑器是 Haroop，支持github的md扩展： http://t.cn/z8xie2h
+程序员三宝: github, stackoverflow和reddit。 几乎所有的实现github上都能找到参照源代码，几乎所有的疑难杂症stackoverflow上都会问，几乎所有最新的潮流趋势和热文热推reddit上都有分享。
+#12道锋味#，名为厨艺，实为旅行节目，每期谢霆锋都耍帅泡一个妞，最近的一期是价廉物美的美食天堂新加坡，肉骨茶、海南鸡、叨沙、胡椒蟹... http://t.cn/RPv95Gr
+拿起枪，像个男人一样去战斗。我正在使用“女枪”会员专属模板，你也来一键换装吧！ http://weibo.com/home?skinId=skinvip230
+北京周末郊游哪里去 ? 推荐两条一百公里长的自驾路线，一是山水版的百里画廊，位于延庆千家店镇，最佳季节是初秋九月中旬后，两日游首日可去龙庆峡月亮湾手划船；另一条是草原版的百里画廊，即草沿天路，张家口市的桦皮岭到野狐岭之间，最佳季节是夏季，两日游首日可住崇礼。
+#技术方案#自己做个离线地图导航或LBS移动应用，取代需要网络连接的Google Maps或苹果地图，目前可行方案是使用OpenStreetMap地图数据 http://t.cn/bD0sL，解决版权许可；安卓版用osmdroid库：http://t.cn/RPeG4yn iOS版用RouteMe库: http://t.cn/arBV6u
+自己造个浏览器(#1)? 浏览器使用的引擎扫盲, IE的叫Trident, Firefox的叫Gecko, Safari和Chrome都是源自Webkit, Google对Webkit做了改进, JS引擎换用自己的V8, 并把试验代码开源为Chromium，国内公司的大部分XX浏览器都是基于Chromium,在碰到网银网站时,切换回E的Trident,就是所谓的双核浏览器.
+自己造个浏览器(#1)? 浏览器使用的引擎扫盲, IE的叫Trident, Firefox的叫Gecko, Safari和Chrome都是源自Webkit, Google对Webkit做了改进, JS引擎换用自己的V8, 并把试验代码开源为Chromium，国内公司的大部分XX浏览器都是基于Chromium,在碰到网银网站时,切换回IE的Trident,就是所谓的双核浏览器
+自己造个浏览器(#2)? 对IE封装的源代码可参考MyIE2/Green Browser源码，网上论坛可寻；基本上无人对Mozilla的Gecko引擎做二次封装，坑爹的Firefox中国版加了N多广告劫持,可放弃；Chromium的封装可参考源码比较多，例如Midori, http://t.cn/RPeVqVt Srware Iron, http://t.cn/hphvb
+#计算广告学#(computational advertising),互联网最重要商业模式的核心技术,斯坦福的入门课程: http://t.cn/RP4sLxd @北冥乘海生 老师的中文课程: http://t.cn/zQKAi2j 鼻祖源自雅虎实验室:http://t.cn/RhZkMAV其中牛人搞了已上市的Rocketfuel 开源广告服务器Revive(OpenX): http://t.cn/RvGqT8S
+RTBKit, 开放源码的实时竞价广告RTB (Real-time biding)项目，对接 Google AdExchange, App Nexus等广告交换平台，实现程序化广告购买 ( Programmatic Buying ), 我说过只要是你能想到的项目github上都有参考源代码， http://t.cn/RhZFafz
+Predict.io，目前最实用的开放源码#推荐系统#，重要的是成熟度很高并且#大数据#ready，原始数据存储支持Hadoop/MongoDB，支持多种单机和分布式推荐算法：协同过滤，KNN，SVD++等，支持包括Android/JS/PHP/Python/Ruby多种客户端SDK，支持无服务器的云部署方式，http://t.cn/zRIPHGR
+只有100行代码的深度学习工具word2vec, #go语言#版本，占用内存更少，http://t.cn/Rhw3e1E
+基于OpenWRT的福利，懂的入，Shadowsocks， http://t.cn/Rhw1RUh ， FQ1: http://t.cn/zHulgiI ， FQ2: http://t.cn/Rhw1RU7
+试试长微博工具，#完美是毒#，献给处女座的全栈CEO和程序员们... http://t.cn/RhwBihn
+#12道锋味# 最近一期是瑞士，有美景没美食，好熟悉的场景，容祖儿情商很高，比阿sa高... http://t.cn/RhwwjBR
+接近完美甚至于BT的国民贤妻让人惊呆了, 说是因为拯救了银河系这不科学, 有京城四少的因才有果 http://t.cn/RhA4MoA
+解决即使设置了“同一窗口打开文件夹”，但是文件夹总是在新窗口打开的问题， http://t.cn/zj1kuFD
+OSSIM (Open Source Security Information Management)， 网络安全领域的No.1开源系统，据说一半以上的国产安全产品都是基于OSSIM改造，OSSIM集成了2000多种安全工具和插件， http://t.cn/Rh2LgEq
+拿微博当随手的技术笔记不错，简明扼要不用过多废话，细节可以用长微博，能够存档，能够搜索，能够分享，还能偶尔吐吐槽...我会说我悄悄关注的都是福利号吗
+懂得使用#Win32 API#的一定是老龄程序员了，今天虽鲜有人提及，但并不表示它没有价值，最近在看一个go封装的优秀gui框架walk ( http://t.cn/zYBWkGe ) 时复习了下Win32 API，非常好的中文教程: http://t.cn/zWx8fbL 另外一个更为深入，讲到了用原生API玩OLE/COM，http://t.cn/RhL9Qof
+最好的#go语言#图像处理库, http://t.cn/RPUxomy ， 作者最早写了一个简单些的库，http://t.cn/zQAQmCC ，后来觉得不过瘾，改出了一个功能更多的GIFT库， 纯用go写，可利用多核并行，无外部库依赖。
+一旦用智能筷子的多了，估计卖羊肉串针对智能筷子的破解马上就会出，地沟油供应商随后follow... 国人的聪明才智，能把一个有利可图的行业做到最后无路可走，筷子是个治标不治本的方案，还不如提供安全食品
+#猩球崛起2：黎明之战# ，数字科技做出的一群美国孙猴子看得人也是醉了，猴王和反派猴智商丝毫不逊人类，值得一看。
+21世纪敲诈阿里 ? 确是以卵击石，BAT是不能碰的， B逼走Google， A买下习总喜欢的恒大， T的多年拍档深圳南山法院和灭掉KB， 哪个都不好惹 ...
+耐心看完了小时代，没有传说中的那么差，有闺蜜情有狗血的同志情，能够理解90后追颜值高小鲜肉的看片动机。郭敬明和韩寒拍电影的主要共同点是电影基本上是一段一段的类似MTV的玩意（有人甚至说是PPT）拼接在一起，只不过郭追求浪漫，韩尊重现实，郭喜欢高级会所，韩喜欢公路越野。
+经济学人 (The Economist）杂志的文章：钱能买到幸福，对多个国家收入和幸福感对比的曲线图表明，在当前时代幸福感和收入呈正比关系，所以那些幸福和钱无关的屁话是骗人的，在同样的收入水平下，美国人幸福感比日本人要高得多 http://t.cn/zTWajfU
+计算机系学生和程序员最应该访问的十大网站：有教你快速入门的，有教你怎么创业的，有教你怎么思考的，有教你怎么挣钱的...让在校的你和奋斗路上的你脑洞多开些 http://t.cn/RP0GPpR
+搞大数据的朋友，千万别错过9.29日开课的斯坦福的免费公开课《海量#数据挖掘#》，老美的CS课程都是超接地气的。 http://t.cn/RPnqX6o
+不错的创意和模式， 学习编程还能发奖金 ? Topcoder就是这样的网站，学会Swift的前1000名开发者1人发100刀，http://t.cn/RhZ8MZf ， 所以，我们看到的举办的各种算法竞赛、各种编程竞赛、各种挑战...其目的只有三个：1是打自己广告 2是网罗人才 3是忽悠外来高手写代码
+#深度学习#，听过了很多次，却依然不知道如何应用， 这个Talk: Deep Learning on Hadoop，简洁明了的解释了什么是深度学习DL，什么样的应用适合DL，DL有哪些开源实现，在Hadoop上如何跑起一个DL应用， http://t.cn/Rhbo8vP
+#中国好声音#里好听的歌合集: 盛夏光年 http://t.cn/RPxx0Vx 月半小夜曲 http://t.cn/RPxi7t2 一江水 http://t.cn/RP9MjdN 飘洋过海来看你 http://t.cn/RPYSVgJ 斑马斑马 http://t.cn/RP3DE1V 贝加尔湖畔 http://t.cn/RhzDCFB 光辉岁月 http://t.cn/RhbKxE3 What's up http://t.cn/RhbNvgY
+京西门头沟潭柘寺小憩，门口的嘉福素菜不错，在露天院子内品茶听竹吃素斋，惬意闲适，推荐一指禅、地三鲜、回锅肉、野菜饺子、青瓜竹荪汤...
+IT从业人士如何远离#亚健康# ? 最核心的是尽量减少对PC、平板和手机的使用，以保护眼睛和避免久坐，实际上不用或少用你的世界照常运转。喜欢旅行的去旅行，喜欢运动去运动，不喜欢运动的可以逛街购物 ，不喜欢外出的可以钻研厨艺、学会一样乐器或者玩乐高搭房子，培养一门非电子化的嗜好。
+#go语言#的内存垃圾回收在32位Windows上是比较渣渣的，使用较大的buffer（例如高分辨数码照片能达到100M）时几下程序就挂掉了，解决的方法是显式的强制GC：1、变量置空 buffer = nil , 2、明确调用GC: runtime.GC()
+cute girl, 吉他 平凡之路 http://t.cn/RhLxHnH
+北京十大赏月地点，今天明天都不错啊，http://t.cn/h4wkrv
+卢沟桥赏月，看满天孔明灯和皎洁明月，想起星星点灯的歌了没有？ 去看卢沟晓月的人车快堵到城里了， Tips: 规避拥堵的办法是，从下一个收费高速出口出去（收费站前），绕到卢沟新桥上，车停新桥上，可放孔明灯，步行去宛平城。据说有通宵喝茶的茶座。
+几个接地气的O2O创业例子：一个是社区001，主打1小时送到货，商品为小区周边百货和生活服务；一个是遥遥排队，手机微信选择餐厅排上位子； 还有一个是到家美食会，周边餐馆配送，一小时到。O2O没有捷径可走，关键是扫街队伍和物流队伍的成本控制。
+#go语言#实现的全文检索引擎， http://t.cn/RhGeZpM， 配合上中文分词 http://t.cn/zQ5QxY5 或者 http://t.cn/zQPUGuD 就可以支持中文了。
+初步感觉好丑，ip6特别像最早的一代iPhone 和大屏安卓机，Apple watch要是弄成圆表盘我也不说啥了，这样怎么让偶们这些装逼的人逼格更逼格呀？
+iphone 4/5的方形平板大弧圆角设计是经典，一眼就能看出与安卓机的差别，凸显bigger，尤其白苹果是女生最爱，从前台小妹到家庭主妇到白领丽人，几乎人手一部，渗透率相当的高。当然，好多人一边吐槽iphone 6 丑 丑 丑，到上市了就是 买 买 买...
+#WEB NEVER FORGETS#, 关于用cookie或非cookie技术追踪互联网用户的专业大神级论文， 举的例子好多国内站点，绝对值得一看，http://t.cn/Rhcu31j
+三个著名的在线教育开源平台，Moodle http://t.cn/zQGzQOP ， Class2go http://t.cn/zlAGLtP (支持MOOC）和 Open Edx http://t.cn/zHSxfyE（支持EDX）。 在线教育的优势在于效果是可追踪的和可考核的，良好的课件设计能够批量产出技术型人才，在线教育的核心还是在于老师。
+#在线教育#应该和招聘以及威客有机结合，形成完整生态链，学生学完了有活干有钱赚有工作选。精心设计的课程、模拟实战的环境、科学的在线考核能够确保合格的学生具有好技能，像 php/android/ios程序员是完全可通过精密的训练批量生产出来的。在线教育手长些做到增加就业机会和降低企业用工成本就赢了。
+聚合数据，将采集到的各类数据或服务以云端API卖给开发者使用，例如短信验证API、POI检索、基站查询、车辆违章查询等，节省开发者的时间和精力，这样的商业模式确实是程序员最擅长的模式（开发者对开发者），当然打败它也很容易，就是提供更便宜和免费的API， http://t.cn/zj1kLC1
+AAuto快手，从Lua发展而来的脚本语言，可一键编译成exe，小型桌面程序的快速开发利器，写个游戏外挂、操控其他程序、嵌入浏览器并和DOM互通、批量任务都不在话下。AAuto是所见过的国人程序员的最努力的高水平作品，具备接地气的丰富的库，其可视化IDE和库本身也是用AAuto写成。 http://t.cn/SvnOrA
+支付宝Alipay和百度卫士(已卸载)的几个类似*Protect*和*security*的进程在持续不断的产生磁盘I/O，仅次于系统进程的I/O数量，并占用少量CPU...借安全之名，行窥探之实，作为处女座，把它们全部喀嚓掉，终于清静了。
+英雄联盟里寒冰射手的哲理名言：心无旁骛，世间万物皆系于一箭之上... 专注专注坚持，脆皮也会成长变为后期大英雄
+AAuto的风格就是怎么实用怎么来，怎么方便怎么来，又不失严谨和专业，显然是有科班出身程序员的功底。一个人搞定一套语言、库和文档，相当的强悍，就像阿里的扫地僧一样，一个人比一群人战力都强。
+长途旅行车载音乐解决方案： iphone + fm发射器 + 双口车载USB充电器， 用QQ音乐本地下载1000首到手机，让你旅途一次听个够， http://t.cn/RhSXB2C
+学#angularjs#感觉到痛苦吗，学习曲线太高？ 漂亮到Cry的 #angularjs# 和 #bootstrap# 前端模板， 完整的UI组件和JS代码，让不熟悉和望而生畏的你一蹴而就， B.T.W 这模板也有付费版本，不过太值了。 http://t.cn/RhS3Y3m
+#angularjs#的意义在于，配合上#go语言#后，能做到彻底的前后端分离， go程序就用不着HTML模板了和处理用户交互了，只需专注于后台API，前端angularjs专注于支持灵活和复杂的UI操作，并且能很好的模块化组织你的代码。Google出的一对好机油 !
+省得每次遗忘，在家中Windows电脑上通过跳板机设置SSH转发的方法：
+阿里上市 美国网民评论一片酸溜溜 什么花了美国人的钱 阿里就是个列表 阿里开曼架构藏收入 神马的 http://t.cn/Rh9oS1Z
+R语言是最受欢迎的统计分析和数据挖掘语言，当大规模数据处理平台与R语言结合时，科学家们将不再受到束缚。RHadoop支持R与Hadoop/HDFS/Hbase的融合，http://t.cn/RhNsLK6， SparkR支持从R访问Spark，http://t.cn/8F4yw5b， RHive则是通过R使用Hive，http://t.cn/RhNsLKX
+狂热的30万转发，tfboys粉丝是广告商最喜欢的群体
+#领国庆过节费#这个十一，不仅有假期还有过节费[加油啊]最高1001元哦~数数你领到了多少？ http://t.cn/RhpjdBi
+IT在线课程合集: 网易云课堂 http://t.cn/Rvvi1Zu CourseEra: http://t.cn/RhjlsNf EDX http://t.cn/RhJFttg 极客学院: http://t.cn/8FldD7k 慕课网: http://t.cn/8kYLVbW
+在#go语言#中解析二进制文件 http://t.cn/RhTwTQI
+SPDY (Speedy) 协议让浏览器更快的展现网页，SPDY比HTTP协议占用更少的连接，通过多路复用更快的传输数据，可压缩数据，可从服务端PUSH，并强制跑在更安全的SSL之上， http://t.cn/RhH0WC6 最新版浏览器已支持SPDY，Google和Twitter服务支持SPDY, #go语言#的SPDY支持: http://t.cn/RhH0WCX
+神经网络与深度学习（Neural Networks and Deep Learning），英文的免费电子书，还在写作过程中， http://t.cn/8kL57Dz
+R语言机器学习的15个专家教学视频 （需要翻墙看Youtube）， http://t.cn/Rh8CqAO
+绝大部分的投融资回报是比较扯的，因为ipo的成功比例是五万分之一，所以动辄N千万美金融资的新闻意味着虚假和泡沫，如果不是以ipo为目标，那么拿钱理财的回报都比投在公司里分利润强。
+海外中文网站三甲： 留园 、 文学城 和未名空间 ， 当然 还有1024，你懂的， B.T.W. 留园也有这个版块，怪不得排No. 1。
+#go语言#CMS集合,最成熟的toropress: http://t.cn/Rh8OwDH 简洁的Monsti: http://t.cn/Rh8OwDn SEO友好的seocms: http://t.cn/Rh8OwD0，全静态的Hugo: http://t.cn/Rh8OwDT 命令行的Gobl: http://t.cn/Rh8OwDN 基于文件和Markdown的Blackblog: http://t.cn/Rh8OwDY
+一篇很棒的云南游记--你不知道的云南隐藏景点，云南人带你玩。 http://t.cn/zjduPhB（分享自 @蚂蜂窝旅游攻略）
+微网站和微信公众号辅助开发已是一片红海，像乐享、微小信、微盟、微俱聚等，模式都差不多，硬件提供WIFI和微信打印机， 软件提供网站、团购、商城、投票等功能模块，本质上是 HTML 5建站的平台服务化， 不过现在的平台都比较脆弱，所有客户几乎共享同一套后台，作得好的话Docker会大有用武之地。
+opendns.com, shadowsocks.org 只要一连就reset， 这是有多恨... 国庆差点就去香港，前年国庆去赶上沉船，这回...
+比较Robust的科学上网体系是，建一张安全的种子网， SPDY --> Local Proxy --> ShadowSocks/SSH --> Remote Nodes ， 客户端建立 P2P体系，减轻种子网负载，利用 加密通道 + 加密数据 共享传输 ， 另外，走白名单机制， 自行过滤轮子等敏感信息，别惹事。
+手机用得越少 人越精神  我在这里：  http://t.cn/z8ANCy1
+一个跨平台的监控文件变化的#go语言#库，用于需要跟踪文件被写的应用，例如自动索引变化的内容，发布已变化的静态文件的最新版本，自动Build等，http://t.cn/RhnBEeY
+商用WIFI的运营核心：通过认证系统wifidog做广告， wifidog 主站:http://t.cn/RhngjcI 认证流程图: http://t.cn/Rhngjcx 源码分析: http://t.cn/RhngjcX 开源的PHP Auth Server: http://t.cn/RhngjcM 貌似门槛不高啊
+正文抽取的开源代码，基于文本密度的html2article: http://t.cn/8FvHNOY 基于标签比例的机器学习Dragnet： http://t.cn/RhnDNg0 专注新闻类网页提取的Newspaper： http://t.cn/RhnDNgW 集成goose等三种算法的readbilitybundle http://t.cn/RhnDNgO 我觉得最好的方法还可能是视觉系方法
+国内的创业小伙伴的机会？谁能够复制 Firechat ? 不需要 3G网络仅通过手机无线和蓝牙即可进行通信和聊天，利用的是叫 Wireless Mesh Networking的技术，相当于自行组建了第二互联网, 参考开源项目 Fabfi: http://t.cn/RhmtFOT LifeNet: http://t.cn/RhmtFOY 和CommotionIOS: http://t.cn/RhmtFOj
+国庆前夜 十里长街 灯光辉映 游人如织 只是广场比往年简朴了不少 不让进入
+运气和懒惰是失败的两大根源 运气是概率事件 勤奋能够提高概率从而改善运气 归根结底还是一个【懒】字误事 - 马云
+虾米音乐的排行榜一直被#中国好声音#霸占，老歌新唱，说明还是老歌写得好。在听 一路上有你 http://t.cn/Rhzem73
+时至今日，Visual Basic仍然是最先进的UI应用程序开发语言和工具，当基于Web的应用交互稍微复杂时，一堆MVC代码或一坨JS代码会让你感觉时代的倒退。干同样的事， VB里通过拖拽的可视化设计，几下点击和几行代码就能搞定。到了Web时代交互变成一个罗罗嗦嗦的活，各种JS/dom/div/css/js混合一坨[猪头]。
+好久没关注extjs了，Sencha Extjs都到5.0版了，越来越强悍的Web组件库，现在已经是流行Flat UI风格了，并支持Responsive Design，浏览器兼容IE8。一如既往的强大支持企业级应用，Grid组件支持各种复杂表头操作和数据联动，除了稍重量级和收费外，找不出缺点了。 http://t.cn/Rh1yKf1
+关于前端自动化工具的那些事儿，不知道就out了，原来前端也博大精深，CSS预处理器SaaS， http://t.cn/zWZIT8s 和Saas工具库Compass，http://t.cn/zjt2Jmu 模块管理器 Bower， http://t.cn/RhJbCoB 构建工具Grunt http://t.cn/zQVfZdd 工作流管理Yeoman http://t.cn/zYm1Aa7
+#大同#是北京周边值得去的地方，全程高速路程快速便捷，TOP好评的景点是云冈石窟、华严寺、悬空寺和应县木塔，美食便宜又实惠，凤临阁的烧麦、葫芦丝和银耳雪梨羹，满大街的削面、浑源凉粉和微辣的羊杂米线，都让人欲罢不能。B.T.W. 大同宾馆50一位的自助晚餐性价比很高。 http://t.cn/RhgTfjS
+#go语言#和#angularjs#写的Web实时聊天，使用了go实现的Socket.IO库（socket.io是跨平台跨语言的即时通讯框架）， http://t.cn/Rhev3tN
+不用任何web框架，也不用模板，只用gorilla的mux路由库， #go语言#和#angularjs#前后端配合写出的图片分享应用， [赞] http://t.cn/RhePhnp
+最好的风景其实在身边，在北京的好玩地方还有#南锣鼓巷#和#798艺术区# ， 都是可以逛大半天的地方，也不觉得枯燥单一， Tips: 为了避免堵车停车难，南锣鼓巷可停车停荷花市场地下，从前海帽儿胡同穿过去，后海夜景超级漂亮； 798应该从万红路入口进入，别的地方超级堵。
+3行代码搞定一个带分页的图像缩略图交互， 大赞Yii框架， data to view 的可复用化极大的提高生产力， 这个框架具有让新手快速变成流水线机器的潜力...
+好声音的总决赛直播一如既往，难听得一塌糊涂，每个人都太紧张了，越来越显示出Live之王 @GEM鄧紫棋 的V5
+Windows版本的rsync让Windows和Linux主机的文件之间快速同步， 一般用选项 rsync.exe -vzrtopg 保持Linux的各种文件属性，下载地址： http://t.cn/RPck6qW （选择Free版） ， 注意这个rsync自带ssh，不要和cygwin或mingw/msysgit的ssh混用，否则会出现不可预知的各种错误。
+技术为先，瑞小博科技希望以云优势为中小商户提供定制化商用 Wi-Fi 固件和云端服务 （分享自 @36氪） http://t.cn/RhkZMSQ
+#心花路放#电影中的洱海梧桐客栈，实际为云渡洱海酒店， http://t.cn/RhFxbft
+躲避雾霾，最近的距离是关外的张家口，或者更近一点，翻过八达岭的延庆...
+如何山寨一个快播 ? 或者 暴风影音 ? VideoLAN作为No .1的开源的影音播放器，具有一贯的高质量的代码和稳定性， 能够解决视频播放的一切问题，http://t.cn/zO4ivXS 让你快速山寨个影音神器， 好了，剩下的问题是， 提供BitTorrent的分布式文件服务的开源项目哪家强？ 例如 http://t.cn/hj4eM
+微博的收藏功能比较烂，收藏的微博无法全文搜索，只能按标签搜索，而发表或转发到微博可以全文检索。 决定以后将把收藏的微博变成转发，再加#标签#
+#RTB#（实时竞价广告）中的Cookie Mapping是如何实现的 ? 译文： http://t.cn/R773Fa6 原文为google开发者文档（需越墙），提供了更多API细节: http://t.cn/zOuIs5u
+小伙伴们，快来围观！我已经升级为V6新版微博，简洁的界面带来更流畅的体验。准备好了吗？和我们一起发现新的世界吧！升级猛戳:http://t.cn/R7vgnNI http://t.cn/R7PWmpT
+如何让新版微博的字体变大 ？ 新版微博的字体太小，在1600x900的PC屏幕上太费眼睛了，其实用Chrome，打开控制台，把微博正文的Style改下，找到 .WB_text的CSS增加一行 font-size:16px就可以了（图1），效果就是图2
+莎莎是香港有名的化妆品连锁店，靠大量低价的品牌小样和低端低价的二三线牌化妆品吸引顾客，自有的注册为瑞士品牌的有Swiss Programme和La Colline，常年在瑞士的人根本没听说过，但还是挺能唬内地人的，4800买一送一，瑞士技术，呵呵， 和互联网思维差不多，靠低价和免费吸引流量，靠自有品牌出利润
+对新版微博不能忍受的同学， 换微博AIR客户端吧，感觉好不少，微博几大用户体验缺陷： 新版微博的字体太小、ipad版的热门微博体验太烂、好友圈功能莫名其妙、收藏功能不给力... @微博小秘书
+Slex, #go语言#写的同时管理多个Linux机器的工具，可以在多个主机上通过SSH执行命令，类似Python的Fabric，go方便的是编译成一个可执行文件就搞定了， http://t.cn/R740oEn
+在免税店买什么样的礼物你会觉得物有所值，中看又中用，又不是特别贵 ？ 推荐雅诗兰黛的眼霜 (no.1好用眼霜)， LA MER的面霜 (no.1最好面霜, 小贵)， GUCCI的包 (标志性的儿童包)， HERMES的皮带(标志性的皮带)，SWATCH的手表(物美价廉）
+机器学习的书籍为何大都爱使用Python语言 ? 首先是因为python简单易用，更主要的原因是第三方模块/库太丰富了，信手拈来，这一点目前 php/go/nodejs还比不上 推荐这个教程，大概一个小时就能学会py： http://t.cn/zQXcs9S
+用Stylish插件（Firefox和Chrome都支持），自己动手回滚回旧版微博，附带广告也去掉了， 字体改成图1中的样子就舒服多了（从旧版中扒拉出来的）。
+给不能忍受的同学， 我作的微博新版回滚的Stylish样式地址，字体改掉了，广告也去了： http://t.cn/R7c7TRf
+网易云音乐 最懂你的音乐软件 没有之一
+如何注册公司 ? 这个最新的指南具有实际操作意义，第一步从网上核名开始，http://t.cn/zQelCKs 另外，在深圳可以1元钱注册公司， http://t.cn/zQ6aVFu
+电瓶没电了，@易快修 的两个小伙大老远从通州开过来帮搞好了，只花了59元，还送了张50的优惠券，为了拓展客户也是蛮拼的，看了看网站，http://t.cn/RhcJ0JK 颠覆4S保养，有点意思。
+天行浏览器，免费科学上网不限流量的浏览器，一直屹立不倒总是可用，IOS版本的也有了，http://t.cn/8sfyLpY ， 对于歪果视频似乎做了P2P加速，有些视频看起来真是快，网页有时需要多刷几次
+无论何时北京如何重霾 关外的张家口和大同的空气质量都近似优
+CMU的研究组发布了如何对Twitter作NLP的系列词汇标注和语义分析工具 ( Part-of-speech tagger/Dependency parser)，微博具有自己独特的词汇，如tweet里 ikr是"I know right ?", smh是"shake my head"，微博里也有独特短语，如“码、马克、秒懂、醉了、++我、我书念得少...“ http://t.cn/het7k5
+Andrew Ng在百度美国的研发中心声称百度利用#深度学习#优化在线广告，获得了显著的（significant）效果和收入增长，但未透露具体数字。 利用DL对硬盘失效的预测准确率达到了85%。 http://t.cn/R7JDfZU
+2014年获得融资额Top 10的美国大数据公司，第一名是CloudEra，融资额是 $1040m，就是...10亿美元， 杯具的是在中国做BigData基础软件的公司，连$1m融资都难以获得， http://t.cn/R7JkffJ
+刚进入数据科学领域，该如何找到比较酷的免费数据集来做实验？ http://t.cn/R7JFpaO 看到了Trulia/Zillow， 看到了Yelp.. 意味着你可以做个小小的美国的58赶集或者美国的大众点评
+开源的数据科学硕士课程表 （Open Source Data Science Master , OSDSM）, http://t.cn/8kqhraK 总有一些蛋疼的人整理些awesome的列表东东， 不过这个把相关的Online Courses总结得蛮好的
+#go语言#的Cheat Sheet， http://t.cn/R7iveCW 需要改进的是变成1-2页的PDF，加上常用Package的使用，例如配图里的go正则:
+把玩了一下酷派大神F2，确实颠覆了我对安卓手机的坏印象，界面流畅，屏幕清晰够大，大字体关爱模式很赞啊，属于性价比极高的安卓机里的战斗机 ，比同时入手的红米1s强太多了
+室外 175 室内 103 所以关窗户没什么用 净化器必须的
+特意买了不同品牌的检测仪器和净化器 把pm 2.5检测器放在空气净化器出口果然有效 从100降到了4 证明净化器还不赖
+我正在看#大话西游之大圣娶亲# 穿越时空的爱恋 @腾讯视频 http://t.cn/R7J80ai
+经典中的经典...【视频：大话西游之仙履奇缘】（分享@爱奇艺） http://t.cn/R7iAY22
+如何减少#go语言#程序编译后生成的可执行文件大小 ? 无论是Windows还是Linux平台都可以用go build -ldflags "-s" 选项缩减大概2-3M大小 ， Windows下还可以用upx压缩 (版本3.01w, go 1.3.1生成exe可以正常压缩运行)， 大小可以减少到原来的1/4 ； 同时尽量不要引入不必要的包，例如fmt 。
+goquery，支持在#go语言#中用jquery选择器 (selector)同样的语法解析和提取 HTML文档，非常的方便给力，比正则表达式提取网页文本的方式要灵活。 配合上Chrome的控制台，复制元素的CSS Path就可以精确定位网页文本。项目github地址： http://t.cn/R79nDat Jquery选择器文档： http://t.cn/aFdfj6
+安卓模拟器被用来在PC上开发调试安卓应用程序，而更多的用途是用于刷APP...常见的安卓虚拟/仿真环境: Android-X86，http://t.cn/h1ON8，官方ISO镜像；BlueStacks, http://t.cn/8kTIff1 ; GenyMotion, http://t.cn/zHsklRO ;Andy, http://t.cn/R7YyitJ , 还有国产的Windroy, http://t.cn/R7OLn00
+微博的SEO，就是刷热门话题，纯刷存在感...
+草根站长是一个特殊的群体，没有背景，无法拼爹，全靠双手赤脚淌出一条条野路，很多站长还只会玩Windows，还只会买源码。那你一定没有听说过一些奇葩的软件，例如Windows下媲美nginx的康乐Web Server (kangle)， http://t.cn/hGWSzX ， 还有界面奇丑无比的火山云引擎，http://t.cn/Sa6LcG
+支持apec ，最好天天都是apec ，空气好小孩子又能放假， 奥巴马一月来一次北京才好呢，对apec还有这么多唧唧歪歪的人 鄙视差评！
+包括Face++在内的用于人脸检测和识别的50个可用API/库列表， http://t.cn/R7f9NAA (因内嵌谷歌js，打开稍慢）
+拿以前用go写的照片处理程序测试了最新的 go 1.4 beta1，照片因为像素高占用缓冲区大，对照片进行旋转需要分配几个临时缓冲区，1.4beta1的内存回收确实小有改进，总占用内存下降100M左右， 不过对于临时的大缓冲区，仍然需要显式调用GC： buf = nil runtime.GC()， 不然很快就溢出...go依然是定时GC
+OpenWrt给了路由器领域创业者公平的机会，龌龊的硬件商在新出路由器上都加各种限制防止刷开放固件。最佳编译环境是Ubuntu 14.04 i386，编译好OpenWrt的虚机镜像文件接近9个G， 在虚机上的编译时间需要5个小时，包括自动从国外ftp缓慢下载各种源代码的时间。可以研究XX路由都写了哪些进程忽悠用户。
+据说作商用wifi的公司有一千家，也是醉了，人人都瞄着吸流量后向变现的路子作，最大的硬伤是用户活跃度不够变现不力，最大的隐患是信息安全事件的爆发，借用美国纪念二战英雄的名言：free is not free
+大部分时候的竞争还轮不到拼想法、拼算法、拼模型、拼高精尖，其实就是拼体力活、拼细节。在决策的时候了解更多的技术细节是很有必要的，可以少走弯路； 在实施的时候干更多的细致体力活也是不能绕过的，谁用心谁胜出。
+积分墙广告的七个真相 http://t.cn/8sBIv6P
+精彩的WIFI微信认证解答 http://t.cn/R7u7Isd
+用20台式机DIY一个山寨的Hadoop集群，主要讲究内存大，硬盘多，散热好，性价比高，像附图的这个配置如何 ？ 单机实际容量 15T，可兼作存储兼作Map/Reduce计算，单机总价不到 6K，比买单纯的NAS强。
+维护一个 1 PB(1024T)的 Hadoop集群一年需要多少银子？ 按照上面山寨极限非主流的做法,把硬盘设RAID5, Hadoop不作冗余，每台实际存12T，常年运行要85台，按5k5一台硬件投入成本是 47w。 电费按平均 300w * 85 * 24 = 612度电/日， 每年电费是 22w ，算上硬盘报损 8w, 大约每年维护费用大概 30w 左右。
+如果只是存储1024T的话， 更 BT的做法是申请三百个网盘的帐号，例如百度云每个号上限能给到3T， 把数据存啊存存啊存， 不花一分钱 ...
+美使馆pm2.5数据被封 这是有多配合 APEC blue
+这也有，天翼创投孵化政策， http://t.cn/R7gXIeU
+学习了，废旧手机的用途是 刷单、刷榜  图来自白鸦
+给@当当 网送货的快递公司北京海外环球的送货员超拽，问能否等10分钟，说等不了必须走， 问改天送是什么时候，答半个月以后， 口气跟大爷似的， 真尼玛垃圾，爱送不送不要了， @当当网顾客服务中心
+bosun，专业的跨平台开源系统监控项目，#go语言#编写，灵活的模板和表达式配合上各种collector可以监控任何应用或系统级的运行数据， 比 zabbix更轻量级、更易入手和更适合定制，http://t.cn/R7spIUQ
+微软的云计算平台Azure提供免费的#机器学习#云服务， 对10GB数据是完全Free的，支持常见的算法，例如SVM, Neural Network等等，支持用R语言写扩展来实现你自己的Model，甚至可以把你的Model发布到市场上去卖，数据实验者的福音... http://t.cn/RPhJRjI
+推荐系统国际竞赛，从一系列用户的点击行为预测用户的下单购买， ACM RecSys 2015挑战赛提供了一个274M压缩数据包，包含欧洲零售网站的用户点击数据和训练数据， 挑战者需要使用最优化的模型进行预测，谁最逼近真实的数据结果谁win ... http://t.cn/R7sRltV
+超酷吉他《 铁血丹心》，http://t.cn/hlzPM
+其实去掉各大视频网站的片头广告很简单， 就是播放它们时让浏览器误以为是微博嵌入的视频，剩下的不用说了吧，在客户端或在路由上都可以实现 ...
+《姑娘》弹唱，爱好是一种生活， http://t.cn/h3iOO
+正版的爱乐乐团凤凰传奇交响音乐会在这里， acfun的弹幕太影响观看， 弹幕应该压缩在屏幕的上或下方，而不是满屏 http://t.cn/R7kSZbi
+交响乐会的下集，19:30开始凤凰传奇上台开唱， 《陪你一辈子》 《繁华》 都好听， http://t.cn/R7kSZbi
+交响乐会的下集，19:30开始凤凰传奇上台唱新歌，超赞《陪你一辈子》《繁花》 http://t.cn/R7Fsqef
+试验了珮夫人鼻贴，果然是通鼻子神器，贴在衣服上靠近领口位置即可，依靠散发的特殊香味刺激鼻黏膜，小孩试了两晚上贴上鼻塞立马就好，就是只能持续7，8个小时
+又一次验证同仁堂的小儿清热宁颗粒是退热神器，在不得不持续吃美林（布洛芬）抵抗顽固的高烧时不妨一试加这个，一般第二天效果就出来了
+开扔所有杂志和过期书 竟然发现重复买了好几本书
+九块九包邮的商业模式是什么？ http://t.cn/8kpZYmA
+#空中营救#（连姆尼森主演） #背水一战# （施瓦辛格主演）都是张力十足的片子 值得一看
+野蛮搞定虚拟机+360一代wifi当usb网卡使+hostapd+wifidog，在win 7 pc上完美模拟了商用路由应用调试环境，意味着可以任性的debug，边喝咖啡测试边用source navigator撸源码
+某路由器os为了防刷固件 只保留了telnet 删去了所有网络相关的客户端 无法传送或下载任何文件 莫非只能拆机ttl线或编程器刷？ 得研究下内嵌的goahead web server 看有无漏洞
+家里没有盐了，让 @社区001网站 送过来，不到一个小时，果然是解决懒人需求的 O2O， 赞一个，网站老是在Chrome浏览器下崩溃成渣渣。 O2O不是小公司能玩起的，因为需要不断的烧钱， 烧钱烧到直到相当多的懒人依赖这个方式， 不用去超市排队，点两下鼠标柴米油盐一小时送到家。
+弹幕拯救了新《神雕侠侣》 http://t.cn/RzaiayD
+老外搞的流氓软件，也是醉了， 通过修改浏览器地址栏为 javascript:... 注入广告
+什么事就怕用心和坚持， 在渣渣的wifi上终于搞定了高效的packet injection, 384Mhz的MIPS处理器应对各种复杂策略无压力, CPU利用率不到3%。 智能路由的这个系列教程非常好: http://t.cn/R7bYkkb
+#Docker# 在08年的时候通过参与XtreemOS项目就接触了Linux container，那时候cgroups的代码还不完善。没想到今天 基于container的Docker这么火。Docker究竟能干什么 ? 通俗说就是秒级快速建虚机，虚机镜像极小所以连带应用可以一块打包分发。 参见： http://t.cn/8Fk2NRp , http://t.cn/RzlPGbz
+#Docker#有局限性，不支持Windows，但适合用于Linux-based后端服务的动态扩展。Docker意味着在IaaS（如青云）上可以更快速的搭出 PaaS或者SaaS，不需要在php层做改造（例如新浪SAE定制的php）或数据库中做隔离， 每个租户都可以有自己的php/mysql实例，无他，有 namespaces和cgroups管着，任性。
+#docker与SDN# 这个ppt讲得比较清楚, Docker与Open vSwitch各司其职, 构建更易管理的云中心网络: http://t.cn/RzlwTZL (需翻墙) Open vSwitch与OpenFlow的实际操作体验: http://t.cn/RzlwTZU 帮助container配置网络的脚本pipework: http://t.cn/zRWK1iw
+如何写一个类似GlusterFS的分布式文件系统 ？ 例如可以把多个微盘、百度云盘、金山快盘还有本地硬盘合并成一个虚拟的超级文件系统。 #go语言#的FUSE（用户空间文件系统）库可以轻松支持标准POSIX接口的FS开发，http://t.cn/RzHf8oC Bazil项目也是朝这样的目标努力， http://t.cn/RzHf8o9
+除了不会焊板子， 哥也会做智能路由器全套固件+应用了， 路由器就是个低功耗的Linux，绿色稳定，上面干啥都行，就是 C++写出的应用太耗内存， libstdc++库竟然占了1M Flash空间
+Lwan， 三年磨一剑的纯C语言写的高性能HTTP Server，代码简洁逻辑清晰， epoll / 异步io / coroutine / 无锁同步 ， 即使是对于有磁盘I/O的大小文件（非简单的hello world)服务，QPS也能接近二十万，值得学习， http://t.cn/RzFuwt0 ， HTTP是互联网最重要的应用协议，学技术的搞透它立马变高端
+看到#微爱#电影里嘲讽投资界的追捧大数据时髦，登时笑尿了，还点出了中科两个字，就差没说云网了，微爱就是电影人拍电影人自己的故事，总感觉浅薄平庸了些
+#一起发红包吧#我去，两个人一起发的红包果然厉害！！我抽到了@刘烨 和@微博小秘书 一起送给我的1元现金，你也来试一试吧！http://t.cn/Rzki5iO
+#一起发红包吧#圣诞节到啦，土豪@陳妍希michelle 正在给大家发红包哦！一起去抢啊！http://t.cn/RzkXpPm
+微信里经常提示有新朋友来自手机通讯录 但是通信录根本没有对应的人名 而且这些名字一看就是些垃圾货 初步怀疑有通讯录访问权限的这些货在耍流氓 @腾讯QQ同步助手 @微信电话本 @腾讯微信团队
+301医院的新门诊楼 超大无比 高端上档次 连洗手间的水都是热的[赞]
+立刻上手使用 #深度学习# 开源库 DeepLearning4J 实现复杂的模式识别， http://t.cn/RZwNYLg DeepLearning4J是由Skymind公司开发和维护的开源深度学习项目，支持GPU， github地址: http://t.cn/RZwNYLg
+HTMLWidgets是专为R语言打造的可视化JS库，使得一两行R语言代码就能生成交互的可视化页面， 比如复杂的地图标注数据可视化， http://t.cn/RzBgTEX
+true or false ? 阿里巴巴的数据表明胸围与购买力大小关联，胸越大购买力越强。 http://t.cn/R7eM4Of 翻不了墙的看第二个图好了
+在#机器学习#里训练出的预测模型过拟合（overfitting）怎么办 ？ 参考下聪明的做法： http://t.cn/zj3L4Js
+11个名声在外的开源机器学习工具， http://t.cn/RzuumYr
+谁弄个开放源码的卫士和杀毒软件吧 一定能挤占掉现在流氓的一些市场空间 感兴趣开发者可以自行编译 病毒木马特征库提供试用期可以付费订阅

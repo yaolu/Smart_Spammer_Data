@@ -1,0 +1,162 @@
+#iOS代码# SDiPhoneVersion可以查看iPhone设备型号。通过系统自带的utsname结构实现。如何使用，请看详情:http://t.cn/R7vkq8q
+#iOS代码# SCLogger是一个编程调试台。可以在iOS上进行Log输出。如何使用： http://t.cn/R7vrxSr
+#iOS代码# SCFacebook对Facebook公共API的使用进行封装。可以实现登录、注销、获取用户信息、分享、邀请好友、打开图片、浏览页面等。演示demo和代码下载地址：http://t.cn/R7vvfzY
+#iOS代码#AMPActivityIndicator是多样式指示器。可以设置颜色、宽度、高度等。Demo显示通过滑杠调整相关数值。demo演示和代码下载地址：http://t.cn/RhiBajV
+#iOS代码#ADTransitionController实现多种视图切换动画。包括滑动、旋转、淡出、交换、回形针等。http://t.cn/R77e1om
+#iOS代码#AQPhotoPicker：简单易用地调出相机及图片库， 只需要几行，就调能通过回调，获取图片库图片，或者获取相机照片。 demo演示和下载地址：http://t.cn/R7zMVaa
+#iOS代码# BHTabViewSplitVC实现点击单元格进行视图切换并传值。 http://t.cn/R7ZlShc
+#iOS代码# BHTabViewSplitVC实现点击单元格进行视图切换并传值。deom演示和代码下载： http://t.cn/R7ZlShc
+#ios代码#RadialTransition_objC 自定义UINavigationController(RadialTransaction)， 实现圆形拖动效果。只需要简单调用，可实现PUSH，弹出的效果。界面可以自定义修改。demo演示和代码下载地址：http://t.cn/R7ZQHDG
+#iOS代码# nstagramSimpleOAuth实现Instagram授权。封装Instagram API，方便简单实现授权登录。demo演示和代码下载：http://t.cn/RhFWH1u
+#iOS 代码#HanekeSwift是一个使用十分方便的图片缓存类库的Swift版，可以将下载的网络图片缓存到内存（memory）或者设备disk中，也就是有两级缓存机制。所有的下载和缓存都是在后台线程。http://t.cn/RhFKeNs
+#iOS代码#DXRefresh：快速集成UITableView上拉以及下拉刷新，样式简洁。
+#iOS代码# timeLineiOS： 简单的竖式显示进度条,可用在如进展图, 按照官方的例子,并不能简单调用就出很炫的效果,其接口太少,调用不方便. 但实现方法可以做为参考.要想出其它效果,可以在它基础上修改。demo演示和代码下载：http://t.cn/R7LkCg6
+#iOS代码#Wethr：提供开发者基于位置的当前天气状况查询,显示.可以自己替换取天气实现算法。demo演示和代码下载：http://t.cn/R7yhg9K
+#iOS代码#STAlertView：STAlertView实现带输入框的提醒对话框。可以自定义标题、消息、按钮。通过Block回调。demo演示和代码下载：STAlertView实现带输入框的提醒对话框。可以自定义标题、消息、按钮。通过Block回调。
+#iOS代码# IGLDropDownMenu：简单的下拉弹出式索引, 可用于搜索或者数据输入, 默认DEMO界面不能适应IOS8 只能适应7.0.在IOS8下会变型, 需要自己调整用法。demo演示和代码下载：http://t.cn/R7qBuOD
+#iOS代码#IGLDropDownMenu可以实现多种菜单动画效果。旋转、难叠、滑动等。demo代码演示和下载：http://t.cn/R7qBKAR
+#iOS代码# PicsLikeControl实现投掷效果的按钮。可以自定义大小和按钮图片。demo演示和代码下载地址：http://t.cn/R7qdWlr
+#iOS代码#RSDotsView实现圆点脉动动画。可以自定义颜色和大小。demo演示和代码下载：http://t.cn/R7tL7vR
+#iOS代码# CCListView实现图文列表滚动效果。可以分别进行垂直和水平滚动。demo演示和代码下载：http://t.cn/R7cEBRd
+#iOS代码#DVSwitch可以实现多种分段选择效果。可以自定义大小、颜色、字体、圆角等。通过Block回调处理操作。demo演示和代码下载：http://t.cn/R7V470b
+#iOS代码#DWBubbleMenuButton实现气泡按钮效果。可以自定义大小、顶层按钮和展开按钮。demo演示和代码下载：http://t.cn/R7tK5Ft
+#iOS代码# ZoomTransition实现图片放大旋转效果。可以通过导航返回。demo演示和代码下载：http://t.cn/R7tpWMh
+#iOS代码# CCListView实现图文列表滚动效果。可以分别进行垂直和水平滚动。demo演示和代码下载：http://t.cn/R7cEBRd
+#iOS代码# THTinderNavigationController实现多视图控制器标签导航效果。可以点击标签切换。可以滑动切换。demo演示和代码下载：http://t.cn/R7VZogr
+#iOS代码#CBStoreHouseTransition实现立体切换视图效果。可以点击切换，可以滑动切换，可以通过导航返回上一视图。http://t.cn/R7VyuC9
+#iOS代码 #DLRadioButton可以多种收单机按钮效果。可以自定义标题、颜色、大小、间隔、对齐方式等。demo演示和代码下载：http://t.cn/R7Vt7Rm
+#iOS代码#ComposedDataSource可以构建复杂的表格布局。可以分解为更小的可管理元素。demo演示和代码下载：http://t.cn/R7fXC2N
+#iOS代码# MMPape是对HAPaper类库的封装扩展。实现滚动翻页，通过手势放大缩小等效果。demo演示和代码下载：http://t.cn/R7fnTCu
+#iOS代码#SwiftForms用Swift实现灵活的表格类。可以通过几行代码创建表格、块、行。可以自定义多种单元格类型。demo演示和代码下载：http://t.cn/R7fB1zq
+#iOS代码#IIShortNotificationPresenter实现简短通知视图。提供队列及三种通知展示风格。demo演示和代码下载：http://t.cn/R7fkYY1
+#iOS代码# JASwipeCell实现在单元格左右两侧添加按钮的效果。通过滑动可以使按钮可见。可以自定义按钮标题、文字、颜色。demo演示和代码下载：http://t.cn/R7MN9DO
+#iOS 代码#VGParallaxHeader可以实现多种不同表头效果。包括拉长、放大图片、变换颜色等。demo演示和代码下载：http://t.cn/R7MdHHN
+#iOS代码# Voltron通过在UICollectionView和UIViewController实现多行多列单元格效果。既可以接收单个单元格手势事件，也可以接受一组单元格的手势事件。demo演示和代码下载：http://t.cn/R7Msm0X
+#iOS代码#DSTransparentNavigationBar实现导航栏透明效果。 可以自定义导航栏颜色。代码下载：http://t.cn/R7XWmD3
+#iOS代码#MMTableCellAnimation实现TableCell移动动画。可以自定义标题、图片等。demo演示和代码下载：http://t.cn/R7XW1Mf
+#iOS代码#UIColor-HBVHarmonies提供各种有趣的颜色方案。可以随意混色，获取随机颜色等。demo演示和下载地址：http://t.cn/R7ahfNC
+#iOS代码# JMFormDescription是表格实现的类库。可以方便地创建常用表单的各种单元格。可以通过Delegate或Block进行回调。可以设置背景颜色。demo演示和下载：http://t.cn/R7a5XZh
+#iOS代码#CNPGridMenu实现模糊背景网格菜单。可以自定义图标、标题等。demo演示和代码下载：http://t.cn/R7S9p27
+#iOS代码# iOS8SelfSizingCells根据内容实现不同高度的单元格。使用Autolayout进行UI布局约束。 指定TableView的estimatedRowHeight属性的默认值。 指定TableView的rowHeight属性为UITableViewAutomaticDimension。demo演示和代码下载：http://t.cn/R7S1Snz
+#iOS代码# KYCircularProgress实现多种进度条效果。包括带百分比的半圆、圆形、五角形等。可以自定义颜色。demo演示和代码下载：http://t.cn/R7SD3lw
+#iOS代码# NFXTourViewController实现简单的图片浏览。可以自定义图片数组。demo演示和代码下载：http://t.cn/R7SF3J8
+#iOS代码#JMBackgroundCameraView在使用前置或后置相机的时候能够添加背景、文字，这让相机的使用更有趣了。demo演示和代码下载：http://t.cn/R79sZ92
+#iOS代码# DOPDropDownMenu提供一个可以自定义的下拉菜单功能。类似百度地图手机版选择附近设施的下拉菜单功能，也和网页上的下拉菜单一样。可以自定义行列数。demo演示和代码下载：http://t.cn/R7CNPyD
+#iOS代码#JMBackgroundCameraView在使用前置或后置相机的时候能够添加背景、文字，这让相机的使用更有趣了。代码下载：http://t.cn/R79sZ92
+#iOS代码#WeatherFontIcon提供多个天气状况的图标，适用于天气类App，可以变换颜色，大小。图标的使用跟UILabel一样简单方便。demo演示和代码下载：http://t.cn/R7CQhP1
+#iOS代码#用SpriteKit制作的模仿FlappyBird的小游戏。demo演示和代码下载：http://t.cn/R7Njyfi
+#iOS代码#GiFHUD可以把动图Gif作为进度指示器，让用户在等待进程的时候有更好的用户体验。Gif内容可以自由改变。demo演示和代码下载：http://t.cn/R7jxI2N
+#iOS代码# WPAttributedMarkup能给Label中某关键字添加文字效果或点击事件。Label中的某个关键字词可以改变字体的特性如颜色、加粗，下划线等，也可以为某个关键字词添加点击事件。demo演示和代码下载：http://t.cn/R7joN3f
+#iOS代码# DBColorNames可以为你提供多种多样的颜色的名称。当你不知道一种颜色叫什么的时候，可以利用它告诉你这种颜色的正确名字。demo演示和代码下载：http://t.cn/R7j0ekU
+#iOS代码#NFXPermissionViewController能够在询问用户的某些访问权限的时候可以先跳到一个页面，以缓和这种询问用户权限的行为。目前暂时支持推特、地址簿、日历、提醒、麦克风。demo演示和代码下载：http://t.cn/R7jTlOE
+#iOS代码# 通过自定义的UICollectionViewLayout，模仿记录簿类应用的界面和行为。这里面的每条都可以浏览，并且删除。demo演示和代码下载：http://t.cn/R7jEeDM
+#iOS代码# 一款简单有趣的类似Tinder和 Potluck卡片界面。支持手势往多个方向拨动页面和按钮触发拨动。卡片（页面）可以自己更换。demo演示和代码下载：http://t.cn/R7j15Vu
+#iOS代码# 代码集成了支付宝和微信支付，经测试流程都是成功的。正式开发中微信支付需要服务器支持，在demo中为方便大家理解，而演示了微信支付的流程，只要提供正确的参数，都能支付成功。demo演示和代码下载：http://t.cn/R78Q2Pa
+#iOS代码#DroppyScrollView能够以动画形式添加五彩缤纷的Item,同时也能够删除指定或随机标志的Item。能够像普通滚动页面一样直接添加到工程中。demo演示和代码下载：http://t.cn/R78um0e
+#iOS代码#StrechyParallaxScrollView是一款与顶部视图有差间效果的滚动视图。顶部视图topview可以自己更换。Item也能指定数量和添加子视图。demo演示和代码下载：http://t.cn/R78g2rm
+#iOS代码#CirucularLock是提供长按解锁，上锁功能，并提供block回调。设计的灵感来自于nike+。锁大小颜色背景图等都可以在参数中修改成自己想要的。demo演示和代码下载：http://t.cn/R78se5p
+#iOS代码# CategorySliderView能够提供非常实用的类似选项卡一般的滑动视图。支持纵向和横向滑动以及添加选项，并提供选项的点击回调block。demo演示和代码下载：http://t.cn/R7RZdBV
+#iOS代码#PullToRefreshCoreText ：为所有的UIScrollView类提供扩展下拉刷新的功能。并且刷新的时候字体提供动画效果。demo演示和代码下载：http://t.cn/R73l1u5
+#iOS 代码# DMPasscode提供设定密码，解锁功能。当TouchID可以使用的时候，也可以跳过TouchID并用他来解锁。demo演示和代码下载：http://t.cn/R716Ef2
+#iOS代码#DiceTableViewCell提供具有滑动视差效果的列表单元。单元内放着比单元要大得图片，在滑动的时候便显示出视差效果。demo演示和代码下载：http://t.cn/R71X0o7
+#iOS 代码# DMPasscode提供设定密码，解锁功能。当TouchID可以使用的时候，也可以跳过TouchID并用他来解锁。demo演示和代码下载：http://t.cn/R716Ef2
+#iOS代码# ViralSwitch是一个能够填充父视图颜色的开关，能够改变填充的颜色。demo演示和代码下载：http://t.cn/R71HQdD
+#iOS代码#CBStoreHouseRefreshControl：完全自定义的下拉刷新控件，可以通过一个plist文件，可添加任何形状的聚合和分散动画。非常的炫酷。demo演示和代码下载： http://t.cn/R7ERiel
+#iOS代码#PKHUD提供用swift写多个指示层HUD,包括展示状态，进度，上标题+图片，下标题+图片，普通文本等等的多种形式的HUD。简单而实用。具有ios8 UIVisualEffectsView的模糊效果。demo演示和代码下载：http://t.cn/R71LFaL
+#iOS 代码#BCMagicMoveTransition 自定义UINavigationController的切换动画。 效果类似 Keynote 软件中 Magic Move 切换，可以用于任意两个 UIViewController 之间，只需要前后两个 ViewController 均继承 BCMagicTransitViewController ，并指定两个VC中的相同元素即可。 http://t.cn/R7rAauI
+#iOS 代码#JTSImageViewController是一款有趣的图片浏览器。双击图片能够放大，将图片拨离画面就能够取消浏览。如果没有完全离开界面，图片能回到原位，并有回弹效果。demo演示和代码下载：http://t.cn/R7rGjji
+#iOS代码#REMenu能够提供下弹出来的菜单，跳转到不同的vc后菜单便会收起。菜单的弹收都有回弹（bounce）的效果。demo演示和代码下载：http://t.cn/R7rpFt2
+#iOS代码#CRToast能够提供多种多样效果的状态栏提示。可以控制状态提示（甚至是导航栏的提示）从4个方向进出和离开，还有柔和效果或重力弹跳效果，能自定义提示的内容，提示的延时，图片等等。demoy 演示和代码下载：http://t.cn/R7rjI88
+#iOS代码# JTCalendar是一款简易使用并且可以自定义事件的日历。包括圈点标识的颜色等都可以自定义。demo中还提供了转换日历模式的例子。demo演示和代码下载：http://t.cn/R7rRtsg
+#iOS代码#StarRatingView：星级评分，支持显示部分星星，支持动画。简单而使用的星星评分。demo演示和代码下载：http://t.cn/R7eR4Oy
+#iOS代码# CRToast能够提供多种多样效果的状态栏提示。可以控制状态提示（甚至是导航栏的提示）从4个方向进出和离开，还有柔和效果或重力弹跳效果，能自定义提示的内容，提示的延时，图片等等。demo演示和代码下载：http://t.cn/R7rjI88
+#iOS代码# JTCalendar是一款简易使用并且可以自定义事件的日历。包括圈点标识的颜色等都可以自定义。demo中还提供了转换日历模式的例子。demo演示和代码下载：http://t.cn/R7rRtsg
+#iOS代码#DZNSegmentedControl提供带有标题和统计数量的选择器。选择器可以添加和刷新。选择器附带选择的动画，宽度能随着添加而改变。选择器的条目的数量和条目的名字均可以自定义。demo演示和代码下载：http://t.cn/R7D49qj
+#iOS代码#BFDragGestureRecognizer是一个UIGestureRecognizer的子类。手势支持在拖拉一个视图到某个滑动视图的边缘时，能够自动滚动。demo演示和代码下载：http://t.cn/Rzhy9jP
+#iOS代码# SphereMenuSwift使用 UIDynamicAnimator 做的动态菜单。点击按钮弹出菜单。菜单可以拖拽。模拟碰撞物理效果。这是用Swift写的项目。demo演示和代码下载：http://t.cn/RzhGaGj
+#iOS代码# GGTabBar是一款简单的选项卡。使用的是自动布局，具有4个选项页。选项的图片可以自己更改。demo演示和代码下载：http://t.cn/RzhVGo5
+#iOS代码#KWStepper是一款能够使用swift的完全自定义的计数器（步进器）。能够自定义UI，长按快速变数，循环，数值范围控制等。demo演示和代码下载：http://t.cn/RzhxuQr
+#iOS代码# MobileWebPageTest是用来测试移动网页性能的软件，它可以对页面的加载和渲染过程进行截屏，协助开发者分析出页面性能瓶颈。demo演示和代码下载：http://t.cn/RzvPzAN
+#iOS代码#Screamswift对UIKit控件中的target 和 selector进行了封装。可以直接在括号中执行。demo演示和代码下载：http://t.cn/Rzh9WSN
+#iOS代码# DSFacialGestureDetector能够提供笑脸识别。分别可以对左面微笑，右面微笑以及正面微笑进行持续识别直至识别完成。代码下载：http://t.cn/Rz7IL9X
+#iOS代码#MDMenuViewController提供使用的边栏菜单。菜单项可自定义，由数组组成。菜单上的文字图片等完全支持自定义。菜单还支持横屏。demo演示和代码下载：http://t.cn/Rz7X9vF
+#iOS代码#EAColourfulProgressView的进度条能够跟随进度而变色。颜色和进度的总量可以通过Storyboard改变。demo演示和代码下载：http://t.cn/Rz79kGq
+#iOS代码#DVDatePickerTableViewCell是使用Swift写的cell。可以在tebleView中提供一个日期时间的选择器，并持续显示在Cell上。demo演示和代码下载：http://t.cn/Rz7HkG6
+#iOS代码# LTSlidingViewController可以通过左右滑动任意转换到各个不同的VC中，非常实用。 具体demo演示和代码下载：http://t.cn/Rz4zOvg
+#iOS代码# LTSlidingViewController可以通过左右滑动任意转换到各个不同的VC中，非常实用。 具体demo演示和代码下载：http://t.cn/Rz4zOvg
+#iOS代码#AFSwipeToHide是一款实用工具类，提供能像Safari那样滑动隐藏/显示的效果。demo演示和代码下载：http://t.cn/Rz4yHna
+#iOS代码# HTKDynamicResizingCell提供自动计算尺寸的TableViewCell/CollectionViewCel，只要设置了合适AutoLayout的约束。demo演示和代码下载：http://t.cn/Rz4VuAj
+#iOS代码# 之前很多实现hamburger Button的，大多现在采用swift实现，个人研究了一下swift版本的代码，然后写了一个OC版本。demo演示和代码下载：http://t.cn/Rz4xF2R
+#iOS代码#RDVTabBarController是可以高度自定义的一款选项卡。选项可以标上未读标记，也有隐藏Tab bar功能等。每个选项的已选/未选的图片都可以自定义。demo演示和代码下载：http://t.cn/Rz4No7t
+#iOS代码#SCNavTabBarController：仿照目前的网易，新浪，凤凰等新闻客户端简单实现的SCNavTabBarController，通过顶部的选项来管理视图。demo演示和代码下载：http://t.cn/RzLJkZU
+#iOS代码#DKTextField：一个支持明暗码切换的TextField。由于系统的UITextField在切换到暗码时会清除之前的输入文本，于是就有了DKTextField，DKTextField继承于UITextField，并且不影响UITextField的Delegate。demo演示和代码下载：http://t.cn/RzbHnku
+#iOS代码#InputHelper能够在使用TextField等使用键盘的时候，可以直接点击空白的地方调整键盘坐标从而收取键盘，用一行代码就方便开发者解决键盘收起的问题。demo演示和代码下载：http://t.cn/RzbHr4V
+#iOS代码#WZSnakeHUD是一个十分简洁易用的指示层，能够自定义文字，颜色，线条粗细等。可以随时收起。demo演示和代码下载：http://t.cn/RzbQWCk
+#iOS代码# InputHelper能够在使用TextField等使用键盘的时候，可以直接点击空白的地方调整键盘坐标从而收取键盘，用一行代码就方便开发者解决键盘收起的问题。 demo演示和代码下载：http://t.cn/RzbHr4V
+#iOS代码# WZSnakeHUD是一个十分简洁易用的指示层，能够自定义文字，颜色，线条粗细等。可以随时收起。 demo演示和代码下载：http://t.cn/RzbQWCk
+#iOS代码#M13BadgeView能够在view中添加未读标记显示未读数量。该标记能够高度自定义，可以改变数量，字体颜色，背景颜色，背景形状及圆角，背景边框，标记的位置，阴影设置等等。demo演示和代码下载：http://t.cn/Rz5pAAs
+#iOS代码#SunSetUtility能够在激活应用的时候给出用户提示，以alertView提示用户继续使用当前应用或者推荐用户其他的应用并跳转到appStore下载。提示的内容，下载的地址均可以自定义。demo演示和代码下载：http://t.cn/Rz5Yzdl
+#iOS代码#AAPullToRefresh：实现视图四个方向（上拉、下拉、左拉、右拉）都能够拖动更新（pull to refresh）。可以直接添加在滚动视图scrollView中，拉动刷新完后提供回调方法。demo演示和代码下载：http://t.cn/Rz5Ewu0
+#iOS代码# LTInfiniteScrollView能够无限滚动，可以设定视图出现的数量，总数量，实现无限滚动。通过协议方法和数据源定制自己的滚动视图。 demo演示和代码下载：http://t.cn/Rz5B7k0
+#iOS代码#LLBlurSidebar：模仿网易新闻的高斯模糊背景侧边栏。当弹出背景的时候背景会变得模糊。demo演示和下载地址：http://t.cn/Rz56hy6
+#iOS代码#DXPopover：模仿Facebook的Popover。 特点: 1. 支持展示各种view 2. 接口，概念简单易用。demo演示和代码下载：http://t.cn/RzbQ7m8
+#iOS代码#M13BadgeView能够在view中添加未读标记显示未读数量。该标记能够高度自定义，可以改变数量，字体颜色，背景颜色，背景形状及圆角，背景边框，标记的位置，阴影设置等等。demo演示和代码下载：http://t.cn/Rz5pAAs
+#iOS代码# LKAlarmManager：方便快捷的把 “您的提醒” 加入到 日历或者本地通知中 会自动处理本地通知超过64个的情况 注册下 LKAlarmManager 回调，在接收到提醒的时候，就可以做你想做的事。 演示demo和下载地址：http://t.cn/RzxibtK
+#iOS代码#CoreAnimation：根据自己样式，稍作修改， 可做 1、百分比进度条， 2、波浪效果， 3、两种背景图片动画切换， 4、窗户效果， 5、拉窗帘， 6、开门， 7、关门 等各种样式 。demo演示和代码下载http://t.cn/Rzx6xdV
+#iOS代码# SGPopSelectView：自适应选项内容调整自身大小，不用担心选项标题过长被截断显示。 根据传入基准点自适应在父试图中显示的位置。 demo演示和代码下载：SGPopSelectView
+#iOS代码#XWAlertView自定义实现带提示提醒对话框。可以自定义提示框标题,内容,动画效果,按钮。利用Block处理按钮点击事件。 demo演示和代码下载：http://t.cn/RzxpBxk
+#iOS代码#RefreshControl 是一个下拉刷新，上拉加载更多的组件 系统支持iOS6+ 支持横竖屏切换，支持自定义下拉View和加载View，继承自UIScrollView的控件都可以使用。demo演示和下载地址：http://t.cn/RzJiyKK
+#iOS代码# BZAnimationButton提供多款按钮样式，样式变换的时候能够展现通过简单的动画变换。按钮的属性也能够高度自定义。demo演示和下载地址：http://t.cn/RzJK8nk
+#iOS代码# RKCardView提供单页资料页，包括背景头像昵称，还能在里面再添加view.背景提供模糊化效果，卡片提供阴影效果。卡片四角可以设置圆角。demo演示和代码下载：http://t.cn/RzJOb7Q
+#iOS代码#RKCardView提供单页资料页，包括背景头像昵称，还能在里面再添加view.背景提供模糊化效果，卡片提供阴影效果。卡片四角可以设置圆角。demo演示和代码下载：http://t.cn/RzJOb7Q
+#iOS代码#ZHPickView：通过plist文件或者数组的名字,可以创建一个带有toolbar的pickview,目前支持单数组,多数组,数组嵌套NSDictionary,例如:城市选择,省份为key,城市数组为value的字典,支持UIDatePicker 。demo演示和代码下载：http://t.cn/RzxCPZS
+#iOS代码#DownSheet：通过自定义模型实现仿腾讯QQ音乐的ActionSheet效果。能够定义菜单的图片（包括点击前后），菜单的数组以及点击的时间。方便实用，有需要的同学可以看看。demo演示和代码下载：http://t.cn/RzJDxj2
+#iOS代码#RZTransitions是一款来自著名的Raizlabs制作的支持动画方式切换VC的第三方类库。能够拨动弹出页面，pop/push的方式等等。demo演示和下载地址：http://t.cn/Rzih4D1
+#iOS 代码#TaiChi：动态转动的太极图,有特别需要的同学可以看看。demo演示和代码下载：http://t.cn/Rzxa5JT
+#iOS代码#本Demo主要介绍一个封装的展示控件，放入 数据源 与 索引 便可无缝的浏览图片，里面预留了通过URL方式调用图片的方法， 不过则需要 一些支持 。demo演示和代码下载：http://t.cn/RzJgeBq
+#iOS 代码#JCScrollView：一款可以切换滚动方向并附带动画的滚动视图。可以任意指定数量添加内容。需要的同学可以留意一下。demo演示和代码下载：http://t.cn/RzoSF1d
+#iOS代码#LineProgressView：实现圆形仪表盘样式进度条。支持多项属性的自定义包括数量、颜色、圆弧角度、延迟等等。 demo演示和代码下载：http://t.cn/RzoOGrG
+#iOS代码#InputText：自定义UITextField，根据第一响应者动态变化输入框的指示名字。输入框标题可以自动往上缩，也可以清理所输入的内容。支持暗码功能。 demo演示和代码下载：http://t.cn/RzakxTJ
+#iOS代码#XXYNavigationController：在KKNavigationController的基础上修改了一个滑动返回的效果，仿vvebo客户端的滑动返回效果。 demo演示和代码下载：http://t.cn/RzormxK
+#iOS 代码#Tracking轨迹回放实用案例。具体演示demo和代码下载请看http://t.cn/RzoF5ok
+#iOS 代码#人人对战象棋： 已完成所有人人对战的规则的一款中国象棋对战游戏。这里有兴趣的同学们可以参考参考一下，也可以装来自己玩一下哦！ demo演示和代码下载：http://t.cn/RzpaxHE
+#iOS 代码#ParallaxTableViewHeader是一款具有放大视差，缩小变模糊的TableView的表头视图，可以直接使用在任何TavleView上自定义表头背景即可。demo演示和代码下载：http://t.cn/RzpiR8B
+#iOS 代码#PJR-ScrollView-Slider是一款结合文字+图片的滚动视图。能够左右滚动内容并且展开文字说明部分。demo演示和代码下载：http://t.cn/Rzpj2lg
+#iOS代码#MZTimerLabel提供多款显示时间的Label。有正常计时，倒计时，断点计时，倒计时执行回调或block,加减时间等多种功能。支持storyBoard和纯代码。demo演示和代码下载：http://t.cn/Rzp88GX
+#iOS代码# Panorific可以通过左右摆动设备浏览高质量的全景照片。同时也可以放大，缩小照片。通过摆动设备查看照片的时候非常带感，仿佛身临其境。同时支持StoryBoard。 demo演示和代码下载：http://t.cn/RzpgIZH
+#iOS代码#PQFCustomLoaders提供三款有趣的载入视图。可以设置背景，颜色，还有标题是否显示等等。demo演示和代码下载：http://t.cn/Rz0vocd
+#iOS代码#SCRecorder： 酷似 Instagram/Vine 的音频/视频记录器，以 Objective-C 为基础的过滤器框架。 demo演示和代码下载：http://t.cn/RzOCxF1
+#iOS代码#YUBottomPoper是一个简单实用的弹出视图，能够自定义弹出的选项，选项的数量，颜色都可以自己控制。还有点击的回调方法。 demo演示和代码下载：http://t.cn/RzOl3Pp
+#iOS代码#PQFCustomLoaders提供三款有趣的载入视图。可以设置背景，颜色，还有标题是否显示等等。demo演示和代码下载：http://t.cn/Rz0vocd
+#iOS代码#KVNProgress提供多种效果的进度指示层，有半透明效果，也支持全屏显示。指示层还高度支持自定义，可以按自己的需求定制。demo演示和代码下载：http://t.cn/RzOmhR1
+#iOS代码#CountryPicker是一款非常简单好用的国家选择器。可以直接用在storyBoard。demo演示和代码下载：http://t.cn/RzOBWnr
+#iOS代码#TVHaltAnimation：仿电视关机动画，退出程序的时候使用。动画挺带感的，有兴趣的同学来参考参考是如何实现的。demo演示和代码下载：http://t.cn/RzlVjLX
+#iOS代码#MDIncrementalImageView：是UIImageView的子类，能够逐步地读取和现实网络图片。demo演示和代码下载：http://t.cn/RzlNzCO
+#iOS代码#HTKDragAndDropCollectionViewLayout能够给UICollectionView的单元格提供拖拉功能并能自动排好顺序。并且提供cell的继承类，使用起来更简单明了。demo演示和代码下载：http://t.cn/RzlAP3F
+#iOS代码#JTImageLabel能够附加图片的标签Label控件，图片可以随意更换。位置也能够很好的控制。demo演示和代码下载：http://t.cn/RzlHL4T
+#iOS代码#LMDropdownView具有blur+transform3D 效果。 使用Core Animation实现的动画。 简易地更改menu content view的内容.demo演示和代码下载：http://t.cn/RzYUM8y
+#iOS代码#SafeKeeping：数码保险箱 本实例可作为加密控件使用。 封装两大控件：LED数码显示、刻度盘 ，两大控件均可实现动态大小改变。demo演示和代码下载：http://t.cn/RzExP8T
+#iOS代码#ZLPeoplePickerViewController：支持多语言索引，通过使用LRIndexedCollationWithSearch实现UILocalized​Indexed​Collation来排序 -支持搜索名字,email,地址 -多项选择和过滤 -支持号码搜索 。demo演示和代码下载：http://t.cn/RzEaWPC
+#iOS代码# UIUserNotificationSettings-Extension能够提供有趣的提示。当用户推出你的app之后变回提示通知。通过对模拟器/真机中，在setting设置里面，设置Banners或者Alerts会有不同方式的提示。同学们可以尝试一下。demo演示和代码下载：http://t.cn/Rz8o0O7
+#iOS代码#MMScrollPresenter是一款很容易使用的滚动视图，支持各种自定义。视图可以设置标题和描述。在StoryBoard中使用也很方便。demo演示和代码下载：http://t.cn/RzE2QIx
+#iOS代码#MMScrollPresenter是一款很容易使用的滚动视图，支持各种自定义。视图可以设置标题和描述。在StoryBoard中使用也很方便。demo演示和代码下载：http://t.cn/RzE2QIx
+#iOS代码#DBPrivacyHelper能够直接进入系统的隐私设置，开启定位，照片等等等的访问权限。demo演示和代码下载：http://t.cn/RznBV8x
+#iOS代码#GUAAlertView能够弹出一个能够上下拖动的对话框。当对话框往下拖的时候就会消失。demo演示和代码下载：http://t.cn/Rzne3bE
+#iOS代码#MHHexColoring为开发者快速获取想要的十六进制颜色（Hex Color） demo演示和代码下载：http://t.cn/Rzmvi3P
+#iOS代码# IMGActivityIndicator是一个有趣的循环线条样式指示器，模仿的是imgur.com里面最下方加载图片的指示器,可作等待载入等情景使用。demo演示和代码下载：http://t.cn/Rzm7dW6
+#iOS代码# KRLCollectionViewGridLayout能够调整单元格尺寸和每行的容纳数量。也支持其他更多属性interitemSpacing，lineSpacing等等。demo演示和代码下载： http://t.cn/Rz1nLy2
+#iOS代码# KRLCollectionViewGridLayout能够调整单元格尺寸和每行的容纳数量。也支持其他更多属性interitemSpacing，lineSpacing等等。demo演示和代码下载： http://t.cn/Rz1nLy2
+#iOS代码# IMGActivityIndicator是一个有趣的循环线条样式指示器，模仿的是imgur.com里面最下方加载图片的指示器,可作等待载入等情景使用。demo演示和代码下载：http://t.cn/Rzm7dW6
+#iOS代码# MHHexColoring为开发者快速获取想要的十六进制颜色（Hex Color） demo演示和代码下载：http://t.cn/Rzmvi3P
+#iOS代码#ShareREC是Mob推出的最完美手游录像解决方案，开发者只需3分钟快速集成，即可让游戏拥有强大的手游录像、语音及视频解说，第三方分享功能，后台还能提供完善的数据统计，可供实时了解播放量、分享量、下载量等数据。同时支持Cocos2dx和Unity3D两大游戏引擎。代码下载：http://t.cn/RzDTCFp
+#iOS代码#RadarView是一款使用swift写的雷达型动画，支持在storyBoard修改属性。雷达动画可以向外，也可以向内，雷达圈数，颜色，密集，雷达线条粗细，图标icon等都可以设置。demo演示和代码下载：http://t.cn/RZveiix
+【ShareREC手游录像分享_百度百科】ShareREC是一种手游录像分享组件，开发者只需3分钟快速集成，即可让游戏拥有强大的手游录像、语音及视频解说，第三方分享功能，同时后台还能提供完善的数据统计，可供实时了解播放量、分享量、下载量等数据。.....（分享自@百度百科） http://t.cn/RZhn4rL
+#iOS代码#JTSlideShadowAnimation重新"滑动解锁"字体闪烁的动画效果，支持多种属性自定义例如阴影前后背景颜色，阴影的宽度，重复次数，延时等等。demo演示和代码下载：http://t.cn/RZPLCXI
+#iOS代码#MaterialKit是一个使用Swift写的具有多种动画、颜色等效果的控件库。支持多种常用的控件如Button,Label,Cell,TextField等等。支持直接连接storyboard使用这些控件。有喜欢的同学可以多多留意。作者还在增加其他功能例如progress进度条等。demo演示和代码下载：http://t.cn/RZAnemu
+#iOS代码#BFKit对常用于开发的类进行了扩展，整合了多个常用的控件和开发所需要的功能，是一个通用性的类库。集成后可以帮助更快的App开发。有兴趣的同学可以看看哦。demo演示和代码下载：http://t.cn/RZAUJjm
+#iOS代码#SlideInView能够从底部弹出视图用作提醒用户或信息提示功能。通知的页面可以完全自定义。demo演示和代码下载：http://t.cn/RZAkuWH
+#iOS代码# RRMessageController是个UIViewController,控制器中直接提供输入框和选择图片的功能。支持多图选择，删除，并且支持输入字数统计。适用于做社交分享的时候所调用的分享界面。 demo演示和代码下载：http://t.cn/RZ275eX
+#iOS代码#JFMinimalNotification能够从上方或者从下方弹出通知提示。支持错误，成功，信息，警告，默认五种提示。可以在左右添加图片，并且点击支持回调。demo演示和代码下载：http://t.cn/RZL7WZC
+#iOS代码#LLSimpleCamera是一款简单实用的可以自定义的相机，也支持闪光灯。可以自定义相关的按钮进行自己的想进行的操作。demo演示和代码下载：http://t.cn/RZUIPaJ
+#iOS代码# ReorderableGridView-Swift展现的是大小不一的标签格子列表。能够拖动并且重置顺序。同时支持添加和删除的功能。支持IPAD。demo演示和代码下载：http://t.cn/RZU6VOk
+#iOS代码#MLKMenuPopover一款简单使用的弹出菜单界面。通过制定frame来定制弹出的锚点，可自定义多项菜单。demo演示和代码下载：http://t.cn/RZUokOH

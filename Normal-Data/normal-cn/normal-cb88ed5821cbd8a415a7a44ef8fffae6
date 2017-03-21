@@ -1,0 +1,234 @@
+AngularJS in Patterns http://t.cn/RvhzsQz http://t.cn/RvdZMXy http://t.cn/RvdZMXU
+7个步骤：让JavaScript变得更好 – 程序猿 http://t.cn/RvdZJiG
+http://t.cn/Rv8l4ju AngularJS in patterns - this repository provides different look into AngularJS. It contains information where different design patterns are used inside the framework or any AngularJS application
+用JIRA管理你的项目 http://t.cn/RvDv4IE
+http://t.cn/z8ehE4V 基于git的源代码管理模型——git flow
+JavaScript判断浏览器类型及版本 http://t.cn/RvDiqlZ
+http://t.cn/RvDF64I 【腾讯开源】MT：专注于移动端的JavaScript模块管理框架 MT具有以下优点： 无更新不下载 简单友好的模块定义规范 简单易用的打包管理工具 强大的JavaScript增量更新代理服务
+【少有人知的 GitHub 使用技巧】 http://t.cn/8sYflkb
+对@小冰 说：小冰起床了么
+詹姆斯回骑士了 @小冰
+这届世界杯梅西进了几个球了@小冰
+【Cordova 3.x入门】Apache Cordova 3.x(aka PhoneGap)的基础知识、实用插件、源码分析、实例开发。 - ITeye博客专栏 http://t.cn/8sWWQmd
+HTML5应用开发：JavaScript库iScroll教程 http://t.cn/RPhTyoE iScroll 4.2.5 中文API http://t.cn/zQy4H5M
+@小冰 今天去约会了没
+@小冰 在么
+@小冰 你几岁了
+Unicode 与中文相互转换工具 Unicode转中文 http://t.cn/SAtPKL
+@抹上一抹绿 喝了一杯奶茶，身体不舒服，怎么回事？@小冰
+CSS3 Media Queries模板 http://t.cn/zl0s9AV
+@小冰 讲个关于@抹上一抹绿 的笑话
+@小冰 讲个关于 @低调的小海海 的笑话
+@小冰 讲个关于 @抹上一抹绿 和@低调的小海海 的笑话
+@小冰 你姐姐全名叫什么
+@小冰 小娜的英文名字叫什么
+http://t.cn/RPCBcTu jsdoc
+CSS Media Queries for iPads & iPhones http://t.cn/RPWW6N0
+百度 Baidu javascript 编码手册 http://t.cn/zWTvUml
+AOP技术基础 http://t.cn/aEBBlm
+http://t.cn/RPjGjfg WebApp开发
+关于移动端用iscroll动画出现闪烁和迟钝(不流畅)的现象 http://t.cn/RPjBCGK 添加 -webkit-transform:translate3d(0,0,0)启用硬件加速
+我在@前端乱炖 的《前端花名册》添加了我的名片，欢迎收藏：http://t.cn/RPYxpK3
+javascript-quality-guide http://t.cn/RPQupP7
+http://t.cn/RPQeFLN http://t.cn/RPQeFLp http://t.cn/RvzCYW6 CSS Guide Style
+http://t.cn/zQ2H3U3 主流手机尺寸
+http://t.cn/RvLnrun Remote Debugging on Android with Chrome
+前端安全科普 http://t.cn/zOW8dWJ
+http://t.cn/RPdgfld Chrome Developer Tools 使用
+10-tips-make-node-js-web-app-faster 并行(结合Promise、Async、Q等) 、使用异步函数、对不常变化的数据进行缓存（比如结合redis）、使用compression 中间件对静态资源进行压缩、客户端渲染、优化查询、使用V8原生的函数比如map foreach等、Nginx提供静态资源服务，前端资源压缩http://t.cn/RPgIdb2
+5-uses-vertical-media-queries http://t.cn/RPgxsbE
+A minimal AMD API implementation for use after optimized builds http://t.cn/RPgiqld
+http://t.cn/RPg6cix building-library-with-requirejs
+http://t.cn/RvmQBmK A simple (proof-of-concept) script loader that caches scripts with localStorage
+High-level advice and guidelines for writing sane, manageable, scalable CSS http://t.cn/RPY6PJR CSS编写指导规范和建议 http://t.cn/RPkT3jJ
+WEBAPP介绍及其iOS Web开发技巧总结 - freshlover的专栏 - 博客频道 - CSDN.NET http://t.cn/RhZ341n
+webapp开发基础 - leejersey - 博客园 http://t.cn/RhZ3bJU
+http://t.cn/RhwCYYW Using JSDoc with AMD/require.js modules
+「 来自HeroKu的HTTP API 设计指南(中文版) 」翻译 by @Easy。 via @GET新知社区 - 面朝知识，简洁雅致 → http://t.cn/RhwuRHY
+http://t.cn/RhU3Ht1 用增量更新算法为 web 应用节省流量
+http://t.cn/Rh5PlXI Serving Static Content
+【Nginx  -- 根据 IP 匹配指定 URL】分享自@SegmentFault，文章传送门： http://t.cn/Rh5jwH6
+Cheerio http://t.cn/RPdC3cz Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+集成开发环境 netbeans开发 Cordova 应用程序 http://t.cn/RhcSTVg
+ECMAScript6入门_文档下载_IT168文库(分享自 @IT168文库) http://t.cn/RhcFkfI
+android Building Web Apps in WebView http://t.cn/agOBrO
+PhoneGap 在 Android 上的插件开发方法介绍 http://t.cn/zOjsZVo
+Advanced objects in JavaScript http://t.cn/RPrpJ5P
+ES6新特性概览 - Wayou - 博客园 http://t.cn/8spcOah
+What you should know about JavaScript regular expressions http://t.cn/RPHsmhT
+经常碰到文件修改后才发现没有权限,而事先又没有使用sudo来编辑.当然可以用w保存到一个临时文件然后再mv一下.不过还有一种办法是: :w !sudo tee %
+Vim命令合集 - perlman - 博客园 http://t.cn/agLmTA
+让Java跟Javascript更加亲密 http://t.cn/zQg4YSy
+Google Android官方培训课程中文版(v0.4) http://t.cn/RhJ3Wg9
+我也开通了@网易LOFTER，以后会在这里写写文章、发发图。 我的LOFTER地址：http://t.cn/RhJdc6V（下载LOFTER客户端：http://t.cn/RPa1mnh）
+《hello World》 世界，你好 （阅读全文: http://t.cn/RhJdIgm 下载LOFTER客户端: http://t.cn/RPSYdQu）
+一次开发，随处测试：Mozilla推出Web跨浏览器调试工具 （分享自 @36氪） http://t.cn/RhI81BB
+document.addEventListener("visibilitychange",function(){}) 监听页面可见性变化
+分享图片
+【css垂直水平居中？】分享自 @SegmentFault，问题传送门： http://t.cn/RhKPdIZ
+分享来自CNode的话题：socket.io入门整理 http://t.cn/zjzSx81
+分享来自ThinkGIS的话题：node-canvas实现百度地图个性化底图绘制 http://t.cn/Rh92TVJ
+《杨元：CSS浮动(float,clear)通俗讲解》 很早以前就接触过CSS，但对于浮动始终非常迷惑，可能是自身理解能力差，也可能是没能遇到一篇通俗的教程。前些天小菜终于搞懂了浮动的基本原理，迫不及待的分享给大家 http://t.cn/zT76iyU（分享自 @伯乐在线官方微博）
+分享图片
+分享图片
+我刚刚入驻了@美丽说 ，求姑娘关注>>http://t.cn/RhCH3zR
+分享图片
+How to keep up with the Javascript Landscape Trends Javascript Weekly newsletter http://t.cn/h4nue7 Node.js Weekly Newsletter http://t.cn/RhNBbsZ Html5 Weekly Newsletter http://t.cn/aDAqWh DailyJs Blog http://t.cn/hBpWkR EchoJs News Aggregator http://t.cn/S5AZCO
+Node.js Best Practices Callback convention、 Always check for errors in callbacks 、Return on callbacks、 Use try-catch in sync code only Use good async patterns、 Error handling、 Use a style guide http://t.cn/Rh6h12w http://t.cn/Rv0l27m
+Node.js Best Practices: Callback convention、 Always check for errors in callbacks 、Return on callbacks、 Use try-catch in sync code only Use good async patterns、 Error handling、 Use a style guide http://t.cn/Rh6h12w http://t.cn/Rv0l27m
+Sass vs. LESS "Which CSS preprocessor language should I choose?" Really short answer: Sass http://t.cn/zOm2Q9N
+@cnodejs 分享来自CNode的话题：【奇舞团开源】thinkjs - 基于Promise的Node.js MVC框架 http://t.cn/Rh0yRgF
+http://t.cn/zlTTDYp http://t.cn/8FkbYAP CSS之BFC详解 http://t.cn/8sWGZv7
+http://t.cn/RhOf2N3 记mobile web曾经的踩过坑
+《JavaScript的性能优化：加载和执行》 无论当前 JavaScript 代码是内嵌还是在外链文件中，页面的下载和渲染都必须停下来等待脚本执行完成。JavaScript 执行过程耗时越久，浏览器等待响应用户输入的时间就越长。浏览器在下载和执行脚本时出现阻塞 （分享自 @伯乐在线官方微博） http://t.cn/z8IZJv4
+Angular Directive Templateurl Relative To .Js File http://t.cn/RhWX9OM
+http://t.cn/z80lyog http://t.cn/8k58z1y CSS 框架
+http://t.cn/RhlyZBS 在less中使用Media Query
+分享一个@前端乱炖 的系列文章专栏「测试驱动开发实践」，共7篇文章，所有者：@Kinogam，专栏简介：站在比开发人员高一个层次的地方设计代码 http://t.cn/RhTuQrX
+http://t.cn/RhHt6Iq how can I override console.log() and append a word at the beginning of the output
+『DailyNode - Should I Node or Should I Go?』http://t.cn/RhQUbRx
+Running Node modules in your iOS project http://t.cn/RhlkZrg
+The ServiceWorker is coming, look busy! with Jake Archibald http://t.cn/RhOFZEE
+ECMAScript 6 promises (1/2): foundations http://t.cn/RhWBTgU
+JavaScript for OS X Automation by Example http://t.cn/Rh064yi
+timing.js a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
+http://t.cn/h5I2r7 HTML5 Differences from HTML4
+node 中的设计模式 node production practice http://t.cn/Rh9HzL8
+Running Node modules in your iOS project http://t.cn/RhlkZrg
+http://t.cn/RPYUHGh http://t.cn/8se9PVf
+SWIPE JS – 移动WEB页面内容触摸滑动类库 http://t.cn/zRTE4il
+Create an array with same element repeated multiple times in javascript http://t.cn/Rhn5Oaa
+Let express.js and async.js make your life easier http://t.cn/RhmbiUh
+component - client package management for building better web applications http://t.cn/Rhmavja
+A markdown parser and compiler. Built for speed. http://t.cn/zOXgHcr
+Intuitive, fast & composable MVVM for building interactive interfaces. http://t.cn/8FXGTiS
+MVVM大比拼之AngularJS源码精析 - 侯振宇 - 博客园 http://t.cn/8srIDZC
+呵呵 (评论给 @伯乐在线官方微博 对于现代开发来说，JavaScript就是一种垃圾语言 - 博客 - 伯乐在线 http://t.cn/zRKcuJJ )
+http://t.cn/8suJ8yb Web 基本法则 现代 web 开发最佳实践
+分享图片
+http://t.cn/hDGu85 Learning JavaScript Design Patterns
+http://t.cn/Rh1AjRI Mediator
+http://t.cn/Rh1GHc6 HTML Color Codes
+http://t.cn/Rhulwsm Responsive Images: If you’re just changing resolutions, use srcset
+http://t.cn/RhCyE3T
+http://t.cn/zRllGU6 项目中一些常见的，会引起布局变化的属性CSS属性
+http://t.cn/hDGu85 http://t.cn/RhBksj9 http://t.cn/RhBksjK Learning JavaScript Design Patterns
+分享图片
+http://t.cn/7PSwe JS/CSS/HTML 浏览器兼容性
+A Complete Guide to Flexbox http://t.cn/zQhxXGo
+A responsive image polyfill for <picture>, srcset, sizes, and more http://t.cn/RhdapGB
+http://t.cn/Rh1DNdK AngularJS: The Bridge Between Today and Tomorrow's Web
+http://t.cn/RhkZJc8 http://t.cn/RhFeBA5
+http://t.cn/RhFeebp http://t.cn/RhFeBA5
+http://t.cn/RhFDZ1m http://t.cn/RhFeBA5
+http://t.cn/RhFDX8R Building a Production Web App With Node
+Getting Started with Koa, part 1 - Generators『Getting Started with Koa, part 1 - Generators』http://t.cn/RhkZJc8
+Pure A set of small, responsive CSS modules that you can use in every web project http://t.cn/zHxum5X
+《Web 开发在 2015 年及未来的发展趋势》 本文中，我们将一同看看当今 Web 开发的发展趋势，给大家分享我对 2015 年及未来的一些看法、观察和预测。我从 2000 年就开始做 Web 技术方面的工作，而近几年主要是做云架构解决方案。作为一名 Web 开发 （分享自 @伯乐在线官方微博） http://t.cn/Rh1yCF2
+http://t.cn/RPpEWpD iScroll 5 API 中文版
+mac 创建环境变量的配置文件 etc/profile,/etc/bashrc ;~/.bash_profile ;~/.bashrc;/etc/paths; /etc/paths.d/
+mac 创建环境变量的配置文件 etc/profile ,/etc/bashrc ;~/.bash_profile ;~/.bashrc;/etc/paths; /etc/paths.d/
+mac 与创建环境变量相关的配置文件 etc/profile ,/etc/bashrc ;~/.bash_profile ;~/.bashrc;/etc/paths; /etc/paths.d
+mac 与创建环境变量相关的配置文件 etc/profile ,/etc/bashrc ;~/.bash_profile ;~/.bashrc;/etc/paths; /etc/paths.d http://t.cn/R7h90sh
+mac 与创建环境变量相关的配置文件 etc/profile ,/etc/bashrc ;~/.bash_profile ;~/.bashrc;/etc/paths; /etc/paths.d http://t.cn/R7h90sh http://t.cn/R7h9HDP
+分享一个@前端乱炖 的系列文章专栏「每天学点javascript」，共46篇文章，所有者：@张小俊128，专栏简介：javascript进阶级教程，循序渐进掌握javascript http://t.cn/R7Z8oT8
+Apple Shows Love for HTML5 with iOS 8 http://t.cn/RhSU4Nl
+The Top 10 Mistakes AngularJS Developers Make Read more at http://t.cn/RhBNeXD
+A full-featured http proxy for node.js http://t.cn/R7LUAFZ
+http://t.cn/8FR5xay 纯 CSS 实现高度与宽度成比例的效果
+BAT及各大互联网公司2014前端笔试面试题--JavaScript篇 - Ico_Coco - 博客园 http://t.cn/R7ye3k0
+http://t.cn/R7A6dSj Square INTRO TO D3.JS
+http://t.cn/R7GYMa2 apache client denied by server configuration after mac OS X upgrade to Yosemite
+CSS Multi-column Layout Module http://t.cn/zWeXm4e
+Draft ECMA-262 6th Edition / Draft October 14, 2014 Ecma/TC39/2014/0xx http://t.cn/zOVRL1j
+小伙伴们，快来围观！我已经升级为V6新版微博，简洁的界面带来更流畅的体验。准备好了吗？和我们一起发现新的世界吧！升级猛戳:http://t.cn/R7vgnNI http://t.cn/R7PWMm5
+http://t.cn/RPLxnV1 妹子UI
+Angular Chart Reactive, responsive, beautiful charts for AngularJS based on Chart.js http://t.cn/R77E8hd
+An Introduction To The HTML5 History API http://t.cn/R7U4HEI
+Drag-based JavaScript component, embracing endless UI solutions http://t.cn/8FyeLK7
+http://t.cn/R7VKy2B Strict mode
+《browserify运行原理分析》 目前对于前端工程师而言，如果只针对浏览器编写代码，那么很简单，只需要在页面的script脚本中引入所用js就可以了。但是某些情况下，我们可能需要在服务端也跑一套类似的逻辑代码。 （分享自 @伯乐在线官方微博） http://t.cn/R7VcVui
+http://t.cn/R7VFf5W CSS动画 VS JavaScrip
+The new standard for HTML5 animation http://t.cn/R7fasgL
+【Yahoo网站性能优化指南之服务器篇】分享自 @SegmentFault，文章传送门： http://t.cn/8kVp9N1
+http://t.cn/R7Jpwl8 unit testing
+http://t.cn/R7JptEI for JS developers
+『2014-10-25 南京源创会 fibjs 分享 ppt - 孢子社区 : 一起玩，不孤单』http://t.cn/R7ivCst
+How JavaScript Timers Work http://t.cn/hg6a89
+【360浏览器 根据网页META 自动切换内核】 浏览器内核控制Meta标签说明文档背景介绍由于众所周知的情况，国内的主流浏览器都是双核浏览器：基于Webkit内核用于常用网站的高速浏览。基于IE的内核用于兼容网银、旧版网站。以360的几款浏览器为例，我们优先通过Webkit内核渲染主流 http://t.cn/R7SNYmG
+在Mac OS X下安装和卸载Node.js的方法 | micmiu - 软件开发+生活点滴 http://t.cn/R7SBBa1
+How do I do a bulk insert in mySQL using node.js http://t.cn/R7oSFUY
+http://t.cn/R7odlhM AngularJS Tutorial – Building a Web App in 5 minutes
+Migrating to WebView in Android 4.4 http://t.cn/R7KIZsn
+我刚刚将 @developerWorks 分享的"Angular 2 Core.pdf"保存到了 @微盘，推荐给大家！ http://t.cn/R7NiLXD
+我刚刚将 @InfoQ 分享的"另一个角度看前后端分离—Node.js 引发的前..."保存到了 @微盘，推荐给大家！ http://t.cn/R7N6Zwx
+AngularJS Tutorial LEARN ANGULAR BY BUILDING A GMAIL CLONE http://t.cn/RhH58bF
+JavaScript for Automation Cookbook ---avaScript for Automation is a new thing in Mac OS X Yosemite. It lets you control applications and the operating system using JavaScript language. http://t.cn/R7Wj73x
+很好的资源 ——评论@dwido 「【译】国外优秀JavaScript资源推荐」http://t.cn/RPr3EAe
+The Fine Art of JavaScript Error Tracking http://t.cn/R70FVMg
+http://t.cn/zR722AN  Javascript 最佳实践 http://t.cn/R7YZSFN
+【两个不同的页面之间的window对象之间如何通信】分享自 @SegmentFault，问题传送门： http://t.cn/R7T6EXf
+querySelectorAll 方法相比 getElementsBy 系列方法有什么区别？ http://t.cn/RhzWIVJ
+window.postMessage是一个用于安全的使用跨源通信的方法。通常，不同页面上的脚本只在使用相同的协议、端口、主机情况下被允许互相访问，window.postMessage 提供了一个受控的机制来安全地绕过这一限制。http://t.cn/R7Mp1Hn
+The JavaScript Tutorial HTML5 is great. jQuery is cool. Node.JS is awesome. Base them on the solid, powerful basement of pure JavaScript and you can rock the web! http://t.cn/a3ib7X
+http://t.cn/8kQenRF html实体
+http://t.cn/8kQenRF http://t.cn/zTtxJ0D html实体
+Zebra-基于canvas的WebUI http://t.cn/8F2Mu67
+n3-charts versatile charts for angularjs http://t.cn/R78esEu
+Angular 2.0 的设计方法和原则 - 博客 - 伯乐在线 在开始实现Angular2.0版本之际，我们认为应该着手写一些东西，告诉大家我们在设计上的考虑，以及为什么做这样的改变。现在把这些和大家一起分享，从而有助我们做出正确选择。Angular2是一个针对移动应用的框架。它同时也支持桌 http://t.cn/8sb69C9
+Implementing a RESTful Service Server-Side http://t.cn/R73dOHZ
+How to Install mcrypt for php on Mac OSX http://t.cn/R71jZAI
+@cnodejs 分享来自CNode的话题：用node.js实现HTML5原生的comet(长连接) http://t.cn/R7eWD6r
+A Practical Guide to AngularJS Directives http://t.cn/RzwVBcZ http://t.cn/RzwVBcz
+Checklist-model AngularJS directive for list of checkboxes http://t.cn/RzAQ0Up
+分享一篇@张小俊128 的原创文章【彻底弄懂AngularJS中的transclusion   】来自@前端乱炖 专栏「用Angular开发web应用」 。前端乱炖是一个专业的前端知识原创内容社区 http://t.cn/8Fkp738
+@七牛云存储 点击 ‘空间设置’ 404
+2 years with Angular. http://t.cn/RzUnUUT
+Angular JS best coding practice – Every coder should follow http://t.cn/RzUyghy
+比一个人吃火锅更寂寞的事有什么？ http://t.cn/R7Rcq4U（分享自 @知乎）
+ES6: The future is now. http://t.cn/RzJdSYY
+简析TCP的三次握手与四次分手 | 果冻想 一篇文章搞定TCP过程中的三次握手和四次分手，绝对值得耐心阅读的一篇好文章，不是自夸。关于这方面的文章有很多，但是讲的都很含糊，而这篇文章，从最基本的知识出发，一路提问，一路解决疑问，说不上经典的文章，但是绝对值得阅读。希望 http://t.cn/RzJdldl
+手动编译 ng指令使用 $compile服务var el=$compile("HTML代码")(scope); element.append(el)
+angluarjs style guide http://t.cn/Rzi3kgk http://t.cn/RPaiDfi http://t.cn/R7zMOec
+ng中的坑 - Angular Bad Parts http://t.cn/Rzi1b7U http://t.cn/Rzi1b7z http://t.cn/Rzi1b7P http://t.cn/Rzi1b7h http://t.cn/Rzi1b7v http://t.cn/Rzi1b74
+HTML5 vs native: Harry Coder and the mudblood mobile app princes http://t.cn/Rzahcei
+http://t.cn/RzahiAK The Future of the Web
+http://t.cn/Rz5xWEO CSS3 and HTML5 Experiments
+老外看中国：移动应用UI设计的十大精髓 - 本文作者Dan Grover用最直接的方式体会了中国移动互联网的发展。这是一个外国人眼中的应用UI在中国的趋势，基本反映了当前国内UI设计的状况，从他的所感所想中，认真审视这... http://t.cn/RzX8Qro
+Listening on Route Changes to Implement a Login Mechanism http://t.cn/Rzadh74
+AngularJS Change Path Without Reloading http://t.cn/RzaF8NL
+MetricsGraphics.js is a library built on top of D3 that is optimized for visualizing and laying out time-series data. It provides a simple way to produce common types of graphics in a principled, consistent and responsive way. http://t.cn/R7FSYNq
+Modern Debugging Experience: Part 1 http://t.cn/RzSvbmG
+dojo store api 多线程 http://t.cn/Rz9dWae
+dojo store API 脑图 http://t.cn/Rz9dWae
+《Yeoman官方教程：用Yeoman和AngularJS做Web应用》 你将会使用Yeoman和AngularJS搭建一个功能完整的应用，示例应用将会简短地介绍一些关于Yeoman、Grunt和Bower的特点。如果你有一些编程经验的话，这期的CodeL Lab会很适合你。 （分享自 @伯乐在线官方微博） http://t.cn/8sHePh2
+http://t.cn/zO0KYgE Make the web faster High performance web sites lead to higher visitor engagement, retention and conversions
+http://t.cn/RzNZ8cS Preparing for the future of AngularJS
+我在乐视网发现很多好剧哦，<<甄嬛传>><<狐仙>><<青年医生>><<满仓进城>><<红高粱>>，大家快来追剧吧，还有消息提醒呢~http://t.cn/8k1CbOi
+我参与了@大城小胖 发起的投票【大城小胖 如果出自拍台历，免费赠送，你要吗？】，我投给了“胆小，不敢要！”这个选项。你也快来表态吧：http://t.cn/Rz8Po9s
+AngularJS Performance in Large Applications http://t.cn/RzHxMt4
+HTML Imports #include for the web http://t.cn/8sIIl9T
+CSP Taming the Asynchronous Beast with CSP Channels in JavaScript http://t.cn/Rhtqe2y
+颠覆式前端UI开发框架：React http://t.cn/RzuNaZ2
+Web Animations Playback Control in Chrome 39 http://t.cn/RzE7hLY
+Getting Started with React and JSX http://t.cn/RzicJW3
+Web Components and the Future of CSS http://t.cn/Rz1opFV
+Ionic Expense Tracker Sample: Creating the App http://t.cn/Rz1oWt1
+The State of HTML5 Gaming http://t.cn/Rz1oj0B
+The 5 Most Popular Frontend Frameworks of 2014 Compared http://t.cn/Rz1oQaX
+HOW TO MAKE A MOBILE VIRTUAL PET GAME WITH HTML5 AND CORDOVA http://t.cn/Rz1omUZ
+http://t.cn/RzPzFOw A JavaScript module loader, an implementation of AMD (Asynchronous Module Definition)
+http://t.cn/8FCsKmT A cross-browser library of CSS animations. As easy to use as an easy thing.
+Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). http://t.cn/zTOmo0r
+http://t.cn/RzBJmyi RAP是一个可视化接口管理工具 通过分析接口结构，动态生成模拟数据，校验真实接口正确性， 围绕接口定义，通过一系列自动化工具提升我们的协作效率。
+视差效果 http://t.cn/RzrsC1S http://t.cn/RzcRlj8
+10 reasons to use React in your next project http://t.cn/Rh0T5Wg
+Lazy load isolated micro-apps in Angular http://t.cn/Rzd1Vni
+http://t.cn/Rzddtd5 60+ Cheatsheet Collection for Full Stack Developers
+angular性能优化心得 http://t.cn/Rze9sHQ
+http://t.cn/RzDRl75 Hammer.js takes a lot of the hard work out of bringing touch gestures like double-tap, pinch, and swipe to your web app. In this screencast you’ll learn how to get started with it, and some problems with the touchable web you’ll want to watch out for.
+Same-origin policy http://t.cn/RzFQWBk
+AngularJS: From Prototyping to Functional Code http://t.cn/RzsBYsK
+A Primer on ES7 Async Functions http://t.cn/RzsBQTS
+《10款最佳JavaScript 和 HTML5演示(幻灯片)框架》 JavaScript 和 HTML5 框架在现代浏览器中为创建演示文稿扮演着重要的角色。他们在web页面中嵌入特性,提供了一种有效的方式来展示信息。一般来说,手动编写需要大量的时间和精力。而且手动真的很 （分享自 @伯乐在线官方微博） http://t.cn/RZPWKLo
+使用AngularJS解决IE 8/9不支持placeholder的问题 http://t.cn/RP8WJ6m

@@ -1,0 +1,290 @@
+banq【开源Node.js论坛上线了】: 注册后头像自动有了，这是用的什么组件呢？...http://t.cn/RvmoTEs
+banq【JAVA的春天来了】: 来自 对GitHub Stack Overflow进行自动统计结果如下，Java和C#都很热门：        ...http://t.cn/Rvm9XCB
+brighthas【开源Node.js论坛上线了】: 感谢 banq大哥夸奖，小的会继续努力，论坛还在优化中。    头像那个是 gravatar 头像，这个 gravatar 网站上有介绍如何弄。    他是根据邮箱来进行头像url定位的。你一定是在 gravatar网站注册过 头像和ema.....http://t.cn/RvmNHnB
+JasonMing【开源Node.js论坛上线了】:   date=2014-07-01 09:20]头像那个是 gravatar 头像，这个 gravatar 网站上有介绍如何弄。    他是根据邮箱来进行头像url定位的。你一定是在 gravatar网站注册过 头像和email关联，这样通.....http://t.cn/RvuTAW0
+banq【LinkedIn Norbert是简化集群管理的库包】:  Norbert 是LinkedIn贡献的一个简化集群管理和负载分发的开源库包。它能让你通过一个简单客/服架构来实现处理高负载的高伸缩扩展架构。  它是使用Scala实现, 包装了 ZooKeeper 和Netty ，使用Protocol .....http://t.cn/RvuTT4f
+brighthas【为应用层创建独立的查询数据】: ...http://t.cn/Rvu3Z8V
+banq【Yadi是基于Java8的依赖注入容器】:  Yadi 是一个类型安全的  依赖注入  Dependency Injection容器，使用Java 8特性提供依赖配对wiring.  Yadi 有如下特点：  1.占据很小的内存，自身大小不超过100kb 2.不会创建不必要的依赖。 .....http://t.cn/Rv3hhGg
+banq【质疑Lambda架构】: Google和Twitter刚发布它们综合实时流处理和批处理的Lambda架构，LinkedIn的Jay Kreps则对这种架构提出了质疑，指出实时处理和批处理其实是两种范式，将它们硬生生捆绑在一起会犯ORM框架一样的错误，并且提出一种类似.....http://t.cn/RvBfuVv
+showerxp【开源Node.js论坛上线了】: 内牛满面啊。...http://t.cn/RvBEkCB
+banq【Scala 2014大会：建立一个Reactive应用案例】:   这是来自ScalaDays 2014大会上有关如何使用  DDD   EventSourcing/CQRS和Akka构建一个reactive的微服务应用系统的演讲，大意如下， 英文PPT下载   这是以VPower系统为案例，在1......http://t.cn/RvrtL6A
+zld406504302【如何安排模块化的代码】:   系统中有action  logic  dao 3个高级别的包   现在有 玩家信息，消息，好友 2个模块 action.PlayerAction action.MessageAction action.FriendAction  log.....http://t.cn/Rvd8MiU
+banq【Twitter基于时间流的聚合设计】: Twitter这种函数化的聚合设计，而不是针对数据结构的聚合设计其实很有普遍性，可广泛应用于查询方面的设计，见：   ...http://t.cn/RvdsfPb
+JasonMing【Scala 2014大会：建立一个Reactive应用案例】: marked...  CQRS/ES概念非常好，但是在实际系统上操作起来还是有一定的难度，虽然简单，但却不容易啊。  ...http://t.cn/RvgDO3i
+lostalien【 Rust语言】: 系统编程语言？ 那目标就是取代C了呗？...http://t.cn/Rvec01u
+xianghx【简单粗暴的判定聚合根原则——身首原则。以文档审核为例】: 聚合是核稿,日志是结果。  role 是核稿人。  thing 是 document...http://t.cn/Rve9uGD
+penweizgx【hibernate面向对象的建模思考】: 现在有个业务场景：一个账号在一个平台系统中对应多个组织机构，账号可切换到不同的组织机构，在每个组织机构下账号有对应的角色和权限。在想通过Hibernate 设计对象，并可实现关联，怎么实现？...http://t.cn/Rve3CZi
+banq【hibernate面向对象的建模思考】: 你这个问题让人难回答。    面向对象的建模属于业务，Hibernate属于 Java语言技术，业务和语言技术是无关的，否则如果别人想用C#是实现业务怎么办呢？    需求-->建模-->落地为Hibernate等技术    无法搞清楚你的.....http://t.cn/RvDqT1s
+JasonMing【Scala 2014大会：建立一个Reactive应用案例】:      这样的情况可能需要引入一个Versions作为聚合根，Version作为其内部维护的实体才可。...http://t.cn/RvkTdXO
+tangxuehua【Scala 2014大会：建立一个Reactive应用案例】:      当版本很多时，这样的做法会死人的。性能非常低下...http://t.cn/Rvkd75w
+JasonMing【Scala 2014大会：建立一个Reactive应用案例】: 感觉不太会吧。  N个版本，4种状态，其中三个是互斥的，应该就是类似  Release： v10  RC： v9  Beta：v8  Other： v1~v7  这样的吧  前三个当作内部的状态，有新版本要取代其中一个，去校验这三个特殊版本.....http://t.cn/RvFqZfL
+tangxuehua【Scala 2014大会：建立一个Reactive应用案例】: 这样的情况可能需要引入一个Versions作为聚合根，Version作为其内部维护的实体才可。  ------------------------------------  当版本有成千上万的时候，这样设计就是个噩梦，性能无法忍受。...http://t.cn/RvFmLyX
+SpeedVan【具体例子求解,异步后数据弱导致的决策失误问题】:   date=2014-06-19 11:35]昨天咨询了下我们的高T.这个场景在国外银行很常见,国外有夫妻卡.,他认为是这样实现的:   先说说不用异步事件框架实现是如何保持一致性的.  丈夫显示100元, 进行消费,向后端 传递聚合跟的.....http://t.cn/RPvdKVJ
+bingyang【关于restful 查询API设计问题】:      这是个办法，我看到有人把Linq 序列化后转到服务端，客户端变形linq 语句，类似 (userid=>userid ==10).ToLinqNode  服务端 xx.Parse（LinqNode）这样子...http://t.cn/RPh5zeM
+banq【.NET的异步消息SignalR和Rx(Reactive编程)】:   SIGNALR是基于微软.NET的消息模型，主要是PUB/SUB类型，有消息生产者和消息消费者。Rx是Reactive框架，使用SignalR和Rx能够实现服务器向客户端的PUSH推送功能。  使用LinQ的问题是堵塞，如下图：    .....http://t.cn/RPho4pa
+shefansxyh【阿里云 配置】: 在阿里云上布属一个论坛，需要购买什么样的配置，请各路高人路过指点一二！谢谢！ ...http://t.cn/RPhBHXL
+shefansxyh【阿里云】: 几颗cpu？有没有用负载？数据库怎么选的，能否详细点？...http://t.cn/RPz3uHW
+shefansxyh【阿里云】: 几颗cpu？有没有用负载？数据库怎么选的，能否详细点？...http://t.cn/RPz1SnT
+banq【阿里云】: 原来是阿里云主机A套餐，最便宜的，后来升级了内存和宽带，数据库是mysql4 一核CPU，负载在连接数150时状态是0。基本就是这些。...http://t.cn/RPZ1B8M
+banq【我们对云计算的理解都错了】: 国内大部分号称  云计算  的产品基本是主机托管+数据中心，很多人认为  云计算  =主机托管+数据中心，其实这种观点错了。来自druva的一篇 ...http://t.cn/RP2qcHq
+brighthas【道破Node.js】: ...http://t.cn/RP2eQRl
+banq【AngularJS与服务器端MVC比较】:    ...http://t.cn/RPLbTMZ
+banq【Haskell学习资源】:  Github学习资源 陈列了起步入门Haskell的资源，包括安装方法。  Haskell是函数编程语言的代表，GHC是haskell最流行的编译器，而Cabal蕾西Maven Node的NPM Python的pip和Ruby的Bundl.....http://t.cn/RPLr51K
+banq【道破Node.js】: 过奖了，多谢看重Jdon。Jdon也只是一个专业小网站，当然也曾经孕育过JavaEye这些大网站，当时我年轻还不习惯，现在乐观其成，只要能有益软件业发展都是好事。...http://t.cn/RPLgtka
+banq【.NET的Actor模型：Orleans】:  Orleans 是微软推出的类似Scala Akka的Actor模型，可用于实现  DDD  +EventSourcing/CQRS系统。  Orleans是一个简化开发的可伸缩的云服务的项目。　　　  　构建交互式服务的可 ...http://t.cn/RPLsL0H
+shefansxyh【web 应用 一亿 并发 解决 之道】: 如题，若应用能够支持一亿  并发  量，应用应从哪几个方面如手？请大伽不吝赐教！...http://t.cn/RPU88ql
+awsd【北京哪里可以有偿捐腎】: 北京哪里可以有偿捐腎┏186.013.78876李医生┓什么地方可以賣腎 ┏186.013.78876李医生┓哪里能够賣腎哪家医院可以賣腎正规医院、高价安全、诚信保密术前付款、男女不限、诚信为先、不诚勿扰 ...http://t.cn/RPbmpjp
+awsd【上海哪里可以有偿捐腎】: 上海哪里可以有偿捐腎┏186.013.78876李医生┓上海什么地方可以賣腎 ┏186.013.78876李医生┓上海哪里能够有偿捐腎哪家医院可以賣腎正规医院、高价安全、诚信保密术前付款、男女不限、诚信为先、不诚勿扰 ...http://t.cn/RPbm3Jz
+awsd【广州哪里可以有偿捐腎】: 广州哪里可以有偿捐腎┏186.013.78876李医生┓什么地方可以賣腎 ┏186.013.78876李医生┓广州哪里能够有偿捐腎广州哪家医院可以賣腎正规医  院、高价安全、诚信保密术前付款、男女不限、诚信为先、不诚勿扰...http://t.cn/RPbuZse
+banq【在亚马逊AWS上扩展微服务架构(英文PPT)】: ...http://t.cn/RPqIttH
+alexwoo【web 应用 一亿 并发 解决 之道】: 记住，脱离业务场景说吞吐就是在耍流氓  脱离响应时间谈吞吐也是刷流氓。...http://t.cn/RP5Bzxa
+myyhjc【web 应用 一亿 并发 解决 之道】: 多长时间完成1亿并发？...http://t.cn/RPfKf5Q
+shefansxyh【选择web容器还是JavaEE容器的界线】: 选择  JavaEE  容器还是WEB容器，好像并没有一个标准（EJB应用除外），据个人工作经验而谈，大公司用  JavaEE  容器，仅仅是因为说起来有点高大上，小公司用WEB容器觉得用重量级的没必要。请走过路过的仁兄捧场谈谈.....http://t.cn/RPf0pzL
+banq【选择web容器还是JavaEE容器的界线】: 如果不用EJB，使用JavaEE容器基本是浪费了，JavaEE容器=Web容器+EJB + Others....http://t.cn/RPItnSV
+tangxuehua【删除功能算不算领域行为】: 删除批次的时候为何要删除项目？难道项目是从属于批次的？...http://t.cn/RPMURhO
+banq【JITWatch】: 使用 github[/author].com/AdoptOpenJDK/jitwatch]JITWatch 可以帮助你观察你的应用程序由JVM字节码转换成机器码JIT的情况。这是一个非常简单的工具,可以让你洞察发生在您的Java应用程序。 .....http://t.cn/RPxYNtd
+sinaID12260【敏捷开发其实意义不是很大，在复杂项目中】: 楼主应该没有在生产环境应用过敏捷。真正的敏捷需要几个核心实践：TDD、继续集成和重构，能做到这几个，叫不叫敏捷都无所谓了。...http://t.cn/RPxQaNI
+banq【使用Docker建立一个动态负载平衡的分布式Web系统】:   这是一个使用Docker将Node.JS或Java等Web应用实现  分布式  部署的文章，关键是解决应用服务的自动发现。  分布式系统的核心是负载平衡和服务发现，逻辑图如下：   每个应用都运行在Docker容器中。  .....http://t.cn/RPx8YA2
+gameboyLV【什么才算真正的领域服务】: 领域服务是没有状态的，一般不实现为静态方法，可由IOC容器来维护领域服务的实例。    http://t.cn/RPxdmif  之前也讨论过领域服务是什么...http://t.cn/RPxdmiI
+sinaID54585【如何在java类中调用websphere中的jndi对象】: lz后来是怎么解决的？...http://t.cn/RPJhWI2
+banq【我们对云计算的理解都错了】: 提供服务级别SLA的云计算应该有服务实例容器，见 。    当前Docker提供了这样一个服务实例容器，见：        ...http://t.cn/RPJqCaR
+sinaID57080【.NET的Actor模型：Orleans】: 必须依赖azure吗?...http://t.cn/RPX5Vz3
+banq【Storm与Spark Streaming比较】:   Storm风暴和Spark Streaming火花流都是  分布式  流处理的开源框架。这里将它们进行比较并指出它们的重要的区别。   处理模型,延迟  虽然这两个框架都提供可扩展性和容错性,它们根本的区别在于他们的处理模型。而Stor.....http://t.cn/RPXMhp2
+linjie【经典DDD + CQRS＋ES　的一些疑问】: 以下是我关于经典  DDD  的简单理解： 在经典的  DDD  中，大量使用领域服务 Domain Service 和 Factory 来修改聚合根。 复杂的聚合根创建使用 Factory，将Factory 所需的参数全部传进去，Fa.....http://t.cn/RPXCPvN
+JasonMing【关于restful 查询API设计问题】:      个人感觉，你这个服务是面向数据的服务，而且基本不会存在Command操作。    对于单纯的查询，可以使用.Net上提供的OData，其实现了很大部分linq的查询；如果自行实现可以参考亚马逊aws或者twitter的api设计风.....http://t.cn/RPax3rr
+showerxp【事件总线，异步处理。如何反馈信息给用户呢？】: 如题，用户发出命令，产生事件，进入事件总线。服务器后台处理事件总线中的事件，如何反馈处理完的信息给最初事件产生源头——用户呢？...http://t.cn/RPSwgcp
+thinkjava【招云计算JAVA开发工程师】:     1. 熟悉jquery, extjs, flex等前端技术，熟悉struts, spring, hibernate等主流框架。     2. 熟悉Java/JSP/Servlet，具体良好的coding习惯，具有一定的分析能力和设计.....http://t.cn/RPoPNfY
+banq【Orzo.js是一个可用Javascript编程的Map-Reduce多线程实现】:  Orzo.js 是一个简单的多线程Map/Reduce的Java实现，但是可以使用Javascript编程的库包。它设计为运行在单机多核上。  Orzo.js的map-reduce脚本可使用JavaScript. 你不必关注整个计算流程，.....http://t.cn/RPKvvEw
+banq【事件总线，异步处理。如何反馈信息给用户呢？】: 可以参考Node.JS原理。...http://t.cn/RPKhNcG
+banq【Scala和Go的区别】:   Keith Morrow作为Scala的支持，发这篇文章主要是反驳一年前 Paul Dix 的文章: why he prefers Go over Node and Scala ，Paul Dix认为Go好于Scala的原因在于下面几个.....http://t.cn/RPKUoD6
+showerxp【Nodejs适合做领域驱动】: 个人理解，node.js因oo特性不完善，还是不适合做DDD。...http://t.cn/RPOe2wx
+brighthas【Node.js 中的流模式详解】: ...http://t.cn/RPWiTk9
+lostalien【哥转型做运营了】: 哎。。。。...http://t.cn/RPWoa1t
+cuiyl【我是来学习的，系统提示24小时内发帖】: 我是来学习的，系统提示24小时内发帖...http://t.cn/RPlIYGT
+anycmd【为什么不选择基于Http的Restful】: 这个随笔没说为什么要  RESTful  ，只说为什么不基于Http实现  RESTful  。首先Http是超文本转移协议而不是控制协议。通常文档中也会使用“资源”来指代超文本。Http作为一种传输协议其所面向的本体是“资.....http://t.cn/RPjOt40
+SpeedVan【为什么不选择基于Http的Restful】: 重新打造标准和已存在的http标准没有根本性变化，那就没什么意义。为什么用http？若不用http，用什么？用其他有没违背初衷？请先回想，Rest为什么会出现。...http://t.cn/RPjBzt4
+SpeedVan【为什么不选择基于Http的Restful】:    感觉你在用一个非Rest的东西来取代Rest，你的初衷跟Rest的初衷不一样，自然不能取代Rest。...http://t.cn/RPY60NF
+anycmd【什么是信息】: 在我设计Anycmd的权限数据交换模块的时候反复引用了“信息”概念，如“InfoID（信息标识）”、“InfoVaue（信息值）”、“InfoString（信息字符串）”、“InfoStringConverter（信息字符串转化器）”等。这.....http://t.cn/RPYS6BG
+brighthas【Node.js 解压压缩视频讲解】: Node.js 解压压缩视频讲解 地址：   http://t.cn/RPYC8SO ...http://t.cn/RPYC8SW
+anycmd【Akka.NET】: ...http://t.cn/RPT71G4
+banq【微服务实战中的那些“坑”】:   Richard Clayton分享了自己在微服务实践中的失败经历，避免更多人犯同样的错误。这些问题主要有以下几点：  1.开发人员之间的哲学观点的差异 我们团队对微服务分为以下三个派别: a.喜爱微服务 b.讨厌微服务 c.冷漠 无足够.....http://t.cn/RPTgaT1
+SpeedVan【凭什么可变？】: 输入是一次一次的，输出是一帧一帧的。凭什么说存在可变？寄存器？硬盘？内存？Cache？怎么说到可变上全是些存储和IO？我们的问题在于存储1，还是在于计算1？...http://t.cn/RPQ7ShA
+banq【Gofer是Node.js 的HTTP客户端】: 著名团购网站Groupon自2013年从Ruby on Rails和Java迁移到Node.JS上以后，不断在Node.JS领域探索最佳实践，最近贡献了他们的Node.JS客户端  Gofer   Gofer是一个REST服务的客户端，通过.....http://t.cn/RPQV4OQ
+banq【Whitepages 从Ruby迁移到Reactive】:   这是来自Whitepages的一篇从Ruby迁移到Reactive的实战分享英文PPT，文中讨论了为什么要使用Scala替代Ruby的理由。  Whitepages是一个用来定位手机或人的网站系统，每个月有50M独立用户，每天有35M的.....http://t.cn/RPQimWd
+banq【Whitepages 从Ruby迁移到Scala】: 有些人认为Ruby慢在Rails框架上，以为去除Rails的Ruby就快多了，Whitepages的这项测试是基于Ruby直接开发的服务，其与Scala开发的服务性能还是相差很多，不只是语言方面，可能还有reactive等这样的异步机制等原.....http://t.cn/RPQjYS4
+anycmd【包工头 - 工人模式】:  包工头 – 工人模式：  actor树模式： 组织结构模式： 包工头工人模式我是从一本书上看到的《大规模  分布式  系统架构与设计实战》。“包工头-工人”模式会使用到Anycmd的User模块中去。AC是一个隐式的项目。一个项目只有一个.....http://t.cn/RP8azzY
+banq【Martinet是一个开源分布式任务管理系统】:  Martinet 是一个基于后台数据库与ZeroMQ的  分布式  任务管理系统，它会将持久一些未来将运行的任务，如果系统突然当机，这些任务将不会受到影响，Martinet使用与sequelize.js兼容的数据库，当前缺省是SQLite.....http://t.cn/RP8YwFj
+brighthas【CQRS的事件回溯是否能当机恢复？】: banq大哥问个问题，CQRS的事件回溯是否能当机恢复？  比如 a 产生event，b 监听这个event，做一些动作。  那么如果a产生event时，也就是说已经 event store了，这时候出问题了，也就是说b监听不到这个even.....http://t.cn/RPRbR0r
+banq【RxNetty是Netty的Reactive扩展】:  RxNetty 是将Reactive异步机制(类似Node.js)带入了Netty.  下面使用代码：         import  io.netty.buffer.ByteBuf;  import  io.netty.handler......http://www.jdon.com/nav/46629/23145343#23145343
+JasonMing【使用ES的聚合内的实体发生改变时如何将事件加入聚合根？】: 现在有一聚合A，里面包括了一个实体E（如下代码所示）         public   class  A  extends  AggregateRoot {    private   final  E entityInAggregate; .....http://t.cn/RPEwTUq
+lostalien【Martinet是一个开源分布式任务管理系统】: 任务管理系统的使用场景是啥。。。...http://t.cn/RPEiytu
+banq【Martinet是一个开源分布式任务管理系统】: 任务分设置 定义和执行方式三步，  [code]  //任务设置  var MartinetWorker = require('martinet').Worker;    var WORKER_PORT = 3000;  var worke.....http://t.cn/RPEWI4Q
+banq【使用ES的聚合内的实体发生改变时如何将事件加入聚合根？】:      对E的任何操作都是通过A进行的，外部不能跨越聚合根A直接调用其内部的属性和方法，这个属性可能是一个子对象如E。这是DDD聚合根设计原则。...http://t.cn/RPEl47S
+anycmd【推出了用以解决Query问题的领域特定语言——UQML】: daxnet推出了用以解决Query问题的领域特定语言——UQML： Unified Queries Markup Language可以简称UQML。 UQML是一个基于xml的标记语言，它由一系列predicate和几个可以将一个pred.....http://t.cn/RPnwqGD
+banq【对于DDD,其中的各项文档怎么写?】:      好像对DDD有误解，主要业务内容还是在聚合根实体中，服务只是业务发生的场景。...http://t.cn/RPuSJKG
+tecentID9DFC4【对于DDD,其中的各项文档怎么写?】:  "的内容  但是现在一切都变了,业务都变成了服务,那详细设计里面是否要写这些服务 ...      好像对DDD有误解，主要业务内容还是在聚合根实体中，服务只是业务发生的场景。 ... [/quote]    不是有贫血模型和充血模型? .....http://t.cn/RP3ASP9
+banq【ORM和Rails】: 看到一句英文：ORM变相鼓励你抹去许多对象的相关状态，而Rails则鼓励你耦合任何一切。  原文： An ORM encourages you to smear related state across a lot of objects, .....http://t.cn/RP1LipC
+WinSpread【ORM和Rails的问题】: 个人认为，该句英文主要表达以下意思：  1、orm消除众多对象之间的关联状态，来降低对象间的耦合度  2、rails集中某对象相关的一切，来提高对象的内聚...http://t.cn/RP1rdaG
+g0204shuo【LMAX架构】: 请问banq,研究了好久的DDD 和DCI ，但是有一个问题我一直模模糊糊的，那就是在jdonframework中 数据库事务是如何控制的？...http://t.cn/RPBORSe
+banq【ORM和Rails的问题】: 该Twitter讨论推崇 Kent Beck的那句话：软件设计者应该是分离应该分离事物，而不是将本应一起考虑的事情进行分离。    Josh Kodroff认为Rails的问题是用同一个类进行又读又写，将一起耦合在一起，应该采取CQRS的读.....http://t.cn/RPBjY3G
+banq【Clojure前端开发栈: 基于ClojureScript的Core.Async】:   Core.Async是一个基于ClojureScript前端开发库包， 见：Github案例  传统的  异步编程  问题： 1.嵌套的回调难以维护和理解 2.JS是单线程 3.JS promises虽然改进很多，易于阅读，虽然没有嵌套.....http://t.cn/RPgqzIe
+banq【有关学习Go语言的建议】:   这是来自 40位Gophers访谈 对Go语言初学者的建议，大致翻译如下：  首先在学习Go基本语法以后( Go中文指南 )，需要注意以下几点： 1. 理解接口的威力，它们是Go语言最伟大的礼物，从根本上说比Go的通道channel或协.....http://t.cn/RPgV9g8
+banq【有关学习Go语言的建议】:  ...http://t.cn/RPgNag7
+banq【AngularJS调试的Chrome插件：AngularJS Batarang】:  AngularJS Batarang 是一个显示AngularJS的scope 层次的Chrome插件，有效的快速查看一个page 中有多少Scope能够帮助我们快速方便调试AngularJS程序。   AngularJS调试细节 。 ......http://t.cn/RPD7UUJ
+banq【Nginx + PHP + MySQL (LEMP)安装包下载】:    安装包下载地址 ，安装包包括： Nginx Web server (1.6.1) MySQL database server (5.5.38) PHP-FPM (5.4.31) phpMyAdmin  (4.2.7.1)  其他组件有.....http://t.cn/RPDymWy
+anycmd【唯一无法回退的是时间】: 当前请求到底是Command还是Query由当前请求的响应者决定。前端控制器收到一条消息比如记为message1，这个请求内容为message1的请求可能经过一个相当复杂的处理管道，管道还会分叉，每个分叉中的消息可能和原始的message1.....http://t.cn/RPDNXcn
+Twitch(Justin.tv)的技术架构 - Thinking In Jdon http://t.cn/RhZ66kx
+banq【我在领域驱动开发中遇到的一些问题】: 事务概念不一定是用锁(传统的JTA或数据库锁)控制顺序，也可以将操作事件放在队列中来控制顺序。    事务实则保证可靠性，你这个问题类似：     可以采取一些有事务机制的队列Queue产品如apache kafka来实现，具体实现参考可见.....http://t.cn/RhwSWJ2
+banq【LAMP与MEAN比较】:  LAMP是传统Web开发堆栈，是Linux Apache MySQL和PHP/Python的简称，而MEAN是MongoDB、ExpressJS,AngularJS和Node.js。该文对这两种开发栈进行了比较：   Web服务器  在M.....http://t.cn/Rhw97AN
+g0204shuo【我在领域驱动开发中遇到的一些问题】:      banq大神，你好！          其实我所想问的是保存的是订单的状态信息的时候，而不是保存事件本身。            假如队列中保存的是顺序发生的事件，有另外的一个线程专门来处理这些事件。例如一个订单保存事件。那么在处.....http://t.cn/RhwYa27
+banq【我在领域驱动开发中遇到的一些问题】:      如果是状态，因为内存中有最新的订单状态，数据库中也有一份，实际是两台服务器之间的状态复制的问题，也涉及到状态一致性的问题，可参考MySQL主从备份原理或noSQL之类数据库的replication复制方式(其实也是使用append.....http://t.cn/RhwmhUx
+banq【Simple Injector是.NET的依赖注入库包】:  Simple Injector 是一个免费的易于使用的支持 .NET 4+的  依赖注入  Dependency Injection (DI)库包，同时支持Silverlight 4+ Windows Phone 8, Windows 8.....http://t.cn/RhA1ahF
+banq【下一个IT革命：微服务器和本地云】:   这是一篇从物联网角度认为微服务器(micro-server)和雾计算(fog computing)将是下一场IT革命。文章认为：  以前包括现在我们很多设备都是专用的，比如你的调制解调器 WIFI路由器 电视机顶盒等等，这些硬件中都驻留.....http://t.cn/Rh2RTov
+brighthas【关于 灾难恢复，和 ddd cqrs 有关吗？或者说是否有恢复机制】: 关于 灾难恢复，和   DDD     CQRS   有关吗？或者说是否有恢复机制？  我有个疑问，就是事件回溯对灾难恢复的帮助有多大，具体是如何恢复？...http://t.cn/Rh2BefY
+banq【关于 灾难恢复，和 ddd cqrs 有关吗？或者说是否有恢复机制】: 参考大数据处理内部处理架构： ...http://t.cn/RhLz8UZ
+ronaxiong【招聘资深iOS开发工程师（杭州，30k以内）】: 职位描述 移动互联网开发   4年以上ios开发经验，  要求是应用层开发；  有SNS社交类、移动电商类、支付、导购等项目经验优先考虑 职位要求 1、4年以上IOS开发经验,1年以上App开发经验,熟练使用Mac OSX系统,熟悉XCod.....http://t.cn/Rhy7E26
+gameboyLV【为什么国内DDD等实践感觉很少的样子？】: 没有这个氛围，或者说对某项业务大家也不会去深入研究业务逻辑是否合理，只要按客户的要求做就行了。...http://t.cn/Rhyc5a2
+SpeedVan【Twitch(Justin.tv)的技术架构】: 我感觉就是一个负载平衡，有啥特别。。。...http://t.cn/RhyYxrD
+brighthas【我觉得eventbus最难实现】: 我觉得eventbus最难实现，因为需要维护事件间的关系，和恢复。...http://t.cn/Rh49LmA
+brighthas【事件总线有个 pipe 管道方法】: 事件总线有个 pipe 管道方法，伪代码如下：  bus.pipe(when, filter , then);  when 当什么事件发生时， filter 是对 event 数据的处理，可为null then 是调用那个领域方法  e.g.....http://t.cn/Rh4YUkD
+banq【事件总线有个 pipe 管道方法】: 可以参考Vert.x 支持Java和JS。...http://t.cn/Rh4ESyk
+hanyh2004【什么是一个好的业务分析师BA？】: 跳出自我的偏见和狭隘真的很难    顺便说一句，论坛怎么不能直接在最下面点回复呢？...http://t.cn/RhbzHzV
+brighthas【RabbitMQ 作为 eventbus如何】: RabbitMQ 作为 eventbus如何？...http://t.cn/RhGMmbi
+tzwldl【cqrs 中还需要领域服务吗？】: 我也觉得用saga来实现用例场景，比用领域服务来实现用例场景理合适，不知Banq老板如何看。...http://t.cn/Rh5wHDo
+lovemelovemycode【SOA架构使用问题】: SOA是一种设计理念，通过ESB可以实现它，例如红帽的jbossesb.现有疑惑如下，请大侠指导：  1 jbossesb或者类似的产品能否代理各种WebService框架下开发的WebService接口、Servlet的接口、Struts.....http://t.cn/Rhck8tE
+banq【SOA架构使用问题】: 详细可参考： ...http://t.cn/Rhfcg0M
+banq【软件的复杂性与构造定律 - 解道Jdon】:  看！看！深入研究自然，你就会明白一切。 - 爱因斯坦...http://t.cn/RhIpepT
+banq【多线程让可扩展性走进了死胡同】:   这是一篇来自Python世界的文章，但是对整个编程领域还是适用的，多线程虽然让我们处理请求更快，但是也是有天花板的，绿色(微线程micro-thread)线程之类才是解决方案。  多线程软件开发解决了大量的问题，尤其是以网络为中心的应用.....http://t.cn/RhIYGm3
+lovemelovemycode【SOA架构使用问题】: 1 在机器上安装一个jboss AS(一个容器，类型Tomcat),然后在jboss AS中部署jbossesb项目。这样，一个简单的SOA总线就成了。    2 再建一个项目A，通过该项目A代理中心现有80多个项目暴露出来的接口；项目A以.....http://t.cn/RhIQURc
+brighthas【Saga的设计】: 下面是 saga的代码，用JS实现的，省略了多余代码。希望banq大哥和各位指点。         // 定义Saga的一个例子  var T = Saga.extend({      // 启动方法     startup: functi.....http://t.cn/RhI3ved
+tangxuehua【Saga的设计】: 也可以看看我用c#实现的基于saga思想的转账的例子：  http://t.cn/RhIg5Ag
+anycmd【Saga的设计】: 我想了一下转账这个问题，能不能这样考虑：  将转账这个事务看作一次运动，这是一次代表钱的数字从user1运动到user2的运动。我们可以将这次运动用如下形式标识：  public class MoneyTransfer {      pub.....http://t.cn/RhMUVCU
+brighthas【saga转账的lock】: saga中lock money字段时，目的是怕别人更改，这个可以不通过“语言本身或框架本身”实现，而是通过普通的方法达到。伪代码如下：            // saga 转账方法    function transfer(fromId,.....http://t.cn/RhMR5lr
+banq【saga转账的lock】: 关键是如何保证transfer这个方法的原子性...http://t.cn/RhxqA94
+banq【我觉得eventbus最难实现】:  ...http://t.cn/RhiOF4A
+sinaID54266【坚决抛弃powerdesigner建模】: 哎，惭愧，用他做的也仅仅是数据库建模...http://t.cn/RhieQYR
+banq【Go语言是彻底的面向组合的并发语言】: 面向组合编程从AOP的Mixin，然后到Ruby的Traits，直至  DCI  设计，包括Scala的trait的组合设计，这些都有一个共同特点，组合特性是显式的，也就是说要用专门语法来声明组合。其实组合设计应该是面向对象设计中很自然的一.....http://t.cn/Rh6Af1y
+edison87915【关于主键管理】:  提到主键管理，我能联想到几点： 1. 使用数据库自增主键很方便，但不推荐使用，移植性和灵活性大大降底，比如只能在插入记录后获取主键值， 相对而言，很多人更推荐自管理主键的方式，下面就忽略自增主键的讨论吧  2. 使用 UUID 作为主键非.....http://t.cn/RhayWl5
+edison87915【关于主键管理】: 哥们。。。。木有打理我的，是不是太小儿科了。。...http://t.cn/Rhakhz2
+banq【关于主键管理】: 总结得太全面了，，，好像没有什么补充的。...http://t.cn/RhSwOuc
+banq【大家如何做到“深入”思考的】: 反者道之动，反向思维能推动自己进入深入思考，自己和自己或别人吵架也是一种否定之否定的循环。...http://t.cn/RhSAye3
+sinaID83154【Ebay架构特点(HPTS 2009)】: 挺好的文章，理念可以帮助我理解一些服务器的东西...http://t.cn/RhoVzNc
+edison87915【删除功能算不算领域行为】: 不懂DDD、领域建模，以我的理解，是不是应该有个项目管理器之类的东西，比如有个类 ProjectManager，它来负责创建批次，以及删除批次及与批次相关联的一些项目呢？  哈哈。。。...http://t.cn/RhoO8Du
+zjsong2012【关于主键管理】: 首先赞成你的观点。关于这个问题，我还思考了两天，也烦了两天，最后还是用了你的第3点。发现自己管理主键的好处就是对象进一步与数据库撇开了关系。...http://t.cn/RhKIhrE
+edison87915【关于主键管理】: 谢谢各位回答，  回复xianghx ：看来光理论不行，多用用才行，哈哈，感谢。    回复banq : 我猜是板桥大哥一直搞 NOSQL。。，关系数据库懒的过问了。哈哈。。。感谢    回复 zjsong2012 : 我目前用的第4种，感.....http://t.cn/RhK6B4U
+clonalman【关于主键管理】: 关键看系统是否是集群应用或分布式应用，  其次再考虑性能问题...http://t.cn/RhKN6SV
+clonalman【Ebay架构特点(HPTS 2009)】:   date=2009-11-26 23:10]2.1 应用水平切分  在一个大型的系统中往往会涉及到很多的错综复杂的逻辑，这个时候架构师就需要根据不同的功能对系统进行水平的分割，比如按照用户，商品，交易，搜索等功能进行水平的分割。而在具体.....http://t.cn/RhKT2I2
+edison87915【关于主键管理】: 同意，集群和性能是我下一步要关注的，目前就图省事吧，能省一步是一步，每次看 JDON 上集群、性能相关的文章，都表示很迷糊，哈哈，需要实践，多谢回复，呵呵...http://t.cn/RhKQbtF
+edison87915【算法还是最重要的】: 08年写的。。。写的真好，banq 大师......http://t.cn/Rh9zpML
+banq【Apache Kafka简单介绍 - 解道Jdon】:  本文将首先简要介绍Kafka卡夫卡，通过一个示例场景演示其一些独特的功能。帮助大家初步了解其主要特点。(点击标题)...http://t.cn/Rh9mzbk
+banq【chromeos-apk让安卓的APK在Chrome上运行】:  Chromeos-apk 是一个可以让  安卓  的APK安装文件可以在Chrome OS和任何支持Chrome的桌面操作系统如OS X,Linux和Windows等上运行。  具体运行方法是： chromeos-apk APK文件 比如.....http://t.cn/Rh9kQ0g
+banq【容器是一种新的组件】:   Docker作为一种容器其实是一种新的组件，容器概念历来已久，早在90年代末,我们知道BEA系统,我们有相似的中间件和  分布式  系统背景。Docker非常类似那时的ejb容器。  EJB容器已经被Docker这样新的组件概念替代，包.....http://t.cn/RhNydxF
+brighthas【程序员 2014-9-21 一天的奇妙之旅】: ...http://t.cn/RhNC6OQ
+edison87915【Docker容器是一种类似EJB的新组件】: banq 大师，周末不带休息的么。。哈哈...http://t.cn/RhN0Ceb
+brighthas【Angular视频详解 －入门01】: ...http://t.cn/RhNT8q7
+macleo【为什么国内DDD等实践感觉很少的样子？】: 关注一下ddd，banq老大，回归了。呵呵...http://t.cn/RhpzmVk
+ronaxiong【PHP手游开发（手游项目）】: 职位描述 1. 服务器游戏服务端逻辑开发  2. 确保代码运行的健壮性、高效性 职位要求 1,熟练使用linux.  2,有lnmp环境搭建和管理经验。  3,精通PHP  4,具有MySQL索引优化、查询优化和存储优化经验  5,精通me.....http://t.cn/Rh0PD54
+ronaxiong【PHP开发工程师（页游平台项目）】: 职位名称： PHP开发工程师（页游平台项目） 薪资： 10-15K/月薪 工作地点： 上海 职位描述 岗位职责：  页游联运平台，数据业务的可视化平台（PHP 开发项目） 职位要求 1.热爱WEB开发，有志于在此领域长期发展；  2.熟悉L.....http://t.cn/Rh0hT23
+brighthas【程序员 2014-9-23 一天的奇妙之旅】:   点击标题进入哦 ...http://t.cn/RhOiGol
+edison87915【算法还是最重要的】: banq大叔。。。。好  程序和软件的区别，序、件。。。精典...http://t.cn/RhO0NaS
+ronaxiong【招聘资深iOS开发工程师（杭州，30k以内）】: 有意向的请抓紧时间联系哦...http://t.cn/RhOjIAr
+ronaxiong【PHP开发工程师（页游平台项目）】: 有意向的联系我哦...http://t.cn/RhOEcyM
+brighthas【Angular.js视频详解 入门02】:   点击标题进入...http://t.cn/RhWztpe
+wjpiao【chromeos-apk让安卓的APK在Chrome上运行】: 这个有点意思啊，呵呵！...http://t.cn/RhWxcTp
+banq【比特币和PayPal结成联盟】:   2014年9月23日Bitpay和PayPal联盟，现在可以使用比特币钱包通过PayPal支付游戏，音乐，视频，新闻，电子书和其他数字内容。 ...http://t.cn/RhWmn0k
+sinaID49030【jivejdon 4.6 使用的JdonFramework是哪个版本】: 我本地跑起来了jivejdon 4.6，但是没有JdonFramework的源码，现在不知道该下载哪个版本的JdonFramework源码，网上看到最新的源码版本是jdonframework-6.8。 求解答...http://t.cn/RhlWYj8
+sinaID49030【jivejdon 4.6 依赖的jdon源码可以从哪里下载吗？】: jivejdon 4.6 依赖的jdon源码可以从哪里下载吗？ 如：  jdom.jar  jdon-jdbcTemp.jar  jdon-struts1x.jar  jdonAccessory.jar...http://t.cn/Rhlm3UU
+sinaID49030【jivejdon 4.6 依赖的jdon源码可以从哪里下载吗？】:      我在这里看到了好多版本的jdonframework，不知道jivejdon依赖的是哪个版本。  另外， jdon-jdbcTemp.jar jdon-struts1x.jar jdonAccessory.jar 这些源码我还是没看.....http://t.cn/RhjgPX3
+banq【领域驱动设计中的模型】:      原型是需求，模型是从需求中抽象出的逻辑结构。...http://t.cn/RhTXkiO
+banq【jivejdon 4.6 依赖的jdon源码可以从哪里下载吗？】:      这些都是以前旧版本中存在，基本没有变化。...http://t.cn/RhTa9w2
+lovejdon【领域驱动设计中的模型】: @   原型是需求，模型是从需求中抽象出的逻辑结构。    请问 ,那在WEB系统中，与客户交流的时候，是以原型为依据的，并非模型啊，客户也不关心啊  ...http://t.cn/RhTNW4A
+banq【专注数据才能发现逻辑】: 英文有句话：Focus on the data, not on the logic. The logic will emerge when you understand the data( 专注于数据，而不是逻辑。当你理解了数据，逻辑将出现.....http://t.cn/RhTu6vC
+banq【领域驱动设计中的模型】:      你需要发现原型数据背后的逻辑，找到逻辑你就能建立模型了。     ...http://t.cn/RhTr4zh
+banq【算法还是最重要的】:       ，请注意，不是直接专注算法逻辑。...http://t.cn/RhTdvJw
+ericyang【专注数据才能发现逻辑】:    你标题强调'专注数据'，内容说明'日志数据高于数据库'，里面会让看的人对几个'数据'顿时混淆不解，甚至产生歧义和误导。  个人建议，不妨谈论日志，不提数据，比如data和log的关系，一目了然你什么意思。...http://t.cn/RhRyQj7
+ericyang【谈谈需求过程中的谈判】: 一段有趣的对话，恐怕很多人亲身经历过，写下来供大家一笑。    甲： 我想添加这个功能，很重要的，必须实现。    乙： 没问题，nothing is impossible。    甲： 太好了，您真是牛人，什么都能做。    乙:  请问.....http://t.cn/RhRUYOA
+zjsong【运行jdonMVC示例出现了错误】: 严重: Servlet.service() for servlet   by http verb[GET]please check your resource design! 这是jdonframework6.8中的jdonMVC+CQRS.....http://t.cn/RhRb77B
+zjsong【运行了JdonMVC示例出现错误】: 刚才发的帖子不见了？ 严重: Servlet.service() for servlet   by http verb[GET]please check your resource design! 请问这个是什么错误？...http://t.cn/RhRbsa2
+banq【Disruptor单写原则的疑惑】:      集群如果是内存矩阵也就是数据网格情况下，一台机器内存更改会立即同时复制到其他机器，是一种主从关系，一个领域模型只能允许在一台服务器上发生更改，类似数据库分区。 ...http://t.cn/RhEmBru
+banq【加法是自然之道】: 写代码和数据处理有一个共同规则：只新增append/insert.不修改替换update/replace。这个原理符合自然加法规则，符合构造定律Constructal Law。  我们一直在说道法自然，那么自然之道是什么呢？我认为自然是在做.....http://t.cn/RhEBRWQ
+banq【微软竟然参与OpenJDK项目】:   微软最近向OpenJDK提交了一个改进，使用户能够在Windows下利用TCP回环loopback 的快捷路径机制，实现更高性能的Socket操作。尤其在  分布式  服务器端/云场景,比如Hadoop。　　点击标题查看您具体提交。...http://t.cn/RhnLucY
+banq【加法是自然之道】: 写得不错，提出了“积”和“自身能量”两个观点，这两种是构造定律的两个基础，是系统生长的两个规律，也是决定为什么自然界采取树形结构这种方式进行生长。...http://t.cn/RhnnQyU
+freeren【专注数据才能发现逻辑】:   date=2014-09-28 10:55]你标题强调'专注数据'，内容说明'日志数据高于数据库'，里面会让看的人对几个'数据'顿时混淆不解，甚至产生歧义和误导。  个人建议，不妨谈论日志，不提数据，比如data和log的关系，一目了然.....http://t.cn/RhmzQbq
+banq【专注数据才能发现逻辑】:       ...http://t.cn/RhetyTc
+ericyang【专注数据才能发现逻辑】:    这正是我想略微提的，其实他想说的内容没问题，不过标题会引起误会，，，数据抽象，比如业务逻辑，我们放在ppt或者白板上，是数据么？还是说清楚比较好，我个人是不喜欢似是而非的描述，特别是'数据和算法'这个已经炒烂了的话题...http://t.cn/Rhe9tOv
+ronaxiong【PHP手游开发（手游项目）】: 合适的请投简历过来...http://t.cn/RhDdzkz
+banq【领域驱动设计的优点和挑战】:   这是来自drdobbs的Dino Esposito文章。在领域驱动设计提出后这十年，DDD已经证明对于某些复杂项目是有效的，为实践提供了适当的指导。  大约十年前，Eric Evans提出新的软件开发方法：领域驱动设计(DDD)，这是一.....http://t.cn/RhFvmuP
+banq【如何阅读开源代码】: 阅读源码可以累积开发经验，阅读源码如同学生写作前需要大量阅读文章一样。    我的经验是首先试着运行，然后使用代码跟踪，摸清其运行轨迹，找到其核心部分，如果有分层观念，可以找出其各个层或模块的定位。...http://t.cn/R7vHfPx
+clonalman【领域驱动设计的优点和挑战】: 显著的优点是减少沟通成本，发现潜在需求，挑战方面，要象设计架构一样来设计领域逻辑，需要抽象、抽象、再抽象...http://t.cn/R7vklb4
+a2781544079【   HK域名也疯狂,全球最低价69元】:   随着港珠澳大桥即将在2016年通车,香港的高速发展，现在越来越多的企业,对HK域名更加重视，汇英集团和谷歌弃CN而选用在被国际更为认可的HK域名。   域名有很多种入com域名，cn域名，camera域名等。而.HK是香港专属的国际顶级.....http://t.cn/R7Px1Uh
+hanyh2004【领域驱动设计的优点和挑战】: 问各位一下：什么才是真正“复杂”的系统？  过去几年还没有真正碰见所谓的负载的系统，我的关注是数据，数据的产生、数据的流向、数据的存储，数据的提取。搞定这几个过程，就能实现对应的商业价值。  ...http://t.cn/R7hc50m
+banq【Java中安全发布和安全初始化】:   该文主要将Java的单例和JMM内存管理以及同步锁性能综合起来考虑，对传统Double-Checked Locking 提出了进一步完善，并用Intel芯片和ARM芯片分别进行了测试。从文中看出，在多线程中做好单例值的初始化真不是一件简.....http://t.cn/R7Ax2Zv
+banq【为什么每个人都讨厌GO语言？】:   虽然不是每个人讨厌GO，但是从Quora(问答社区)的 这些问题 中可以看出，每个人都在刁难Go语言，这些刁难有以下几个部分：  1.Go不过是70年代的语言。 2.Go忽视了40年的编程语言研究。 3.Go是蓝领程序员的语言。 4.G.....http://t.cn/R7AsCFC
+anycmd【访问控制之9种元素】: anycmd明白rbac处在acl和安全策略语言中间的意义和重要性，anycmd明白人们花费集体智慧人力指定出标准的意义和重要性。anycmd致力于让高高在上的国家标准、国际标准发挥价值。 anycmd定义了可以任意两两组合的9中AC元素：.....http://t.cn/R72zzS6
+yellowhat【上海载信软件招聘数据工程师】:     各位同学好，现公司招聘数据中高级工程师职位，请有兴趣的同学可以来尝试一下  工作地点： 上海浦东 公司性质： 外企  职位: 中/高级数据工程师  岗位职责:  1. 负责爬虫系统架构设计、需求分析、部分项目管理工作； 2. 负责爬.....http://t.cn/R7Lyx7o
+anycmd【再一次构造定律】: 我不太了解超媒体，估计就是对资源进行分类、标识、识别，然后分类使用它们。类似"text/html"这种东西估计就是对资源进行分类，而且是有规律有组织有偏移地进行分类“text/html”这个东西使用了一个"/"记录和表达了组织结构。超媒体从.....http://t.cn/R7LXtZf
+xianghx【 Rust语言】: 听说可以，不过还在开发中。。...http://t.cn/R7yU8c0
+banq【使用golang实现DDD】:   这是abdullin使用Go语言实现一个  DDD  项目的实施过程日记，项目日记地址： http://t.cn/RPuIW6W   　golang是一个非常简单和无聊的语言。不必要的复杂性其实也不.....http://t.cn/R7GvSKi
+banq【更快的对象数组ObjectLayout】:   Java是快，真的太快了。但Java的对象和数组的内存布局本质上仍然落后于C语言家庭。  org.ObjectLayout 和 StructuredArray是一个新的Java集合库和数组类，用于激活JVM优化内存布局layout，这样.....http://t.cn/R7G7VMm
+anycmd【设计模式与系统阶段】: 同意。  人就是从四种脱氧核苷酸这四种结构开始构建的...http://t.cn/R7twjFL
+mitchellhou【设计模式与系统阶段】: “母亲和老婆掉进水里，先救哪个”      母亲问儿子 或老婆问丈夫，都是想知道他心里的地位高低。但目前和老婆的地位可以说，是两个不同的高地位。      按照banq的说法，就是各属于不同边界之中，在地位的高低之争上，没有可比性。    .....http://t.cn/R7tcB4P
+lzupb【领域对象in-memery实现的问题】: 领域对象如果要in-memery（hazelcast），必须实现序列化接口吧？貌似jdon源码中的model并没有全部序列化？ 另外，领域对象中的值对象也需要序列化吧？还有就是通过@ Inject  注入的对象，也能一并保存在  缓存  中.....http://t.cn/R7tJMNL
+banq【领域对象in-memery实现的问题】:      你的领域对象不需要使用继承extend任何model，只要注解@ 。关于hazelcast见一位道友的实践：     ...http://t.cn/R7tNcpD
+lzupb【领域对象in-memery实现的问题】: 刚才试着用hazlcast3.3 设置下cache，跑了一次match ddd的案例，抛出以下错误，但不影响程序运行：  19:33:23.301 [http-bio-8080-exec-5] ERROR com.jdon.domain.m.....http://www.jdon.com/nav/46775/23145595#23145595
+sinaID85300【领域驱动设计的优点和挑战】: 不懂的人不能用。需求设计要考虑实现，只考虑需求的，实现起来估计会有很大问题。...http://t.cn/R7fTMOS
+anycmd【设计模式与系统阶段】: 我昨天尝试换头像没有成功...http://t.cn/R7IHi6t
+brighthas【使用web components构建单页应用】:   请点击标题进入   ...http://t.cn/R7Mpw1x
+book007【学习QI4J第一步就遇到问题了，来请教】: 近来学习qi4j,第一步就遇到问题了，百度了好久，也没找到答案。 我下载了qi4j的官网案例。qi4j是基于gradle做项目管理的。我用Interiij idea 13一打开qi4j的项目就提示如下： Build script error.....http://t.cn/R7XvbOK
+banq【学习QI4J第一步就遇到问题了，来请教】: gradle脚本错误， ...http://t.cn/R7ayzSJ
+banq【用构造定律诠释聚合根】: 同意，聚合根是聚合内部和外部连接的一个点，模块或系统之间通过一条路径连接，如同一根树枝连接树干和树叶一样。...http://t.cn/R7oqWPd
+banq【Osquery：将操作系统当作关系数据库使用】: Osquery是Facebook的开源其项目，可以将操作系统当作关系数据库使用，比如：SELECT * FROM drivers WHERE status = 'free'  Osquery将操作系统作为一个高性能的关系数据库，你可以使用基.....http://t.cn/R7CxBYm
+banq【THIS MESSAGE HAS BEEN MASKED】: THIS MESSAGE HAS BEEN MASKED...http://t.cn/R70kZ0Q
+sinaID28775【闭包并不那么难以理解】: 作者不配点图么...http://t.cn/R7OcGbF
+anycmd【闭包并不那么难以理解】: anycmd计划盖200层楼，现在才盖100层楼。我个人能力有限，希望能吸引到英雄加入。anycmd不属于我，属于每一位英雄。请英雄留下自己的名字，没人可以拿走你的东西，权利完全属于你。我以后尽力不在anycmd关键字下发表任何个人言论。a.....http://t.cn/R7WKa5I
+sinaID64021【设计模式与系统阶段】: 所有初创性的系统都符合这个模式解构....http://t.cn/R7j5WJT
+banq【使用Akka实现CQRS/ES的源码】:   这是一篇介绍如何使用Akka实现  CQRS  和EventSourcing的文章，源码项目下载： http://t.cn/R7YTLFT   该源码中使用PersistentActor 作为 ...http://t.cn/R7YTLFY
+banq【京东技术开放日的PPT下载】:   京东技术开发日历期PPT和视频文档下载，点击标题进入百度网盘下载。   大数据 机器学习方面：  京东  大数据  分析与创新应用-邢志峰 京东  大数据  基础架构.....http://t.cn/R7Ync1s
+banq【分解和组合的机器学习】: 人的这种分解和组合思维能力也可通过机器学习算法进行模拟，再配合  大数据  进行训练，人工智能也就应运而生。  其实Hadoop的Map/reduce算法本身就是一个分解和组合的算法，通过Map进行分解到类型为Key的最小元素，而再通过Re.....http://t.cn/R7YrTsi
+banq【如何构建一个系统？】: 同意，系统之所以是树形，是因为系统是按照分解和组合的树形方法去编制的，分解是一个树枝长出几个叉，树木总是在生长，总是在分解，那么组合在哪里呢？其实反者道之动，我们看到的是分解，看不见的是组合，树根是整个树结构的组合，这是有无之分。...http://t.cn/R7QAKbm
+anycmd【如何构建一个系统？】: 同意。准备学习go语言。...http://t.cn/R7QN4ep
+banq【KIXEYE Chassis开源微服务框架】:   KIXEYE Chassis是提供快速构建和部署服务的Java独立库包。其特性包括：  1.REST 和 WebSocket服务器支持 -通过对方法添加元注解实现REST API和 WebSocket消息处理器。  2. 动态层次性地配.....http://t.cn/R78PN1a
+banq【Mazerunner是neo4J图库扩展】:   Mazerunner 是拓展Neo4j图库运行大  大数据  图计算算法，支持HDFS 和 Apache Spark.   使用Apache Spark和neo4j大数据图分析 介绍其详细使用。  Maze.....http://t.cn/R78zMM3
+banq【富Web应用的七项原则】:   这是一篇关于使用Javascript控制界面遵循的七项原则(点击标题进入)，是一篇经验干货，对于前后端开发都值得一读。由于文章相当长，只大概翻译一下。  七项原则是： 1.服务器后端渲染页面并不只是可选项  服务器渲染页面(如JSP A.....http://t.cn/R784nlW
+shefansxyh【如何构建内容服务网站】: 本人一直从事电子商务平台的开发，近来需要做一个内容服务网站，如果想在大量图文字处理方面，获得较好的响应体验，系统的架构与技术选型方面，该注意那些？请走过路过的大牛不吝赐教...http://t.cn/R78mxSL
+banq【KIXEYE Chassis开源微服务框架】:  ，简化REST，而Chassis侧重微服务，两者可能侧重点不同。...http://t.cn/R783kKs
+shefansxyh【Oracle Berkeley DB】: Oracle Berkeley DB 相对于其它  NoSQL  数据库，是否更适合java开发人员。...http://t.cn/R78FX8k
+banq【Oracle Berkeley DB】: 不是否适合人(Java程序员)的问题，而是是否适合业务的问题，如果你的业务是以内容文档图片为主，MongoDB和文件系统比较适合这样的业务。...http://t.cn/R7RezLA
+banq【范畴category:组合的本质】:   之前我在 分解和组合的抽象方法 一文中谈了分解decomposition和组合composition具体特点，范畴理论大师Bartosz Milewski最近正好写了这篇 Category: The Essence of Composi.....http://t.cn/R7E5Ifj
+clonalman【富Web应用的七项原则】:      我也遇到类似问题，  这个问题看似前端问题，但实际是架构与编程风格一致性的问题，  有时候真不好调和。...http://t.cn/R7nOIVD
+tecentID4E3A7【昨天的面试题，请指教】: 如果接口中变量的类型是public static ，那么实现该接口的类中只要有一个修改了该变量的值，那么所有的对象的值都会改变，违背了接口作为规范的原则...http://t.cn/R7nB92n
+banq【Virtual Dom开源项目简介】:   Virtual-dom能够替代RxJS实现前端轻量Reactive MVC，React其实是虚拟DOM的渲染，因为Reactive编程模型下，我们会根据事件随时更新DOM，每次重新渲染整个DOM是非常重量的，通过过滤器能够将对DOM的修.....http://t.cn/R71oGxf
+banq【MVI是一种Reactive MVC】: MVI是模型-视图-意图(Model-View-Intent)的简称，它是一种Rective MVC与虚拟DOM更新的结合， Reactive MVC and the Virtual DOM 一文描述了这种模式。  MVI是一种前端MVC的.....http://t.cn/R71HXmU
+anycmd【访问控制之9种元素】: 有9种AC元素：Account、Organization、Role、Group、Function、Menu、AppSystem、ResourceType、Privilege。   Privilege的定义是这9种AC元素的任意两两组合，两元.....http://t.cn/R7BsKYV
+brighthas【Javascript 的 DDD-CQRS 框架介绍】:   点击标题进入 ...http://t.cn/R7gy268
+wait714【关于缓存的思考】: 我來的更晚，但是我看到了很多有用的东西...http://t.cn/R7DcNaO
+shefansxyh【项目管理软件推荐】: 对于一个20人左右的软件项目团队，从项目经理的角度出发，选哪一个项目管理工具比较合适呢，更看重团队中的各成员的操作方便。请路过的前辈们指教。...http://t.cn/R7DVmSQ
+anycmd【找错了实体的12306】: 12306并没有想办法出来去忽悠大家，是大家自己把自己忽悠住了。   也没有想象的那么复杂啊，某列车一共1000个座位卖1000张票，每一个站初始都是1000张票，任何一个战卖掉每一张票时都把这张票的“始站”到“目的站”的左闭右开空间中的战.....http://t.cn/R7D3x4g
+banq【你应该在生产环节熟悉的Java VM/JVM选项配置】:   这篇文章总结了Java虚拟机在面向Web服务器的生产环境中的配置。 Java 8以前版本：       Java &#60; 8     -server     -Xms&#60;heap size&#62;&#91;g|m|k&#93.....http://t.cn/R7k5Oq7
+banq【helmet是一个保护Node.JS应用的安全项目】:  Helmet 是一系列帮助增强Node.JS之Express/Connect等Javascript Web应用安全的中间件。  一些著名的对Web攻击有XSS跨站脚本， 脚本注入 clickjacking 以及各种非安全的请求等对Node.....http://t.cn/R7sPhFE
+banq【项目管理软件推荐】: 主要取决于你想采取什么风格的项目管理，敏捷或Devops，当然持续集成的Devops比较热门，相关软件也比较多。          ...http://t.cn/RzPOFuI
+banq【多线程下聚合的一致性问题】: 聚合根只能被一台主服务器加载，其他从服务器只是备份，主从方式是可解决一致性与可靠性。    ...http://t.cn/RzPH4F4
+shefansxyh【erlang与scala如何决择】: 本人用过scala，未用过erlang，但听哥们说“一台普通的服务器可以支撑300w个长连接”，这点很吸引，不知其真假，但erlang比java出现的还早，为什么这么多年一直在走小众化的路线，对此有很多不解，请大牛们赐教。...http://t.cn/RzhXV1P
+banq【erlang与scala如何决择】: Erlang没有超过Scala，主要有社区原因。Erlang适合读吞吐量非常大的系统，如广告系统 聊天系统等。Erlang的支持库包不多，Erlang语言是开源的，但是Erlang项目本身不开源。ERlang的不少特性被Scala的Acto.....http://t.cn/Rzhps3J
+banq【四色原型与DCI代码】:      四色是属于分析领域，分析 --》设计 --》代码，因此分析领域的方法一般不会直接能产生代码，即使设计方法也不一定能产生对应的代码，这个和语言机制有关。    DCI使用Java实现也比较累，可见：     四色主要使用四种颜色对需.....http://t.cn/RzzlZbT
+jdonTao【四色原型与DCI代码】:      谢谢banq的回答。领域模型是分析的结果。通过dci来理解四色能好理解一些，data--ppt,dci中似乎不存在值值对象之说（或者说和具体场景有关，我的判断依据是是否需要可以确定不同的对象），i是通过context中的role来.....http://t.cn/RzZ9Sb3
+m3310【关于缓存的思考】: mark 缓存...http://t.cn/RzZWHrb
+banq【四色原型与DCI代码】:      你说得非常好，我赞同。从分解和组合角度看，DCI属于分解+组合，而四色是纯粹分解。    需求或用例被四色分解到初步的类图，下一步可以通过DCI进一步分解组合，也可以通过事件流进一步分解( )，这两种方式取决于语言平台，是面向对象.....http://t.cn/RzZFkR2
+banq【Netflix分享Node.js性能调优】: Netflix最近分享了它们使用Node.js建设新一代Netflix.com的Web应用过程中的 性能调优心得   首先注意到的是Node.JS的请求延迟，JS应用程序随着时间增加，其耗费CPU也是超预期的，称为燃烧CPU，从而带来了高延.....http://t.cn/RzwwHXM
+banq【如何在Windows上编译Docker?】: 11月17日微软的Azure Linux团队成员Ahmet Alp Balkan在其博客  http://t.cn/Rzw4A3V 一文宣布， 首段W.....http://t.cn/Rzw4A3I
+shefansxyh【twitter为什么放弃cassandra】: 如题：twitter放弃cassandra的原因是什么，如果有大量图文处理的站点，采用mysql做存储合理吗？大量图文的存储用MongoDB是不二选择吗，请大神们赐教。 ...http://t.cn/RzwGDBM
+shefansxyh【C++ coding standard】: 图片来源于C++ coding standard ，flow chart for Project decision making, 真心没明白其用意，想在此弱弱的问一下。         ...http://t.cn/Rzw5hLp
+chanball【继CQRS-DDD-Actor 于一身的新一代框架Domain 编码完成】: 我也打不开...http://t.cn/RzwSTzG
+brighthas【继CQRS-DDD-Actor 于一身的新一代框架Domain 编码完成】: sorry , 直接访问：   ...http://t.cn/RzwoRqA
+brighthas【演示cqrs+actor的用法】: cqrs for javascript的项目地址：  http://t.cn/RzwKgJP   下面演示一下用法，具体代码可以看项目的 express   http://t.cn/RzwKgJh
+banq【twitter为什么放弃cassandra】: 你那是2010年老新闻，  也是使用Cassandra存放图片。Redis适合读优先场景，而Cassandra适合写优先场合。...http://t.cn/RzwYzvi
+anycmd【消息要不要必达？能做到必达吗？】: akka说消息不需要必达，推理而来就是说发出的请求存储给定的数据到那些物理开关的消息不需要保证被那些物理开关收到了。现实世界就是这样的，99.999999999999999%到达就足够了。怎么保证这个99.999999999999%呢？用物.....http://t.cn/RzAmlJ9
+banq【消息要不要必达？能做到必达吗？】: 消息可能做不到必达，但是可以做到到达后进行确认，然后基于这个确认做些可靠的工作，算是分布式系统的可靠性吧。...http://t.cn/Rz2uRkS
+banq【LedisDB:Go语言编写的类似Redis的NOSQL】:  LedisDB 是一个使用GO语言编写类似Redis的高性能  NoSQL  数据库，其支持数据结构如键值KV List Hash zset bitmap set等。  LedisDB支持多个数据库作为后端持久存储数据，可以自己选择合适的.....http://t.cn/RzyWgaR
+banq【使用Node Express SocketIO创建实时游戏】:  http://t.cn/RzyTbs4 是一个开源多人Web实时(象棋)游戏项目，ChessHub的目标并不只提供一个功能齐全的web下棋应用程序,而是提供一个作为一个现代web应用程序使用上述技术的整合.....http://t.cn/RzyTbsU
+banq【为什么Javascript需要类型？】: VICTOR SAVKIN认为像Javascript和Ruby这样的动态脚本语言最好有类型，他在 WHY JAVASCRIPT NEEDS TYPES 一文中认为：  类型曾经有坏的名声，因为其使得代码能以阅读，增加不必要的仪式与复杂性，但.....http://t.cn/RzUvNRG
+banq【H2O是开源基于大数据的机器学习库包】:  H2O 能够让Hadoop做数学，H2O是基于  大数据  的统计分析 机器学习和数学库包，让用户基于核心的数学积木搭建应用块代码，采取类似R语言 Excel或JSON等熟悉接口，使的BigData爱好者和专家可以利用一系列简单的先进算法.....http://t.cn/RzUzVsg
+JasonMing【为什么Javascript需要类型？】: 早该有类型了。。。TypeScript不就是为了这个而生的么。。。  其实类型过强的确不好，但是向强类型系统加入一个弱类型的类型的话情况就完全不同了，像C#的dynamic和Go的interface{}。  不但能让开发者享受强类型的便捷和.....http://t.cn/RzUnPVg
+ericyang【四色原型与DCI代码】:    个人建议，如果你换个思路，'为了做什么活动（mi)需要什么样的角色（role)它是什么（desc)什么样的事物（ppt)'，，，应该不会有困惑了...http://t.cn/Rz4hyz5
+IBM5150【为什么Javascript需要类型？】: 可选类型系统是个好特性。...http://t.cn/RzbV7KC
+lxlfx【算法还是最重要的】: 做游戏你不会算法试试。...http://t.cn/RzbCCJu
+banq【面向对象与函数编程的比较】: 最近Bob大叔发表了 OO vs FP 博文，文章推崇面向对象与函数编程融合。大意翻译如下：  一个朋友在Facebook发布如下一个对比，这激怒了我，如下图：[img index=1]  有很多程序员说过类似的事情， 他们认为面向对象和 .....http://t.cn/RzGO0z8
+banq【Javascript可以在安卓系统上运行了】: Rhino和 Nashorn是Java中运行Javascript两种常见的方式，但是在许多方面并没有满足我们的要求:  1.既不支持”初始类型 ”。 所有与平台的交互都需要包装成类,如Integer、Double或Boolean。 2.Na.....http://www.jdon.com/nav/46880/23145747#23145747
+banq【Event Horizon是Go语言的CQRS/ES框架】:  looplab/eventhorizon · GitHub 是一个GO语言的  CQRS  /ES库包。  CQRS是命令查询职责分离，对象查询访问和命令修改分离，这有助于复杂数据模型的动作和其输出进行分离。  ES是Event Sour.....http://t.cn/Rzt4lvF
+banq【Tumblr推出开源微服务框架Colossus】: 这个框架应该比Netty Vertx更接近Node.js...http://t.cn/RztdLoD
+banq【为什么需要Monad?】: 这篇 Motivation for Monads 其实谈了为什么需要函数编程和Monad？指出函数编程的几个特点，与面向过程编程的本质区别，如不能抛出Exception等，从而导出为什么使用Monad的动机原因。  这不是一篇monad教程.....http://t.cn/RzV3qJZ
+banq【Monad和Monoid的定义】: 根据这篇文章触发的灵感，写了两篇定义性文章：              一般网上谈到这两个概念，总是以Haskell或Scala为案例，由于对具体代码的熟悉程度不同，致使人们理解一个复杂概念的同时又引入新的陌生概念，个人认为这不是一种好的学.....http://t.cn/RzfKzsc
+banq【Monad和Monoid的定义】: 根据这篇文章触发的灵感，写了两篇定义性文章：   什么是Monoid?    什么是Monad？   一般网上谈到这两个概念，总是以Haskell或Scala为案例，由于对具体代码的熟悉程度不同，致使人们理解一个复杂概念的同时又引入新的陌生.....http://t.cn/RzfKlHT
+brighthas【【视频】Javascript 多参数 command 写法】:  ...http://t.cn/RzMN5ue
+sinaID81075【(转)强烈推荐：著名社交网站LinkedIn的Java架构技术】: 好贴，但是链接木有...http://t.cn/RzJK1DD
+banq【(转)强烈推荐：著名社交网站LinkedIn的Java架构技术】: 前面连接没有了，可以参考类似文档：     ...http://t.cn/RzJC0T0
+banq【ORM是明显的反模式】: 作为Java和Ruby程序员与架构师的Yegor昨天发表一篇博文： ORM Is an Offensive Anti-Pattern ，认为ORM是一个可怕的反模式，违反了所有的面向对象原则，撕裂了对象，将它们变成哑巴和被动的数据袋，没有任.....http://t.cn/RzJOMOC
+banq【智慧之重量与质量】: 写得挺好。    最近我看了一部片子《超体》，说人脑只有10%被使用，而唯一超过人类的是海豚大脑，利用率20%，因此海豚天生具有声纳定位功能，影片认为大脑利用率越高，人性成分反而就会越少，我们是不是可以认为，为什么我们大脑只有10%利用率？.....http://t.cn/RzJYhNU
+banq【"SQL-speaking"对象】: 让我们设计一下类Post，我们将其分解为两个类Post和Posts，单数与复数，好的对象总是真实世界的抽象，比如实际中我们有数据表和表行，这就是为什么我们会有两个类，Posts代表表，而Post代表行。    每个对象都应该在合约和接口下工.....http://t.cn/RzJ3qEn
+banq【KillBill是一款开源订购计费和支付平台】:  killbill/killbill · GitHub 是一个让你订阅订购和支付的基础设施建设Java平台。核心服务之间共享一个公共基础层。    假设你想建立一个类似于Amazon Prime网站,即一个电子商务的网站，提供一个购物车,付.....http://t.cn/RzJ1enU
+tecentID339C6【面向对象与函数编程的比较】: 要理解函数式编程，最好学习一种函数式语言。个人感觉函数式语言采用几乎统一的模式处理所有的问题，没有面向对象那么多的概念和武器。  比如，这是一个获取随机字符串的函数：    [code]  (defn random-str [size]  .....http://t.cn/Rz6ER0R
+sinaID30957【jivejdon的代码可以在那里去下载啊】: 看了网站的教程和jivejdon的说明，但是没有找到下载的地方啊，都是jdonframework的地址啊？...http://t.cn/RzXf2bP
+banq【jivejdon的代码可以在那里去下载啊】:  ...http://t.cn/RzaIV9w
+banq【 Toronto深度学习：图像自动输出文字】:  Images to Text - Toronto Deep Learning 提供了在线图片自动转文字。包括深度学习源码下载： 包括： ConvNet: 一个用C++卷积神经网络的GPU实现 深度信念网络和深度波尔兹曼机 基于GPU的深度.....http://t.cn/RzaMG26
+zyh5160【关系数据库的封建迷信】: 企业中大量存在多条件实时查询，如果使用nosql如何应对这一需求，请指教。...http://t.cn/RzTbp6d
+banq【主客体二元组是个十分靠近世界的本质的数据结构】:      图库Neo4J也是可以考虑的，专门针对树形复杂的图。...http://t.cn/RzTjeGV
+banq【关系数据库的封建迷信】:      三种办法：  1.CQRS读写分离，写使用NoSQL或内存领域模型，读使用传统关系数据库。    2.是设计专门针对查询分页的NoSQL表。 这个英文PDF中有关于分页查询的Cassandra表设计，中文没有翻译，比较容易懂，可参.....http://t.cn/RzTY3zj
+freeren【关系数据库的封建迷信】: 如果是第一种CQRS读写分离，那NoSql如何与关系型数据库打交道呢？比如写完后，另一线程就会有读，这时数据是要从哪里读呢？...http://t.cn/RzH9SxJ
+banq【关系数据库的封建迷信】:      这在CQRS和EventSourcing中讨论比较多，我这里不重复回复，总之，读写两个数据库之间实现的是最终一致性复制，这种复制类似关系数据库内部的主从复制一样。...http://t.cn/RzHFNPe
+banq【开源权限引擎-anycmd视频介绍《anycmd筑基》】: 讲得很诚恳，继续努力。感谢你对我的提名。...http://t.cn/RznXDer
+banq【Google的端到端加密技术 OpenPGP】:  google/end-to-end · GitHub 是Google释放到github的端到端End-to-End的OpenPGP加密技术。  如今在线安全问题越来越突出，虽然有HTTPS加密连接传输，但是在浏览器里打开数据包以后就不再安.....http://t.cn/RzmnaAA
+zyh5160【人力外包伤害了软件行业】: 人力外包是软件行业的一大毒瘤！ 那里没有设计，没有思想，只有人头！ 抵制外包，从每一位开发人员自我做起！...http://t.cn/RzuFxZQ
+zyh5160【设计模式与系统阶段】: 有道理！...http://t.cn/Rz3GOXW
+【Ember.js 推出FastBoot走向服务器端渲染】: http://t.cn/RZhfqMp
+banq【微服务架构的Akka实现和Docker部署案例】: Cake 团队发布了它们的 微服务架构实现 。  微服务是使用Akka   Actors  支持集群实现，Cassandra持久层，数据实现风趣，与微服务交互的负载平衡器是 ...http://t.cn/RZhMlBG
+我刚换了“风轻云淡”套装，好漂亮，你们都快来试试！ http://weibo.com/home?skinId=skin049
+banq【建立机器学习实战系统的十大经验教训】: 这是来自Netflix机器学习系统的构建经验，Netflix是机器学习应用实战的先驱之一，曾经设立百万奖金用于奖励影片推荐系统算法。 http://t.cn/RZwzQCt
+westsource【为什么类是单继承的？接口是多继承的？】: 我是这样理解的：类表示“是什么”，接口表示“能干什么”。依据这个逻辑，理解为什么类是单继承的，接口是多继承的就比较简单了...http://t.cn/RZA9FQ4
+jdonTao【TDD与DDD的疑惑】: 如何将TDD与  DDD  结合起来，最近在看TDD（测试驱动开发的艺术），也按照书中例子尝试了一些，然而思维仍然很混论。感觉上无法很好的调和  DDD  和TDD，大体上感觉TDD应该遵从 ...http://t.cn/RZ2J3z9
+banq【TDD与DDD的疑惑】:      意思不要拘泥于原来的TDD测试，可以对领域模型进行单独测试，使用基于领域事件的行为驱动方式，最后通过集成测试模拟客户端发出命令对领域层进行测试。    ...http://t.cn/RZL2dv0
+banq【eveal.js能够在浏览器中创建在线PPT】:  hakimel/reveal.js · GitHub 是一个使用HTML创建漂亮的演示文档类似Powerpoint的PPT文档，但是无需下载任何软件，直接在浏览器中编辑播放。 live demo   reveal.js有很多功能，包括嵌套.....http://t.cn/RZyNzxk
+banq【请教大家怎么用CQRS思想设计一个博客系统?】: 多谢，元旦快乐    可以看看DDD案例：      这里是一个Node.js论坛，类似博客：     也可以下载jivejdon 使用Java编写的：   ...http://t.cn/RZUZQ4g

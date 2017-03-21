@@ -1,0 +1,174 @@
+mysql的企业版和社区版的差别。
+自动化运维工具ansible ，saltstack，puppet，cfengine
+XtraDB 替换 InnoDB，XtraDB 是 Percona 开发维护的 InnoDB 威力加强版，整合 Google、Facebook 等公司和 MySQL 社区的补丁 Aria 存储引擎和 Sphinx 存储引擎 基于 Gelera Cluster 的 MariaDB 集群方案 多主复制（将在 MariaDB 10.0 实现，淘宝贡献） Cassandra 存储引擎（将在 MariaDB 10.0 实现）
+北京地铁价格已经调整完毕，0-6公里3块；6~16公里以内是4块；16公里以上是5块。价格基本和上海一样，最快下个月开始实施。
+Master-Master Replication Manager for MySQL 不仅针对于mysql的双主配置的监控，故障转移和管理的套件，同时也针对以mysql的主从的管理，读负载均衡，启动浮动ip，数据备份，数据同步，故障转移的高可用套件。
+#围观世界杯领现金#各种现金大奖随机得，最高4999元[鼓掌]活动中奖率100%，参加之前先扶老奶奶过个马路攒攒人品，说不定鼠标一抖就抽到大奖啦，大奖每天1名哦，小伙伴们快来参加吧！@旧咖啡吧的空气 @戈壁摇床撞泥鳅 @陈靖华 [哈哈] http://t.cn/RvtNRlR
+#围观世界杯领现金#各种现金大奖随机得，最高4999元[鼓掌]活动中奖率100%，参加之前先扶老奶奶过个马路攒攒人品，说不定鼠标一抖就抽到大奖啦，大奖每天1名哦，小伙伴们快来参加吧！@芥末登登 @Huc-敦 @FullisNull [哈哈] http://t.cn/RvtNRlR
+看世界杯还能100%领钱，拼人品的时刻到了！#围观世界杯领现金#最高4999元现金随机领，小伙伴们快来参加吧！@FindingXavier_宋宜春 @追梦de潮人 @17CE 比比领的多哦~ [偷乐] http://t.cn/RvtNRlR
+【互联网全面动物园化】 鹅厂——腾讯(腾讯企鹅) 狼厂——百度( 虎厂——360(绿厂，数字公司 猪厂——网易(网易养猪) 狗厂——搜狗or京东？(存异) 虾厂——新浪(渣浪，虾—瞎(眼睛瞎，新浪LOGO眼睛) 豹厂——金山或猎豹移动 鸟厂——迅雷(迅雷LOGO一只鸟) 鸡厂——小米(鸡吃米，你懂得) 狐厂——搜狐
+mysql的高可用现在又增加了一种新方法，有兴趣的可以看看。http://t.cn/RvgZjfj
+这个mariadb cluster我还以为是是个open source，没想到这个尽然是收费的。比如Purchase MariaDB Enterprise Cluster and you can choose the appropriate level of HA to efficiently support your business objectives today and in the future.
+这个MariaDB Enterprise Cluster我还以为是是个open source，没想到这个尽然是收费的。比如Purchase MariaDB Enterprise Cluster and you can choose the appropriate level of HA to efficiently support your business objectives today and in the future
+Percona XtraDB Cluster is based on Percona Server with XtraDB and includes Write Set Replication patches. It uses the Galera library, version 3.x, a generic Synchronous Multi-Master replication plugin for transactional applications.
+果子长得不错。
+果子长得不错。
+新地方
+分享图片
+web应用开发运维需要掌握的相关知识。
+分享图片
+MySQL 5.7个人最期待新特性：可在线扩充VARCHAR长度、可动态修改InnoDB BP、可把InnoDB BP中的热点数据dump成文件方便重启预热、可在线导出表空间文件
+mysql的一些工具
+http://t.cn/RPbDSWp MySQL中文全文索引插件 mysqlcft 1.0.0 安装使用文档
+7月26日，疯狂英语、疯狂汉语创始人李阳在千年古刹——河南登封少林寺皈依佛门，师从少林寺方丈释永信，法名延依。  同时皈依佛门的还有易太极创始人职勇，法名延同。 http://t.cn/RPtsset
+mysql额awr出来了，喜欢的可以看看http://t.cn/zHUAqBt
+配置MySQL使用huge pages http://t.cn/RPIeSEe
+DF-41就这样在陕西泄密了http://t.cn/RPMp3mW
+分享图片
+#老干妈爆米花# 不伦不类的，这小日本子。  http://t.cn/RPaajan
+西安也不知道是怎么了，总体的影响没以前上学的时候好了，公交车开的像狗急兔子，出租车的拒载，电动车的横七竖八的在人行道和机动车道乱窜，走在路上都要时刻睁大眼睛，唯有没变的就是西安的饭还是和原先一样的好吃。
+留坝建68米户外温度计 温度计里的战斗机
+MySQL(尤其是InnoDB引擎)数据表设计相关的建议 所有InnoDB数据表都创建一个和业务无关的自增数字型作为主键，对保证性能很有帮助 杜绝使用text/blob，确实需要使用的，尽可能拆分出去成一个独立的表； 时间戳建议使用 TIMESTAMP 类型存储； IPV4 地址建议用 INT UNSIGNED 类型存储；
+性别等非是即非的逻辑，建议采用 TINYINT 存储，而不是 CHAR(1)； 存储较长文本内容时，建议采用JSON/BSON格式存储；
+mysql备份工具，mysqldump，mk-parallel-dump ，mysqldumper，xtrackbackup，mysqldump+ gzip --fast
+44万余块积木搭建“辽宁号”
+MySQL5.6比MySQL5.5性能高达230%的提升（官方性能测试对比）
+分享图片
+分享图片
+【一代身份证不能买火车票了，你知道吗？】因铁路相关技术机构对客票系统的售票、管理监控等应用程序进行了优化完善，8月份起，所有列车将取消使用一代身份证购票，即一代身份证再也不能用于窗口、电话以及网络购票了。持一代身份证购票的旅客，需到各火车站公安制证口制取临时身份证明。@广铁警方在线
+分享图片
+o1l5abqtp6lsxc5bgcomtzxg7ehjpv
+[微公益爱心]- 恭喜您,已获得奖请进入 http://t.cn/RhL74no 获取奖品! [礼物]   @何小晴ranana @3AM刘岩[晕]LQ9tS
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @FANS真茹 @马舒雅的邪念[可怜]w6RqgYS
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @X唯爱天天X @Gloria瑛瑶[礼物]qDcslUb3E
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @离骚中的微博 @goldreti[蛋糕]l25Y7j
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @龙大佬G @goukouzhawo[吃惊]AUiYUfH
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @峰峰以峰峰 @用户i368n5qdqi[爱你]d30duwFliA
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @仪你妹 @杨宇杨宇99[害羞]KUaiLW
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @寒荷selina @碧草迎风fg[弱]wYZ9SZesE
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @_Ajtx园孟新 @驖驖[神马]FQp53kOaU
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @EXO-L不离不弃 @xx天使的眼泪xx[耶]pdpWdcT5Z
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @天行健_逐风V幻 @Dream姑娘-V[馋嘴]XY8CMC
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @NBNikeAsic_Ss家 @听俊麟唱幸福的歌[失望]W1Nyvgcgf
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @年shao才轻狂 @暴走神探[可爱]HhwS5q
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @Marrymeee @czzjwj[互粉]SGkhKPH
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @我的来过 @Valerie哲妍[困]fNLVWmvL
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @甄明胜A @手机用户3251364375[蛋糕]9hY2jTF5N
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @Harold理全全NN @jaycnmomo[汗]zO4m6O
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @愿尓许俄三世温柔悟 @小辫儿-[弱]0WkdQ
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @用户m9aby7igae @用户3239703875[蜡烛]XBvqko5
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @诗雅情歌 @郑shi同學[蜡烛]SUsIH
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @我而家东风 @喵ov汪[鄙视]XHoby
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @木木三撇3 @liu-小葵[酷]yOham
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @虚风无 @L李盼0725[拜拜]Dvsd8rUZO
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @暗之极夜 @全球靓丽气质尖货[闭嘴]ccOWk
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @福禄咕噜包 @用户5240218693[围观]U6EMW
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @云中jackie @ANLG倩[话筒]bL8a9
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @用户3232602905 @_Crystal水晶韩衣定制_[吐]buxwiQHE
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @yy_zr @全球气质韩日搭配控气质趋势[黑线]hiNGJSw
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @萧茈丫 @菲菲_随翔漂[抓狂]Lo3s9u
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @木子_子小姐 @皇天人[偷笑]G2OiDeadc
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @牜甜甜 @我是李思佳的一只猫[可爱]aN9wirjeS
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @取名字真的是件好麻烦的事情 @cvdje張嘉雯[伤心]shDmazib
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @玲粑粑 @曹傲娇[不要]L9cVazSCK
+[微公益爱心]- 恭喜您,已获得奖请进入 http://t.cn/RhL74no 获取奖品! [礼物]   @Rola_冰安 @-分开不是尽头[吐]UazMcgf
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @针灸李姑娘 @贝贝贝呗呗[泪]5j5zUuFFw
+[给力]- 微博送礼,请登录查询 http://t.cn/RhLot9V 查收奖品! [礼物]   @周大少的阳光 @用户3232605281[泪]EcBO5Y
+[给力]- 微博送礼,请登录查询 http://t.cn/RhLot9V 查收奖品! [礼物]   @热视频 @司马泽洋[衰]whzwyAkJ
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @理想-充实 @V1神[哼]wEgCLrZ
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @臭美妞三春 @Sunshine_英国代购[可怜]BD916r
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @一条藤儿星 @洛星翼[钟]TLdcDCp
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @用户3232795651 @沈家的伢[鼓掌]UfopRH9R0
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @yyy大媛子 @理想-充实[钱]RM6jQUA
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @沉默的娟妍 @臭美妞三春[衰]noElvhb28
+[给力]- 微博送礼,请登录查询 http://t.cn/RhLot9V 查收奖品! [礼物]   @一条藤儿星 @洛星翼[拜拜]ZV7IBmnh33
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @用户3232795651 @沈家的伢[鄙视]rwRREl5tLc
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @香寒ki @酷狗游戏网[泪]XbHVc
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @大贝wu @芯颜色[右哼哼]iwRHVDp80t
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @沁灬沁还想做DJ @Norway梦想在路上随风飞[互粉]SRNKJjUh
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @一句唯美告白 @阿拉丁的电灯爱生活[威武]ibwcNAAl
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @菜冰冰_FF @潜龙出击微博[酷]dO10Yg
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @娱乐遇见八卦君 @宽幅海景[兔子]lXw7g2
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @苗嘉懿521 @pucca斑比[挤眼]64Ppb
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @yuni_queenhs @用户3239626495[浮云]AVocj
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @天黑我不怕y @随时晕倒[蜡烛]NPRYt3iW
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @碧波似橙水竹如轩 @小Sjocos凛希茗义[左哼哼]KVcuf8Dua
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @一支橙子 @麻倅[左哼哼]tcf5W
+[微公益爱心]- 恭喜您,已获得奖请进入 http://t.cn/RhL74no 获取奖品! [礼物]   @用户5220557302 @夏叻翼跳[酷]cVLQT
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @奔四的老蔡头 @朵朵白色[蛋糕]iWdidz
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @熙TiMi @新之盛_Rileyy[礼物]eWlG17tob
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @修罗的后花园 @Doctorko0[兔子]cup6n
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @Fran懒癌晚期没救了 @媚飞摄舞[委屈]IyTgBWjul
+[给力]- 微博送礼,请登录查询 http://t.cn/RhLot9V 查收奖品! [礼物]   @人气靓搭播报 @限量壹帆[可怜]z7DiwT
+[给力]- 微博送礼,请登录查询 http://t.cn/RhLot9V 查收奖品! [礼物]   @Miss大肥猫 @a杜霞[呵呵]NgcRpvikrH
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @forck @金条呀么条封[疑问]HUGX2cZ
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @偶是泰兴人 @MySunshine-祯[害羞]1mRh9SPS17
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @女神淡水鱼mg @被母星抛弃在蓝星的故障AI[可怜]FnFcCQXLqI
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @手机用户3015241525 @Aegean_cyl[汗]saTpqtKjd7
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @琴顾问 @二小姐vivy[奥特曼]5bJWpZ
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @楚天亲子频道 @骚年吴克[怒骂]v2O7fX
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @魔家大碌葛 @cyc17724[猪头]8gUBnwIOIx
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @小咏依阁 @Stephanie是勇敢的意思[可怜]FvwM8N
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @楚天亲子频道 @骚年吴克[嘘]XjD3rspEmx
+[微公益爱心]- 恭喜您,已获得奖请进入 http://t.cn/RhL74no 获取奖品! [礼物]   @身上的肉都是妈妈的爱 @半只卤蛋zz[偷笑]WZnTv
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @cyc17724 @亲爱的bu2[泪]xFbIAtKZW
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @Stephanie是勇敢的意思 @悠悠然_xixi[互粉]v09wUSQ
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @小麦爱生活 @用户3239737101[吐]HYS349YFJ
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @天中范小范 @Slow小妞妞[太开心]svuEL2
+[微博益起来]- 祝贺您,获奖请登陆 http://t.cn/RhLo5sr 领取奖品! [礼物]   @没有在一起小姐 @Alzard[给力]D8jOyN9xM
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @Mom-Elvis @路灯下的小山羊[蛋糕]uDbflC
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @gupoyem @沉默是我最后最好的优雅[来]2wDaDooHuW
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @我爱泸州 @Cytheria问梅[晕]zbuWkxtsM
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @小2Ling香港代购 @Oo哈妮oO[围观]438EucJvmX
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @香芋派_ @依小睿[太开心]SvStLi
+[微公益爱心]- 恭喜您,已获得奖请进入 http://t.cn/RhL74no 获取奖品! [礼物]   @浪Amber @m_沐y[耶]57bIPNkMmw
+[微公益爱心]- 恭喜您,已获得奖请进入 http://t.cn/RhL74no 获取奖品! [礼物]   @Korea韩流气质美搭清新控 @爱维尼小熊的二[右哼哼]rUPHu7h
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @MT的团队 @FlowErxi-[耶]m23Wh8kA8T
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @12345zy66 @qvyxisin[围观]ilaMMOb
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @M_Fashion衣饰 @OL穿衣小清新控[挤眼]loRlQ
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @点击设定就OK @HZ叶苏[织]rQggCURuK
+[微公益爱心]- 恭喜您,已获得奖请进入 http://t.cn/RhL74no 获取奖品! [礼物]   @-谢欣怡 @讨嫌怀绿[抱抱]AHZ2ab
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @aaaa12244 @messiju[悲伤]HdCV7X
+[笑哈哈]- 您已获奖,请登陆 http://t.cn/RhLS9Xm 领取奖品! [礼物]   @三清酱 @xiaojunLOVER[生病]GnXifguR
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @Alroad民 @清歌相如[打哈欠]L4UUEtT
+[威武]- 微博送好礼,请登陆 http://t.cn/RhLS9Xm 获取奖品! [礼物]   @萧佳辛980564 @-有种微微暖意叫珍惜[good]xTAeDOv9jg
+[给力]- 微博送礼,请登录查询 http://t.cn/RhLot9V 查收奖品! [礼物]   @映安桑_Forrestt @张淼T-W[花心]CPbb4ikO0
+[good]- 微博获奖通知,领奖请进入 http://t.cn/RhLo5sr 验收奖品! [礼物]   @李狗蛋是我_ @Linorr[阴险]l6JPTJKtZ
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @搞笑情语 @carol_shou800[爱你]aYwkSGdZ
+[得意地笑]- 您有新的信息,请登陆 http://t.cn/RhLot9V 获取奖品! [礼物]   @亜Cat喺伱老死 @用户7840237228[怒骂]mMBpyK9
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @fcchwicdc @zuozhujiwaj[弱]qDhkq
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @正在努力的懒人岐 @慕尼黑to白[礼物]xrdmiy1Cf8
+[礼物]- 请查收您的信息,请进入 http://t.cn/RhLot9V 获取奖品! [礼物]     @时尚-美人小屋 @龚爱妃是谁[钟]5i5MixRM
+[话筒]- 您有新的邮件,请登入 http://t.cn/RhL74no 领取奖品! [礼物]   @用户3612306661 @Pretendstrongek[鄙视]pv9rb
+[互粉]- 您已获奖,请登陆 http://t.cn/RhL74no 领取奖品! [礼物]   @天团乐队2012 @烟熏渲染裝颜[阴险]9sFCUqC82
+[微公益爱心]- 恭喜您,已获得奖请进入 http://t.cn/RhL74no 获取奖品! [礼物]   @闪开让我瞧瞧 @规矩与良心[围观]OfZDEYr
+分享图片
+8dro82kayv73g1qhmm8hbbnv0r
+Bash软件安全漏洞检测及解决方案 已经修改好了，直接测试。然后升级bash http://t.cn/RhYUi9w
+老婆第一次下厨要做卷心菜炒土豆，我就去厨房看了一眼，想问一下民政局几点关门？
+分享图片
+春晚成名"西单女孩"重返北京地下通道唱歌http://t.cn/RhEn1dM
+小伙伴们，快来围观！我已经升级为V6新版微博，简洁的界面带来更流畅的体验。准备好了吗？和我们一起发现新的世界吧！升级猛戳:http://t.cn/R7vgnNI http://t.cn/R7PWMm5
+分享图片
+丢人丢大了......楼下上二年级的小朋友拿家庭作业问我，我居然不会，现在二年级的题真是难啊，太丢脸了！！！986F 875E 764D 653C ____ 431A 空格处应该填什么？！求解。
+早上西二旗八点半
+请尊重一下我好吗？我毕竟是一条毒蛇。。。现在连做蛇的尊严都没有了！！！
+在apec期间不要乱开窗啊，小心狙击手爆头，这可是真人版的CS。
+我发表了文章MySQL的索引优化 http://t.cn/R7ERmwt
+小伙子陪姑娘路过手机店，姑娘看中苹果6了，小伙问她：喜欢吗？女：喜欢！男：喜欢就多看一会吧！ 他俩从白天一直看到晚上，问他：为什么我喜欢，你却不给我买呢？ 他回：爱你的人不一定是愿意为你花钱的人，而是愿意花时间陪你的人！女：就喜欢做销售的，没钱，装B，还贼能说
+程序员买99台iPhone6求爱成功
+程序员买99台iPhone6求爱成功
+Tape is Dead，Disk is Tape，Flash is Disk，RAM Locality is King. — Jim Gray
+MySQL索引原理及慢查询优化http://t.cn/RvmYZSo
+我发表了文章 http://t.cn/Rz2LHjZ
+我发表了文章 http://t.cn/Rz4Vg6k
+干拌饺子看看。没吃过。
+我发表了文章 http://t.cn/RzivAKc
+现在买房子，傻瓜才自己掏钱！说出来吓死你 http://t.cn/RzOjo0r
+【使用scp在windows和Linux之间互传文件】为了进行系统维护操作，有时需要再windows和linux或Unix系统之间互传文件，虽然有很多工具可以实现该功能，但我还是觉得命令行来的方便快捷，起初使用linux的scp命令，总是不成功，网上也没有相关介绍， http://t.cn/zRA3oTS
+最近用了朋友推荐的《爱聊》，真心不错的手机软件，用WiFi/3G就能免费打电话发短信，ipad／ipod也能用。最神奇是对方无需安装软件,也可直接打他的手机还不扣自己手机话费，有试过的交流一下.大家都去下吧！ http://t.cn/zW3e3nH @爱聊免费打电话
+给大家分享“LNHlinux系列视频等”文件 http://t.cn/RzTl0Mq
+陌陌上市了，我是第179959225个用户，影响力高达4168，你呢？ http://t.cn/RzHyFX9
+#陕西城市平均工资# 拖啊，严重的拖啊
+这种事情我怎么遇不上。
+我分享了@杭州--丁俊--无形毁灭 的文章 http://t.cn/RzDHzns

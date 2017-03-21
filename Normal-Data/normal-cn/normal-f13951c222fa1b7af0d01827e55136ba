@@ -1,0 +1,166 @@
+《《线框图设计指南》》 作者：IFEC - 更多大图 猛戳: http://t.cn/RvYqD8d (分享来自 @UI中国 - 专业界面设计师平台)
+http://t.cn/Rvm0WxB google Material Design设计语言
+http://t.cn/Rvml9OB Google Material Design - Free AE Project File
+@陈子木 按照设计趋势，我们是时候了解一下UI动态设计了！UI动效设计算是新兴的设计领域分支，如同其他的设计一样，它也是有规律可循的。关于UI动效设计… @优秀网页设计  （分享自 @陈子木） http://t.cn/Rvm1co5
+一些按钮效果http://t.cn/Rvu6PU3
+Using SVG stroke Attributes http://t.cn/Rv33enM
+【css3图标动效】最近dribbble和ui中国有很多这样的开关动效，怎么用css3实现呢，看似简单，实现起来细节还挺多的，特别是关键帧的计算，接下来讲解下这个动画怎么拆解。 http://t.cn/Rv19Fcl
+【css3图标动效-描边和发光】gif动画来自dribbble，这个动画有个圆形描边的效果，主要讲下这个用css3怎么实现。关键帧的计算参考css3开关动效。描边效果怎么实现，一开始是想到用svg，后来在codepen上看到有用clip来实现的，大概的思路如下。 http://t.cn/RvBf7eP
+《权力的游戏》片头全解读http://t.cn/zTM4oK8 好喜欢这个片头动画
+权力的游戏——国外网友自制加长版片头   UP主：London-2 http://t.cn/RvYPxW4
+【css3图标动效-变换效果的叠加和变换原点的转换】前两节讲了关键帧的计算和圆形描边效果的实现，这节讲讲多个变换效果的叠加和变换原点的转换。变换效果的累加可以实现很复杂的效果，甚至是实现复杂的多面体。后面会研究下立体图形的实现。 http://t.cn/RvrEzgD
+http://t.cn/Rvrum2t 栅格系统 http://t.cn/RvrumAK
+深度掌握SVG路径path的贝塞尔曲线指令http://t.cn/RvS1C5P
+css3画的3d飞艇http://t.cn/RvdsnEa
+编草席http://t.cn/RvgvVwV
+【css3密集动画教程8-镂空三角形及重心】镂空三角形有几种实现方法，我想到了三种。  第一种是用边框实现，用两个不同大小和颜色的三角形叠加在一起，实现方法可以参考三角形旋转。   第二种是用clip-pach拆切，实现方法可以参考多边形极坐标算法。   第三种方法是用三… http://t.cn/RveqWqP
+processing语言及其demo http://t.cn/RvTOtg0 http://t.cn/RvbWujT
+买了十本大漠的书送给小组的同学，支持@w3cplus http://t.cn/RveTWNu
+http://t.cn/zOljt7s d3js http://t.cn/RveFGoj
+【processing动画入门】昨天看了下processing这个语言，发现用来画图形和动画还挺简单的，于是边学习边把之前的动画重写，一些思路跟css动画不太一样，这篇文章对比下程序实现的动画和关键帧动画的区别。 http://t.cn/RvDmA0p
+《loading》 作者：斑鸠 - 更多大图 猛戳: http://t.cn/RvkxHUY (分享来自 @UI中国 - 专业界面设计师平台)
+小光士的作品，支持一下《liliput》 作者：仕不可挡1986 - 更多大图 猛戳: http://t.cn/RvkxRXd (分享来自 @UI中国 - 专业界面设计师平台)
+要复习一下立体几何了http://t.cn/RvkBiTd
+要复习一下立体几何了http://t.cn/RvkBiTd
+《移动设计，交互性为王》 作者：MartinRGB - 更多大图 猛戳: http://t.cn/RvshFaL (分享来自 @UI中国 - 专业界面设计师平台)
+这组插画太赞了http://t.cn/Rvp5eqM
+【css3多面体】高中的时候特别喜欢立体几何，现在都忘得差不多了。大学的时候很喜欢图形学，但是没深入进去。趁最近在研究图形，把这块重新捡起来，研究下css3和processing怎么实现多面体。 http://t.cn/RPP3xPP
+被这图恶心到了《裂变菊花兽》 作者：7years - 更多大图 猛戳: http://t.cn/RPh4OgR (分享来自 @UI中国 - 专业界面设计师平台)
+这应用好有意思《Insect Definer for ipad》 作者：zystoo - 更多大图 猛戳: http://t.cn/RPhGhpF (分享来自 @UI中国 - 专业界面设计师平台)
+【processing 3d图形】要实现立体图形，只要了解下p3d，然后就可以把想法实现出来。css3实现的是比较规则的图形，processing通过计算就可以算出所有点的坐标。这篇文章不讨论立体几何的解法，主要讲下processing内置的3d函数和实现不规则的多面体。 http://t.cn/RPh17Al
+数据可视化系统学习http://t.cn/RPhFBFH
+javascript异步编程系列http://t.cn/RP7ksgn
+http://t.cn/zQ28euA css实现的各种球
+《那些界面动画设计需要瞭解的事情》 作者：奧革士 - 更多大图 猛戳: http://t.cn/RP7f5Ne (分享来自 @UI中国 - 专业界面设计师平台)
+用Arduino玩愤怒的小鸟http://t.cn/zlR22Xx
+用Arduino玩愤怒的小鸟-Arduino中文社区 - Powered by Discuz! （分享自 @Arduino中文社区） http://t.cn/zlR22Xx
+【css3球体加载动画】一开始是想用processing来实现，但是没找到animate delay的方法，只实现了球，具体看下面的demo。如果知道怎么实现的，跟我说下，processing还不是特别熟悉，打算系统的学下。于是改用了比较熟悉的css3，居于dom实现的还是比较简单，但是和程序的… http://t.cn/RPzcYG1
+【css3球体加载动画】一开始是想用processing来实现，但是没找到animate delay的方法，只实现了球，具体看下面的demo。如果知道怎么实现的，跟我说下，processing还不是特别熟悉，打算系统的学下。于是改用了比较熟悉的css3，居于dom实现的还是比较简单，但是和程序的… http://t.cn/RPzcYG1
+【css3动画总结】css3动画总结,研究css3动画也有一段时间了，把之前写过的动画总结下，然后做一次分享。接着进入下一阶段的学习了。所有动画都放github上了，感兴趣的可以下载来看。编译环境：sass，slim，可以使用Prepros自动编译。大概分成以下及部分：密集动画，扁… http://t.cn/RPzfr2k
+【processing贝塞尔曲线】很多地方都有贝塞尔的影子，css3,svg,canvas。究竟贝塞尔曲线是怎么画出来的，怎么更好的理解，这篇文章将分步讲解贝塞尔的实现过程。 http://t.cn/RPZUusB
+@郭斯特 欧巴的书到了，送你一朵菊花http://t.cn/RPZfzRZ
+好厚的一本书，开始研究processing http://t.cn/RPZ64q2
+睡不着，起来看会儿书催催眠 http://t.cn/RPZCHzH
+【css3菊花绽放凋零】网上有人在问说花朵打开的效果怎么做，于是有了这朵菊花，献给所有的好基友。 http://t.cn/RPZ1d0j
+【css3曲面】css3没有属性来设置曲面，感觉应该多个skewZ和skew3d。现在要实现一个曲面，需要多个标签拼成一个圆形，然后每个标签设置不同的background-position。借助sass和slim就很好实现。 http://t.cn/RP2dUUc
+《性感宝贝！》 作者：ITD - 更多大图 猛戳: http://t.cn/RPLD1Sd (分享来自 @UI中国 - 专业界面设计师平台)
+来膜拜这个人吧http://t.cn/RvbPDXf http://t.cn/RPLkG04
+【processing和processing.js实现的差异】processing学习一段时间了，跟着书上的例子敲了一遍，代码放github上，其中有一些实现的差异在这里整理出来。 http://t.cn/RPUKUf5
+http://t.cn/RPU1bgs 一篇全面介绍svg的文章
+【processing纹理映射,使图片弯曲】css3曲面介绍了用css3使图片弯曲，用到了很多标签，如果要实现safari那样的照片墙，估计会卡的不行。这篇文章介绍用processing实现曲面。 http://t.cn/RPG9R5k
+@真阿当 大牛分享 http://t.cn/RPqjV2V
+天气热了，要吃哪一款冰棍
+天气热了要吃哪一款冰棍http://t.cn/RP5W4Ur
+我梦寐以求的果实就这样被勘十郎这个画渣吃了、有种“好白菜都被猪拱了”的心酸感
+佩服老外，玩什么都能玩到极致。beesandbombs.tumblr.com/archive
+《记得大名鼎鼎的SimCity4吗？》 作者：ITD - 更多大图 猛戳: http://t.cn/RP5DPqM (分享来自 @UI中国 - 专业界面设计师平台)
+#前端新技能#晚上一直在想这个问题，赶紧记录下来。
+《你会这么和Ta们说话吗？》 作者：范大大 - 更多大图 猛戳: http://t.cn/RPb5TDt (分享来自 @UI中国 - 专业界面设计师平台)
+《动效设计师Marcus Eckert访谈》 作者：MartinRGB - 更多大图 猛戳: http://t.cn/RPbMvYp (分享来自 @UI中国 - 专业界面设计师平台)
+Animations (Gifs) http://t.cn/RPf27Hr Animations (Gifs Part 2) http://t.cn/RPf27Hd
+Loader App (Gifs) http://t.cn/RPf2yqu
+【processing实现加载动画】把gif图片放到ps里面，然后用processing来实现，会发现两者的思路很像。不用像css3那样去计算关键帧的百分比。processing实现曲线也方便很多。 http://t.cn/RPfibJr
+【processing加载动画2】上一篇文章讲了《processing实现加载动画》，可以非常快速的从ps和ae转换成动画效果。多练习可以更加熟练processing的用法，锻炼想象力。 http://t.cn/RPI62Jj
+http://t.cn/RPVmWpQ http://t.cn/RPVShqC
+http://t.cn/RPVmWpQ http://t.cn/RPVShqC 这两个周永康的专题都做得不错
+http://t.cn/RPfoKqC 数据新闻&可视化实验室
+《UE/UX 福利来了——各种线框稿》 作者：zystoo - 更多大图 猛戳: http://t.cn/RPM0X0I (分享来自 @UI中国 - 专业界面设计师平台)
+【css3龙卷风-等差数列和等比数列】不得不说这个创意很赞，一堆看似零散的点组成一个龙卷风的动画，佩服作者的耐心，能用css一行行的写，调式的时候估计要改很多次。其实仔细看他的代码，有很多规律可循，评论里面也有人说到使用预处理器。于是我fork了一个，然后用sli… http://t.cn/RPMec6g
+很有创意的简历《我的简历设计》 作者：彧仲 - 更多大图 猛戳: http://t.cn/RPMD8fj (分享来自 @UI中国 - 专业界面设计师平台)
+很有质感的3d图标http://t.cn/RPMkwr2
+iOS icons http://t.cn/RPMFhC7
+【processing饼状图】这篇文章讲讲prcocessing制作饼状图，然后封装成类。 http://t.cn/RPx4yqn
+《De Stiji》 作者：单贱贱 - 更多大图 猛戳: http://t.cn/RPidH1w (分享来自 @UI中国 - 专业界面设计师平台)
+【前端方向的一些思考】在张鑫旭的博客看到这张图，勾起了对前端方向的思考。目前大携程css和js是分开的，这样分工做得更细，但是很快就遇到瓶颈了。周末听真阿当的分享，讲到了二八法则，用百分之二十的时间学百分之八十的东西，剩下百分之二十的东西要花百分之八十的… http://t.cn/RP6cqjl
+潘洛斯三角http://t.cn/RPXMFzh http://t.cn/RPXMFzz
+纳克方块http://t.cn/SIH0XX
+http://t.cn/RPXJsdQ
+在codepen上看到这个demo，和我之前写的demo很像，但是思路却差很多。我的思路是一个点一个标签，而他的思路是用box-shadow复制点，然后通过list数据添加点。下面分析下他的代码，并且应用到sharp-outside和clip-path的坐标点，改写多边形的代码。 http://t.cn/RPaIsDR
+《用PS构建动态演示GIF》 作者：MartinRGB - 更多大图 猛戳: http://t.cn/RP6Zytw (分享来自 @UI中国 - 专业界面设计师平台)
+http://t.cn/RPSpqyl
+《Visage数据可视化设计指南》 作者：MartinRGB - 更多大图 猛戳: http://t.cn/RvfFeJ4 (分享来自 @UI中国 - 专业界面设计师平台)
+《缓动效果完全解析》 作者：MartinRGB - 更多大图 猛戳: http://t.cn/RvgO0es (分享来自 @UI中国 - 专业界面设计师平台)
+《重新思考动效设计工具》 作者：MartinRGB - 更多大图 猛戳: http://t.cn/RPKZcp5 (分享来自 @UI中国 - 专业界面设计师平台)
+类似processing的js库p5.js http://t.cn/RPSfB5f
+这样就通关了 http://t.cn/RP9voNj
+催眠 http://t.cn/RPCdTkn
+http://t.cn/RPN9FPG http://t.cn/RPN9FPq css3齿轮，box-shadow能实现的还真多
+《聊聊那些令人愉悦的动画效果》 作者：yaya0101 - 更多大图 猛戳: http://t.cn/RPoqJDv (分享来自 @UI中国 - 专业界面设计师平台)
+http://t.cn/RPNNjaQ
+数据可视化『2014Q2百度移动互联网发展趋势报告 by FEX』http://t.cn/RPpXG0B
+svg教程 http://t.cn/RP0HshD
+http://t.cn/RP0QqTn http://t.cn/RP0QqTE http://t.cn/RP0QqTm http://t.cn/RPx6h2F http://t.cn/RPS8msk svg教程
+一家人都在看海贼王
+《wif data -无线数据展示动画》 作者：8qt187464 - 更多大图 猛戳: http://t.cn/RPWZzFF (分享来自 @UI中国 - 专业界面设计师平台)
+【js一些容易混淆的概念】最近在看高级程序设计，把一些比较不好理解的整理下，不断添加进来，加深印象。 http://t.cn/RPlBdxQ
+Food Truck of the World http://t.cn/RPj0XNo
+Tumblr-style-cog-loaders http://t.cn/RPj0d1E
+@李松峰 老师翻译的书终于到了 http://t.cn/RPjB4dr
+《让界面动画更自然》 作者：yaya0101 - 更多大图 猛戳: http://t.cn/RPY4hQv (分享来自 @UI中国 - 专业界面设计师平台)
+《111个酷帅狂拽屌的Loading进度条界面设计》 作者：dingxiafei - 更多大图 猛戳: http://t.cn/RPYdPeq (分享来自 @UI中国 - 专业界面设计师平台)
+【数据可视化实战-使用d3设计交互式图表】这本书比较基础，适合入门，语法类似jquery和raphaeljs，熟悉jquery的花个几天就能看完。书中的例子都是循序渐进，由浅入深，思路比较清晰，跟着敲都能做出来。这里把几个比较完整的例子整理下。 http://t.cn/RP8pXXA
+【数据可视化实战-使用d3设计交互式图表】这本书比较基础，适合入门，语法类似jquery和raphaeljs，熟悉jquery的花个几天就能看完。书中的例子都是循序渐进，由浅入深，思路比较清晰，跟着敲都能做出来。这里把几个比较完整的例子整理下。 http://t.cn/RP8pXXA
+很全的可视化工具——评论dataV数据可视化分享平台「第二部分：可视化编程语言和环境」http://t.cn/zOVhFu6
+《原创：为中国加油！》 作者：nyxk088 - 更多大图 猛戳: http://t.cn/RPmiFLX (分享来自 @UI中国 - 专业界面设计师平台)
+恶补js http://t.cn/RP1LYzc 继承、原型链、闭包、this对象、内存泄漏、模拟块级作用域、私有变量
+http://t.cn/RPESRfc 好感人
+【r数据可视化入门】r数据可视化入门,绘制散点图,绘制折线图,绘制条形图,绘制直方图,绘制箱箱线图,绘制函数图像 http://t.cn/RPBjRFB
+我在@微盘 分享了一个很不错的文件："css3动画分享-周文彬.pptx"，快来看看吧~ http://t.cn/RhvTBg1
+又晕了 http://t.cn/RhZt4hR
+http://t.cn/Rh22w8e
+http://t.cn/Rh4jILQ
+【保存网页内容为图片】有时候我们需要把网页中一部分内容保存成图片，但是用dom找不到方法，于是想到了用canvas来实现。 http://t.cn/RhbvJhG
+买了两本书来学习 http://t.cn/RhqHY8W
+快来玩这个，学习钢笔工具画贝塞尔曲线http://t.cn/Rh6oxjt
+svg动画http://t.cn/RhKdT3K
+【canvas,css3,svg缓动效果】总结下canvas,css3,svg缓动效果,包括没有加速度的线性运动,逐渐加速的缓入运动,逐渐减速的缓出运动,缓入缓出运动，弹簧运动，弹跳运动，还有一些其他扩展。 http://t.cn/Rh0Pai8
+《逗比版七龙珠！》 作者：徐那个雄 - 更多大图 猛戳: http://t.cn/RhKXBI5 (分享来自 @UI中国 - 专业界面设计师平台)
+【css3,processing,canvas实现同一个动画的思路差异和局限性】动画的思路大概是这样：一开始待机状态会有泡泡冒出来，点击监听泡泡会聚集成一个正方形，大概停留一秒向两边分散成若干小正方形，然后正方形高度变化形成声波动画，点击思考会有一个思考的loading动画。 http://t.cn/RhlgdEK
+特别版最后出现二哥了http://t.cn/RhjyGcl
+awesome-svg,都是干货 http://t.cn/RhTh94C
+Bounce.js动效库http://t.cn/RhQIeox
+新书到了，国庆回家看书 http://t.cn/RhQEkxT
+【新的起点】来上海已经九个月了，这段时间进步很快。上海的技术氛围很好，周围的人都很努力，经常会有技术分享。自己也比以前更加珍惜时间，晚上都在学习充电。想想比自己牛逼的人都比自己还努力，还有什么理由不努力呢？ 找到一个感兴趣的方向很重要，它能让你充满动… http://t.cn/R7y2Ono
+小伙伴们，快来围观！我已经升级为V6新版微博，简洁的界面带来更流畅的体验。准备好了吗？和我们一起发现新的世界吧！升级猛戳:http://t.cn/R7vgnNI http://t.cn/R7PWMm5
+【css3抛物线动画】高中的时候学过抛物线运动实际上是水平方向为匀速运动，竖直方向为加速运动。这样我们可以借助css3的缓动效果来实现，水平方向用linear，竖直方向用ease-in。只要用js计算出两点之间的位移，其他的效果交给css3的transition来搞定，减少js的计算，提… http://t.cn/R7fN8fg
+【跟动画有关的数学和物理公式】我觉得动画里面最难的就是那些公式吧，语言都有相似之处。思路是核心，其他都换汤不换药，所以我打算把跟动画有关的数学和物理知识整理下，几种不同的语言整理在一起方便比较，也方便以后用的时候查找。 http://t.cn/R7xiOwp
+#D2 2014#第一次参加d2 http://t.cn/R7xF17S
+#2014 D2#数据可视化，感兴趣的话题 http://t.cn/R7xF17S
+c4d动效
+我上传了：【视频：OSCILLATE by Daniel Sierra】http://t.cn/R7BvIob（来 @优酷 看我更多精彩视频：http://t.cn/R7BvIoU）
+这个据说是用vex和processsing写的，看的也是醉了 http://t.cn/R7BPcxq
+海贼开始搞基了 http://t.cn/R7s3i7w
+《【回音小讲堂】五分钟画视幻 分享人：大礼包》 作者：gsmike - 更多大图 猛戳: http://t.cn/RhsHJxN (分享来自 @UI中国 - 专业界面设计师平台)
+《动画基础，如何构建动感》 作者：小希Doris - 更多大图 猛戳: http://t.cn/RzUkaoj (分享来自 @UI中国 - 专业界面设计师平台)
+《Google Calendar中的美妙插画》 作者：相脆脆 - 更多大图 猛戳: http://t.cn/Rz5aVNt (分享来自 @UI中国 - 专业界面设计师平台)
+分享图片
+分享一篇@小黑 的原创文章【关于webapp中的文字单位的一些捣腾】来自@前端乱炖 专栏「css研究」 。前端乱炖是一个专业的前端知识原创内容社区 http://t.cn/R7dA2Ik
+稍等片刻:页面预加载动画 http://t.cn/R76qLxj
+http://t.cn/Rz6rAmj 这个网站每切换一个房间，都能看到房子里面，创意碉堡了
+《Soul Of Doodle》 作者：淘宝UED - 更多大图 猛戳: http://t.cn/RzK09Zd (分享来自 @UI中国 - 专业界面交互设计平台)
+flat icon http://t.cn/Rzp0sGG
+【小章鱼svg动画】在设计师那边拿了一套小章鱼的表情，都是矢量的，就拿来捣鼓一下。好久没练习了，有点生疏。代码得天天写才能熟能生巧。 http://t.cn/RzpdEWY
+【snap.svg图形动画】上篇文章《小章鱼svg动画》中用jquery的方式来改变属性值，属性值得动态计算，这篇文章尝试用矢量库snap.svg来改变属性值，并让动画能循环播放。制作更多样的动画效果。 http://t.cn/RzOCg4d
+http://t.cn/RzjYI2p
+酷炫的webgl特效 http://t.cn/Rzj8gfC http://t.cn/Rzj8gfp http://t.cn/Rzj8gf0
+http://t.cn/RzQ9F7s
+http://t.cn/RzQ9F7s
+dot animate http://t.cn/RzQCBXz
+dot animate 2 http://t.cn/RzQCBXz
+【几何图形clip-path mixin】clip-path是一个比较新的属性，可以用过定义坐标点来裁切图形。这篇文章把一些常见的几何图形整理成mixin，方便通过参数改变大小，边数和颜色。 http://t.cn/RzQReWl
+【三角形梯形mixin】这篇文章把border生成的图形整理成mixin，方便改变边长，高，颜色，方向，兼容性比较好。 http://t.cn/RzQBgbp
+【三角形合体图形之标签,路标,面包屑,mixin】三角形可以跟其他的图形合成我们想要的图形，比如标签、路标、面包屑，整理成mixin，方便改变大小，颜色，方向。 http://t.cn/Rz8u8RI
+《黑镜第3季圣诞特别篇》- 剧情很赞 http://t.cn/Rz3buta
+http://t.cn/RZvJ7F2 http://t.cn/RZvJ7Fy http://t.cn/RZvJ7FL http://t.cn/RZvJ7Fw http://t.cn/RZvJ7Fz 几个雪花效果
+http://t.cn/RZvrZ9F 这网站有很多好玩的图形算法
+http://t.cn/RZvg5ah http://t.cn/RZvg5a7 http://t.cn/RZvg5ab http://t.cn/RZvg5aU http://t.cn/RZvg5a2 http://t.cn/RZvg5aL
+http://t.cn/RZPPa3Q 哈儿的移动城堡，可鼠标控制
+【滚动动画和关键帧动画的转换】滚动动画就是经常看到的视差滚动效果，看看这个demo，这篇文章介绍下skrollr插件，以及如何把css3关键帧动画转换成滚动动画。  修改css3关键动画 css 先以一个立体的四面体为例，关键帧代码如下 @keyframes ani{    100%{      transfor… http://t.cn/RZh9jY8
+这集太搞笑了
+#我和小伙伴的2014#@徦娤佷啈冨0_0 么么哒，我亲密的小伙伴！因为有你，我的2014更精彩！新年，我要安静做个美男子，愿望还是要有的，万一实现了呢！快来和我一起许下新一年的愿望吧！http://t.cn/RzscAGy
+模拟radio和checkbox的四种方法http://t.cn/RZAtrXl
+《2014 年最佳 UI 动效》 作者：JJ.Ying - 更多大图 猛戳: http://t.cn/RZz3YNx (分享来自 @UI中国 - 专业界面交互设计平台)
+这系列的图都很有意思http://t.cn/RZ2wxj1
+好可怜的水果http://t.cn/RZ2ylyA
+#领年终奖啦# 辛勤了一年，有收到年终奖吗？先来微博领吧，我们已经为你准备好啦~[爱你] 100%人人有份，快来看看你能领到多少钱？[礼物][来] http://t.cn/Rz9RqFO
+我刚刚在#领年终奖啦# 中领到了1.28元现金！没领的小伙伴们快去领吧，100%人人有份，还有很多奖没有发完呢！比比看谁领的多~ http://t.cn/Rz9RqFO

@@ -1,0 +1,224 @@
+#Atmel触控派周二# #Atmel速递# 全球触控技术解决方案领导者Atmel的XSense已被EDN中国选为“十大最具影响力的未来技术”。开发更纤薄、更轻便、更灵敏的柔性触摸屏能够创新可穿戴式、移动设备、车载娱乐系统等曲面屏幕产品的最终形态，为未来电子产品设计带来革命性的影响。http://t.cn/RvmNsBO
+Instructables上一位名叫nodcah的高中生最近DIY了一个指纹识别的车库开门装置。基于ATtiny85和由ATmega328驱动的LCD套件，该装置支持在初始状态的基础上制造出不同类型的电动锁。详情戳：http://t.cn/RvmYh4L
+#Atmel创造派周三# 嘿，帮把手？高中生Gabry25设计并制作了一个无线控制的机器人手臂装置。基于Arduino LilyPad和Arduino Uno，戴着相匹配手套的手臂的任何动作都可以为其复制。而其中的五个伺服电动机则通过FuturaElettronica的Robot_Shield加以连接。详情及视频戳：http://t.cn/RvuTWKY
+#Atmel创造派周一#超便携！口袋里的打印机：Zuta Labs联合创始人Tuvia Elbaum最近设计制造了口袋打印机原型。不同于以往任何盒装打印机，这一装置实质上是一个基于Arduino的四轮机器人，个头比CD包稍小一点，凭借两套双向轮在纸上一边好友一边释放墨水以实现打印。详情戳：http://t.cn/RveLMbW
+#Atmel创造派周二#超便携！口袋里的打印机：Zuta Labs联合创始人Tuvia Elbaum最近设计制造了口袋打印机原型。不同于以往任何盒装打印机，这一装置实质上是一个基于Arduino的四轮机器人，个头比CD包稍小一点，凭借两套双向轮在纸上一边好友一边释放墨水以实现打印。详情戳：http://t.cn/RveLMbW
+#Atmel英雄视频大赛# #Atmel AVR Hero Contest#【原创：智能苹果削皮机】来自山东电子狼团队的原创作品，双气缸推动，ATmega16驱动步进电机，hardcore智能苹果削皮机达成√http://t.cn/RveaRKD
+#Atmel速递# 凭借高性能、超低功耗和巨大的物联网应用潜力，Atmel SAM R21顺利入围2014年中国电子成就奖（China ACE Awards），被提名为年度最具潜力新技术奖（物联网类）。奖项评定在即，欢迎喜爱Atmel MCU的你为Atmel及R21投上宝贵一票！投票截止日期：7月12日 http://t.cn/RvCe4uc
+#Atmel速递#Atmel公司近日宣布已签署一项最终协议为收购领先的高性能、低功耗Wi-Fi 和蓝牙解决方案提供商Newport Media, Inc.（简称“NMI”）。通过此番收购，Atmel将拥有业内最为完整的面向“物联网”的智能无线联网产品组合。详情点击：http://t.cn/RvkdLhE
+#Atmel AVR英雄视频大赛#【原创：蛋黄物语】见过自平衡机器人，有没有见像这个小蛋黄一样会卖萌的呢？基于Arduino mini pro（ATmega328P），通过陀螺仪和加速度计等部件以及PID控制算法实现两轮机器人的自平衡行动。据说外形灵感源自萌神瓦力，呼唤PO现身认领！[bed拍手]详情戳：http://t.cn/RvkgF6G
+#Atmel活动#【有奖问答】延续Atmel嵌入式闪存MCU技术领域的领先优势，SMART™ SAM D系列微控制器拥有低功耗、外设灵活性、高管脚利用率、高可扩展性等关键特性，可广泛应用于各种领域。现在去@EEWORLD 看Atmel SAM D专题视频答题，涨姿势还有好礼相送哦 详情戳：http://t.cn/RvF0Muv
+#Atmel创造派周二#创客“Marcel”最近基于Arduino制作了一台性能良好的乐高绘图机。这个机器通过遥控模型车舵机来控制绘图笔的X/Y轴走向、一个乐高折叶设定绘图笔高度，Arduino记录与绘图机相连的八向轮的电阻值进而驱动绘图。详情戳：http://t.cn/RPhDgzy
+#Atmel视频# #Atmel触控派周三#【视频：Atmel MaxTouch T系列触摸屏控制器——手写笔手套支持】T系列新增的功能包括：高达20厘米的悬停、5厘米厚手套触摸和1厘米细手写笔的支持等。详情请戳视频：http://t.cn/RP7F1wq
+#Atmel活动##Tech On Tour# TOT终于来啦！第一站上海抢先登陆！以Atmel SAM D21和Atmel SAMA5D3为代表，Atmel微控制器、微处理器、无线触控解决方案全接触，技术演示、实操培训汇聚一堂 [撒花] 现场照片：
+发表了博文 《ATMEL祝贺首届白宫创客集市》 - 作为全球微控制器和触摸解决方案的领导者，Atmel公司认为首届白宫创客集市取得了圆满成功。为了使技术更加简单、易得和便于使用，Atmel一直是创客运 http://t.cn/RP2gg2s
+发表了博文 《tinyAVR帮助我们遵守时间》 - 一位名叫Chris Gunawardena的创客最近发明了一款采用Atmel公司的ATtiny84微控制器(MCU)DIY的极简约的LED时钟。   http://t.cn/RP2e6Cu
+#Atmel速递#小米4昨天下午发布啦！小米这款全新的旗舰手机采用了Atmel业界领先的maXTouch T系列触屏控制器maXTouch mXT641T，为手机湿手操作和垂悬功能的实现提供强劲支持[bed转圈] @小米手机
+#未来汽车中控台长什么样？# 今天Atmel公司的汽车产品营销总监Yan Goh先生来和我们分享Atmel提供的汽车解决方案，未来你想要中控台长什么样呢？[嘻嘻] 全都“摸”得到！ http://t.cn/8kR8kBa
+#未来的汽车全都摸得到# Atmel在未来也会致力于将半导体更多地融入到汽车领域！ http://t.cn/8kR8kBa
+#未来的汽车全都摸得到# 在车上采用先进的maXTouch技术，湿手手套触摸也同样支持！✌️ http://t.cn/8kR8kBa
+#未来的汽车可以直也可以弯# 在汽车上采用Atmel自家获奖产品[馋嘴] XSense传感技术，支持可弯曲材料，弯弯的中控台不是梦！[偷笑] http://t.cn/8kR8kBa
+#未来的汽车全都摸得到# 通过触屏控制器，物理按键在将来都能够实现触摸控制！ http://t.cn/8kR8kBa
+#未来汽车中控台长什么样？# Atmel show给你看！[害羞] http://t.cn/8kR8kBa
+未来汽车这样？Atmel展示触控芯片解决方案 集成Atmel强大的触控传感等技术来实现未来汽车的更多可能！ http://t.cn/RPbdUoA
+不仅是触摸操作 爱特梅尔展示未来中控 -  [汽车之家 技术] 给用户更多体验，给车厂更多选择！~ http://t.cn/RPGLeRK
+【体验】Atmel AvantCar全触摸车载系统：感知车内的一切】 #PingWest 长微博# （分享自 @汽车科技博客SHIFT） http://t.cn/RPbDM9Y
+#Atmel活动##Tech On Tour# TOT技术巡展之广州站进行时[bed举哑铃] 参与者在接受官方培训涨姿势的同时还有SMART™ SAM D21开发板抱回家DIY，理论与实践的完美结合[bed拍手]
+发表了博文《Atmel与创客革新》作者：JamesA.Langbridge说起来我也算是参与过创客革命的“元老”了，想当年在上世纪80年代后期，我还是个刚入行的新手。当时我们自己做的电路板，和现在的电http://t.cn/RPfAeXX
+Atmel与创客革新：作者：James A. Langbridge 说起来我也算是参与过创客革命的“元老”了，想当年在上世纪80年代后期，我还是个刚入行的新手。当时我们自己做的电路板，和现在的电路板还是不太...文字版>> http://t.cn/RPf2AH7 （新浪长微博>> http://t.cn/zOXAaic）
+【视频：Atmel SAM D 系列概述】基于ARM Cortex-M0+的SAM D系列微控制器实现了高灵活性、易用性和低功耗，是广泛的家庭自动化、消费、计量和工业应用的理想之选，同时也是本次Tech On Tour的主角。戳视频了解SAM D10、SAM D11 和 SAM D21三个系列的功能和特性 [bed拍脸] http://t.cn/8sV3rIT
+【视频：Atmel和汽车电子的那些事儿】Atmel在汽车领域已有颇为悠久的历史，涉及方面包括触控、车载网络连接以及汽车门禁等等。来听Atmel汽车产品部高级副总裁Rob Valiton给大家讲故事[bed拍手] http://t.cn/RPIl5R5
+【AvantCar汽车解决方案实现全触控操作】（分享自 @ZDNet）@王聪彬 http://t.cn/RPIXouk
+#Atmel触控派周三#人人爱触屏，连龟仙人都不例外！林肯大学的研究人员最近进行的一项研究表明，凭借脑中的内测皮质,红腿象龟可以在很短的时间内学会使用触屏。不知道他们接下来会不会使用基于maXTouch的垂悬功能呢 油管视频：http://t.cn/RPaW2cB （需翻墙）
+#Atmel触控派周三#人人爱触屏，连龟仙人都不例外！林肯大学的研究人员最近进行的一项研究表明，凭借脑中的内测皮质,红腿象龟可以在很短的时间内学会使用触屏。不知道他们会不会使用基于maXTouch的垂悬功能呢[bed举哑铃] 油管视频：http://t.cn/RPaW2cB （需翻墙）
+Arduino Leonardo最小的“同祖异亲”小弟弟——IMUduino BTLE。由Femtoduino开发，这块不到2.7克的小板子兼容Arduino，可用于可穿戴设备等嵌入式系统的硬件开发与原型设计，搭载包括Bluetooth LE、实时定位与动作传感IMU等，小但能干 [bed踏步] 详情戳官网：http://t.cn/RPaHgjg
+#Atmel移动派周四# 想要像阿汤哥在《少数派报告》里面那样酷炫？很快就会实现咯。Thalmic Labs开发了一款手势控制臂环Myo，基于ARM Cortex-M4处理器，通过肌电图（EMG）传感器识别经前臂肌肉传递的电子信号。而且还是均码的[bed举哑铃] 详情戳：http://t.cn/RPSHvTi
+#AtmelEdge#【和Paul Rako一起涨Atmel姿势之-Debug系列第一集：JTAG ICE仿真器】Atmel Edge节目主要是讲述各种电子设计和机械工程知识，助力大家成为完美的多面手工程师[bed奔跑] 视频戳：http://t.cn/RPSBFnv
+#EDNChina 20周年# #我与atmel# “机”友Gaon："atmel一直是心目中单片机的代名词，上学时最常听到的就是ATMEL。 这么些年过去了，单片机已'泛滥成灾'，而ATMEL仍屹立不倒，推陈出新。祝SAM D新品系列取得新的辉煌。" 你与Atmel又有着怎样的情节呢？去@EDNChina 故事墙唠唠吧 http://t.cn/RPKv33O
+【对话Atmel副总裁：我们为物联网做了哪些准备？】@雷锋网  来听听Atmel微控制器业务高级副总裁 Reza Kazerounian对未来物联网设备连接方式、Atmel面临的机遇与挑战、智能家居大规模爆发点等问题的洞察与见解吧 [bed啦啦啦] http://t.cn/RPKuKQ7
+#Atmel创造派周一#爸爸新榜样——为儿子造个飞船[bed仰卧起坐]最近，"创爸"Jeff Highsmith用Arduino给小儿子的房间造了个宇宙飞船。为了打造NASA般的实际效果，Jeff还为飞船添加了机器臂操控等功能。详情戳：http://t.cn/RPpNFoU 之前他还为大儿子制作了航天地面指挥控制台。戳：http://t.cn/8FR2ySk
+#Atmel立体派周二# 3D打印将如何改变你的旅行？对于旅行者来说，准备行李总会有些负担。Janne Kyttanen和他所在的画廊Galerie Vivid展出了一系列特殊的旅行用品，这些物件可以在你到达目的地之前就通过电邮提前抵达然后被3D打印出来以供使用。妈妈再也不用担心行李打包不好啦 详情http://t.cn/RP0HtOP
+也是我 [bed转圈] 扫一个？
+甲之砒霜，乙之熊掌。结合Arudino就可以让废弃软驱重现光彩：油管用户MrSolidSnake745曾发布数段其用数个软盘驱动器演奏的音乐，包括冰火主题曲、最终幻想7主题曲等等。而这其中的秘密就在于——Arduino Uno。详情戳：http://t.cn/RP8pzVF
+#事情是这样的# 面对家中总是跳票的新烤箱，@必叉 帮@居然不让叫mtk 基于Arduino Mega 2560制作了新烤箱温控器，直接拆掉原有温控旋钮，简单粗暴但是行之有效，完美拯救了月饼计划（求蛋挞）[bed拍脸] 多图附代码教程戳：http://t.cn/RPQvaKJ，项目地址：http://t.cn/RPEVsjY
+#AtmelEdge#【和Paul Rako一起涨Atmel姿势之-Schematic 101：接地、电源基准点、底盘、共地及屏蔽】Atmel Edge节目主要是讲述各种电子设计和机械工程知识，助力大家成为完美的多面手工程师[bed举哑铃] 视频戳:http://t.cn/RPgMJmD
+之前成功入围2014年China ACE Awards#中国电子成就奖#年度物联网类最具潜力新技术奖的Atmel产品——基于ARM Cortex-M0+的无线MCU系列SAM R21，兼具超高性能与超低功耗，在物联网领域拥有巨大的应用潜力。想要了解SAM R21更多请戳：http://t.cn/RPg0wXx （PDF）
+#Atmel AVR英雄视频大赛##Atmel AVR Hero Contest#投票进行时，AVR Man is watching you！[doge] @沐紫_eefocus @ssywtt-EEFOCUS
+#Atmel AVR英雄视频大赛##Atmel AVR Hero Contest#投票进行时，AVR Man is watching you！[doge] http://t.cn/RPWo579 @沐紫_eefocus @ssywtt-EEFOCUS
+#Atmel在线研讨会# Atmel Crypto在线研讨会预热开始，现在可以登记报名向专家提问啦。#CryptoAuthentication#™硬件密钥存储设备可以确保配件、软件、医疗设备、固件、网络节点等设备不被克隆或篡改，进而保持产品的“真实性”。研讨会举行时间：10月14日上午10:00-11:30。详情：http://t.cn/RhAQeUE
+#AtmelEdge#【和Paul Rako一起涨Atmel姿势之-Schematic第三集：底特律某大型汽车厂错误理解接地与共地所引起的麻烦】Atmel Edge节目主要是讲述各种电子设计和机械工程知识，助力大家成为完美的多面手工程师。Schematic第一集：http://t.cn/Rh2dbES；Schematic第二集：http://t.cn/RPgMJmD
+#AtmelEdge#【和Paul Rako一起涨Atmel姿势之-Schematic第三集：底特律某大型汽车厂错误理解接地与共地所引起的麻烦】Atmel Edge节目主要是讲述各种电子设计和机械工程知识，助力大家成为完美的多面手工程师。视频戳：http://t.cn/Rh2dK57 第一集：http://t.cn/Rh2dbES；第二集：http://t.cn/RPgMJmD
+#IIC-China# 直播：Atmel在电子工程盛会现场。展台在物联网与可穿戴馆4E25号的对面，来看看这次Atmel给大家准备了什么有趣的小惊喜吧[bed转圈] @IIC-China
+发表了博文《密码危机情结》密码的使命是提供安全性，但最近曝光的一系列安全漏洞表明，密码本身都存在着一定的安全隐患…一旦密码惨遭泄露，网络罪犯就会像过圣诞节一样打了鸡血…这一点相信已经一次又一次地得到了http://t.cn/RhLNAgC
+发表了博文《密码危机情结》密码的使命是提供安全性，但最近曝光的一系列安全漏洞表明，密码本身都存在着一定的安全隐患…一旦密码惨遭泄露，网络罪犯就会像过圣诞节一样打了鸡血…这一点相信已经一次又一次地得到了http://t.cn/Rhy7BWu
+密码危机情结： 密码的使命是提供安全性，但最近曝光的一系列安全漏洞表明，密码本身都存在着一定的安全隐患… 一旦密码惨遭泄露，网络罪犯就会像过圣诞节一样打了鸡血… 这一点相信已经一次又...文字版>> http://t.cn/RhyzPpe （新浪长微博>> http://t.cn/zOXAaic）
+#Atmel在IIC-China# #IIC-china 2014 访谈# 作为业内唯一提供32位和8位两种架构MCU的半导体厂商，Atmel可以灵活满足用户多元化的需求。来听听Atmel高级产品经理Bjorn Brandal在接受采访时对双架构策略的阐释以及对国内MCU市场的展望吧： http://t.cn/Rh4322T @国际电子商情
+#Atmel立体派周五#自糖果之后，披萨也能打印啦。三位来自伦敦的大学生基于Arduino Due和RepRap 3D打印技术，制作了一台食物3D 打印机，仅用20 分钟就能出品一个美味的披萨。放一台这样婶儿的打印机在办公室，加班再也不用担心饿肚子啦![bed凌乱]详情戳：http://t.cn/RhbzKe1
+发表了博文《物联网将借助高能效茁壮成长》我们已经知道，物联网能够为我们带来一个超连接和可定制的世界。但是，我们是否能够便捷地管理联网于这个智能世界中的所有设备呢？我们的家是将成为一个臃肿的联网设备中心http://t.cn/RhcbU6i
+物联网将借助高能效茁壮成长：我们已经知道，物联网能够为我们带来一个超连接和可定制的世界。但是，我们是否能够便捷地管理联网于这个智能世界中的所有设备呢？我们的家是将成为一个臃肿的联网...文字版>> http://t.cn/Rhcb44y （新浪长微博>> http://t.cn/zOXAaic）
+#创造派周三# 植物也有喜怒哀乐？有爱的创客Thanasisloi7基于土壤水分传感器和ATtiny85实现了对植物情绪的感知。土壤水分充足时LED矩阵屏上会显示笑脸，而在口渴的时候则会提醒你该给它浇水了。植物小伙伴有表情，即使单身也不孤单 [bed扯] 详情戳：http://t.cn/RhV2QYA
+#AtmelEdge#【和Paul Rako一起涨Atmel姿势之-Debug系列第二集：Atmel适用于AVR或ARM产品的调试器】Atmel Edge节目主要是讲述各种电子设计和机械工程知识，助力大家成为完美的多面手工程师 [bed拍脸] 视频戳：http://t.cn/Rhfjq15 Debug第一集：http://t.cn/RPSBFnv
+懒癌患者的福音：最近，有创客设计了一款可以用手机控制的窗帘。利用蓝牙连接智能手机与#Arduino Uno#，通过预装配套App控制电机收放窗帘。不用奋力挥臂，抽戳戳手机也可以拉窗帘啦 详情戳：http://t.cn/RhMcgHH
+苹果推出了方形智能手表的Apple Watch 才过了几天，摩托罗拉也紧随其后地推出了圆形智能手表Moto 360。Moto 360 上的1.5寸背光LCD 触摸屏采用了maXTouch的mXT112S电容触屏控制器（图中蓝色方框），搭配Gorilla Glass 3，力争为用户带来极致的显示与触控体验。[bed拍手]
+苹果推出了方形智能手表的Apple Watch 才过了几天，摩托罗拉也紧随其后地推出了圆形智能手表Moto 360。Moto 360 上的1.5寸背光LCD 触摸屏采用了maXTouch的mXT112S电容触屏控制器（图中蓝色方框），搭配Gorilla Glass 3，力争为用户带来极致的显示与触控体验。详细拆解：http://t.cn/RhidSF1
+发表了博文《“加密”无法绕开的“问题”》考虑对嵌入式系统(或其他信息系统)进行加密时，制造商总是会问一个问题：“为什么我需要加密?”，除非他们之前曾被安全问题搞得焦头烂额。其实，答案非常简单：“因为一http://t.cn/Rh62R91
+发表了博文《“人帅人爱宠帅花开”-----Atmel为你盘点11款宠物可穿戴“潮”单品》2014年，你还在给宠物牵绳么？那可就有点Out噜！近几年，随着宠物时尚的兴起，大热的可穿戴技术将下一个市场增长http://t.cn/RhX22Q0
+“人帅人爱 宠帅花开” ----- Atmel为你盘点11款宠物可穿戴“潮”单品：2014年，你还在给宠物牵绳么？那可就有点Out噜！ 近几年，随着宠物时尚的兴起，大热的 可穿戴技术将下一个市场增长点瞄...文字版>> http://t.cn/RhX2UZq （新浪长微博>> http://t.cn/zOXAaic）
+早上能在办公室泡上一杯热茶是极好的，但总是一忙起来就把茶泡得太久太浓。浓茶受害者Suvinks 基于ATtiny85制作了一款智能泡茶器，有效地解决了这一烦恼。单片机操控机械臂装置（Suvinks用了冰棍杆儿），使其在理想时间段内反复浸泡茶包，喝杯浓淡相宜的好茶不再是梦。教程戳：http://t.cn/Rha07hX
+发表了博文《用Arduino还原《神秘博士》里的机器狗K9》对于热衷于重现影视作品道具的手（创）工（客）帝（们），我们总是非常感兴趣的。最近，我们又把目光投向了一位澳洲小伙儿，他在Indiegogo上http://t.cn/RhoPakt
+用 Arduino还原《神秘博士》里的 机器狗K9：对于热衷于重现影视作品道具的手（创）工（客）帝（们），我们总是非常感兴趣的。最近，我们又把目光投向了一位澳洲小伙儿，他在Indiegogo上发起了...文字版>> http://t.cn/RhoPKil （新浪长微博>> http://t.cn/zOXAaic）
+为了获得更好的iOS通知中心服务，创客Luke Berndt决定自己打造一个专门的通知查看器。将iPhone与兼容Arduino的BLE shield同步，通过蓝牙功能发送手机通知中心中的消息，再由LED 屏显示。Luke 将该装置命名为Notif，并且计划进一步扩大其存储容量。详细戳：http://t.cn/RhSsvf7
+#Maker Faire# 纽约站之#AVR Man#三次元现身，真实还原单片机男神！是萌还是帅呢[doge]
+#Maker Faire# 纽约站，全民有乐！了解更多戳：http://t.cn/RhYoYHQ
+发表了博文《Jarvis系统：给你和钢铁侠一样的壕自动化生活》运用基于Atmel的Arduino开发板，由IamTeknikji创建的Jarvis是一个经济实用的家庭自动化系统。灵感来自于《钢铁侠》中http://t.cn/RhTnsdm
+Jarvis系统：给你和钢铁侠一样的壕自动化生活： 运用基于Atmel的Arduino开发板，由IamTeknikji创建的Jarvis是一个经济实用的家庭自动化系统。灵感来自于《钢铁侠》中的人工智能助理Jarvis，这一...文字版>> http://t.cn/RhTmhjK （新浪长微博>> http://t.cn/zOXAaic）
+#Atmel新闻#Atmel与Arudino近日联合发布了Arduino Wi-Fi Shield 101扩展板，可无缝连接任何Arduino开发板，用来建立高性能的Wi-Fi连接。新款开发板也为设计人员提供更多机遇，让他们能够安全地连接各类物联网应用，包括消费电子设备、可穿戴设备、机器人、高科技设备等等。
+#The Big Talk##百家对话#第4期：与《#长尾理论#》作者、#3D Robotics#公司CEO克里斯·安德森共话开放创新之潮。创客精神如何落地中国，创客产业和文化将何去何从，创新思想碰撞敬请猛戳：http://t.cn/RhjlkTt [bed弹跳]
+[doge]你的假期怎么过？#Atmel祝大家黄金周玩得欢宅得爽吃不胖喝不醉# [doge]
+#Atmel活动# #Atmel Tech Live#研讨会即将开启，包括Atmel MCU、Atmel Crypto方案、基于ARM Cortext的SMART MPU、Atmel Studio设计平台和SMART Connect等内容零距离全接触，期间还有Demo演示。免费涨姿势的机会别错过！10月23日上海，28日北京，30日深圳，报名及详情请戳：http://t.cn/RhFxLIp
+#Atmel活动# 2014第二十九届电磁测量技术、标准、产品国际研讨及展会将于10月15日至17日期间在青岛银沙滩温德姆至尊酒店举行，届时Atmel也将参展，欢迎业内外人士前往参观交流。展位：58-59号。展会详情：http://t.cn/RPstOoI
+发表了博文《安全性——物联网的重要支柱》文/PaulRako物联网(IoT)的三大硬件支柱分别为微控制器、无线芯片和安全芯片。Atmel了不起的地方在于我们能制造所有以上三种类型的硬件。Atmel在物http://t.cn/R7vhfLb
+安全性——物联网的重要支柱：文/Paul Rako 物联网(IoT)的三大硬件支柱分别为微控制器、无线芯片和安全芯片。Atmel了不起的地方在于我们能制造所有以上三种类型的硬件。Atmel在物联网(IoT)行业...文字版>> http://t.cn/R7vhxxi （新浪长微博>> http://t.cn/zOXAaic）
+#Atmel新闻#Atmel将与ARM就物联网mbed设备平台开展合作，Atmel|SMART SAMR21和WINC1500的客户均可访问mbed操作系统软件平台。建立在开放标准之上的mbed 平台能够将互联网协议、安全和标准化的可管理性融入一个集成系统，将材料、云端和设备合作伙伴集结在一起[害羞] @ARM中国 详情http://t.cn/R7v1dDc
+Arduino与PLC的合体怎么称呼？Controllino就是这样的一个存在。基于ATmega328和ATmega2560，此PLC支持更为优化地制作与控制物联网项目，工业家用两相宜。Kickstarter页面：http://t.cn/R722h9A
+#Atmel新闻# Atmel最新推出SAM4C32双核安全微控制器以及针对住宅、商业和工业应用的SAM4CMS32以及SAM4CMP32，基于双核32位的ARM® Cortex®-M4架构，可与产品组合中现有的512KB和1MB设备实现引脚对引脚兼容，并实现下一代智能仪表计量平台卓越的可扩展性和设计再利用。详情戳：http://t.cn/R7LGVrZ
+发表了博文《报告：到2017年将有超过20%的企业投资IoT安全性》据高德纳公司最新研究表示，到2017年，超过20%的企业将针对使用物联网(IoT)设备的业务计划，提供数字安全服务。该研究公司宣布，http://t.cn/R7LXAsC
+发表了博文《智能家庭：防火防盗防黑客！》哦，我们亲爱的智能家庭！虽然智能家庭市场将在不远的将来光速席卷全球已不算什么新闻，但我们仍然对其安全性表示一定的担忧。业内专家预测，到今年年底，每十个家庭当中就http://t.cn/R7UCQbS
+智能家庭：防火防盗防黑客！： 哦，我们亲爱的智能家庭！虽然智能家庭市场将在不远的将来光速席卷全球已不算什么新闻，但我们仍然对其安全性表示一定的担忧。业内专家预测，到今年年底，每十个...文字版>> http://t.cn/R7UC8jS （新浪长微博>> http://t.cn/zOXAaic）
+提到Vintage style，肯定会提起打字机这个颇有情怀的旧日风尚。而最近，Joe Hounsham将一台上世纪三十年代的废弃打字机改造成了一台社交网络设备作为自己的毕业设计。命名为dubbed Dico，该装置基于Arduino将用户与网络论坛相连接，外部信息通过Arduino处理与接收。详情戳：http://t.cn/R7t0R7C
+#安全在我芯#嵌入式系统的不安全因素会对公司造成深远影响，可能会出现产品被克隆、软件被复制、系统被篡改或监视等诸多事故。 数据安全与加密密钥可能被黑客和网络罪犯访问的可能性息息相关。将密钥锁定在受保护的硬件器件中正是#AtmelCryptoauthentication#的宗旨所在。详情戳：http://t.cn/R7cOpuX
+认识这张图吗？1995年，Atmel获得了首款得益于高代码密度16位指令集（Thumb®）的ARM ARM7TDMI的内核许可，实现了从MPU到MCU的飞跃。#二十年弹指一挥间#
+#Atmel Tech Live# 上海站已于23日成功举办，这是参加一次就能掌握包括Atmel MCU、Atmel Crypto方案、基于ARM Cortext的SMART MPU、Atmel Studio设计平台和SMART Connect在内的一众Atmel领先方案的研讨会！明天Tech Live即将抵达北京，约吗？[bed出浴]
+#Atmel Tech Live# 今日北京站！你想知道的Atmel都在这里[bed练腰]
+#Atmel活动# #Atmel Tech Live# 研讨会现场的众多demo [bed扯]
+猜猜这是什么😉
+猜猜这是什么😉
+Atmel业务拓展经理、技术专家Eustace先生由浅入深地讲解Atmel CryptoAuthentication安全技术方案会如何为技术专利提供保护、保证产品质量
+能够提供切实保护的固件安全卫士！
+揭开CryptoAuthentication的神秘面纱——剖析业内顶级的完整防篡改解决方案，揭秘其高度安全的原因所在
+#Atmel活动# #Atmel Tech Live# 技术研讨会深圳站 [围观]
+发表了博文《黑客在佳能打印机上运行游戏《毁灭战士》（Doom）》1993年，《毁灭战士》（Doom）是一款备受欢迎的革命性游戏。如今，该游戏被像ContextInformationSecurity公司http://t.cn/R7H6DOp
+#Atmel新闻# Atmel将在德国慕尼黑举办的2014慕尼黑国际电子展（11月11－14日）上展示一系列全新解决方案，用以打造包括消费电子、工业、汽车和创客领域应用在内的面向物联网市场的智能、联网和安全设备。除此之外，Atmel也将在其A5展厅542号展位上展示众多物联网解决方案。详情：http://t.cn/R7TTQ1C
+发表了博文《安全研究人员公布BadUSB攻击代码》在今年八月举办的黑帽大会上，安全研究实验室的研究人员KarstenNohl和JakobLell发现了一个严重的USB设备漏洞，并将其称之为“BadUShttp://t.cn/R7RsVlU
+安全研究人员公布BadUSB攻击代码：在今年八月举办的黑帽大会上，安全研究实验室的研究人员Karsten Nohl和Jakob Lell发现了一个严重的USB设备漏洞，并将其称之为“BadUSB”。据此二人透露，黑客...文字版>> http://t.cn/R7RsfsI （新浪长微博>> http://t.cn/zOXAaic）
+发表了博文《高德纳公司发布2015年及未来十大预测》Symposium/ITxpo会议座无虚席，在召开次会议之前，高德纳公司针对IT组织和用户发布了2015年及以后的十大预测，研究由于数字公司的兴起，http://t.cn/R71I5KO
+高德纳公司发布2015年及未来十大预测： Symposium/ITxpo会议座无虚席，在召开次会议之前，高德纳公司针对IT组织和用户发布了2015年及以后的十大预测，研究由于数字公司的兴起，人机关系——这一...文字版>> http://t.cn/R71IM3R （新浪长微博>> http://t.cn/zOXAaic）
+#Atmel新闻# 【Atmel推出车载网络应用的全新LIN系列】Atmel近日宣布推出新一代面向汽车车身、传动系统、信息娱乐传感器、致动器等应用的本地互联网络（LIN）收发器、SBC和稳压器系列 。该系列是业内首批遵从最新的OEM硬件建议的产品，提供可扩展功能，用以优化系统总成本。详情：http://t.cn/R7gfD6m
+#Atmel新闻# 【Atmel推出新一代低功耗8位AVR MCU】Atmel近日推出了新一代8位megaAVR® MCU系列，配备4KB至16KB闪存，具备前几代产品的所有优势，并提供新一代增强特性，包括更多模拟功能以及面向最新的低功耗消费、工业、白色家电和物联网应用的特性。详情：http://t.cn/RzhZvm9
+【Atmel推出新一代低功耗8位AVR MCU】 #AVRMAN# 这么大的好消息，AVR侠怎么会不出来露个脸呢~ [doge][doge][doge]
+#Atmel新闻# Atmel及RFID技术提供商SMARTRAC近日宣布联合推出用于全球范围内动物识别市场的低频转发器及嵌体。Atmel ATA5575M2 RFID IC支持ISO11784和ISO11785标准以及FDX-A和FDX-B动物识别技术，是目前市场上唯一支持125KHz FSK 调制之FDX-A动物识别标准的RFID解决方案。详情：http://t.cn/Rzh94Rq
+#Atmel新闻#【Atmel推出32位微控制器平台 为物联网应用设立全新的低功耗标准】Atmel基于ARM® Cortex®-M0+的MCU已达到了全新的低功耗标准，将活动模式下的功耗降至40 µA/MHz，并将睡眠模式下的功耗降至200nA。新平台还具备全速USB主机与设备、AES、电容触控传感等。详情：http://t.cn/RzwO3Yp
+#Atmel新闻# 【Atmel拓展面向家电用户界面的QTouch安全平台】全新QTouch®安全平台 增加了强制性安全功能，并支持面向安全型家电应用、基于Atmel | SMART ARM Cortex-M0+的MCU。 最新推出的QTouch电容触控平台可实现卓越的EMC性能和极短的响应时间，并能提供多达256条通道。详情：http://t.cn/RzAEoAa
+发表了博文《SAML21推动低功耗微控制器的发展》Atmel刚刚发布了一款新型爱特梅尔|基于SMARTARM的微控制器。虽然与CortexM0+内核的性能相当，但是SAML21还具备一些超低功耗特征。http://t.cn/RzUQwCQ
+#Amtel活动#第13界深圳国际触摸屏展览会 (C-Touch) 将于11月25日至27日期间于深圳会展中心举行，届时大家也可以再度与Atmel领先的触控解决方案XSense、maXTouch再次相见啦！第一展厅B355等你来！活动详情：http://t.cn/Rz47luZ；Atmel触控技术温故知新：http://t.cn/zYwK1QM
+#Amtel活动#第13界#深圳国际触摸屏展览会# (C-Touch) 进行中！Atmel也携带自家触控解决方案#XSense#、#maXTouch#在位于深圳会展中心的会场里与大家相见[bed转圈]第一展厅B355等你来！活动详情：http://t.cn/Rz47luZ；了解更多Atmel参展触控技术：http://t.cn/zYwK1QM
+发表了博文《功耗更低的AtmelSMARTSAML21微控制器》微控制器的功耗真的是越来越低了。Atmel公司的设计团队以极为兴奋的心情宣布，他们已经将基于ARMCortext-M0+的微控制器功耗的http://t.cn/Rz5FiHV
+功耗更低的 Atmel SMART SAM L21 微控制器： 微控制器的功耗真的是越来越低了。Atmel 公司的设计团队以极为兴奋的心情宣布，他们已经将基于 ARM Cortext-M0+的微控制器功耗的标准又带到了一个...文字版>> http://t.cn/Rz5FX8L （新浪长微博>> http://t.cn/zOXAaic）
+发表了博文《2014年12月02日》我可以毫不客气地说，不愿意用最强有力的安全保障措施来保护你的数字ID、密码、密钥和其他重要信息真的是非常、非常错误的。对于即将迎来爆发性增长的物联网(IoT)来说，http://t.cn/RzJmGEq
+发表了博文《不要做“开门揖盗”的傻事》我可以毫不客气地说，不愿意用最强有力的安全保障措施来保护你的数字ID、密码、密钥和其他重要信息真的是非常、非常错误的。对于即将迎来爆发性增长的物联网(IoT)来说http://t.cn/RzJrbPB
+发表了博文《当安全问题变得越来越个性化的时候》如果使用CryptoAuthentication设备对嵌入系统进行验证，就要求必须对设备进行编程，这一编程过程通常被称为“个性化”过程，其中包括对所涉及到http://t.cn/RzJdNba
+发表了博文《Atmel将QTouch安全平台扩展到家用电器用户界面》我们以非常激动的心情向您宣布，我们成功地赶在2014年德国慕尼黑国际电子元器件博览（Electronica2014)之前将一款专门针http://t.cn/RzJgHjL
+发表了博文《针对边缘节点物联网应用推出SmartConnectSAMW25模块》目前，SmartConnectSAMW25模块已在2014年德国慕尼黑国际电子元件博览会上展出，是该行业首款经过FCC认http://t.cn/RzJDMJe
+发表了博文《启扬QY-A5D3XEK开发板采用SAMA5D3微处理器单元》杭州启扬智能科技有限公司，总部位于中国杭州，是一家嵌入式硬件方案专业供应商，主营产品包括最近被CNX-Software采用的Qhttp://t.cn/RzJkvtQ
+发表了博文《超薄柔性电池可为下一代可穿戴产品供电》总部位于加州的初创公司开发出一种新型超薄柔性电池，造价低廉，可能为下一代可穿戴技术供电。据《麻省理工科技创业》称，ImprintEnergy公司已经将http://t.cn/RzJkOZ5
+发表了博文《推出新一代8位megaAVR微控制器》自2002年首次推出以来，megaAVR微控制器(MCU)已经成为各地创客的心仪之选。从超级流行的ATmega328到ATmega32U4，这些芯片被http://t.cn/RzivzuO
+发表了博文《请向老奶奶解释：什么是SAMD20Xplained开发板？》我家是个小家庭，就父母、妹妹和我，但是我女朋友的家庭则完全相反。大家庭意味着需要经常举行家庭聚会。快十年了，我还没见过女朋友的所http://t.cn/RzihcWe
+发表了博文《Atmel.与SIGFOX合作进军远程物联网》法国新兴创业公司SIGFOX日前宣布，Atmel公司的ATA8520设备已经成为第一个通过了SIGFOX适用认证的片上系统(SoC)解决方案。http://t.cn/RziheXV
+发表了博文《MQTT不是物联网的“圣典协议”，但是也差不多了》有一种协议及其相关内容将万维网推向了成功，这就是IP，或者叫做互联网协议。这个协议是每种浏览器与互联网连接的基础，也构成了IT数据中心的主http://t.cn/Rzi7s82
+发表了博文《物联网行业将要起飞…》法国南特市。我来这儿是给一个朋友接机。跑道视野很好，我看到朋友乘坐的飞机降落，这是一架非常漂亮的绘有法国航空公司标志的A320型飞机。朋友乘坐的是国内航班，十分钟后他http://t.cn/Rz6xjVc
+发表了博文《类似于无差别硅干细胞的物联网》有人可能会说：任何带“物”字的术语都定义得模糊不清。因此，有人可能认为“物联网”的定义也是模糊不清的。为什么技术人员与投资界都无法定义物联网(IoT)?也许是http://t.cn/Rz6ivg7
+发表了博文《BIZZYSky通过实时应用程序进行无人机送货试验》说到无人机送货这一概念，还有谁会不喜欢呢?除了我们已经知道的几家主要的快递公司如敦豪快递和亚马逊金牌服务等已经准备提供这样的服务之外，其http://t.cn/Rz66dEU
+发表了博文《加快你对台式电脑Atmel802.15.4无线解决方案的评估》可能曾经遇到这样的情况：管理层或市场部要求你为现有的产品增加无线功能，或者要求你开发能够支持无线连接的新产品。如今，市场上有多http://t.cn/Rz6oW1E
+发表了博文《为什么教育工作者能从创客身上学到很多东西》KatrinaSchwartz为旧金山公共广播电台(KQED)撰稿，他向《创客杂志》主编DaleDougherty询问DIY和动手学习的概念能否最http://t.cn/Rz69P5E
+发表了博文《Ateml和ARMMali协作研发下一代设备》ARM今天宣布，它已授权Atmel使用其处理器和安全IP技术，以进行图像、视频和显示应用。授权包括ARMCortex&reg;-A7处理器，Ahttp://t.cn/Rz6CtNo
+发表了博文《获得高级加密标准（AES）认证是否就真的能确保安全性？》当前应用广泛的高级加密标准(AES)是一个已经应用于大量硬件和软件系统的、具有重大意义的算法。由于通过大量的密码分析来研究AES，人http://t.cn/Rz6N7yI
+发表了博文《未来联网汽车开发面临的5大物联网（IoT）挑战》最近，联网汽车的采用呈现爆炸式增长呈现爆炸式增长，并且并未出现减缓迹象，车与基础设施和车与零售的细分领域尤为如此。随着采用成倍增长，如何开发http://t.cn/Rz6N3Y5
+发表了博文《回顾物联网历史》物联网(IoT)这一术语首次由KevenAshton于2009年发明，指的是所有类型的电子设备通过互联网彼此连接的未来世界。“如果我们的计算机能够知晓有待去了解的事物的方方http://t.cn/Rz6WrJT
+发表了博文《2015年五种新事物将进入智能家居市场》随着智能家居设备的应用量和保有量逐渐上升，完全联网住宅将不再那么遥不可及。苹果、谷歌等企业在Kickstarter和Indiegogo平台上的[基于http://t.cn/Rz6l0Bn
+发表了博文《在物联网上体验车对车通信》什么平台构筑了目前最复杂且最私密的电子环境?这个问题的答案是：汽车!一家著名汽车公司的高层解释道，所有汽车公司都在将汽车打造成可以让驾车司机实现对数字世界随身携带http://t.cn/RzaXKAx
+发表了博文《报告：智能家居市场有望高速增长》NextMarketInsights在最新报告中预测，美国智能家居市场的规模将从现在的13亿美元增长至2019年的78亿美元。这份报告显示，越来越多的消费者http://t.cn/RzaaCKL
+发表了博文《构建实时仪表盘，监测物联网联网设备》无论在个人层面还是全球层面，永远不要轻视监测物联网联网设备的重要性。你需要知道你的设备状态，包括健康状况、电池、连接状态等。要想实现这一目标，需要构建实http://t.cn/Rzaaemd
+发表了博文《SAMA5D3Xplained开发板内部》它到了。邮递员通知我有一个包裹，我签收了。我知道包裹内装的是什么。它包裹在爱特梅尔公司胶带中，一侧应有漂亮的爱特梅尔公司标志。之前，我在爱特梅尔公http://t.cn/Rza9bea
+发表了博文《这是一款袖珍型的超声波尺》一位被称为"bergerab"的创客创造了一款基于Atmel的超声波尺，这款超声波尺采用了普遍使用的ATtiny85微控制器(MCU)。据发明者称，最近在Insthttp://t.cn/RzaCcph
+发表了博文《这个事物是真实的吗？对称认证会给您答案》认证行为非常简单。从本质上讲，它将能够确保某些事物的真实性。认证包含两个部分：1.身份证明2.身份确认‘crypto-verse’中的认证一般发生在http://t.cn/RzapD12
+发表了博文《使用Saleae逻辑分析仪检测您的密码芯片》此前，我已经提及了Saleae公司推出的微型全功能逻辑分析仪。你可以想象的到，当我找到这份由我们的安全芯片团队编写的有关如何使用Saleae逻辑http://t.cn/RzaOXno
+发表了博文《黑客只需一台手提电脑就能控制大城市的交通灯》您在早晨上班路上是否有幸经历过一路绿灯通行？其实，想要一直这样，并不困难。但前提是，你至少得是个黑客。密歇根大学计算机科学教授J.AlexHalhttp://weibo.com/p/230418864a89400102v9bn
+发表了博文《黑客团体打算改善车辆安全性》忘记汽车偷窃吧，现在汽车黑客才是热点！随着汽车与网络连接的日益紧密，一个名为“我是骑士”的基层安全运动最近引入一款可以促进研究人员与汽车制造商合作的网络安全程序http://t.cn/RzajXEP
+发表了博文《难道安全不应该成为一种标准吗？》现在，安全比以往任何时候都更加重要，因此，为什么安全不能成为所有数字系统的标准特征呢?值得庆幸的是，目前存在一种安全标准，从字面来看，即安全是基于标准的。这http://t.cn/RzaYvQF
+Jingle Bells, Jingle Bells, Ar~dui~no the way! #Arduino# [doge]好像十一才过了没多久，圣诞元旦就都要来了！对于聪明好动有灯任性的你，不知道有没有什么好的idea能够用Arduino控制节日彩灯，闪出个性，亮出风采呢？ 翻墙戳原文欣赏Arduino控制的彩灯秀吧！@Arduino中文社区 http://t.cn/RzSufbl
+发表了博文《Atmel和行业领导者协作形成物联网小组》伴随未来几年内有望出现的2120亿个连接设备，Atmel与技术领导者Broadcom,Dell,Intel,Samsung和WindRiver联手http://t.cn/Rzo6QJk
+发表了博文《报道：司机们已为汽车互联做好准备》据移动运营商西班牙电信的新报告显示，全球各地消费者的互联汽车产品和服务意识在逐渐增强。在其年度购买行为和态度的研究中，电信公司发现70%的司机有兴趣使用或http://t.cn/RzoXz3K
+发表了博文《家，智能家居》我在一个互联家庭中生活。我家的每个电子设备都由家居系统控制。不是烤面包机、搅拌机或冰箱这些仅需要物理接入的设备。这些东西都有自己的本地用户界面，虽然有些可能汇报回家居系统。例http://t.cn/RzoX4xj
+发表了博文《Atmel与ARM的长期合作伙伴关系》Atmel最近借助SAMA5D3系列拓展了其ARMCortex-A5微处理器(MPU)组合。SAMA5D3系列MPU提供更小的封装、更广的温度支持和一http://t.cn/RzoXMJB
+发表了博文《Atmel公司的ATPL230A调制解调器成为《嵌入式开发者》的一大亮点》今年年初，Atmel推出了ATPL230A———款实现了PRIME(电力线智能计量发展)标准物理层的电力线通信(Phttp://t.cn/RzoXdOK
+发表了博文《奥巴马总统在创客集市上的演讲》总统：谢谢(鼓掌。)非常感谢。诸位，请坐。谢谢你们。早上好，欢迎来到第一届白宫创客集市--真是激动人心。(鼓掌。)让我先说一句，我只有问过工作人员一件事，为什http://t.cn/RzoazMQ
+发表了博文《超级棒的希尔维亚在白宫！》SylviaTodd--又名超级棒的希尔维亚--从5岁就开始创造和制造东西。Sylvia7岁时已学会如何焊接，并且在YouTube上主持了她自己的创客秀。今天Bihttp://t.cn/RzoaWRc
+发表了博文《物联网连通性的五大挑战》在上个月的麻省理工学院技术评论数字峰会上，PubNub公司CEO托德&bull;格林(ToddGreene)强调了在可靠安全实时网络中连接物联网嵌入式设备的重要性。http://t.cn/RzoSRNM
+发表了博文《保持真实性的“密钥”》如果要将认证的定义进行最有禅意的简化，那么我们可以说“认证就是保持真实性”。保持真实性要求对身份进行验证，因为，验证是关键(可以这么说)。我们可以用下列等式表示三者之http://t.cn/RzooUph
+#3D打印生活# [喵喵] 约？
+#你的IoT安全吗？# “有关云计算、物联网和网络安全的话题现在非常热，事实上，这三个主题都共享同一个考虑因素 -- 安全。云计算的应用正在使我们的信息暴露地越来越多，而物联网则进一步放大了数据量和数据收集点的数量。每个新的节点都潜在地为黑客提供了新的入口。” @EEWORLD http://t.cn/RzpKhPu
+【MCU两架马车齐驱 迎接物联网新挑战】AVR+ARM Atmel全面迎击物联网 - AET电子技术应用网 http://t.cn/RzpTF6w
+#早安A之美# 今天主页君和大家分享如何利用ATtiny85让家里的绿植“2333”（大笑）出来！http://t.cn/Rz0dQAf 还有两个名额主页君的粉丝数也要达成2333了， [doge] 主页君期待看看谁会成为Atmel的第2333个粉丝呢！
+#Atmel高端访谈# 在上月慕尼黑电子展期间，Atmel MCU部门高级副总裁Reza Kazerounian博士接受了@电子工程专辑 的独家专访，阐述了Atmel针对IoT edge node的策略，并分享了对于MCU的IoT应用以及构建完整IoT半导体供应链的独特洞见。详情及采访视频请访问：http://t.cn/RzOOb31 @Yorbe张毓波
+发表了博文《IARSystems的开发工具添加1,400个新的示例项目以支持完整的Atmel微控制器和微处理器产品组合》我们近日宣布，与IARSystems合作伙伴关系的拓展将包括在IARSystemhttp://t.cn/RzWrI6J
+发表了博文《报道：到2020年物联网设备将增加至300亿台》国际数据公司(IDC)的最新预测显示，到2020年，全球物联网(IoT)市场规模将增长13%，刚刚超过3万亿美元。在此期间，已安装并联网的设http://t.cn/RzWdj4U
+发表了博文《如何为Arduino设备构建远程配置》如果你只能在本地控制一个智能设备，那么它并不能被称之为智能。那有什么用呢?你需要的是远程控制设备的功能。而这正是远程配置发挥作用的地方。远程配置能够让http://t.cn/RzWeL27
+发表了博文《报告：2016年智能服装市场必将迅猛发展》高德纳公司最新发布的报告显示，未来几年内，随着消费者更倾向于使用多用途智能手表设备，智能腕带的受欢迎程度将有所下降。然而，到2016年，由于配备有http://t.cn/RzWDAT2
+叮咚叮！ #Atmel教室# 正式开讲！网罗最强最全Atmel电子干货，最新最全技术产品资料下载，最快最热教学视频，尽在@EEWORLD 大学堂之 #Atmel教室# [太开心][太开心] 详情快戳： http://t.cn/RzxtKEC
+#空气污染探测伞北京需要你# 如果有把伞既能遮风挡雨，又能帮你抵御空气污染的话，咱们这些“霾中人”就不怕不怕啦！哥本哈根互动设计学院的学生Saurabh Datta、Akarsh Sanghi和Simon Herzog最近就利用Arduino Yún 设计了一把能够收集空气中一氧化碳和二氧化氮数据的“感测伞” http://t.cn/RzjEZAs
+#有伞，约吗？# 出门没带伞，忽然风雨大作，这时雨中亮起一盏爱心小灯，你就能找到离你最近的有心人共打一把伞啦！最近在Kickstarter就上线了这样一个项目#UmbrellaHere# ，通过手机app来控制一盏套在伞顶的智能灯，为淋雨的人分享伞下的一丝温暖！你好~陌生人！ [doge]
+发表了博文《触控简史摸一摸》几十年前，触控设备什么的还都只是科幻电影和小说中才会出现的概念。到了今天，在你几步之遥范围内就能找出不少触摸设备，真是达到了一“触”即发的地步，从家里的温控计，汽车的中控台http://t.cn/RzYU9xx
+触控简史摸一摸： 几十年前，触控设备什么的还都只是科幻电影和小说中才会出现的概念。到了今天，在你几步之遥范围内就能找出不少触摸设备，真是达到了一“触”即发的地步，从家里的温控计，汽...文字版>> http://t.cn/RzY4UR6 （新浪长微博>> http://t.cn/zOXAaic）
+#你究竟有几块Arduino？Part 1# 你究竟有几块Arduino~ 为何每块Arduino都不尽相同~ 【唱了出来】[doge] 看看你用过哪些Arduino呢？哪个土豪能集齐所有的Arduino召唤神龙呢？[doge] 翻墙戳原文了解更多Arduino：http://t.cn/RzTXxsj @Arduino中文社区 @大学生的Arduino
+#你究竟有几块Arduino？Part 2# 微博的9张图哪里装得下壮哉大Arduino的阵营？Attention please，又一大波Arduino向你袭来！@Arduino中文社区 @大学生的Arduino http://t.cn/RzTXxsj
+[doge] Atmel告诉你最本质的攻城狮怎么装饰圣诞树，板多，就是这么任性！#一大波板子正在接近# http://t.cn/RzTaYbu
+#灯，等灯等灯！# 今天给大家介绍一款照明灯 “Walk A Light” （走人灯），这款照明灯结合了四轴飞行器的稳定飞行轨迹和传感装置的智能感应功能，达成走到哪儿等亮到哪儿的效果！这种自带亮灯自控灭灯的神器，会不会很适合非诚勿扰的嘉宾们呢？[doge] http://t.cn/RzEfVcR
+发表了博文《触屏系变触“手”系：什么样的触屏最为高大上？》还记得电影《少数派报告》里边的未来场景吗？看来我们离那一天越来越近了！总部位于巴黎的Cicret（发音为“Secret秘密”）正在将可穿戴设备http://t.cn/RzExLt2
+#AVR在线研讨会# 亲爱的攻城狮朋友们和电子爱好者们，Atmel将在12月17日上午10点至11点半在环球资源举办线上研讨会，邀请Atmel亚太区营销经理嵌入式技术产品专家王春龙先生和大家介绍Atmel新一代8位AVR微控制器的功能，应用及优势！AVR侠曰：约吗？[偷乐] 戳这里登记http://t.cn/RzEoC6l
+发表了博文《将太阳辐射转换为声、光和放电》还记得您小时候被父母警告不要直视太阳吗?充满好奇心却又行为谨慎的创新人士DmitryMorozov，即人们熟知的::vtol::，最近在莫斯科Polytechhttp://t.cn/RznWyLs
+发表了博文《使用ATmega328P编程雀巢咖啡机》如果有几件事情是工程师们所喜爱的，修补和咖啡肯定在该名单上名列前茅。令我们高兴的是，名为GuidoBurger的创客把我们的注意力吸引到了他的由AThttp://t.cn/Rznl6sA
+发表了博文《用比特币作为物联网交易货币（英文内容先读为快）》CryptotronixrecentlyannouncedapartnershipwithTilePay,adecentralizedpayhttp://t.cn/RzndLMe
+发表了博文《在Arduino板上使用两个微控制器》虽然最新一批的Arduino和Arduino兼容主板要么有一个具备USB功能的芯，要么依赖V-USB的执行，但是您知道早期的Uno和Mega板实际上有http://t.cn/Rzm37sX
+发表了博文《会说话的三星电冰箱可以向顾客推销自己》还记得三星公司将Arduino模块植入普通自行车上的那篇报道吗?现在三星公司又把Arduino模块安装到了电冰箱上，让电冰箱能够感知到用户并且与用户展http://t.cn/Rzm3Yve
+#那些任性的创意！# 不知道你身边有没有饭前po一张，饭中po一张，饭后再po一张照片的人呢？对于这类喜欢边吃边拍边发微博/朋友圈的朋友，小编今天推荐一款简（sang）单（xin）实（bing）用（kuang）的项目：“食”时推送大法！将一个传感器简单粗暴地插在食物上边，就可以一口一po了！[doge]萌不萌？
+发表了博文《回顾:盘点2014年8件智能遥控器(英文内容先读为快)》Rewind:8smartremotesfrom2014Ifyouliveinasomewhatordinaryhome,chanchttp://t.cn/RzuJkMp
+发表了博文《那些年，Atmel驱动的众筹Kickstarter项目(英文内容先读为快)》Rewind:These_successfully-funded_Kickstarter_projects_arhttp://t.cn/Rz3ZJE5
+发表了博文《史上最简单的遥控器-SPIN遥控器》你知道吗，平均每个家庭的客厅里都会有三个遥控器，每个遥控器上都有40个左右的按键，总的按键数量加起来达到了120个，如果让我说的话，我觉得这个数量确实是http://t.cn/Rz3Arfd
+转自@EEWORLD --实验室还是漫画？这是神马情况？Atmel滴帅哥工程师在Atmel picoPower实验室演示节省功耗的基本技巧，并做了“鹦鹉学话”和“睡眠模式”的实验（配漫画）妈妈再也不用担心我的学习啦！ http://t.cn/RzmhBtU 《---- 小编评语：你造吗？Atmel除了产品线多，颜值高的攻城狮也很多喔！[嘻嘻]
+#3D打印让汪星人健步如飞 # 吉娃娃TurboRoo和哈士奇Derby是两只患有先天腿疾无法和正常汪星人一样行走的可怜汪，通过3D打印的代步车和义肢“风火轮”，他们也能健步如飞地愉快玩耍了！3D打印改变的不仅是人类的生活，还有人类的好朋友们！#这个冬天暖暖的正能量# 原文戳：http://t.cn/Rz1SsPq
+#寻找三十岁的你# 1984年的12月，Atmel在圣诞来临之前诞生到了这个世界，30年来专注于创新实践和产品变革，希望能够为广大的工程师，厂商和合作伙伴提供最佳的产品供应和最前沿的技术！如果你也是1984年出生的话，不妨和主页君一起庆祝生日吧！[害羞]
+#你的3D打印与众不同# 随着3D打印越来越深入到生活的每个角落，我们可以通过3D打印机打印零件，模型，饰品还有义肢等等。现在更有荷兰创客Harold Reedijk 用他的3D打印机打印了一个~~~~~~3D打印机！！真是感动的母“机”生小“机”的故事！ 详情戳：http://t.cn/Rz1lIkj @Arduino中文社区 你怎么看？
+#第一款AVR# 1997年，第一款AVR AT90S1200诞生！有谁用过咩？[嘻嘻]
+发表了博文《【又是数据泄露！】BreachBrief:Staplesconfirmsdatabreachaffected1.16Mpaymentcards》Stapleshasrevealedthathttp://t.cn/RzeweNA
+【又是数据泄露！】Breach Brief: Staples confirms data breach affec： Staples has revealed that 1.16 million payment cards may have been affected in a series of data breaches that ...文字版>> http://t.cn/Rzewkp4 （新浪长微博>> http://t.cn/zOXAaic）
+Atmel邀请Arduino联合创始人及现任CEO, Massimo Banzi先森和你分享未来物联网将如何更加紧密地与创客行动结合起来！！更多干货欢迎登陆优酷关注 Atmel爱特梅尔【视频：  物联网与创客】 （分享自 @优酷） http://t.cn/RzXtAM9
+发表了博文《基于Atmega48太阳能路灯控制器研究》摘要：太阳能控制器是太阳能路灯系统中的核心部分，设计了一种基于Atmega48单片机的太阳能路灯控制器。该控制器采用PWM脉冲调制控制技术通过对蓄http://t.cn/RzefmAE
+发表了博文《基于ATmega8单片机控制的正弦波逆变电源》0引言在风电行业中，经常需要在野外对风机进行维修，这时必须为各类维修工具和仪器进行供电。因此，设计一种便携式。低功耗。智能化的正弦逆变电源来为http://t.cn/RzeIDN2
+发表了博文《Atmel电视机直接背光LED驱动器特性及应用电路》Atmel公司MSL4163/MSL4164是电视机直接背光LED驱动器。MSL4164具有20MHzSPI总线，每串LED的电流为10http://t.cn/RzeMGou
+发表了博文《采用AtmelQTouch技术的电容式触摸屏系统解决方案》触摸屏广泛应用于我们日常生活各个领域，如手机、媒体播放器、导航系统、数码相机、数码相机、数码相框、PDA、游戏设备、显示器、电器控http://t.cn/RzeMWtF
+转载自ARM Connected Community中文社区：可穿戴设备设计师是从传感器还是处理器着手  ARM 可穿戴技术周正在如火如荼地举行着。我的一个意外收获是和 Atmel 的 Pat Sullivan 谈了谈他们在可穿戴设备领域中扮演的角色，并对设计趋势有了一个有趣的发现 >>阅览更多 http://t.cn/RzDuTGZ
+转载自ARM Connected Community中文社区：可穿戴设备设计师是从传感器还是处理器着手  ARM 可穿戴技术周正在如火如荼地举行着。我的一个意外收获是和 Atmel 的 Pat Sullivan 谈了谈他们在可穿戴设备领域中扮演的角色，并对设计趋势有了一个有趣的发现 >>阅览更多 http://t.cn/RzDuTGZ
+#AVR侠陪你过平安夜# 平安夜你几个人过啊？[doge][doge]
+发表了博文《Atmel30周年：持续创新无限可能》时间都去哪儿啦？2014年12月5日对于我们Atmel员工来说，意味着一个极其特殊的日子，我们这家半导体公司在这一天已经30周岁了。创建于1984年的http://t.cn/Rzsquqw
+发表了博文《报告称到2017年时30%的可穿戴智能设备都可以做到不引人注目》Bits&Pieces网站之前曾经在其报道中称，在未来若干年内可穿戴技术将会具有越来越大的隐蔽性。除了智能服装和电子织物的出http://t.cn/RZhcA4i
+发表了博文《可穿戴设备大拆解，第二弹+#2，TomTom+公司的+Cardio+Runner》我们在ARM可穿戴设备周上拆卸的第二款产品为TomTom公司的CardioRunner，该款产品可以佩戴在http://t.cn/RZhWpqV
+发表了博文《报告称2015年将是可穿戴智能设备大爆发之年》我们距离可穿戴智能设备大爆发的时代只有几个星期的时间了，这是Forrester公司在其最新一份调查报告中所披露的内容。Forrester公司的http://t.cn/RZhlCji
+发表了博文《探究更为实用的物联网》我想我们已经用不着再应用高德纳行业发展规律周期模型(Gertnerhypecycle)来对不断进化的物联网展开进一步讨论了，因为这已经成为一个既定的事实，即物联网巨大http://t.cn/RZhj1wf
+发表了博文《完全适用于所有圣诞庆祝活动（或生命日庆祝活动）的DIY星球大战树》电视电影《星球大战假日特辑》于1978年首次播出，由哈里森·福特和《星球大战》电影三部曲的原班人马出演。由于这是星球大战电http://t.cn/RZhY8AG
+发表了博文《什么是环境安全？》新技术和新商业流行词汇持续不断地涌现出来，几乎没有一天我们不会看到或者听到诸如“云”、“物联网”、“大数据”等这样的字眼。现在我们还可以再加上一个这样的流行词：“环境安全http://t.cn/RZhTacW
+#饭·捣·爱# 虽然小时候总是被教育“食物是用来吃的，不是用来玩的”，但事实证明：不会用食物打碟的创客不是好DJ，接下来跟着主页君一起来盘点一下全球各地那些利用用“饭”来“捣”（鼓）出的有“爱”项目吧！[doge]
+#明年CES， 约吗？# 还有不到10天就要位于美国拉斯维加斯的CES就要开展了，在Atmel位于LVCC南厅#MP25760 的展位上，将会有“Atmel智能生活”，“Atmel驾驭精彩”，“Atmel创客无限”和“Atmel驱动未来”供大家（jiao）欣（ji）赏。有兴趣的小伙伴可以跟主页君约一下，参观和采访都欢迎哦！[doge]
+刚看完@国际电子商情 关于MCU市场将在2015年全面复苏的文章，主页君要来 和各位分享一篇关于Atmel对未来物联网发展当中MCU的布局所提出的看法！以物连网，以微控全！【Atmel：庞大物联网应用的MCU构想】:“到2020... 您怎么看？(分享自 @EDNChina ) http://t.cn/RZAIaKH
+发表了博文《RIOT推动物联网发展》RIOT是一种开源操作系统(OS)，其设计目的旨在为快速发展的物联网(IOT)提供支持。获得LGPL协议许可的ROIT，最初由柏林自由大学、国家信息与自动化研究所和http://t.cn/RZANWIe
+发表了博文《2014+---+Atmel+30岁这一年！》Rewind:Must-knownews,releasesandmorefrom2014Saywhatyouwillaboutit,butnohttp://t.cn/RZATCwd
+2014 --- Atmel 30岁这一年！：Rewind: Must-know news, releases and more from 2014 Say what you will about it, but nobody can call 2014 a boring year. Arduino boards, MCU families a...文字版>> http://t.cn/RZARTBn （新浪长微博>> http://t.cn/zOXAaic）
+发表了博文《智能存钱罐，存之有道！》Well,itlookslikeyourswearjarisabouttogetawholelotsmarterthankstoformerCiscoSystemshttp://t.cn/RZLLCdC
+发表了博文《老车发新芽，车联网开花》Whiletoday’scarsarebecomingincreasinglymoreconnectedthaneverbefore,whataboutthosedhttp://t.cn/RZLyLqw
+发表了博文《CES2015看什么？》Whatayear2014hasproventobeforsmarttechnology.Fromcarsandhomestohandhelddevicesandwhttp://weibo.com/p/230418864a89400102vcxm
+发表了博文《三星：可穿戴设备将带来“权威着装的新时代”》在2014年即将结束之际，三星分享了对未来一年有关可穿戴技术的一系列预测。继过去十二个月发行的几款智能手表之后，电子企业相信可穿戴设备将实现从消http://t.cn/RZLYS1D
+2014寨见，2015你好！2015年你期待怎样的键盘呢？主页君想要全触摸的喔！你呢？http://t.cn/RZyRCSO
+发表了博文《有了Linkio，手里的设备都能成为智能家居设备！》Ateamofscientists,engineersanddesignershavecreatedahomeautomationsyshttp://t.cn/RZyEk1D
+#3D打印模型车# 我也是四驱小子！虽然一句话暴露了年龄，相信有很多人和主页君一样对四驱小子这部动漫并不陌生！现在利用ATmega也可以3D打印出来一部自己的模型车了！你是喜欢天皇巨星还是冲刺流星？[害羞] 更多3D打印戳http://t.cn/RZyntdo
+发表了博文《Adtrap在手，牛皮癣小广告没有！》Particularlyintheholidayseason,manyofusarebombardedwithadvertisementsaswesuhttp://t.cn/RZUP4mb
+发表了博文《3D打印赋予了一条狗首次奔跑的能力》得益于3D打印，一条狗在某一天被赋予了新的生命。此前，我们也见过名为TurboRoo的可爱吉娃娃安装轮式设备，以及名为QuackQuack的鸭子安装了矫http://t.cn/RZU2GbM
+发表了博文《回顾：盘点2014年8件智能遥控器》如果你居住在较普通的住宅里，那么住宅里很有可能凌乱的堆着各式各样的遥控器。尽管昔日的万能遥控器可以控制电视、录像机、有线电视机顶盒以及其他一些设备，但智http://t.cn/RZUt2zk

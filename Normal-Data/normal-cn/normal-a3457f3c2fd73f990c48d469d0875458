@@ -1,0 +1,274 @@
+git 好像也就是命令而已，简历可以写...反正也拉过android
+onedrive 也被干扰了嘛
+人给我打电话了，不过人家说的一个问题我很难回答，关于我考试的。对我的学习能力有疑问。不过也在情理中吧
+我想起了， 一个页面从输入 URL 到页面加载完的过程中都发生了什么？ 页面性能优化？浏览器解析地址，开socket连接，传输tcp数据包，nginx和后端CGI脚本解析地址并传输数据包header，body，浏览器接受数据和状态码，内核编译解释css.js, parse html，根据js 构造DOM，render tree，图形接口paint出来
+摘 原型继承的基础是原型链查找
+摘 一个function可能产生无限的上下文环境，因为一个函数的调用（甚至递归）都产生了一个新的上下文环境。学JS不如学编译原理好了
+继续读CLRS吧
+摘。如果不理解编译原理中的作用域概念，那么将很难理解JS中的闭包。还是有联系的嘛
+有空看看犀牛书
+如果从09年开始用各个浏览器，感觉不需要cnbeta来说 三大浏览器细节争霸 之类的
+火狐加了个addon 把搜索和地址栏合并之后，敲地址就有搜索建议了
+http://t.cn/RvrVKYD chrome或 html5 的特性 关于prefetch 等
+转 avalon, angular, knockout都是通过扫描机制实现。在angular是带有ng-属性的元素 或属性里面有{{}}的元素节点 或存在{{}}的 文本节点 这些绑定属性与文本绑定一经扫描 与VM的属性关联 因此当VM中的属性发生改变时，那些属性的状态，样式什么都会同步
+chromium 最近的版本号跳了一星期？
+Cartesian_tree
+火土双掩
+不知道 Chromium OS 值不值自己玩
+找了个Cr 的镜像启动了一下，解压内核切了分辨率就好像没反应了
+xda 的调教脚本更新的那么勤。
+94年巴西点球3-2，14年估计也要点球了
+摘 慢查询产生了更多的page置换. 果然细节太多了
+脚本君 你在编译了
+http://t.cn/RvDmJIn memory
+memory http://t.cn/zYlvEb9
+坏个电脑有什么...
+什么人会把主键翻译成主码..
+Windows 7 *Service Pack 1，January 13, 2015，January 14, 2020，新闻看来没什么用...
+看SQL 都可以讲到闭包....
+chromium 38 最新开发版 字体变得很淡
+今天又要下雨吧
+「摘」C++ 的话题 用一年时间如何能掌握 C++ ？ 卖糖水” 那些不懂原理只是挑一个工具熟练掌握使用或许在当前游戏市场火热的背景下也能混得不错，但是感觉很快会遇到职业瓶颈。这对自身而言就是一种风险。如果一项技能你学三个月就能耍通常意味着可以轻易找到一个人代替你。
+t.cn testing
+终于把fcitx 输入法弄好了 ibus 衝突或glib包太舊，用apt -f install 解決
+聽到這首拿來試音的歌
+leveldb 也有叫跳表的數據結構嘛
+摘 A7太短的流水长度。 那就是moto g 敗筆(之一)，8 级流水线
+dism http://t.cn/RvsHnsX 以待不时之需
+如果我android 里的基础软件一直没更新，那再曝几个心血漏洞不就麻烦了
+ndk不會用，再說吧
+为什么我要帮比我有经验的人修电脑...
+mk 配置文件的問題，直接用CM的openssl 就可以build 了
+摘 擎天柱”、“通天晓”和“补天士”，“威震天”和“惊破天”，这几个名字是当初引进动画片时上海译制片厂的翻译翻的
+数据库的书看来不错 ，也有可能是我懂的太少
+用行货且电信机就是烦恼，不过要是只会刷机也没什么意思
+http://t.cn/zjygFhf 我的浪费还是有点意义的吧
+基本上翻完数据库书，想到一句话，不是学了没用，是实际应用的东西超过学的东西，在工程应用的角度说
+不知道单独弄bionic C库行不，这是4.1.2 的乐趣 呵呵
+摘 性能分析引導優化(Profile Guided Optimization)通過分析程序運行時的實際行爲，將結果反饋給編譯器，使得編譯器可以重新安排代碼以減少指令緩存問題和分支預測誤判，從而獲得性能的提升。
+Dalvik is dead, long live Dalvik! 在log上
+睡不着，回想了一下，我大概不知道什麼叫認真吧，可能是學不會C,C++,JAVA等的原因
+看 engadget，cnbeta 等消費電子媒體大概也是不能學會編程的
+CS61A 第二講 Takeaways. Functions are abstractions. Scoping Rules are designed to abstraction right.
+隨便 build一下android 一天就過去了
+the openssl on android working currectly, CVE-2014-0160 fixed
+换几个内核文件都会启动不了，还是刷回官方吧。一点念想都没有
+有一些应用还是会用到 libstdc++.so 等基础库的吧，那就没白忙活
+我也试试Instagram
+所谓内勤 大概就是文秘打杂 我看不出我有这方面的优势
+回文只要两个指针就可以了 我真不认真
+Google Play Newstand 好玩
+Google Play Newsstand 好玩
+我还是会看组成原理的嘛
+看别人的参数 tuning 了一下路由，ddwrt 的脚本真复杂，还是先用web吧
+其实在线服务也不过如此嘛 说没就没得啦 好比去年的Google Reader.
+http://t.cn/ht5my John Resig写的高级js教程
+nginx
+火狐31 初步支持分代式垃圾收集器 JAVA的既视感...
+看了一下龙书第一章 1.6.4 显示访问控制 C++ public private 就是作用域不同
+chromium 新版默认启用direct-write
+ngx_radix_tree
+基础太弱了 todo greedy
+我想起 微博能帮助我进步吗 好像有点 不过更多的 现在不努力以后真的是只能给别人点赞了 所以还是不玩了
+原来是这首歌「过去式」
+分享圖片APU是不是高频低能...
+安了Win7 AMD推土机的鸡血补丁 其实性能补丁有很多嘛 social.technet.microsoft.com/wiki/contents/articles/25296.list-of-performance-hotfixes-post-sp1-for-windows-7-sp1-and-windows-server-2008-r2-sp1.aspx
+1866 10-10-10-26
+dnsmasq 写错配置就不干活了...
+真讽刺
+搜索还是G家好
+看了一下后会无期的评价 好像也没那么差 不过我还是比较喜欢Inception之类的 随意吧
+note.Current generation cards you should look for: NVIDIA GeForce GT 640M, GT 645M, GT 650M, GT 730M, GT 735M, GT 740M, GT 745M, GT 750M, GT 755M; AMD Radeon HD 7730M, HD 8730M, HD 8750M, HD 8770M. It's a standard choice for now.
+图形学好像是个很强力的领域 不过恐怕我没那才智...
+买了一本电子书 不过里面的内容都可以找到嘛
+haswell 改进了什么......
+看到简听播放器用了一个技巧，对进程，关闭DEP, SafeSEH 标记，反正这么古老的技术也会绕过了
+note.120m 64位支持UEFIW8pe,U+量产启动迅速,改自“阿弥陀佛”：http://t.cn/RPnrQ1a
+IntelliJ IDEA 和 Eclipse 一样卡 我只是看看而已
+http://t.cn/RPusUle WinPE 带驱动 x86
+android sample UI 部分，储备之 http://t.cn/RP34wgb
+tp841，941的硬件版本越新越减配...
+看C++ 11 在 folly 库里行云流水
+有人知道过敏是怎么个症状吗
+Opera 25 UI 改的和 12之前的经典界面一样 好像回到了旧时代
+希望我不要因为不会用netsh 浪费了一个刷坏的路由...
+我又因为 配置错误浪费网线了...
+netsh http://t.cn/RPdWx2h
+在ubutnu老方法下 我又把原来的路由刷好了 所以新买的路由有人要吗 netgear wnr1000v3 16M内存...
+Android Activity.https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/Activity.java
+我想起以前上学的时候 连电烙铁都怎么玩 不然现在就可以硬改路由了 大概是要被自己淘汰吧
+脱离路由的趣味就是想玩树莓派了嘛...
+变量知识内存地址的抽象而已嘛，抄 adlist.h
+变量是内存地址的抽象而已嘛
+看完 adlist，双向链表，好像也没什么感觉...
+看到一个 WRTnode 板，简直就是路由硬改之后的配置...
+想太多就是烦恼了
+kernel 3.10 实现了 TCP optimization: Tail loss probe, where it reduced RTOs by 15% and improved HTTP response time (average by 6%, 99th percentile by 10%). The transmitted probes account for <0.5% of the overall transmissions. http://t.cn/zYdZsHt
+openwrt 14.07 路由 300K 自由空间安装了Qos 脚本就剩下50K, 其实也没什么了
+非官方XP sp4 补丁包... www.ryanvm.net/forum/viewtopic.php?t=10321
+win 03 补丁包... www.ryanvm.net/forum/viewtopic.php?t=5591
+日记. 深圳通还有大概24块
+看了一下 vlan， eth1.0 的， 这么像以前看的虚拟IP，是不是同一个东西
+原来我的hosts 里有 ^M
+时光虚度 年岁虚长
+Yahoo stopping all new development of YUI...
+gmail 也会自动更新嘛
+material design
+A*
+win8 tctp http://t.cn/Rh4lHGz
+win8 Compound TCP http://t.cn/Rh4lHGz
+在没看到习题的渐进分析之前 大概也不知道生成函数，k阶导数，泰勒展开是这么用的。
+下载一次4.1 要走22G
+农企的U发热真大
+doodles
+分享圖片doodle
+差点都要忘记怎么配置kernel 了
+解决ubuntu 死机的方法就是换debian 和 kernel 吗
+看日志找到原因了 OOM 的时候 kernel panic 了,所以ubuntu 不够稳定
+每个cortex A15的满载功耗可以达到两瓦特...
+3.14 内核没问题，所以ubuntu 12.04.5 LTS 的3.13 内核有问题吧
+java extends关键字表示继承
+kernel 3.14，网络，多了 tcp_autocorking，大意是小包合并？对性能有影响，想起了ajax 的包也是小包吧，用不上就不了解嘛
+原来netgear的固件也会用 linaro gcc 4.6 啊
+调校混搭风... android 的和路由linux 的差不多吧
+改参数好像也没什么意思 O3 又如何
+duckduckgo 被 59.24.3.173 / 37.61.54.158 了
+看了老半天的 FreeBSD Wiki，它一句话说，May other devices have an AR71xx, AR724x, AR91xx, AR933x, AR934x in them. Any of those boards will work，问题是我要是弄成半成品就不好了
+Adobe中国关门，其实我没什么感觉，不知道也没什么，其实微软还有Paint.NET, GUN 有GIMP...苹果有Pixelmator ，随便用用而已。
+busybox 的sh 应该不受影响吧
+openwrt 也有ticket 关于bash 不过不是默认嘛
+下完 WindowsTechnicalReview, 版本是 6.4.9841.我只是想看看路由会不会死机...
+其实Windows Technical Preview 又有什么关系呢？
+突然觉得 SICP 是本内力深厚的书
+给 technical review 写个first impressions 吧, 性能改善 (过渡，网络，文件...) ，驱动没问题，IE 有支持 http2 ，bing搜索，内存占用 1.1G以上，就这样吧
+HTTP2中英对照版 http://t.cn/RhajqHU
+也许我只关注在力所能及的范围内的东西，其他就算了
+虽然我不知道有什么问题，不过找工作这样的事情，快毕业的时候，我也问过别人的意见，不过人说，自己解决好，所以现在也是。有句话，禄，在其中矣。可能是境界不够。
+不想太无聊就看词法分析吧
+原来 fprintf 写错参数的 warning 也是会崩溃的，果然是新手
+看了一下gdb，SIGSEGV，Segmentation fault ... from msvcrt.dll
+也许找工作的问题在简历上 不过我觉得可能是其他问题
+抱歉 。我反思是我的事 我不足也是我的事 我态度不好也是我的事 或者我过的无用也是我的事。
+出去走走 反思一下
+可能我是没什么用 又发火了
+super is a keyword. It is used inside a sub-class method definition to call a method defined in the super class
+(摘) 静态优先级越高，时间片越长
+ubuntu 是什么
+新版Android Chrome 白茫茫
+（转）好像不一样哦
+CS50 居然讲到了Shellshock bug...
+大概新版微博就改的和某T站差不多
+winpe .. http://t.cn/R7PELcv
+(摘) thread_concurrency参数用于向操作系统建议期望的并发线程数，参数在mysqld启动的时候使用。但MySQL 5.6 从源码中删除了这个参数，不再使用。
+http://t.cn/R77m1y2 Linux 3.17 list of changes
+小伙伴们，快来围观！我已经升级为V6新版微博，简洁的界面带来更流畅的体验。准备好了吗？和我们一起发现新的世界吧！升级猛戳:http://t.cn/R7vgnNI http://t.cn/R7PWS7F
+看回以前的微博也挺有意思的
+covering-index-and-prefix-indexes
+@namespace url(http://t.cn/SwYtlf @-moz-document domain("weibo.com") { .M_sc_tips {display:none;} .WB_right_module {display:none;} #v6_pl_rightmod_recominfo {display:none;} #v6_trustPagelet_recom_member {display:none;} }
+.M_sc_tips, .WB_right_module, .WB_frame_b, .WB_main_l, .WB_main_r {display:none;} .WB_main_c { width: 100% !important; } .WB_frame { width:100% !important; } #plc_main {width:95% !important; display:flex; }
+http://t.cn/R7wcN3m 随便写的 若有兴趣 在火狐 Stylish 新建一个样式吧
+v6 的微博极简已经有了 那就没必要继续改自己的了
+把评论单独放好玩 我是想不到了 不过其他东西也乱了
+reddit, Google announces Android 5.0 Lollipop 标记 http://t.cn/R7LVvtd
+对比了一下内核配置 不同U还是很不同的 CONFIG_ARCH_MSM8226 等等 还是等xda 或者其他第三方固件吧
+proprietary 文件似乎从手机pull 出来
+winPE 标记 http://t.cn/R7JRdCz
+想到最近流行的病毒 还是用07年的组策略软件限制规则吧
+确实是浪费了一个路由
+In Chrome 39 (the next version), fallback to SSLv3 will be disabled by default.
+看到一个C++库用到了15个C++11知识点 所以不了解就不知道嘛
+起码还是可以build出NOKIA X2 的最小化固件的 不过应该是有问题的
+华工的院系运动会的功放开的真大 反正不影响我散步就是
+新下载了Android版的Weico 3，灰常流畅啊！页面简约，细节处又很用心，微博刷得相当愉悦~还可边刷着微博边听歌看视频~啧啧啧，Weico3 的微博生活揍是介么美好！猛戳链接下载Weico 3 http://t.cn/8khpg34
+nokia x2 上的recovery
+开源固件又回来了
+Avira 杀软居然也促销... 会有人有兴趣吗
+technet.microsoft.com/en-us/library/security/3009008.aspx
+有人說 MS14-066 可看作是 windows 的Heartbleed+Shellshock大礼包 會不會直觀一些
+MS14-064(cve2014-6332) patch now ! 诸位尽快打补丁吧
+我想起 MS04-011 也是Critical 的
+mozilla addons , 68.232.34.191 addons.cdn.mozilla.net 93.184.215.191 mozorg.cdn.mozilla.net 93.184.220.20 cdn.optimizely.com
+火狐附加组件自用 http://t.cn/RzvWpIy
+CONFIG_CMDLINE实在bootloader无法给内核传递参数的情况下才有用
+CONFIG_CMDLINE
+93.184.215.191 mozorg.cdn.mozilla.net
+书签 . 无垠PE. http://t.cn/Rv96pC9
+chrome 概述 by Venus神庙 http://t.cn/hBx0vD
+mozilla.dev. google groups. http://t.cn/RzhOD24
+f9 kernel 與Scheduling 相關程式碼部分 ipc.c, ktimer.c, sched.c, softirq.c, syscall.c, systhread.c, thread.c
+“绿蚁新醅酒，红泥小火炉。”
+ocsp.digicert.com
+"init=/sbin/init root=/dev/ram rw initrd=0x11000000,16M console=ttyDCC0 mem=88M"
+书签 ,mt7260 的 uboot , http://t.cn/RzZiV0n
+试试新的 ntlite
+“可能对你的智识产生帮助的，一定会让你很费力。”
+试了 privoxy 不过不会写规则 .
+setenv bootargs， bootm ， 排错
+win8.1 打完700M的功能累计补丁 还有原来的安全补丁...
+书签，css3-flexbox，chrome，http://t.cn/aE9s4C ， http://t.cn/RzAm8wP
+又有tcp劫持...
+news.ycombinator.com/item?id=7363083 , Understanding IP, TCP, and HTTP
+写了几条iptables 规则看看
+看了50M 的网页 貌似没出现广告 出现的频率低 规则有用或者没用也没办法了
+intel skylake 购物指南, http://t.cn/RzbEADl
+原来有软件会把连接数开的很高
+电信推送广告让我抓到包了 看看有什么特别的
+看不出有特别的包
+也许可以拦截字符串
+BM的时间复杂度貌似是 mn ，iptables 的 字符串过滤
+仔细的看nginx,leveldb,launch3吧 虽然也貌似没用
+http 劫持 推送的包可能只是 ttl 不同 也许可以用 iptables recent rttl 的方法 http://t.cn/RPMMHKb
+再次对tcp劫持包查看之后 基本上知道是怎么回事 302转向的syn伪包 ttl 不同 特征就这么些 高效规则不好写
+随便看了kmp的科普 有lazy 的感觉
+Android DVM GC 用 mark-and-sweep.
+Dalvik malloc 是 dlmalloc
+看到 Exploiting the Vulnerability 吃个饭先
+随便看了一下 谷歌安全博客的东西 MS 14-065说明 有沙盒也不怎样 总比看cnbeta 什么的好消磨时间
+android-5.0.1_r1 都出了 小版本跳的快...
+看 expressjs 大部分都要自己写嘛
+anandtech 2014 guide CPU 写，Gaming CPU, Single GPU at 1080p60: i3-4360 ($130), i5-4690K ($210) or FX-8370E ($190)， Office CPU, Medium Workload: i3-4130T ($128), i7-4765T ($OEM)，Office CPU, Prosumer Workload: Xeon E3, i7-5820K ($390) or i7-5960X ($1050)
+不能说的秘密 的原声音乐 感觉不错
+jinja 是神社的意思
+python 的性能如何
+askubuntu 说, Normally, Ubuntu is based on Unstable. LTS versions are based on Testing, jessie / sid
+生疏啊 可以显示中文了
+才疏学浅毫无疑问又多了一个半途而费的python练习
+随便试了两百个ip 能用的就几个
+悟已往之不谏, 知来者之可追
+冷
+摘 "技术与技术之间存在着那么几条明明暗暗的线，那些线外行人看不见，水平低的看不懂，只有准备摸到那根线的人才知道自己被坑了。"不知道我算啥
+看到的都是招数 , 例如不知道后缀表达式
+随意看了一个个人写的PHP极简框架 包括了 路由处理 http 模板接口
+浏览了一下 tornado ioloop 大概是信号驱动的异步 底层调用 epoll，kqueue
+注释摘要，epoll 的 eventpoll 大概是红黑树的结构，包括等待队列和其它
+试用百度DNS 延迟46 ttl 56 也是醉了
+装了个VM 玩玩CentOS，BSD，
+http://t.cn/RzmTxzr win8.1
+在虚拟机配置xorg 是很烦的 还是不要浪费时间了 在真机简单一些
+比较保守的方法就是练习一下cs11
+CentOS alert CESA-2014:1997 7个cve http://t.cn/RzueCmC
+把 centos 加上 oracle linux 的yum 源，可以用oracle 的kernel
+弄好 centos 的环境了 就等怎么练习了
+zram 要先有脚本
+红黑树就是为了平衡吧 ?
+续红黑树猜测， 旋转和颜色都是保持平衡的方法以及保持红黑的性质
+网络缓慢加载测试
+可能微博网页加载有点慢 换DNS试试
+有个 正在解析null 很奇怪 无所谓了
+加了 sinajs.cn 的hosts 其实也是无关紧要的事
+elrepo 提供主线内核
+onedns 其中一个又没反应
+Xposed 索引 http://t.cn/Rzkn4bV
+摘 Chrome团队为了避免Jank（响应超时而死掉），几乎所有的功能和任务都会在子线程里面去做。
+浏览 xposed 发现有 Master Key Fix
+原来G家的IP 还有高速的
+note. 注册表证书规则. [HKEY_LOCAL_MACHINE\Software\Microsoft\SystemCertificates\Disallowed\Certificates]
+SO.基础. struct *foo = malloc(sizeof(*foo));
+有一个话题 为什么gmail有人推崇
+手工快速IP反应方法
+虽然平庸还是平庸 不过用个gmail 还是可以的
+显示破音...
+netcat 是个好东西
+"人不能两次踏进同一条河流"
+专业能走多远 就看基础有多好 希望我改掉假装努力之类的问题吧
+操作系统注释 前50页的内容都可以算作CSAPP 的异常控制流

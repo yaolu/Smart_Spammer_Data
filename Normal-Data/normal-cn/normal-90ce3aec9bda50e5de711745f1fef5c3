@@ -1,0 +1,193 @@
+现在一早到公司就到stackoverflow逛一圈，问一个隔天搞不定的问题，顺便回答几个。建议你也试试[哈哈]。听说技术面试也参考这个，鼓励旁边的实习生尝试github和sto。
+下去倒垃圾，小区里走了几圈，想了好多...。想到了解决dockerfile中proxy和docker私有仓库命名的好办法，找找是否有PR了。[爱你]
+快速翻了一下，内容赞，要细读，不是python的基本入门书，覆盖蛮广的，对得起书名。作者之一：@laiyonghao
+多看做的还是很精致的，网页、手机、kindle效果都不错。老 kindle3也还支持得不错，不过还是用iPhone看得舒服点，字更清楚还有背光。晚安晚安[呵呵]
+#每周游泳#两周没游，身体感觉沉得很，100米96秒，晃了1000米，还好今天善泳道人还不多。
+手贱，iphone安装新版本，没有联iTunes，现在连上了，说在恢复模式，要reset，痛苦。没有备份害死人，剁手。
+#CodingWithMe# 明天下午重复上月的魔力#Docker#
+明天下午重复上月的“魔力#Docker#入门”，还有很多空位，欢迎同事参加。13：00-14：30。没想到第五十次#CodingWithMe#这么冷清[泪]
+老是有人抱怨白板买的不好，擦不干净。我一般过去静静得把薄膜撕掉。[哈哈]
+#Docker# boot2docker是一个基于tiny os的docker环境（使用virtualbox），适用于windows/mac，官方支持，非常棒。（最新1.1.0windows版本安装有问题，可以用1.0.1）
+#Docker#做了一个基于CentOS6.5的PostgreSQL的docker container http://t.cn/Rvk1Jop ，有兴趣的可以参考。
+yeah，僵尸更新了，重新打起[爱你]
+@YegeLi 1500拼图，N多年前没电脑网络的饭后爱好[嘻嘻]
+最近带实习生，让他学用#Docker#和用github写博客，蛮勤奋的。这是他的第一篇博客-docker入门 http://t.cn/RPvUtrY
+#每周游泳#继续放松游，1200米，人开始增多。
+超级高大上，感谢
+399元的家用NAS，D-Link DNS 320，看起来不错。简单家庭备份和共享。外加400的1T硬盘。
+#dlink# DNS 320和西部数据的1T硬盘（蓝盘）。奇怪硬盘一直找不到，但smart 检查有。有一次把时间更新后出现了，格式化成功，但一会儿又没了。后在首页能看到，其他地方看不到，谁有招？
+#Dlink# DNS-320B和西部数据蓝盘不兼容，害得我折腾了一晚上，@京东 你还推荐它为人气组合，退货！推荐不能瞎推荐。不推荐嘛，我还查一查。希望退货爽快点。@不扣篮的Justin @tdsparrow @ch3n2k
+#Docker#在持续集成中的应用，jenkins master、ubuntu docker 服务器作为cloud provider，docker container提供不同service container作为jenkins slave机器。使用Jenkins docker plugin。
+百度云用起来不错，上传时发现买的好多电子书都没看[挖鼻屎]。这些硬盘可以空出来好多。
+世界游泳锦标赛女子三米板预赛、半决赛何姿最后一跳，完美。白天看买张20元最低票价可以到处看，外面停车一次10元。东方体育中心
+#每周游泳#身体很沉，100米自由泳96秒，游了1200米。浅水区开始人满为患，善泳道还行，水温很舒适。
+Android开发的书，有否推荐的，给高一小盆友零基础的，要好玩，不要全。@会编程序的猪
+SaltStack: 能够灵活且可扩展的配置管理，建议看看里面的在youtube的视频 “可用于配置管理的多种可选工具项” http://t.cn/RPLFVRG ，介绍了 cfengine、puppet、chef、salt、ansible http://t.cn/RPLF7Qq
+SaltStack: 能够灵活且可扩展的配置管理, 建议看看里面的在youtube的视频 “可用于配置管理的多种可选工具项” http://t.cn/RPyPWO5 ，介绍了 cfengine、puppet、chef、salt、ansible http://t.cn/RPyP91r
+哈哈 #我爱红米手机# 红米手机1S移动版开售了，配备MTK6582四核1.3GHz 处理器，还有8GB高速闪存，仅699，性价比太强了，7月29日开放购买，希望能抢到1台 @红米手机 ，分享预约地址：http://t.cn/8sTfIBm
+今天给实习生安排了#棉花糖挑战#的团队游戏，效果不错。结果两组都是0CM。失败的原因不一样。共同点是：没人控制时间，最后半分钟放棉花糖。
+#Docker# The docker book写得条理很清晰，有好多技巧在里面平常不注意。建议购买 www.dockerbook.com $9.99 。我不习惯用电子书，还是打印看，有点不环保[哈哈]。@Docker中文社区 你们在翻译是吗？
+#好书推荐#《蓝狮子经理人007：打造英语脑》 让你用高中程度的1500个英语单词，和全世界自在沟通！ @多看阅读 http://t.cn/RvOb5VN
+高铁游泰山，中天门-南天门-玉皇顶，慢慢走游玩一天，回来缆车，腿酸。辛苦的挑山工还有，最热闹的一个山顶，可惜没有喝茶地方。 http://t.cn/Rv31bAU
+#每周游泳#自由泳500米，发现旁边人游得比我快，游不过你，不游了[哈哈]。昨天晒得脖子发烫。
+git和docker都容易走火入魔，晚安。
+下个月的#CodingWithMe#的#Docker#中级教程 “Build service with docker”已基本完工，材料在slideshare上（墙外） http://t.cn/RPxzTqO 。做练习学习如何搭建多个container来提供服务，并且一个命令完成。可以运行 docker run larrycai/craft
+#每周游泳#前五十米不冲，100米自由泳能恢复到91秒，重回88秒有难度。匀速游了1500米。浅水区开始下饺子了，善泳区正常。
+#Docker#中boot2docker的如何与宿主机共享文件目录讨论热火朝天，Sven是负责b2d的，对安全极其克扣，有人都觉得过头了。只能说，扣得真细。 http://t.cn/RPXBFYB
+||我在看#Speedo自由泳踢腿的技巧#，踢腿是我的弱项，这些视屏不错http://t.cn/RPKezeB @腾讯视频
+#每周跑步#？雨后在长风公园跑了两圈，出了点汗，蛮爽快，可惜不知道跑了多长？有知道的吗？考虑是否能坚持
+花了两三个小时看完了#海量运维、运营规划#，发现“隔行”如隔山，非常专业，实践性很强。我也了解了很多，好书。可读性稍微弱了点。
+Docker周报：Docker出售dotCloud专注于容器业务。看中文的比较快捷 ；-） http://t.cn/RPCTpnP
+#每周游泳#1500游泳35分半，离最好的32分半好多[呵呵]，最后100米自由泳冲刺92秒，尚可。坚持就好。[月亮]
+#每周跑步#咕咚了一把，公园一圈差不多1.6公里。不知一般跑多少距离或时间比较适合，一周跑几次？@juvenxu @袁店明Dynesy
+这是一本极好的书，作者不仅有极其丰富的经验，最难能可贵的是文笔不错，会写书，值得推荐。给那些致力于技术和成为架构师的朋友。我准备送几本给同事，你要吗？cc @大型网站技术架构
+Quay.io加入了CoreOS.#Docker#
+24小时#hackathon#做一个基于docker的自动
+24小时#hackathon#做基于docker的一个简单web应用的自动线性伸缩，我们组用了ganglia，haproxy，flask。还是不太熟，好多问题，但愿好运，明天下午1点演示出想要的结果。我累了，回家睡觉[偷笑]，同组的小盆友继续挑战。不过在压力下做东西、写代码的感觉很爽。
+#每周游泳#今天小雨，人少了一半。100自由泳90秒，保持稳定。1500米慢速36分30秒[爱你]
+#每周咖啡思考时间#继续喝喝本周，听听歌曲...希望后会有期.// 我在听《G.E.M.邓紫棋 - 后会无期》，你也来听听吧！试听点这里>>http://t.cn/RvFrzJH（分享自@天天动听 音乐客户端）#好声音第三季尽在天天动听# 下载地址:http://t.cn/7IJrY
+#docker# dockerbook http://t.cn/zQq5toh 加了新一章节Fig，照着试验做了一个，超酷。期待中文版早日翻译完成。
+打印机夹纸，自己没搞定，查了半天，没看到夹纸，打了个IS/IT报修电话，结果收到了差不多10封email，“收到，我们会处理，已汇报，已安排厂方处理，厂方今天过来请接待，请检查，请确认”，估计还会要求填个反馈表的email，下次我再也不报修了[闭嘴]
+为了学习VLAN，买了本#图解网络硬件#，看得好累，想起了大学的计算机网络课程，看来还是到sto上回答几个docker的问题放松一下[哈哈]
+中午吃了个子路（subway）[哈哈]
+继续看网络的书，openflow/sdn/openvswitch，蛮高大上的。不过对这个我就是缺根筋，反应太慢，少感觉。[泪]
+#Docker# Fig （无花果）http://t.cn/RPuJ2EU 真心不错，特别是对一个web服务的多docker container简单部署，用yaml格式描述，如果你用boot2docker的话，需要一个hack的ISO文件 http://t.cn/RPuJ2Ey
+#CodingWithMe#的#Docker#可以再准备一个Docker的高级课程 Using Fig&Serf in Docker，当然现在练习还没有全部想好，只是方案。我看去来挺适合当老师的，要不全职干这个算了，哈哈。[嘻嘻]
+求教，terminal的这种录屏产生动态gif用的是什么软件？这是Fig首页的介绍http://t.cn/RPuJ2EU ，教学特别适合。
+用电子版速写，哈哈
+#每周游泳#保持恒定，100米自由泳90秒，游了1500米，坚持运动，争取有好的身体，你也要坚持！[哈哈]
+#每周思考时间#把写好一半关于Jenkins的使用#Docker#文章传到Github，机器就没电了[抓狂]，时刻备份着[嘻嘻]。破机器就撑一个多小时，好吧，余下时间看看杂志休息一下，发呆一会儿....
+瑞典的做海淘的关注下kanken包，原本是小学生书包和一般的户外包，现在给英国人弄成了潮牌。杂志上介绍了这个，估计会有人想买[哈哈]
+@Ares_me 小米盒子上乐视体育直播 F1比利时站，可能雨战，期待[哈哈]
+一天用#Docker#搭环境学习#Ansible#，感觉非常靠谱，适合我，这本9.99$的书犹豫要不要买呢[花心] @ch3n2k @tdsparrow
+如果在用boot2docker，想用最新的#Docker#1.2.0+vbox 共享文件夹+Fig 2.7，你可以直接下载这个boot2docker.iso http://t.cn/RPg4CKu 替换~/.boot2docker/下的iso。我fork了aer0s/boot2docker-vbga-fig的github项目。你也可以学习如何制作自己的发行版。@马全一
+#Docker#用Fig起一堆docker container，包括ansible本身，在boot2docker下学习ansible，差不多搞懂了，插件也学了一下，明天可以干实事了。这个也是#CodingWithMe#的好题目。用docker真爽，真想听你的心跳，哈哈。
+互联网好人就是多，#ansible#文档多，都是在线的，但是一直没看到PDF，官方文档是markdown写的，照理很容易自动产生的。今天google出一个地方 www-uxsup.csx.cam.ac.uk/~jw35/docs/ansible/ http://t.cn/RPskPvU 如果你有其他的，麻烦告诉我。
+求教#ansible#的并发 (-f/--fork) 是怎么控制的呢？它能自己判断一些依赖的吗？cc @ch3n2k
+苏州西山上的景点门票很贵（不值），林屋洞尽然要50元，不像杭州那么大气，大部分景点都是免费，爬山基本不要钱。
+官方的docker weekly newsletter很棒！好想去DockerConf Europe 2014 http://t.cn/RhU4F8F
+Centurylinklabs的“the docker book”一书作者James Turnbull的深度专访 http://t.cn/Rh4O3Fn，建议喜欢#Docker#的朋友订阅他们的newsletter和podcast，练练英文，了解Docker最新动态。采访者老说“awesome”，不过他是蛮了不起的，写了好几本好书。
+#Docker# #The docker book#又更新了，加了点内容：consul http://t.cn/8sWjdCy，这个和serf类似，我还不懂要学习。不知何时国内有公司能发布出几个类似的docker上的工具？@马全一
+儿时的玩具，还是不知道怎么把最后一排归位？[哈哈]
+#每周游泳#节日里游泳人未见少。100米91秒，瓶颈很难突破了，1600米。还是坚持，争取毛病少点[爱你]
+请欣赏这个精彩单集：http://t.cn/Rhq6GnF docker CEO的六月份的一个采访podcast，聊了很多，我是否该找个docker的工作呢？
+谁能推荐入门级的跑步鞋，或者经典款，有名字最好？明天开始京东这三天会特价 http://t.cn/8sFAkxt @juvenxu @hanzhi窦 @tdsparrow
+我在爱奇艺看视频，《《驯龙高手2》主题曲mv》非常精彩，立即下载观看：（http://t.cn/8kDOEo4）#4k超高清， 只在爱奇艺# http://t.cn/RPCpVJZ
+明天又是每月的#CodingWithMe#90分钟系列，我又要讲基本的#Docker#，10人的会议室爆满了，下次一定要安排个大点的，slides在 http://t.cn/Rv4EUnQ 练习已经研磨过好几次了，这次用内部的repo速度快点。
+#Ansible#帮助：如何用nove_compute module http://t.cn/Rhc3bvG 并发得在openstack创立虚拟机呢？这些虚拟机的配置不一样。@ch3n2k @Ramsey围脖
+v5！如果要尝试#Docker#，又懒得自己装系统。现在可以用ustack公司提供的免费的coreos环境（10元体验券），我的#CodingWithMe# Docker完全可以在里面做练习，除了文件系统是btrfs而不是aufs （可以看截图）。如何使用ustack的coreos，可以看 @程辉 微博里的链接。赶快吧，说不定就不免费了！
+#每周游泳#100米90秒，混合泳1500米，没有退步就是进步。今年身体的缘故，蝶泳还是没学。
+#Docker#在CI的集成中，Jenkins Docker 插件看上去很不错（至少在我看到的第一版0.5.x时），特别是单节点的时候，。没想到过了这么久，还是这么不稳定，功能也没改进。以前在Docker1.1.2上工作的，在最新版1.2.0上不工作了。我想写的文章也只能搁浅。cc @夕水溪下 （图片来自 http://t.cn/RhMqG2J ）
+十月份北京有个2014 Container技术大会，考虑参加。
+按照 @陈沙克 的博客“UnitedStack UOS安装多节点OpenStack” http://t.cn/RhaRNbH 总算装好了controller节点，博客写得很详细。网上做实验还是挺方便的，速度快，继续。如果哪位提供Ansible的脚本就好了(要不自己做一个?)，附带把UOS的API也利用上，那就更快了。
+花了6元钱，在UnitedStack上自学完openstack安装 http://t.cn/RhaRNbH 非常好，回去还要消化。网络还是比较晕，还好有 @WARRIOR_罗勇 。赶快关机省钱。
+花了一个小时把 @陈沙克 “基于 Open vSwitch 的 OpenFlow 实践” http://t.cn/RhaRDdM 做了一遍，还一知半解，打印出来琢磨一把，恶补网络。rackspace有几篇文章讲openstack的网络不错http://t.cn/Rho5E9z
+为了更好的参加2014 Container（docker）技术大会，我也提交了一个题目“如何利用Docker的特性使软件开发提升一个台阶” http://t.cn/RhKNLpo 。把我在企业中推广docker在软件开发中的经验分享一下，欢迎给出建议。@Ramsey围脖 @马全一 @程显峰-Mars 时间还来得急吗？
+F1新加坡夜战，P1Kimi第一，头哥第二，发飙了？感谢 @乐视F1 的转播
+#每周游泳#100米自由泳92秒，慢游1500米。好天气，真该露天游泳，想起小时候在河里学狗爬式，也是幸福时光。[威武]
+“4 ways Docker fundamentally changes application development”这篇文章和我#docker#演讲选题中谈到的东西类似，当然写得更好。我可以照这个思路写几篇博客分享我的实践经验。#星巴克咖啡时间# http://t.cn/RhNOsLy
+学了一点Ansible，顺手做了个“Learn Basic Ansible uisng Docker" #CodingWithMe#，五个练习，循序渐进。用docker方便搭多机器环境。http://t.cn/RhlWHTI （slideshare），还没有完善好。
+Scott Johnston: What's new in the world of Docker and Docker Hub? 十几分钟的演讲（container.camp in London），在YouTube上 http://t.cn/RhjTVEY
+今天试讲了Learn Ansible using Docker,效果还可以，准备本地docker环境还是花了太长时间，下次尝试用ustack.com。slides已更新，微盘：http://t.cn/RhRpaho ss：http://t.cn/RhRpahC 练习代码http://t.cn/RhRpahK 。
+artifactory pro下一个版本也会支持docker，这可能会影响私有docker仓库软件的格局。它和nexus一样是企业常用的二进制代码管理软件。cc @马全一
+小编瞎编 //分享网易图集:「游客带小孩冒险爬山崖抄近道」 http://t.cn/Rh3dUcV
+如果你在用artifactory，可以看看artifactory pro 3.4中会如何支持docker，有空要体会一下，试试是否可以替代shipyard的私有docker repo的方案。 http://t.cn/RhgUEgH
+把1：50的合金集装箱涂成#docker#和各类container的名字，是不是很酷，淘宝15元左右一个。@马全一 @Ramsey围脖
+#docker#在我桌上[哈哈]
+记得看到过一篇云中（openstack）虚拟机超卖策略的文章，能有谁帮忙发个link。 @ben_杜玉杰 或许你推荐人来有更好的心得分享 。cc @Leorowe
+订的 @程序员杂志 都忘了一直没收到，感谢服务部的提醒，挂号补寄过来总算收到了。
+月亮没了
+@华章图书 的实战系列真是很棒，这本KVM的书挺全面的，为了干活，恶补了一下，好多都清晰了，不知有否第二版。（这时电子书的就比较容易更新了）。玩虚拟机的都好好看看，xen像是用的人越来越少了，是吗？
+#每周游泳# 1000米全程爬泳22分40，感觉有点紧，速度不快。3、400米时是极限，过了，基本没感觉，两分钟多点一圈。
+请欣赏这个精彩单集：http://t.cn/R7hS7Iv
+喔，普京像工作人员一样给哈密尔顿颁奖！F1索契
+明天会用 @UnitedStack 的CoreOS上做CodingWithMe （Anisble），会推荐同事注册。那问题来了，怎么没有推荐（refer）优惠呢？digitalocean有好几美刀呢。cc @程辉
+自由泳最佳教材(中英字幕)_执教：鲍曼、菲尔普斯和霍夫 http://t.cn/8so9QMn
+有谁用过ELK来分析git仓库的log做一些统计呢？ELK：elasticsearch/logstash/kibana
+docker和windows搞在一起来，不知会有什么好结果？ http://t.cn/R72avqc
+docker和windows搞在一起了，不知会不会有火花出来，总觉得他们在一起怪怪的，你觉得呢？http://t.cn/R72avqc
+boot2docker 1.3开始缺省支持了和Windows主机的目录贡献。缺省是用户目录（安全考虑），使用的还是VirtualBox Guest Addition，当然还是可以挂载其他的目录，不错。赶紧更新培训的slides，其他还要研究。
+dockerize 是一个很小的程序帮助你把软件运行在docker中，规整了一下配置文件和可以使用模板，值得推荐。 http://t.cn/R7UILN3
+强烈推荐 @@tobe陈迪豪 的docker GUI海鸥（seagull)，用它来管理本地docker很方便。希望能支持 docker的私有仓库, 镜像的详细层次。安装也是一个典型的docker run。详见 http://t.cn/R74QfAn
+思考
+小伙伴们，快来围观！我已经升级为V6新版微博，简洁的界面带来更流畅的体验。准备好了吗？和我们一起发现新的世界吧！升级猛戳:http://t.cn/R7vgnNI http://t.cn/R7PWS7F
+jérôme petazzoni 在docker-北京 meetup的slides http://t.cn/R7V5tOx ，好货不少。
+微搜索 tinysou.com 看上去是个不错的网站，可以加在你自己的博客里。参见视频 http://t.cn/R7feeZ2 （像是江苏南京的创业公司，有认识的朋友吗？）
+有谁熟悉虚拟机cloud-config注入的，帮我看看sto的问题：怎么建立自己的配置？ http://t.cn/R7IpQ42
+有谁熟悉云虚拟机cloud-config注入的，帮我看看sto的问题：怎么建立自己的配置？ http://t.cn/R7IpQ42 @ben_杜玉杰
+自己在openstack上装个coreos体会一下还是很容易的（我没试cluster），只要import它的image就可以了。参见官方说明 http://t.cn/R7MhC8r
+为什么用ansible安装openstack没有很多介绍呢？这是个错误的方向吗？ @陈沙克 的2013年文章没提到：http://t.cn/zYLkEjA 这个github的项目也没人fork和更新 http://t.cn/R7M4ijm 。@ben_杜玉杰 @孔令贤HW
+在博客上加了个微搜索，有点意思。有兴趣看看 http://t.cn/RhmE5zr
+#每周游泳#小雾霾对游泳没影响，1000米自由泳22分30秒，人还是觉得沉，老胳膊老腿了，共游了1.6公里[哈哈]
+在星巴克里喝咖啡，喜欢拿张明信片随便照着什么画个东东，是不是不太好？还有谁有这个爱好？18
+好的开源软件就是这样，你提建议，作者根据情况很快更新。@tobe陈迪豪 的 docker web GUI : 海鸥（Seagull）就是这样的一个好项目！http://t.cn/R7y6595 ，我提的建议很快就解决了（端口显示，只显示正在运行的container）。
+我感觉docker的image（镜像）命名管理的不好，带上主机名才保证唯一。这点设计很差，不能像fedora/debian/python/ruby/nodejs..方便的部署镜像(mirror)，只能有各个服务器自己维护一致性。导致很多问题，特别是墙内。不知docker 1.3的签名是否能解决这个问题。@Docker中文社区 你有什么看法？
+#每周游泳#100米有慢车，没成绩。游了1800米，体会入水和侧边水涡呼气。腰好点了，头颈又不好了[晕]
+#每周咖啡思考时间#准备写个博客，“巧用docker做Jenkins的演示”，现在拟了个提纲。介绍如何做一个Jenkins的演示docker镜像，通过它来学习Jenkins的特性，当然最后还是要用到docker in docker。你有推荐的镜像名字吗？[爱你]
+了解LTE广播技术对手机App的影响。 http://t.cn/R7l71ga
+能猜出我在干嘛吗?[哈哈]
+写了一篇#Docker#的博客，”如何用Docker提升你的Jenkins演示-1“ http://t.cn/R7TqaXA ，里面介绍了如何dockerize你的Jenkins应用来演示ansi color插件，理论上还要写两篇。@夕水溪下 @Docker中文社区 (英文版：http://t.cn/R7TqaX2 ）
+Oreilly准备在出ansible的书，期待。发布预览版的前三章，解解馋。
+我的一些CodingWithMe的90分钟课程还是持续有人关注[爱你]
+github pages强制启用新的服务（和DNS相关）后 http://t.cn/R7n1F1Y （我也不太懂），突然发现我的网站 larrycaiyu.com (域名在godaddy)在国内解析不了了，防火墙外OK，求解。@tdsparrow @ch3n2k
+搞笑，Ben在谈论一篇微软要运行在docker上的文章时 http://t.cn/R72E5ZW ，有人回复说他不知所云，立马有人指出这个Ben是Docker的CEO，他不知道，估计没人知道了。
+#每周游泳#100米91秒，1500米34分30秒，保持。今天人不多，水温也正好。这个泳池估计是上海最好的。[爱你]。你也来吧，泡个澡也好。
+#每周咖啡思考时间#看看稿子，想想下周的一篇docker博客，还有一两封信。
+一样是插图，差距咋那么大呀[哈哈]
+新装的电脑在家里用docker，发现用docker.cn的源下载超快（上海电信），超赞！下个博客，我就用它来演示。建议基于这些基础镜像做一些国内源的基础镜像。（如docker.cn/ubuntu 配163的源）@马全一 @Docker中文社区
+docker镜像是层次结构的，那么我有一个gcc的docker镜像，还有一个jenkins-slave的镜像。现在有什么项目或工具能把他们合并成一个吗？@马全一 @金明i @Ramsey围脖
+感觉天猫要到零点才开始，要不去京东同样价格先买好洗洗睡了？
+下午的#CodingWithMe#用docker中级课程构建业务环境。第一次同时使用docker.cn和ustack.com http://t.cn/RPxzTqO，准备的不是很充分：1. coreos的2375端口缺省没开。2. docker 1.3.1的2375端口访问变了https 3. docker.cn自己上传镜像由于docker1.3.1的升级也出了问题。努力改进。
+第一个命令fcast->ffcast 是不是？http://t.cn/R7ga7Ce
+#每周游泳#水温正好，100米91秒，保持。1000米22分45秒，共游了1500米。走水比较顺畅[哈哈]
+#每周咖啡思考时间#准备docker jenkins系列的第二个博客，可惜星巴克网速太慢，搭环境下载太慢[爱你]
+这个插画对我来说难度大了点，没那么多耐心，观察的也不够仔细。[哈哈]
+博客：使用docker来提升你的Jenkins演示 - 2 http://t.cn/Rzhffbh，第一篇讲了最基本的把jenkins搁到docker中，这第二篇继续讲解如何放入更多的配置，提到了新的docker exec命令的一个应用。这个系列应该还会有2-3篇。@Docker中文社区
+最新一期的DockerWeeklyNewsletter介绍了Spotify怎么使用docker的：把docker的版本和git相连，app文件归整。详见文章：http://t.cn/RzzmRGF @Docker中文社区 值得翻译。
+为了给人上两小时软件工程的课，特意买了本书看看现在学校到底讲什么，发现真本书“现代软件工程：构建之法”非常不错。看看我两小时能怎么讲[哈哈]
+果然manning出版社也来个docker书了，预出版新书docker in action（实战docker）今日半价20美刀。来一个！（才写好三章就开卖了，不是很地道[嘻嘻]）@Docker中文社区
+现在最红活的#python运维书#，京东闪发（就是第三方快发[哈哈]）明天就可以看到了，看看目录不错。买本再说。
+该系列的第三篇博客：使用docker来提升你的Jenkins演示 - 3 http://t.cn/Rz42Wnp 讲解了如何用Docker演示Jenkins持续集成的主从应用实践，和利用docker中的docker技术来自动启动从属机器。cc @Docker中文社区
+@tobe陈迪豪 推荐的http://t.cn/RzLT6Zn 这个关于nginx做docker registry的认证链接很棒（至少是很好入门）。不过像是有点错误：hello-world不能起成web吧，我找了个uhttpd的，例子用nginx-auth，为啥不直接写 opendns/nginx-auth-proxy ？有人翻译过吗？ @Docker中文社区
+@tobe陈迪豪 初学了一点Nginx，参照你昨天推荐的“Docker 私有注册中心身份认证”的博客 http://t.cn/Rzb9mVG，下面这样像是就可以隔离Pull/Push了：一般用户无需授权就可以下载，授权用户在5000端口授权下载呢？
+猛然发现docker-registry的存储国内贡献程度很高呀，七牛云，新浪云，阿里云都能支持，看来用docker registry的人很多。当然还有很多闷声发财的。@Docker中文社区 你们用的是哪家？
+@亚马逊中国 你们的网站咋了，买了书，提交订单老是不成功，没报错，”正在准备你的订单.."，然后就返回原来页面。放弃了，我的Nginx书。
+继续docker registry+nginx 这篇韩国人写的slides不错（韩语可以忽略） http://t.cn/Rzq4Y3s 还有digitalocean的文章可以借鉴 http://t.cn/RzLT6Zm ，想不用https像是不行。
+用nginx和docker registry搭的https搞死了，看上去都对了，就是login还是报错。。。[泪]
+在CoreOS系统中，没有/etc/hosts文件，如何增加一个本地的主机名呢？
+总算初步搞成功基本的nginx https basic auth + docker registry, 你可以先看看 http://t.cn/Rzf3l2x （里面有两个重要链接）下周写个博客。主要还是对https证书了解不够。cc @tobe陈迪豪 @马全一
+#每周游泳#上周有事没游，水感又没了，100米，94秒，游了1200米左右。新的speedo游泳眼镜贴合特别好，看水下突然近了好多，有点不习惯，继续坚持。
+http://t.cn/RzMunOf 在这篇博客中，演示了如何用Nginx作为前端服务器来解决Docker 私有registry的安全认证问题，通过它，你应该可以架设一个可以使用的安全的私有registry。所有的代码你都可以在github上的larrycai/nginx-auth-proxy上找到。希望转发者能先做一遍[呵呵]@tobe陈迪豪 @Docker中文社区
+manning的2015倒计时送书活动又开始了，而且今天MEAP全部半价
+学到哪，CodingWithMe到哪里。下周三我讲Nginx的基本知识，老样子，五个精选的练习，docker环境，方便多机器场景（slides稍后发布）。欢迎同事到时捧场，发个微博休息一下。
+Nginx入门培训已经初步写好了，覆盖基本的reverse proxy、loadbalance、http basic auth、https。使用docker的环境。slides：http://t.cn/Rz6Dwr7 ，培训代码：http://t.cn/Rz6Dwrh 可以安排先预讲一次，公司朋友想参加的话，发信给我。cc @tobe陈迪豪 [呵呵]
+苦逼的图书美编，估计恨死我了，不过真得我调整的蛮好看的，当然你打的底子好，哈哈。
+@人民邮电出版社-信息技术分社 为#第一本Docker书#的封面发愁，http://weibo.com/2630618281/Bzfs7xzAR ， 我也贡献一个，如果投票，投我一个。要点：1. 中文中的Docker和海面同色可以突出 2. 英文的字体调整成黑体，放小占一行，颜色取集装箱的浅绿色。
+分享网易新闻:「147之王!火箭13杆满分回顾」 http://t.cn/RzKUQkU
+睡觉前在发个好评比较多的CodingWithMe（去年底的），Learn REST API with Python http://t.cn/8kt9iAY （墙外），练习用的gist http://t.cn/8kfKiQJ 。老样子，五个练习循序渐进。（是否改用docker重新上一次？）周末愉快！
+#每周游泳#慢车阻挡没有成绩，放松游了1200米，出来看到天气不错[哈哈]
+#每周咖啡思考时间#下周去给大学上个软件工程的课，准备slides。我会用6个亲身经历的案例来介绍现在的软件工程还是挺落地的。其中会探讨：持续集成、版本控制、质量控制、敏捷、infrastructure、软件工艺。不过自己大学对这门课觉得及其无聊，希望我的课他们不睡着。
+下午去学校聊“现代软件工程杂谈”，最后的建议会是“多在github上参加开源项目”来理解软件工程，我讲的故事希望听过拉倒。并推荐了这些书，不知适合他们吗？看了 @程序员邹欣 推荐的大学“软件工程的现状 （2013/02）” http://t.cn/zYtHAtE , 希望他们下午睡觉香点，不要打呼噜。
+一次失败的演讲，但是演讲稿还是分享出来，"现代软件工程杂谈“ http://t.cn/Rzle8C8 。对大学生讲还是有很大不一样，需要反思如何讲解。敏捷、二进制构建版本控制可以忽略。基础设施可以放在持续集成讲。不断提高吧。
+为了多知道点docker，理解seagull项目，要学习golang和beego。要买本Go的书，现在书店有三本像是，最推荐哪本呢？@tobe陈迪豪 @ASTA谢 @葉小小小白
+#每周游泳#阳光暖暖的，池子水温也不错。又有慢车，没成绩，游了1500米[哈哈]
+年轻人速度就是快，要看gitbook的书吗？git clone到本地，再起个docker命令就可以在浏览器看了，是否可以搞个小小图书馆了。感谢 @tobe陈迪豪 ， 具体查看 http://t.cn/RzEFj8o （不喜欢docker的会觉得啰嗦，但是docker常在手的朋友会喜欢）
+买了@Odeussea 推荐的书，快速翻翻还是很日式风格的，简单明了。讲了如何带人，看似简单，但做好还是很难。我自己评价可以做到80%，虽然只带带实习生[哈哈]
+docker compose明显是收购fig.sh的升级版，为啥不在发布中 http://t.cn/RzmrlJJ 提到呢？现在用fig等docker compose好了后能平滑过渡。
+@Docker中文社区 看看站立上班的我。尺码偏小了点。
+Packt Publishing又到了年度的5$买书活动，有心仪的对象的千万别错过。http://t.cn/Rz1yayD
+Wooh, Travis-CI总算也支持docker了 http://t.cn/Rzu8UF6 @juvenxu
+#每周游泳#100米93秒保持，1000米23分30秒，外面冷飕飕，里面还可以。坚持锻炼。
+bloomberg下的视频如何下载？ 如 http://t.cn/RzkMUxd
+好久没看敏捷了，less.works还是挺有意思的 http://less.works/
+好久没看敏捷了，发现LeSS （Large-Scale Scrum）还是很有意思。http://less.works/
+我推荐过好几次CodingWithMe，今天写了篇中文博客简单介绍一下 http://t.cn/RzswDeR ：“CodingWithMe”-跟我学编程 是一个学习技术的活动，目标是在90分钟时间内通过4-6个练习来学习快速了解一个技能。可能比各类Dojo更好玩点。cc @juvenxu @姚若舟 @袁店明Dynesy
+拿到了出版社给的#第一本Docker书#样书，希望它能热卖。我自己也会掏腰包作为礼物送出[嘻嘻]
+#每周游泳#2014年最后一次，100米没成绩，游了1200米，全年估计一共游了65公里，原本学蝶泳没完成，希望明年能保持，有机会学好蝶泳。你呢？
+开源就是好，Go/Beego啥都不会，但还是照着 @tobe陈迪豪 的明星项目seagull http://t.cn/R74QfAn 把docker registry的东西抠出来了。明天可以release一个0.0.1版本，哈哈。
+边写边学Go语言，http://t.cn/RZ2ftAe 了解JSON的unmarshal方法和hash的遍历。这个go在线学习版本真好！@tobe陈迪豪 是否可以搞个docker的在线学习的呢？有点像docker官方的那个tutor。
+拿到了#软件集成策略#的书，有了这本书，下次面试配置管理工程师的高职位不愁了。作者常年工作于配置管理一线，有传统企业也有互联网的经验，又会讲故事，绝对是好书。我们ETA的CM人手一本。感谢 @董越1977
+两本docker书集起了，签个名给团队的朋友。
+CodingWithMe "Learn Docker in 90 minutes" 昨天借用 @Odd-e 的场子公开讲了一次，效果不错。全部是Mac的，boot2docker的环境有点不一样，，国内网络还是太差，用了 docker.cn和mirrors.163.com做练习，会后slides重构了一把 http://t.cn/Rv4EUnQ ，再加上了 seagull和那些新书。昨天该送书的。
+gmail好了？
+@tobe陈迪豪 零基础搞好了第一版工作的private docker registry的web界面的pirate http://t.cn/RZUf2uU , 你可以试试。显示所有的images（少点）没问题。虽然go/beego还是不太懂。我改的核心代码是golang的JSON http://t.cn/RZUf2u4

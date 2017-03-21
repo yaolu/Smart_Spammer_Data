@@ -1,0 +1,249 @@
+【JVM实用参数系列】并发编程网组织翻译了JVM实用参数系列文章，旨在帮助大家了解JVM的结构以及相关参数。JVM实用参数系列一共包括八篇文章，由浅入深，从编译器、垃圾回收、内存调优等方面介绍JVM。http://t.cn/Rv8Hndl
+刘总，处处负能量！[偷笑]http://t.cn/RvuQlZy
+微信公众平台后台改版了，全部扁平化。
+今晚不聊技术，只看球赛。[嘻嘻]
+【如何写gdb命令脚本】作为UNIX/Linux下使用广泛的调试器，gdb不仅提供了丰富的命令，还引入了对脚本的支持：一种是对已存在的脚本语言支持，比如python；另一种是命令脚本，，用户可以在脚本中书写gdb已经提供的或者自定义的gdb命令，再由gdb执行。http://t.cn/RvrwfZc
+【Getting Started with Docker】http://t.cn/8sG4JTH
+【Java 8：StampedLock、ReadWriteLock以及synchronized的比较】总体看来, 整体性能表现最好的仍然是内置的同步锁。但是，这里并不是说内置的同步锁会在所有的情况下都执行得最好。http://t.cn/Rvd6KPe
+Spark Summit 2014 日程以及PPT：http://t.cn/8sFok9U
+My Thoughts on Various Programming Languages http://t.cn/RvDVYMh
+【Web开发中的8个好习惯】http://t.cn/RvDkTdC
+Bug:StampedLock的中断问题导致CPU爆满 http://t.cn/RvkE8KN
+好东西分享：Java Memory Model Pragmatics http://t.cn/RvsaSv3
+Java conccurency: a brief overview http://t.cn/RPPETtB
+Java并发概览：http://t.cn/RPPETtB
+New Relic总结的DevOps工具：http://t.cn/RPhCf5I
+投稿以及站务建议请随时私信。[嘻嘻]
+今天一直忙，微信没有发，这么晚了还该打扰大家么？打扰，不太合适；不打扰，我却没守诺。[加油啊]好纠结。
+【聊聊JVM的年轻代】我们先来屡屡，为什么需要把堆分代？不分代不能完成他所做的事情么？其实不分代完全可以，分代的唯一理由就是优化GC性能。你先想想，如果没有分代，那我们所有的对象都在一块，GC的时候我们要找到哪些对象没用，这样就会对堆的所有区域进行扫描。http://t.cn/RPzX6yw
+#ArchSummit# 并发编程网来了。 http://t.cn/RPZRdZl
+【Java字节码浅析（三）】从Java7开始，switch语句增加了对String类型的支持。不过字节码中的switch指令还是只支持int类型，并没有增加对其它类型的支持。事实上switch语句对String的支持是分成两个步骤来完成的。http://t.cn/RPZL7dW
+【ClassNotFoundException: 真的会使你的JVM慢下来吗？】大多数Java开发者比较熟悉这个普通的 java.lang.ClassNotFoundException。这个问题的根源逐渐被开发人员所了解，然而它对于整个JVM及性能的影响却鲜为人知。译者：TonySpark http://t.cn/RPZn1VQ
+10个顶级的Java性能分析工具：http://t.cn/RPLiJNv
+【闲说性能测试】性能测试是一件看起来不简单，操作起来确更困难的事情，我认为，每认真做一次性能测试，一定会有不同收获，而每次性能测试暴露的问题，现象都不是仅仅涉及Java，tomcat这么简单，简单说就是光会写代码是无法做好性能测试的。作者：@刘锟洋 http://t.cn/RPL9fVA
+Disruptor入门：http://t.cn/RP4ahUV
+【译者征集】在这里，你可以向我们推荐需要翻译的文章，我们也会列一些可以翻译的文章，大家可以自由领取感兴趣的文章进行翻译，译文会发布在iFeve。http://t.cn/zYFSGzB
+由iFeve组织，网友@owenludong 翻译的Netty 5.x 用户指南已经被Netty官方收录，赞一个。http://t.cn/RPbki9l
+【并发编程 Promise, Future 和 Callback】在并发编程中，我们通常会用到一组非阻塞的模型：Promise，Future 和 Callback。其中的 Future 表示一个可能还没有实际完成的异步任务的结果，针对这个结果可以添加 Callback 以便在任务执行成功或失败后做出对应的操作。作者：起衣 http://t.cn/RPbgyey
+【原子循环计数器】现实当中很多场景，需要进行轮训服务，比如轮训在10个日志文件当中写日志，在10台机器上轮训的去调用以实现负载均衡。http://t.cn/RPqaiKY
+Docker ships Hadoop to the cloud http://t.cn/RPt3M49
+使用递归实现快速排序：http://t.cn/RPtdOVS
+【JVM性能优化（一）：JVM技术入门】Java应用程序是运行在JVM上的，但是你对JVM技术了解吗？这篇文章（这个系列的第一部分）讲述了经典Java虚拟机是怎么样工作的，例如：Java一次编写的利弊，跨平台引擎，垃圾回收基础知识，经典的GC算法和编译优化。译者：赵峰 http://t.cn/RPc6HIQ
+哪位小伙伴有时间为iFeve有偿开发iOS、Android应用？如有兴趣，请私信联系小编。[去旅行]
+来吧，这里是各种queues的集合。http://t.cn/zQx5Qnq
+使用SpringBatch读写CSV文件：http://t.cn/RPIgcXH
+关于Facebook的语言规范草案的两个评论：http://t.cn/RPMfpfZ http://t.cn/RP6tVag
+【Java 正则表达式】Java 提供了功能强大的正则表达式API，在java.util.regex 包下。本教程介绍如何使用正则表达式API。译者:严亮 http://t.cn/RPivx3h
+并发网翻译的文章会取得作者授权。
+并发网翻译的文章会取得作者授权。
+【JVM优化系列-第二部分-编译器】JVM性能优化系列中，第二篇章里Java编译器是主要部分。Eva Andreasson介绍了不同类型的编译器，并且就客户端、服务器端、分层编译进行了性能对比。她也总结了JVM优化的一些概况，例如死代码的消除、代码内嵌和循环优化。译者：sooerr http://t.cn/RP6HQTr
+为什么开发者需要维护一个博客：http://t.cn/RPaVJ2I
+HTTP/2即将发布：http://t.cn/RPamwDT
+【并发已不再是语言层面上的事情了】最近有一个说法是因为现代工程师几乎总是面对计算机集群编程，所以我们需要用于构建分布式系统的工具。这就意味着我们需要在语言层面支持分布式系统开发。像Go和Erlang这样的语言其优势正好符合这个观点。译者：张军http://t.cn/RPSt3YO
+为什么ZeroMQ不应该成为你的第一个选择？http://t.cn/RPKNtb4
+开源的邮件模板，不错：http://t.cn/RP9M2If
+优化Docker镜像：http://t.cn/RPpVxL0 @Docker中文社区
+【Fork and Join: Java也可以轻松地编写并发程序】如今，多核处理器在服务器，台式机及笔记本电脑上已经很普遍了，同时也被应用在更小的设备上，比如智能手机和平板电脑。这就开启了并发编程新的潜力，因为多个线程可以在多个内核上并发执行。 译者：iDestiny http://t.cn/RPNKZyO
+人既然知道努力就可以进步，为什么还是会不努力？ http://t.cn/8sO2gBO
+【监听器-Java同步的基本思想】如果你在大学学习过操作系统，你可能还记得监听器在操作系统中是很重要的概念。同样监听器在java同步机制中也有使用，本文通过类比的方法来解释“监听器”的基本思想。译者：庞俊涛 http://t.cn/RPpBSxR
+一个api的 rt 大涨问题排查：http://t.cn/RPWeaG1
+并发编程网拟在9月14日组织一场线下沙龙，欢迎关注，任何建议请私信。感谢协办方七牛以及Coding。 http://t.cn/z8y9yKH
+【JVM性能优化（三）：垃圾收集】本文是一篇关于垃圾收集的介绍性文章，帮助你了解有关垃圾收集的概念和机制，并希望能够促使你进一步阅读相关文章。译者：Greenster http://t.cn/RPjOBkJ
+今天升级了一批试译者为正式译者或作者，他们是李洪柱,殷绍昕,chris,cathar,肖海,郭振斌,蒋健雷,燮羽,俞升兵,timon2010,寻寒,韩松涛等。Greenster翻译了11篇文章直接升级成翻译编辑。加入并发网的翻译团队请猛击＝》http://t.cn/zYFSGzB，将有数万同学看到你们翻译的文章。
+Java 9新特性发布，将提供JSON API：http://t.cn/RP8vk4I
+HTTP/2 Push with experimental Servlet API http://t.cn/RP84ont
+【一个7年老员工的离职总结：如何打造一个最强大的自我】你的小宇宙有多强，决定了你会把事情做到何种程度。比如责任心、态度、对细节的关注、坚韧和坚持、逆境商、做事的魄力等。如果用冰山模型加以区分，你会发展这些基本都是冰山以下的那些东西，而这些东西需要长时间的磨砺。http://t.cn/RP8irTc
+【ifeve7月阅读量Top10】也许每天大家都在匆忙的工作，学习的时间非常短暂，也许网站的内容太多，不知道应该看哪一篇。所以从本月开始会向各位推送并发网每月Top10的阅读量的文章，希望各位能喜欢。http://t.cn/RPE1r6q
+美团网技术团队博客：http://t.cn/8sIozLh
+Stampede.io：一个基于CoreOS的混合的IaaS/Docker编配平台。http://t.cn/RPuMj6o
+【处理JSON的Java API ：JSON的简介】JSON (JavaScript Object Notation)是一种轻量级的、基于文本的、完全独立于语言的数据交换格式。它非常方便人们和机器的阅读和书写。JSON 有两种结构类型的表现方式：对象和数组。http://t.cn/RP38WKc
+【为什么开发人员从Java转Go】使用Java来开发企业级的应用可能是一个不错的选择，但是使用Google的Go语言来开发系统软件会更有优势，一名来自PivotalJava开发者如是说，目前他已经成为Go语言的支持者。 译者：@梁海舰 http://t.cn/RPrDP9O
+【并发编程网线下沙龙】在iFeve成立三周年之际，我们联合@Coding @七牛云存储 举办第一场线下沙龙，主题是并发编程，地点在北京3W咖啡，时间是9月14日。我们用做内容的心态来做沙龙，精彩不乱，精品不断。高逼格，高质量，欢迎报名：http://t.cn/RP1oZEk
+【并发编程网线下沙龙】在iFeve成立三周年之际，我们联合@Coding @七牛云存储 举办一场线下沙龙。时间是9月14日，地点在北京车库咖啡，主题是并发编程。我们用做内容的心态来做沙龙，精彩不乱，精品不断，高逼格，高质量，欢迎报名：http://t.cn/RP1oZEk
+【Java设计模式：观察者】简单来说，观察者模式=发布者+订阅者。文章以一个猎头的例子来解释观察者模式，找工作的人向猎头订阅，告知自己希望得到一份工作，当有新的工作机会的时候，猎头就会把这个信息通知给曾经向他订阅过的人。译者：@Freedie_Qin http://t.cn/RPdsXNf
+Writing a Simple Garbage Collector in C：http://t.cn/RPdgo2M
+Java 9令人兴奋的几个新特性：http://t.cn/RPeRlyy
+Java EE 8 来了：http://t.cn/RPsfbv3
+【JAVA 9 新特性】Oracle已将JAVA 9的开发提上日程。OpenJDK上已经出现了关于下一个主版本JAVA 9的改进建议。与以往不同，Oracle在这次谈及了一些真正的特性。而早期对于JDK9的声明仅限于“bug修复和一些小的改进”。译者：zachariah http://t.cn/RhPuLF9
+云架构和openstack的思考:http://t.cn/RPfqlAA
+Quartz教程三：Job与JobDetail介绍 http://t.cn/RhA59Nq
+【并发网2014.8月阅读量Top10】时光荏苒，转眼又到了月底，并发网8月Top10的阅读量的文章新鲜送到，希望各位看官能喜欢！有任何意见和建议，欢迎告诉我们，我们在努力！http://t.cn/Rhwv0v6
+Go学习教程：http://t.cn/Rh2Nyxq
+【Java设计模式：策略模式】假设Mike在开车的时候，会很频繁的加速，有一天因为超速他被一个警察拦下来了。有可能这个警察会比较友好，没开任何罚单就让Mike把车开走了。也有可能Mike遇到了一个不太友好的警察，然后这个警察给Mike出具了一张罚单。译者：@Freedie_Qin http://t.cn/Rh29ZnG
+这么多关于Java中Get和Set的争论：http://t.cn/RP8PN70
+【高薪 IT 工作者做的工作是什么？】我来给一个高薪的定义吧：税后到手年收入大于年龄，包含年终奖、股票等。http://t.cn/RPQDltf
+【Harris’s Linked List】在学术论文中Harris Linked List是使用最广泛的并发数据结构之一。Harris Linked List是一个基于linked-list的并发有序set（或者是map），可进行无锁性质的插入，删除和查找操作。http://t.cn/RhLjvAW
+GitHub在博客上分享了他们去年的MySQL数据库迁移经验，包括准备工作、迁移工作以及后期的一些处理经验。非常棒，他们最后总结了这次迁移过程中学习到的几个地方：分区、测试、团队协作。具体内容请移步：http://t.cn/RhLuGG0
+【并发工具类（二）同步屏障CyclicBarrier】CyclicBarrier 的字面意思是可循环使用（Cyclic）的屏障。它要做的事情是，让一组线程到达一个屏障（也可以叫同步点）时被阻塞，直到最后一个线程到达屏障时，屏障才会开门，所有被屏障拦截的线程才会继续干活。作者：@方腾飞-清英 http://t.cn/Rh4MSLX
+【并发工具类（四）两个线程进行数据交换的Exchanger】Exchanger（交换者）是一个用于线程间协作的工具类。Exchanger用于进行线程间的数据交换。它提供一个同步点，在这个同步点两个线程可以交换彼此的数据。作者：@方腾飞-清英 http://t.cn/RhGraAx
+【AKKA文档（Java版）—什么是Actor】http://t.cn/RhqSscI
+中秋快乐。@苍井空
+【Java 8: Lambdas, Part 1】Java 8主要的改变集中在lambdas，这也是这两篇文章主要讨论的内容。但是一个语言特性，就其本身而言它的出现除非其背后有一定的支持，如果它不实用或有趣。Java 7的几个特点符合这种描述：例如，增强数值文本不能让大多数人注意。译者：赵峰 http://t.cn/RhtOfxb
+Swift 1.0 GM发布了，顺带普及下什么是GM。http://t.cn/RhV2hIS
+JVM 性能优化，第二部分：编译器 http://t.cn/RhqKplZ
+这里有Swift从生下来到现在的所有Changes：http://t.cn/RvsrBy9
+【Quartz教程四：Trigger】与job一样，trigger也很容易使用，但是还有一些扩展选项需要理解，以便更好地使用quartz。trigger也有很多类型，可以根据实际需要来选择。http://t.cn/RhtbKO4 译者：nkcoder
+【Quartz教程四：Trigger】与job一样，trigger也很容易使用，但是还有一些扩展选项需要理解，以便更好地使用quartz。trigger也有很多类型，可以根据实际需要来选择。译者：nkcoderhttp://t.cn/RhtbKO4
+【Quartz教程四：Trigger】与job一样，trigger也很容易使用，但是还有一些扩展选项需要理解，以便更好地使用quartz。trigger也有很多类型，可以根据实际需要来选择。http://t.cn/RhtbKO4
+Java 8新特性：字符串去重 http://t.cn/RhI7SOu
+【AKKA文档——角色系统】角色是封装了状态与行为的对象，它们通过交换放入接收者信箱的消息实现两两之间的通讯。从某种意义上说，角色是最严格的面向对象编程，不过最好还是把它们当作人来看待。译者：@runningW http://t.cn/RhxZkQF
+并发沙龙准备中，欢迎各位童鞋来签到！@Coding @七牛云存储  http://t.cn/RPGA2oJ
+提前到场的各位童鞋@Coding @七牛云存储  http://t.cn/RhJXCKS
+扫码互动 http://t.cn/RvRTFvG
+开讲啦@Coding @七牛云存储  http://t.cn/RvRTFvG
+Go语言的分享@Coding @七牛云存储  http://t.cn/RhJSr9a
+#沙龙#并发第二讲JAVA应用优化@Coding @七牛云存储  http://t.cn/RhJNZvI
+@Coding 让开发更简单 http://t.cn/RhJSr9a
+@七牛云存储  http://t.cn/RhJSr9a
+并发编程网创始人@Coding  http://t.cn/RhJSr9a
+@七牛云存储 牛 http://t.cn/RhJpsKs
+并发编程网站长@Coding  http://t.cn/RhJpsKs
+方腾飞正在分享线程池调优 http://t.cn/RhJOK2U
+会后交流 http://t.cn/RhJWEys
+会后合影 http://t.cn/RhJWgfO
+我在@微盘 分享了一个很不错的文件夹："iFeve沙龙20140914"，快来看看吧~ http://t.cn/Rhixmpb
+我在@微盘 #定时微博# 分享了一个很不错的文件夹："iFeve沙龙20140914"，快来看看吧~ http://t.cn/RhiJgU7
+并发编程网线下沙龙PPT来喽，主题包括Go并发编程、Java并发编程、Java应用性能调优，欢迎下载。 http://t.cn/Rhiihfs
+【iFeve沙龙：PPT+套图】第一次的线下沙龙活动结束了，参会人数将近200人，主题是并发编程。小伙伴们很热情，线下的活动我们还有很多需要优化的地方，我们希望并发编程网不仅仅是一个提供精品文章的平台，更希望是您前进和奋斗路上的良师益友。http://t.cn/Rh6yHCg
+我在@微盘 分享了一个很不错的文件夹："iFeve沙龙20140914"，快来看看吧~ http://t.cn/Rh6MQMO
+【Akka与Java内存模型的关系】不管你使用的Typesate系统是Scala版本还是Java版本，都可以使你编写并发程序的过程变得更加容易。这篇文章主要讨论的是Typesafe系统，特别是针对Akka在并发程序中对共享内存的处理部分。译者：clearity http://t.cn/Rh6J6ug
+TODO：Talk openly, Develop openly。
+TODO新解释：Talk openly，Develop openly。
+【Java网络教程之Socket】当我们想要在Java中使用TCP/IP通过网络连接到服务器时，就需要创建java.net.Socket对象并连接到服务器。假如希望使用Java NIO，也可以创建Java NIO中的SocketChannel对象。http://t.cn/Rh69K0Z
+Quartz教程五：SimpleTrigger http://t.cn/RhaRUsK
+【Java锁的种类以及辨析（二）：自旋锁的其他种类】锁作为并发共享数据，保证一致性的工具，在JAVA平台有多种实现(如 synchronized 和 ReentrantLock等等 ) 。这些已经写好提供的锁为我们开发提供了便利，但是锁的具体性质以及类型却很少被提及。 译者：卢爱然 http://t.cn/RhXkBDl
+【Java设计模式：装饰者模式】装饰者模式可以给已经存在的对象动态的添加能力。本文将会用一个简单的例子来演示一下如何在程序当中使用装饰者模式。译者：@Freedie_Qin http://t.cn/Rho3vNq
+【P2P网络】P2P网络是一种分布式的网络系统。在P2P网络中，多个计算机或节点共同组成一个网络，而不需要中心服务器来协调各计算机。译者：林宝贵 http://t.cn/RhNCEXK
+【GC对吞吐量的影响】大家都知道GC暂停很容易造成性能瓶颈。现代JVM在发布的时候都自带了高级的垃圾回收器，不过从我的使用经验来看，要找出某个应用最优的配置真是难上加难。手动调优或许仍有一线希望，但是你得了解GC算法的确切机制才行。译者：有孚 http://t.cn/Rh0YGzg
+【学会放下包袱，热爱单例】对于企业应用，依赖注入和早期验证是非常重要的， Spring为此提供了极大的便利。 但是别欺骗自己，Spring是好，但它不是万金油。尤其在崇尚快速启动、低内存消耗、避免接口的移动开发领域。http://t.cn/Rh9B32j
+Stanford的课程《How to Start a Startup》，不论是练习听力还是学习新东西，都非常棒，推荐：http://t.cn/RhW3ohv
+Go编程简明教程：http://t.cn/RhWe01v
+Go编程简明教程：http://t.cn/RhWkSQu
+Socket.IO for Unity，感兴趣的朋友了解下：http://t.cn/RhjTh8o
+帮助开发团队上手Git，一个系列的博文，推荐：http://t.cn/RhjEqhO
+Deis发布了0.12版本，更可靠，更容易安装。Deis也是一个支持共有云和私有云的开源PaaS系统，Deis基于Docker和CentOS构建了一个类Heroku的PaaS系统。Deis主要设计用来和不同的云提供商进行交互，目前支持 Rackspace、EC2、 DigitalOcean、Google Compute Engine、Bare-Metal。@网路冷眼 @马全一
+Deis发布了0.12版本，更可靠，更容易安装。Deis也是一个支持共有云和私有云的开源PaaS系统，Deis基于Docker和CentOS构建了一个类Heroku的PaaS系统。Deis主要设计用来和不同的云提供商进行交互，目前支持EC2、 DigitalOcean、Google Compute Engine。http://t.cn/RhjEucK @网路冷眼 @马全一
+【Deis V0.12发布】Deis发布了0.12版本，更可靠，更容易安装。Deis也是一个支持共有云和私有云的开源PaaS系统，Deis基于Docker和CentOS构建了一个类Heroku的PaaS系统。Deis主要设计用来和不同的云提供商进行交互，目前支持EC2、Google Compute Engine等。http://t.cn/RhjEucK @网路冷眼 @马全一
+【视频：Go的并发之美】 iFeve线下沙龙第一讲《Go的并发之美》，演讲人：@飞天急速徐倒立 http://t.cn/RhYAuYH
+Docker最近几周都没发Newsletter：http://t.cn/RhHfhgI
+视频《并发编程实战》，演讲者@方腾飞-清英 http://t.cn/RhHpbaj
+【视频：并发编程实战】 （分享自 @优酷） http://t.cn/RhHpbaj
+【Bash漏洞那些事儿】还记得Heartbleed漏洞吗？如果你相信今天这个铺天盖地的传言，那说明Shellshock和它是一类的，正如上次heartbleed漏洞中我所做的那样，我希望能汇总出一些资料，这样对我自己来说，我能知道如何去解决这个问题。译者：有孚http://t.cn/RhTgNe8
+介绍内存的系列文章，谁不看谁后悔：http://t.cn/z8bbMNx
+JavaOne 2014 KeyNote，赶紧来看。http://t.cn/RhngpIm
+【如何编写属于自己的Java / Scala的调试器】JDWP(Java Debugger Wire Protocol)是用来在调试和被调试程序之间通过二进制信息来传递请求和接收事件的，这些活动通常是网络上进行。这个架构背后的理念是在两个程序之间尽可能的解耦。译者：赖辉强 http://t.cn/Rh1LZkx
+【HTTP/2问题集锦】为什么要重新修订HTTP协议？谁做的这件事？HTTP/2与SPDY的关系？HTTP/2与HTTP/1的关键不同点是？更多HTTP/2的问题，可以阅读这份FAQ。http://t.cn/RhBAnun @developerWorks
+【iFeve9月阅读量Top10】金秋已过，转眼又到了月底，并发网9月Top10的阅读量的文章新鲜送到，希望各位看官能喜欢。 Java锁的种类以及辨析、策略模式、GC对吞吐量的影响、JVM的持久代——何去何从？http://t.cn/RhmeuHF
+【iFeve9月阅读量Top10】金秋已过，转眼间到了10月，并发网9月Top10的阅读量的文章新鲜送到，希望各位看官能喜欢。 Java锁的种类以及辨析、策略模式、GC对吞吐量的影响、JVM的持久代——何去何从？http://t.cn/RhmeuHF
+9个开发者可能喜欢的Java 9特性：http://t.cn/RhdbJ1X
+9个开发者可能喜欢的Java 9特性：http://t.cn/RhdbJ1X
+【JVM线程池的趋势】作者认为通常所说的线程池本质其实就是个worker queue，它是基于有序数组或者队列实现的，比如ConcurrentLinkedQueue、ArrayBlockingQueue，它们可能使用了不同的数据结果来实现阻塞或者非阻塞等特性，但是他们都存在同样的问题：插入或者遍历引起的竞争。http://t.cn/RhgOGNX
+这一期的Java杂志不错，很多干货。推荐阅读。http://t.cn/RheONiC
+我在@微盘 分享了一个很不错的文件："javamagazine20140910-dl.pdf"，快来看看吧~ http://t.cn/RheYJX1
+我在@微盘 分享了一个很不错的文件："javamagazine20140910-dl.pdf"，快来看看吧~ http://t.cn/RheYJ97
+扫一扫[花心]
+【gcc的 “-fpack-struct” 编译选项导致程序core dump的分析】最近team引入gcov来做代码分析。编译好的程序在Solaris上运行的好好的，结果在Linux上一运行就会产生core dump文件。这篇文章就介绍整个分析过程。作者：DTrace http://t.cn/RhBtcvF
+苹果官方的Swift学习教程：http://t.cn/RhDomtU
+Yahoo确认服务器被攻击，但是不是由于Shellshock。http://t.cn/RhDK48u @网路冷眼
+如何再C++中实现动态对象？http://t.cn/Rhkd9vq
+如何在C++中实现动态对象？http://t.cn/Rhkd9vq
+【线程基础之JAVA和C++0x的特性】JAVA线程通常是一个带有run()方法的java.lang.Thread的子类，然后调用这个子类对象的start()方法。我们之前定义过，数据竞争是因为两个线程同时访问内存单元，在JAVA中，内存单元是一个对象字段或数组元素。译者：衣着时 http://t.cn/RhkJgLy
+【Java锁的种类以及辨析（四）：可重入锁】可重入锁，也叫做递归锁，指的是同一线程 外层函数获得锁之后 ，内层递归函数仍然有获取该锁的代码，但不受影响。作者：卢爱然 http://t.cn/RhksAIk
+Deis v0.13发布，携手Ceph以提高可用性。Ceph是新一代的自由软件分布式文件系统。http://t.cn/RhsMFGK @马全一 @网路冷眼
+我分享了@程序员学架构 的文章 http://t.cn/Rhsa1cz
+为什么线程不能fork：http://t.cn/R7Z8NIe
+基础架构自动化经验：http://t.cn/R7ZeNyi
+AKKA文档：角色 http://t.cn/R7w8snB
+我在QCon上海等你。 http://t.cn/8kRRHIy
+最好的集合包设计（一）：在任何一门语言中，都会提供集合相关的数据结构，但是不同的语言实现方式也不一样，怎么做是最好的？有哪些技巧？且看作者的分析，1024个赞。http://t.cn/R7yziGj
+【线上性能问题初步排查方法】有时候有很多问题只有在线上或者预发环境才能发现，而线上又不能Debug，所以线上问题定位就只能看日志，系统状态和Dump线程，本文只是简单的介绍一些常用的工具，帮助定位线上问题。作者：@方腾飞-清英 http://t.cn/R72OP2d
+【Java中的Atomic包使用指南】Java从JDK1.5开始提供了atomic包，方便程序员在多线程环境下，无锁的进行原子操作。原子变量的底层使用了处理器提供的原子指令，但是不同的CPU架构可能提供的原子指令不一样，也有可能需要某种形式的内部锁,所以该方法不能绝对保证线程不被阻塞。http://t.cn/R7qvbpp
+想在GitHub上建立自己的个人博客？想用Jekyll但是谷歌以后发现并没那么简单，又是需要命令行又是需要Ruby环境，Windows的用户觉得有些坑爹，现在来试试Jekyll Now吧，很简单哈。http://t.cn/RPMZeH2
+【阿里2015校招面试回忆】整个面试过程中没让写代码，没问Linux下的一些知识，也没问操作系统、计算机网络相关，我觉得可能是Java面试更倾向于从项目中问相关的技术问题，如果你没项目或项目不多，那么就可能问这些计算机基础知识了。http://t.cn/R7qMgtA
+HTML 5仿Apple Watch时钟，赞一个。http://t.cn/RhxpoXV
+【Java IO 概述】在这一小节，我会试着给出Java IO(java.io)包下所有类的概述。更具体地说，我会根据类的用途对类进行分组。这个分组将会使你在未来的工作中，进行类的用途判定时，或者是为某个特定用途选择类时变得更加容易。译者: 李璟 http://t.cn/R7cGHtC
+不知道大家听过Rust语言没？Rust是Mozilla 的一个新的编程语言，可以选择是否启用GC，并且运行效率不亚于C/C++。不过貌似国内关注这个语言的用户群比较小，今天我们来推一个关于Rust的系列教程：http://t.cn/R7VpSoM
+【Java IO: 文件】在Java应用程序中，文件是一种常用的数据源或者存储数据的媒介。这篇文章不会对每一个技术细节都做出解释，而是会针对文件存取的方法提供给你一些必要的知识点。在之后的文章中，将会更加详细地描述这些方法或者类，包括方法示例等等。译者: 李璟 http://t.cn/R7f51Uz
+【Java IO: 管道】Java IO中的管道为运行在同一个JVM中的两个线程提供了通信的能力。所以管道也可以作为数据源以及目标媒介。在概念上，Java的管道不同于Unix/Linux系统中的管道。在Unix/Linux中，运行在不同地址空间的两个进程可以通过管道通信。http://t.cn/R7fYWEB
+#程序员节#想全面提升Java单兵作战能力吗？小编今天要为辛劳的程序员们送福利。《Java特种兵（上册）》突破Java图书从环境搭建到语法点罗列再到案例总结的写作惯例，直逼底层，懂原理，看源码，奠定Java老A的坚实基础。即日起至10-30日，转发就有机会获得本书，感谢@博文视点Broadview 友情提供。
+【Akka笔记之日志及测试】在前两篇笔记中，我们简单地介绍了一下Actor以及它的消息传递是如何工作的。在本篇中，我们将看下如何解决TeacherActor的日志打印及测试的问题。译者：之诸暇 http://t.cn/R7MVveq
+【Java IO: 字节和字符数组】Java中的字节和字符数组，经常被用于临时存储应用程序内部的数据，所以数组也是常见的数据来源以及数据流目的地。如果你在程序执行过程中需要频繁访问文件的内容，你可能会愿意将文件加载到数组中去。http://t.cn/R7ib9JK
+Java特种兵样章阅读：http://t.cn/R7iI88F
+《Java特种兵》一些简单算法，你会如何理解：http://t.cn/R7iI88F
+《Java特种兵》1.3 简单数字游戏玩一玩 http://t.cn/R7XDEBV
+【Java IO: System.in, System.out, System.err】System.in, System.out, System.err这3个流同样是常见的数据来源和数据流目的地。使用最多的可能是在控制台程序里利用System.out将输出打印到控制台上。 http://t.cn/R7adks5
+JAVA语言规范：线程和锁 http://t.cn/R7oo8ES
+Cloud Card能否干掉App。云OS 3.0已发布，总算向外界表达了我们想做个啥，很多人也开始质疑，Cloud Card到底是个啥？云OS 3.0算不算自主研发的OS？等等，今天想就Cloud Card能否干掉App这个主题聊聊这些事情。 http://t.cn/R7KF5VE
+Don't mind the fuckers, keep up the good work.作者的问题，你们碰到过么？http://t.cn/R7K3cq4
+【Facebook开源的操作系统监控工具osquery】osquery可以用于OSX和Linux操作系统，支持像SQL语句一样查询系统的各项指标。http://t.cn/R79aK3r
+我在@微盘 分享了一个很不错的文件："2014-apw-objects-concurrency.pdf"，快来看看吧~ http://t.cn/R7NXFt7
+Why Don't More People Work As Programmers? http://t.cn/R7luERo
+Java反射指南：http://t.cn/R7YbyYE
+【G1垃圾收集器介绍】Oracle在JDK7 update 4之后开始完全支持G1垃圾收集器，G1是一个针对多处理器大容量内存的服务器端的垃圾收集器，其目标是在实现高吞吐量的同时，尽可能的满足垃圾收集暂停时间的要求。译者：Greenster http://t.cn/R7HaNhw
+双十一又要来了，阿里上市后的首个双十一，京东上市后的首个双十一，诸多看点啊。不过小编想问下，双十一这样的大交易量场景下，会有哪些方面的技术挑战了？
+Android历史回顾，见大图。图片来自Twitter。
+【Android历史回顾】从2007年11月5日公布的手机操作系统到现在，整整7年，让我们借这幅图片一起来回顾下Android的发展之路。http://t.cn/R78yP9Z @InfoQ @developerWorks @网路冷眼 @唐巧_boy
+Go并发编程的样章今天开始将陆续在网站放出，请大家关注。@特价萝卜
+《Go并发编程实战》的样章今天开始将陆续在网站放出，请大家关注。@特价萝卜
+【《GO并发编程实战》—— 锁的使用】在本节，我们对Go语言所提供的与锁有关的API进行说明。这包括了互斥锁和读写锁。我们在第6章描述过互斥锁，但却没有提到过读写锁。这两种锁对于传统的并发程序来说都是非常常用和重要的。作者：@特价萝卜 http://t.cn/R7RehsG
+【人生是一条长路，随时都有可能改变命运】不是什么心灵鸡汤，这是我们写给自己的文章，几年了，并发编程网一直在努力着，我们也在等待改变命运的时刻。这些天，我们在想做些什么，怎么做，还没想好，但不管是什么，仍会一如既往的努力。http://t.cn/R7E84xc
+《GO并发编程实战》—— 条件变量 http://t.cn/R7nu8R1
+弱弱的问下，你们的微博是长这个样子么？
+Java Reflection(四)：变量 http://t.cn/R73r47y
+【双十一技术大餐】天猫双十一38分钟突破100亿，而作为屌丝的我，还一直在看双十一背后的技术故事来陶醉自己。《GO并发编程实战》原子操作章节将的真不错，看完也很有快感，不信你试试。http://t.cn/R719Lf5
+Java 集合教程 http://t.cn/R7dS57z
+【《GO并发编程实战》—— 临时对象池】本章要讲解的是sync.Pool类型。我们可以把sync.Pool类型值看作是存放可被重复使用的值的容器。此类容器是自动伸缩的、高效的，同时也是并发安全的。为了描述方便，我们也会把sync.Pool类型的值称为临时对象池，而把存于其中的值称为对象值。http://t.cn/R7eWVVE
+JVM堆大小的自适应能力 http://t.cn/R7sSobb
+很多时候我们需要介绍一些命令行的使用，比如想向大家介绍Docker的几个操作，写文字比较枯燥，如果直接能将命令行的操作展示给读者可能会更好、更炫，如果你有这个需求，可以试试开源的解决方案Asciinema，支持Linux和Mac OS。http://t.cn/8FaDOR5
+今天微信推荐的文章是余晟的《我所理解的技术领导力》，作者说领导力的表现是创造让所有人都能成长，都能发挥更大价值的环境，当然不能把所有人当成可以互相替换的棋子。还说评估一个人的能力应该用乘法而不是加法，想了想，确实有道理。http://t.cn/Rzv0rfu
+Java IO: PipedInputStream http://t.cn/RzP69Pc
+Restful最佳实践：1. 在URL中体现版本号 2. 使用名词 3. 使用复数形式 http://t.cn/RzhRVdU
+Golang VS JavaScript，一个非常有趣的视频，不过需要梯子。@GO语言中文网 http://t.cn/Rz7UpI3
+Java面试700问（一） http://t.cn/RzheOXF
+【完美的单例实现（The Perfect Singleton）】我经常遇到一些这样的Java程序员，他们不确定应该如何恰当的实现单例模式。我不考虑在线程的环境中合适的实现。但是使用你能在网络上找到的大多数常见的实现方式，你可以轻松地创建你想要的多种单例实现。http://t.cn/RzhgCOc
+【Java中的状态模式 – 例子指导】状态模式是一种行为设计模式。适用于当对象的内在状态改变它自身的行为时。如果想基于对象的状态来改变自身的行为，通常利用对象的状态变量及if-else条件子句来扮演针对对象的不同行为。http://t.cn/RzZur4F
+【动态代理】动态的代理的用途十分广泛，比如数据库连接和事物管理（transaction management）还有单元测试时用到的动态mock对象以及AOP中的方法拦截功能等等都使用到了动态代理。http://t.cn/Rzyhsj0
+从现在起，关注我们微信的3位粉丝，我请你吃饭，仅限北京，前3位。不要为我为什么，有钱，任性。
+【Java中的策略模式】策略模式是一种行为模式。用于某一个具体的项目有多个可供选择的算法策略，客户端在其运行时根据不同需求决定使用某一具体算法策略。http://t.cn/RzUiBNN
+推荐一篇 @Tiger_张虎 的文章《Go vs Erlang》，文章从并发、抢占式调度、垃圾回收、错误处理、动态反射、等方面对二者进行了比较，作者最后总结道对于要求低延迟、高并发的后端服务，推荐使用Erlang。@淘宝褚霸 称，阿里云也在使用Erlang，他最看重的是公平调度和资源隔离。http://t.cn/R7SIhAB
+【Java Reflection教程】Java反射机制可以让我们在编译期之外的运行期检查类、接口、变量以及方法的信息。反射还可以让我们在运行期实例化对象，调用方法，通过调用get/set方法获取变量的值。我们翻译了Java反射学习教程，希望能帮到想了解Java反射相关知识的同学。http://t.cn/Rz4rnRT
+下午有个微信粉丝问我，他想学习编程，学.NET好还是Java好，之前还好答，学Java，.NET是闭源的，整体发展不如Java好，你每天就是记规则，很难知道人家是怎么实现的。而现在.NET开源了，这个问题就有点难回答了，开源之后，很快是不是就会有些第三方的库、工具开始支持.NET？你怎么看开源之后的那些事？
+【开源的Web视频播放器】Clappr是一个不错的视频播放器，支持主流的播放器以及播放格式，使用和扩展都很容易。作者在博客中记录了为什么要开发Clappr以及为什么要开源，Open source software acts like a fuel for your brain. http://t.cn/Rzqp8T8
+来，让.NET跨平台立马变为现实， OmniSharp虽然不是官方项目，但还是值得关注。http://t.cn/RzVR4mX
+69道Spring面试题和答案：http://t.cn/RztEtxA
+并发网2014.11月阅读量Top10：http://t.cn/RzJP4W3
+【在人生方向感没那么强的时候，怎么更好地生活下去】我很喜欢知乎上的一个问答，提问者说：“你是怎样走出人生低谷的？”，得票最多的答案是“多走几步”。也许你有些迷茫，也许你有些惆怅，也许这篇文章能帮到你。http://t.cn/RzXtv4C
+【JAVA中的命令模式实例教程】在企业级应用中，命令模式是非常有用的，它使得多个对象可以相互交流。如果一些对象与另一些对象直接交流，系统组件之间是紧耦合的方式。这种方式导致系统具有更高的可维护性，可扩展的灵活性变得很低。http://t.cn/RzXeHzQ
+【Java IO: 字符流的Piped和CharArray】本章节将简要介绍管道与字符数组相关的reader和writer，主要涉及PipedReader、PipedWriter、CharArrayReader、CharArrayWriter。http://t.cn/RzoxFG4
+【Java程序员在写SQL时常犯的10个错误】1. 忘记处理NULL 2. 在Java内存中处理数据 3. 使用UNION替代UNION ALL 4. 使用JDBC的分页 5. 在Java内存中连接数据 http://t.cn/zQoLim8
+【为什么说程序员的前三年不要太看重工资水平？】他们在忽悠你。 绝大部分（95%以上）好公司、好团队、好岗位、好领导 不会亏待底层员工，不会对新人吝啬，他们自己牛逼，做的事牛逼，利润高，给的起。送给这两天私信问我相关问题的那些同学，抄送已经是过来人的同学。http://t.cn/RzS8lEK
+【并发性能优化 – 降低锁粒度】在高负载多线程应用中性能是非常重要的。为了达到更好的性能，开发者必须意识到并发的重要性。当我们需要使用并发时， 常常有一个资源必须被两个或多个线程共享。http://t.cn/RzKHGQx
+男孩和女孩们使用Google的区别，图片来自Twitter。
+这个文章不错，总结了Java Web应用中常用的虚拟机参数，并对常用的堆、GC、GC日志、DNS缓存等方面的参数。http://t.cn/RzNNUMo
+【函数式编程 Functional Programming】在Java程序员的世界里，第一要素是“类”，而在函数式编程里，第一要素则是“函数”。完全不同的编程理念，确实很难让函数式编程出现在Java工程师日常工作的代码中。http://t.cn/Rz9mqAp
+《C#并发编程经典实例》—— Rx基础 http://t.cn/Rz0BVPy
+好文。 我分享了http://t.cn/RzOdyf6
+【Java中的堆和栈的区别】堆和栈都是内存中的一部分，有着不同的作用，而且一个程序需要在这片区域上分配内存。众所周知，所有的Java程序都运行在JVM虚拟机内部，我们这里介绍的自然是JVM（虚拟）内存中的堆和栈。http://t.cn/RzNy6kV
+《C#并发编程经典实例》—— 转换.NET事件 http://t.cn/Rz0gPSI
+C#并发编程经典实例之Rx基础系列文章已经发布完毕，对C#并发编程感兴趣的朋友看过来：http://t.cn/Rz0BVPy
+《C#并发编程经典实例》第六章内容已经发布完毕。http://t.cn/Rz0BVPy
+推荐个不错的Python开源项目，可以直接把Font Awesome图标转为PNG图片。http://t.cn/RzQoyVF 另外，他们也提供了在线的转换服务，只要输入CSS即可转换。http://t.cn/RvG6trg
+如何开始一个开源项目？http://t.cn/RzEPpm2
+Building a Scalable Event Service with Cassandra: Design to Code http://t.cn/RzEhs9I
+【基于线程与基于事件的并发编程之争】Java和Node.js可以说分别是基于线程和基于事件的两个并发编程代表，它们互相指责瞧不起对方，让我们看看各种阵营的声音。http://t.cn/RzERcdp
+发网每月都有很多精彩的译文发表出来，为了感谢各位译者和作者，并发网会每月奖励最活跃的TOP3作者或译者，他们会收到并发网定制的奖品，这个是并发网的一点心意，希望大家能喜欢。11月的译者已经收到了并发网的现金和定制卫衣奖励。
+最近微博的干货比较少啊
+Java 注解指导手册 – 终极向导：http://t.cn/RzuRlYj
+角色对象模式：http://t.cn/Rzn6xxw
+谁在ArchSummit会场？约一下。@InfoQ http://t.cn/z8AfZ8n
+跟着实例学习ZooKeeper的用法： Leader选举 http://t.cn/RzdBvye
+跟着实例学习ZooKeeper的用法： 分布式锁 http://t.cn/RzekNy3
+【2014年最流行的10个编程语言】作者基于 Stack Overflow 2014的数据对2014年的编程语言流行度做了对比，他将Stack Overflow 2014年的所有问题进行了整理，并统计了所有问题中编程语言关键字出现的次数，最后得到了相应的统计结果。http://t.cn/RzDPZVO
+Git教程汇总：http://t.cn/RzFyztE
+跟着实例学习ZooKeeper的用法： Barrier http://t.cn/RzkUMqR
+【跟着实例学习ZooKeeper的用法： 缓存】可以利用ZooKeeper在集群的各个节点之间缓存数据。 每个节点都可以得到最新的缓存的数据。 Curator提供了三种类型的缓存方式：Path Cache,Node Cache 和Tree Cache。http://t.cn/RZPlmP4
+【Java FP: Java中函数式编程的Map和Fold(Reduce)】在函数式编程中，Map和Fold是两个非常有用的操作，它们存在于每一个函数式编程语言中。既然Map和Fold操作如此强大和重要，但是Java语言缺乏Map和Fold机制，那么该如何解释我们使用Java完成日常编码工作呢？http://t.cn/RzsmjhO
+【跟着实例学习ZooKeeper的用法： 计数器】这一篇文章我们将学习使用Curator来实现计数器。 顾名思义，计数器是用来计数的, 利用ZooKeeper可以实现一个集群共享的计数器。 只要使用相同的path就可以得到最新的计数器值， 这是由ZooKeeper的一致性保证的。http://t.cn/RzsxsCp
+使用JavaScript构建OS X应用：http://t.cn/RZ2FvZO
+这两天一直在准备服务器的迁移，感谢@Ucloud优刻得 为我们赞助的服务器。这两年做社区，环境真的好了很多，有这么多的公司支持这件事，我们也很开心，最好的回报就是继续创建精品内容。[可爱]
+【Java FP: 伪造闭包工厂，创建域对象】近我们想构建一个需要使用外部依赖进行计算的域对象，同时我们希望在测试的时候能够忽略这些依赖。最开始，我们简单地在域对象中创建依赖，这使得在测试的过程中，不能随意修改依赖的值。http://t.cn/RZy73G3

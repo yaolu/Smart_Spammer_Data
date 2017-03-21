@@ -1,0 +1,204 @@
+我就说吗，习不弄徐反腐就是走过场。
+基于Tesseract3.03 引擎的OCR效果还不错，基本数字都能识别，汉字就不太好了，从trained 语言包的大小就可以看出来。移植到android上后识别精度到现在为止发现和待拍图片的环境还有一些其他因素有关系。
+英文和数字的识别还算说的过去。
+据说现在流行react js了？facebook主导的，这是要和google angular混战吗？ http://t.cn/zH6byLS
+警察日记比白日焰火好看多了
+js中call和apply： call, apply作用就是借用别人的方法来调用,就像调用自己的一样,通俗点就是,方法是借给另一个对象的调用去完成任务,原理上是方法执行时上下文对象改变了. foo.call(this, arg1,arg2,arg3) == foo.apply(this, arguments)==this.foo(arg1, arg2, arg3)
+如何选择javascript中类继承所用到的三种模式：类式继承，原型链继承和mixinclass的使用场景总是比较纠结。
+10000m高空击落，现在的恐怖分子都牛逼到这种境界了。我还停留在他们用RPG的年代。
+书到了。
+韩寒的小说和电影总给人一种“我上过很多小姐”的感觉。
+上周天刚和一朋友吃完肯德基，手机推送来过期肉的新闻。尼玛。
+本田的混动技术还是不行啊。昨天还在纽北进行跑圈测试的2015本田NSX在今天的测试中自燃。
+西安供电局你们是不是抓阄决定哪块停电限电啊？毫无计划性。@IN直播
+完成一个好的js框架需要了解和精通的知识点太多了。慢慢来吧。先从读别人框架开始。
+在一个不正常的地方待久了，你就会把这种不正常当成正常了。好想跳出去。
+理解John Resig's 'Simple JavaScript Inheritance'代码中类工厂实现 http://t.cn/RPIRwEu
+secrets of javascript ninja
+我占全了。『如何判断自己是否到了该辞职的时候 | 外刊IT评论』http://t.cn/8FH4Fam
+一想到还有4年才到20年，我就很崩溃。坑爹的傻逼政策
+哈哈，这才是全栈工程师。
+懂得越多，就会理解其实自己知道的事物宛如沧海一粟。懂得越少，就会产生自己什么都知道的错觉。 -David T. Freeman 深有感触。
+准备给妞申请个域名yiyi.cn。不知道在谁手上。如果价格不贵考虑买下来给妞做个人网站。
+做了一夜噩梦。
+熬吧。。。。
+http://t.cn/hpOIh 一个javascript的在线基础知识测试。我的成绩：“You've got 10 answers wrong (#2, #4, #6, #7, #8, #9, #10, #11, #12, #13). That's more than a half :(”。。
+http://t.cn/RPEnm6H ECMAScript 6, The Future of JavaScript
+http://t.cn/zjRptzn Dr. Axel Rauschmayer的blog，每篇文章都值得去拜读.
+拖了很多天终于把妞的域名买了，ruixinjin.com。在godaddy买的，两年121元。接下来可以给妞做网站了。
+Speaking JS这本书写的真好，从浅入深，从易到难，里面还穿插一些js黑魔法，读起来就像小说一样，一些章节需要反复去读去理解，作者碉堡了，国外的牛人写技术类书籍真的很细腻，推荐。
+http://t.cn/Rvm41EH
+老婆说nexus系列是山寨货。看来得好好教育教育了。[嘻嘻]
+Scarlett Johansson。
+http://t.cn/RPdj118 native code of javascript。
+尼玛，有人翻墙都能翻出优越感。太low了吧。
+#老罗约战自如# 老罗太能说了..
+wow老罗开始吐苹果黑维修内幕，自如明显害怕了..
+关于老罗和自如约架辩论这件事情，看了直播有三点想说：1：两败俱伤。2：老罗太能说自如明显招架不了。3：老罗吐槽中国苹果维修黑幕的事情可能要出大事。
+我参与了@爱范儿 发起的投票【你如何评价罗永浩和王自如的直播辩论？】，我投给了“支持罗永浩”这个选项。你也快来表态吧：http://t.cn/RPkg1mV
+http://t.cn/RhPGw9e use google polymer to build mobile web app
+polymer的一个sample分别在chrome和IE9下的表现。google现在三大web开发平台Dart;Angular;polymer中最成熟的应该是angular了，polymer应该代表的技术应该是更加先进的。
+打算用ReactJS给妞做个人网站了..
+dart, actionscript, coffeescript, typescript, 还有es6。大家又开始混战了。
+闭环。『前端研发生态环境构建经验谈』http://t.cn/8s4uwP5
+好想要一台Surface Pro3。
+配了两个小时才把webstorm for ECMAScript6的环境配好。看来js社区现在基本所有模块都依赖node来管理了。另外看看Traceur compiler如何将ES6编译成ES5的代码还蛮有意思的。
+其实google的traceur就是做了一个浏览器端的polyfill library，来测试ES6的一些新特性，这个和dart有异曲同工之妙，只是dart应该要在浏览器中加入一个vm来实现这个功能。现在看来ES6胜算很大。标准的力量吧。
+http://t.cn/Rh4G5vm  go agile，go rally。看看和trello有何不同。
+没忍住在优酷付费看了绣春刀，应该是5年来最好的武侠剧了。没有之一，可惜宣传没跟上。
+哈哈
+再来一个。
+iphone的核心战斗力在我看来是ios。所以不是什么屏幕大了就能勾起我购买的欲望。今晚熬夜看apple 发布会。
+apple watch：2015年上市开卖，349刀。 Moto360：现货  249刀。
+今天vpn的速度真给力啊
+今天找时间写了点Dart代码，感觉还不错。今后google可能会将Dart VM搬到android上。这样就可以用Dart为android写程序了。
+挂着vpn整整下了一天android4.4.1的source code竟然没有同步下来。坑爹的gfw啊。
+Dart不使用匿名函数实现闭包蛮好的。
+每一位父亲都是自己孩子心目中的superhero。
+Dart语言的复杂度搞得有点高了，这tmd版本才1.6啊，不过很多feature真的很好，Future，stream，mixin等等。
+万恶的GFW，我每天一骂，连googlesource都封。
+尝试repo sync CM11.0的source。起码不用翻墙。另外一台机器继续repo sync google官方源码。
+速度啊，希望明天下午返回单位前能同步完源码。
+貌似同步完成了，9.2G，72个小时，全程vpn。
+google 搞的repo对同时管理多个git项目还是很不错的。就像android这种庞大的项目不可能放在一个git中，而分成了100多个git项目。手工管理会死人的。repo就很好的解决了这个问题。
+终于将android4.4.2源码编译完成了，其中repo同步代码耗时72个小时，同步下来9.2个G的代码，全程需要vpn，编译耗时6个小时，占用空间进70个G，编译的是aosp_arm-eng这个版本，其他版本雷同。
+苏格兰如果真的在卡梅伦在任期间独立出去，真的就成千古罪人了。
+google是看哪块不爽就自己再搞一套啊。看javascript不爽就搞Dart。看jpeg不爽就搞WebP等等....也真是可以了。
+写了一晚上MarkDown文本，对markdown对插入的图片不能指定长宽倒是挺无奈的。
+等来了，更新完睡觉。
+醉了，没办法删不常用软件，删已经icloud同步的照片。腾出6个G出来。才得以可以安装。最少需要4.6个G空间才能更新。
+2mins left
+终于更新完毕了。health那个APP的图标能再丑点吗？notification center倒是改进了很多，键盘还是用原生的吧。貌似变慢了一点。
+AppStore好像也做了小幅改动。
+imessage也可以发送语音和短视频了。
+Health那个APP的图标能再丑点吗？notification center倒是改进了很多，日历更加清新了，键盘还是用原生的吧。貌似变慢了一点。
+BaBa，BaBa，估计今晚美交所都在叫这个词。
+BABA，BABA，估计今晚纽交所都在叫这个词。
+尼玛，近期imessage垃圾信息猖獗啊，尤其是升ios8以后。@在西安
+ubuntu14.04中配置Dart开发环境中按照官方文档会出现Dartium无法启动的问题。解决方案就是将libudev.so.1做一个到libudev.so.0的软链接即可
+下载了一个img镜像，你能想象md5 check没过吗？害的我检查了半天下载的脚本程序。
+终于将cm10.2从源码编译开始，烧至到了samsung galaxy tab 10.1上，坑还是挺多的。尤其是硬件配置的makefile文件上。需要自己手工写点makefile，和配置相关的remote url。下面就可以基于10.2的源码改造rom了。
+[Mod's Insight] Understanding Android Boot Process - MIUI General - MIUI Official Community - Mobile http://t.cn/Rhl9xHF
+卧槽，简直绝了，今天物业给我打电话，说是有我一封信。里面一个居住证、两张银行卡、还有一个居住证。我想着可能是租我房子的租客的，给他打电话确认了。才知道他前几天包被偷了。估计是小偷良心发现又把证件寄回来了。哈哈@IN直播
+现在，就现在，now，我好想吃吮指原味鸡啊。
+30多年程序员生涯经验总结 | http://t.cn/RhlDSyA
+smartgit在linux上频繁崩溃啊，github也不给linux做一个官方的客户端。
+原来google为了使开发者做一个程序可以在所有主流android机器上运行，和这些厂商都签署了防税并协议——即每一个版本在发出的时候都会通过google的一个叫CTS，兼容性测试。事实上，google并不关心其他厂商的机器长什么样子。只要保持整个ecosystem保持统一就好了。
+AOSP、AOKP、CM比较起来我还是比较喜欢AOSP。对，没错，我就是喜欢100% pure的os。
+Dare you？@爱范儿
+Dare u？@爱范儿
+CM10之后就将Launcher源码改为Trebuchet了，想改launcher源码，害的我一顿好找。
+ECMAScript 6 Modules Go Beyond CommonJS and AMD  http://t.cn/Rhlf2Fs http://t.cn/Rhlf2Fs
+Dart webapp on Android。
+“the current focus for Dart is web application” 。WTF，现在赶快把Dart VM弄到android中才是王道，这样developer就能开发基于Dart的native APP了。
+为了将android的system APP(settings、browser、caculator...)编译并跑起来，坑真尼玛多，各种改配置，不过还好，最终跑起来了。
+请让我返回童年，玩一把属于我的玩具车。  我正在使用"玩具车"封面图，好漂亮，你们都快来试试！http://t.cn/8F7pEGi
+iPhone5c也是iPhone。我为iPhone5c带盐。
+用Android studio调用android SDK的hidden api简直就是噩梦，暂时回到Eclipse。
+终于把launcher编译并运行在平板上了。有些坑纪录一下。由于要访问SDK的hidden api.而在android studio中要用hidden api简直就是噩梦。回到eclipse中，最终打包时又会出现heap堆错误，将包含hidden api的jar包按照add user library的方式即可解决。
+Google Fonts http://t.cn/zTXAHry
+搜狗输入法还不错，我喜欢这种细细的按键字体，就像写代码的时候喜欢extream light一样。就是呼出速度有点延迟。@搜狗输入法
+instagram。 ^_^
+经过前面踩过的一些坑，今天花10分钟就将CM的Trebuchet Launcher移植到AOSP上了。
+其实吧，我觉得加班比上班爽。尤其是晚上一个人在办公室干着自己喜欢的活。那种感觉蛮好。
+晚上出来吃柱头面这种事情千万不能让老婆知道。
+多看上终于来了
+发现《银河护卫队》字幕是贾秀琰翻译的。我就不想看了。这姐们的上两部作品是《黑衣人3》和《环太平洋》。google机翻都比她强。怎么这么多年了还混迹在翻译界。
+没想到竟然有机会学flex&bison这么高大上的东西。
+其实我觉得现在wp除了在app数量和质量上不行，操作系统级别的已经完全可以和ios抗衡了。另外surface pro真真甩ipad几条街。
+【小测验】你能看出这是哪种语言写的程序吗？ | 外刊IT评论  答对11道。错了Go语言那道题。 http://t.cn/R7ZAaYs
+加班回来泡杯茶，看书。是种享受。
+Android L, the Nexus 6 and Nexus 9 will be presented tomorrow by Google. I'm looking forward to the offical presentation of L. The Developer Preview of the ROM looked pretty promising.
+1:nexus6 with android L，2:apple watch or next gen moto360，3:next gen Surface pro or MBA with retina display。this is what i want next。
+希望android L的最终昵称为lolipop。
+没有Stackoverflow和GitHub可怎么活啊。
+收工。
+老外真吝啬。跟他要一个30 days的free license。来测试一下。沟通了6封邮件，还在扯皮。
+Official Google Blog: Android: Be together. Not the same.  android5.0 codename“lolipop”，🍭 http://t.cn/R72YQLA
+麻痹，掉坑里面了。
+nwe nexus family
+new nexus family
+没看Gson文档中关于泛型List的json解析。害的一通调试。哎。
+Android L (Material Design) vs IOS8 – User Interface Design | Goldtree http://t.cn/R7UCvW9
+麻痹，一上午写了一个循环不到10行代码。
+本来一个条件判断就可解决的问题。妈的竟然傻逼到写算法。白白浪费了两个小时。
+尼玛，android的MotionEvent的getpressure是得到接触压力，getsize才是得到接触面积。getsize和硬件相关。有的硬件并不支持此函数。会返回0。
+smartgit在linux表现真差。各种崩。
+以为把问题解决了，发现原来有一行hardcode没注释。空欢喜一场。
+程序总算写完了，好放松。
+android如果要在背景图为图片的情况下实现clear的效果同时并不擦除原图。需要同时设置双canvas和双bitmap。在一个临时的bitmap上画图和擦除。然后完毕后铺到另外一个上即可。如果背景图时solid color正常使用即可。
+我发表了文章 http://t.cn/R7MqNbT
+google plus上大家都在秀google Inbox。
+invite request没戏了。
+当你输入一个网址，实际会发生什么? - 博客 - 伯乐在线 http://t.cn/zYOZfgO
+我最爱的人物康斯坦丁来了||我在看#地狱神探第一季#第1集http://t.cn/R7JBKM1 @腾讯视频
+google 的GSON就是一坨屎，各种bug，各种坑。
+写了一个benchmark来测试google GSON、jackson、fastjson、json-smart解析以及序列化class到json的速度，其中google GSON速度最快，其次为json-smart、fastjson，最后是jackson。
+分享图片
+搞定，收工。明天主要解决效率问题。
+卧槽，smartgit好像把我的版本库和分支代码搞乱了。大爷的。
+利用Git branch来merge别人的代码太爽了。
+HTML5终于转正了。
+用git开了4个branch，merge了四个版本，希望是final version。
+哈哈
+@张翔_Hugo 你们成都老大的书。
+今日状态不好，代码产出率极低。早点休息。
+android屏蔽下面三个虚拟键快把我整死了。google是不让屏蔽下面三个虚拟键的，虽然有接口可以短暂屏蔽，但是一旦交互，又出来了。本来想把cm10.2的framework-res编译到平板上的。难度太大。后来直接代码里面提升权限后杀system-ui进程。看起来也搞定了。唯一的前提是平板必须root。
+在有实体按键的android机器如果需要屏蔽home实体键，江湖流传的经典办法由于google在3.0之后加强了security policy已经无效了，ics和jelly bean的版本如果需要，两个办法，修改aosp中framework代码编译替换，二将程序伪装成launcher。
+收到Gmail Inbox邀请了。
+Android Studio 0.8.14新增了一个Memeyr Mointor的功能，看起来不错啊。可以实时监视调试设备的内存变化情况
+最新的android5.0repo的代码已经有r2的tag了。google还不放出固件更新。可供下载的image还停留在DP上。决定自己编译一个了。
+今日google Doodle是Veteran's day-----退伍军人日。哎。真有人文关怀啊。
+在看Material Design Guideline，想着省点劲，在GitHub上找了一个中文翻译项目。哪知道读起来比google原版的英文还难理解，算了。还是直接看英文吧。
+一个人来影院看《星际穿越》，很期待的一部科幻电影。
+看惯了3D，胶片看起来很有质感。
+《星际穿越》----太精彩，太精彩，太tmd精彩了。这才是一个科幻电影应有的样子。我给9.5分。 I'm at #耀萊成龙国际影城#
+星际穿越太精彩了。里面涉及了。虫洞，黑洞，相对论，时间倒流，五维空间等大量的物理知识。
+finally
+刷了正式版本的android5.0。真机调试程序的时候甚至比DP版本的还慢。
+从 Android 5.0 开始，Webview 将从系统中剥离，由 Google 直接负责更新。在 Play Store 中，大概有 70% 至 80% 的应用使用了 Webview（这个数据太可怕了），因此，它是系统中非常重要的部件。Webview 剥离之后，Google 想要修复安全漏洞的时候，直接推送补丁就行了，不用全面的系统更新了。
+nexus7 wifi2013 with lollipop android5.0
+编程的乐趣是什么？答：人的成就感来源于两个方面，创造和毁灭。
+对于编码界每天都会冒出新技术，我们该如何选择性的学习，胡适有句话很有道理“怕什么真理无穷，进一寸有进一寸的欢喜”。
+gmail Inbox
+aosp4.4.2还可以用JDK编译的。5.0以后必须要64位openjdk了。
+编译了google AOSP trunk中的代码，很不稳定（trunk也该是这样的）。AOSP中android的版本号已经到5.0.50.50.50了。可以下手改源码了。
+我发表了文章 http://t.cn/Rz7jdh2
+虽然买过《三体》实体书，最终还是在多看上把电子版收了。
+编译AOSP时，你说要用openjdk，写android APP时，你说openjdk编译可能效率有问题，建议JDK。google你到底要闹哪样？
+Nokia不是不再涉足移动设备了吗？怎么昨天发布了一个android平板Z1（不是微软）？看起来还很漂亮。价格也还不错。这台平板的主要战略市场放在了中国。
+I want it....
+从google android官方文档来看有一部分是在讲不同屏幕的适配。可以看出google在消除碎片化所作出的努力，只是有些开发者不太遵守。比如为了防止bitmap在不同屏幕上svale或者shrink时发生变形。google提倡使用nine-patch bitmap还特意提供了一个转换工具。另：发现国内开发者用fragment的好少啊。
+android layout简直了。
+手头上只有一台nexus7，要测试程序屏幕适配只能开虚拟机测。但是，尼玛，google做的虚拟机也太慢了。这点和ios差远了。
+android5.0以下版本的actionbar想调成和5.0同样的效果真尼玛麻烦。
+不推荐使用finish()来结束一个activity，启动一个新Activity时，可以利用openMainActivity.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT)，这样就不用再次重建UI(如果以前没有则重建如果之前只是OnStop或者OnPause则直接从后台推送到前台，不需要重建UI）加快了Activity之间的交互，提高了用户体验
+Android Studio 1.0 RC2 released。
+Android Studio升级到1.0 RC2后，会出现Gradle DSL method not found: 'runProguard()'的错误，需要将build.gradle文件中的runProguard false改为minifyEnabled false即可。具体参见 http://t.cn/zHAmZYC
+多么丑陋的一坨code。。。
+折腾了一晚上xml文件。
+傻逼Android Studio又把我的机器搞死机了。
+Apple 官网
+又开始php了。
+android在子线程不能修改ui，真蛋疼。
+new SimpleDateFormat("yyyy-MM-dd HH:mm"); 格式的大小写一定要正确，不然Android解析时间会出错
+Android中从fragment拿activity是个坑，弄之前最好看下google关于fragment的Doc。呵呵
+ADT这个玩意早tmd该停止维护了。
+代码重构就是个真实的谎言。每天下班前都给自己说，明天首先把代码重构下再开发。结果.....。所以接下来强迫自己每天下班前一小时只做重构。
+这尼玛什么情况，联机调试把google now launcher搞崩了。
+《人类灭绝》这本科幻书算是今年读的比较好看的一本书了，基本是在碎片时间读完的。
+新玩具 MacBook Air 2014 13.3inch 8g 128g i5。比我那台macbook466薄太多了。
+android在mac下利用intel-max，虚拟机速度快了好多。比linux下快了好多。终于算是有点样子了。
+用macosx10.10自带的apache之后，用sudo apachectl strat启动之后就再也停不下来了。妈的，用sudo httpd -k stop才算消停。
+macbook466 vs macbookair Early 2014
+用android发送HttpPost请求到REST API，总是返回405。弄了一个小时，发现请求的url少写了一个/。靠。
+边写代码边听电视剧，不错的感觉。
+妈的，被PHP的字符串给坑了。
+textView.setTypeface(null, Typeface.BOLD_ITALIC) does not effect sometimes, Because not all android typefaces supports ITALIC style....WTF..
+续航接近15个小时。
+Android Studio更新速度太快了，已经到1.0.2了。一星期一个版本。
+JSGirl
+Starting from Android 4.2.2, Android system itself will not support key stoke events for the soft keyboards at all.So the only foolproof option here is to implement your own IME (soft keyboard), and handle the keystrokes yourself. Disappointing that Google has missed this.[鄙视]
+Gmail彻底沦陷。全天vpn是刚需。
+由于要做推送的service，考察了几个第三方推送服务商，感觉极光推送不光是在网站还是在API的使用上都要比个推要好点。起码两个厂商的sample demo只有极光的可以正确编译并跑在android5.0.1上。个推在5.0.1上直接崩溃。
+下午下班坐地铁又是一场恶仗啊。
